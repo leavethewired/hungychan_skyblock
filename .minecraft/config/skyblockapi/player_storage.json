@@ -13768,6 +13768,7 @@
                   "id": "minecraft:diamond_pickaxe",
                   "count": 1,
                   "components": {
+                    "!minecraft:enchantments": {},
                     "minecraft:tooltip_display": {
                       "hidden_components": [
                         "minecraft:jukebox_playable",
@@ -13784,7 +13785,6 @@
                         "minecraft:dyed_color"
                       ]
                     },
-                    "minecraft:enchantment_glint_override": true,
                     "minecraft:unbreakable": {},
                     "minecraft:custom_name": {
                       "text": "",
@@ -13833,7 +13833,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "+860",
+                            "text": "+750",
                             "color": "green"
                           }
                         ],
@@ -13871,19 +13871,17 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Grants ",
+                            "text": "Increases how quickly your tool",
                             "color": "gray"
-                          },
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
                           {
-                            "text": "+110 ",
-                            "color": "green"
-                          },
-                          {
-                            "text": "⸕ Mining Speed",
-                            "color": "gold"
-                          },
-                          {
-                            "text": ".",
+                            "text": "breaks blocks.",
                             "color": "gray"
                           }
                         ],
@@ -14078,8 +14076,7 @@
                       "id": "PICKONIMBUS",
                       "timestamp": 1754057862998,
                       "uuid": "66abeda9-b979-43c9-99bf-ef651f4aab4a"
-                    },
-                    "!minecraft:enchantments": {}
+                    }
                   }
                 },
                 {
@@ -15703,7 +15700,7 @@
                 {},
                 {
                   "id": "minecraft:player_head",
-                  "count": 1,
+                  "count": 4,
                   "components": {
                     "minecraft:tooltip_display": {
                       "hidden_components": [
@@ -15831,7 +15828,7 @@
                 },
                 {
                   "id": "minecraft:player_head",
-                  "count": 1,
+                  "count": 4,
                   "components": {
                     "minecraft:tooltip_display": {
                       "hidden_components": [
@@ -15959,7 +15956,7 @@
                 },
                 {
                   "id": "minecraft:player_head",
-                  "count": 1,
+                  "count": 4,
                   "components": {
                     "minecraft:tooltip_display": {
                       "hidden_components": [
@@ -16087,7 +16084,7 @@
                 },
                 {
                   "id": "minecraft:player_head",
-                  "count": 3,
+                  "count": 4,
                   "components": {
                     "minecraft:tooltip_display": {
                       "hidden_components": [
@@ -16215,7 +16212,7 @@
                 },
                 {
                   "id": "minecraft:player_head",
-                  "count": 2,
+                  "count": 5,
                   "components": {
                     "minecraft:tooltip_display": {
                       "hidden_components": [
@@ -16341,8 +16338,296 @@
                     "!minecraft:enchantments": {}
                   }
                 },
-                {},
-                {},
+                {
+                  "id": "minecraft:player_head",
+                  "count": 1,
+                  "components": {
+                    "minecraft:tooltip_display": {
+                      "hidden_components": [
+                        "minecraft:jukebox_playable",
+                        "minecraft:painting/variant",
+                        "minecraft:map_id",
+                        "minecraft:fireworks",
+                        "minecraft:attribute_modifiers",
+                        "minecraft:unbreakable",
+                        "minecraft:written_book_content",
+                        "minecraft:banner_patterns",
+                        "minecraft:trim",
+                        "minecraft:potion_contents",
+                        "minecraft:block_entity_data",
+                        "minecraft:dyed_color"
+                      ]
+                    },
+                    "minecraft:custom_name": {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Robotron Reflector",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "A key component needed by the",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Professor to repair ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Automaton Prime",
+                            "color": "aqua"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "",
+                            "color": "aqua"
+                          },
+                          {
+                            "text": "in the ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Lost Precursor City",
+                            "color": "aqua"
+                          },
+                          {
+                            "text": "!",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Right-click to view recipes!",
+                            "color": "yellow"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "RARE",
+                            "bold": true,
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      }
+                    ],
+                    "minecraft:profile": {
+                      "id": [
+                        844142837,
+                        50281450,
+                        -2070778110,
+                        1726076965
+                      ],
+                      "properties": [
+                        {
+                          "name": "textures",
+                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMTQ4MzkxNTA2MywKICAicHJvZmlsZUlkIiA6ICI1ZWE0ODg2NTg2OWI0Y2ZhOWRjNTg5YmFlZWQwNzM5MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfUllOMF8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWNkODdjN2FmMDM5ZWY0YjJjN2EzN2U2Yjk0ZDllZWRhMjJkMmE1ZDJkZjQzODA0ZmZjYTllNDg2YTRlY2ExNSIKICAgIH0KICB9Cn0\u003d",
+                          "signature": "wEXXWSISHChpKonm8/4FaJpLdTI6YXTm6PVurhfVHssxveO/9V2YLDWQMqFQ+25Z/QLBrmHa4aE6n+8O6oE0ifmDo5HV0EZjJh24hxLRiwA172MUL4tPnRh9i+Yu5SHDOuPijLk8S4dROxbFBawIGqgjs/SDEBO6n5R+3gXf7gTvrWW4q51PRnFASSPk1YYwh1H8KRu1ArIcRuWTVJ2rRjM6E/KRsNhACGpXRF1OJl+HfpdUVzdk1RfnV6pcXu5F72x6MX8pPxryMzl2OLzXuX3G94aLG3VgDs6DCwZWUZZ8NmuElNHuj6ZDwsDPZ0+yQfdj9Aua4x9PqxV8BIurgVygnFRxt4QJ0qmt9jRcGrIBzYBePEE78UqDxUEeOyI9NBljMUDbqXc8/XE+NIbZHm5BU/RVUKyMA4GOZ4YLVbzaiFCd8udjAiIV8yi5he8H0Zqd6nAAU7SozS3fQK0YHBDLJrleDWWMgCc5A1NYGyueWUcPVSrv2+C7Y2+p3SJSgILU/Y85VNOUjkQFFHYcBdVwDw+EHXKuMro4boONiHuHpjd8vaDdjQuZh3mbmfUEQvoBM7ZVihBaOlVjmOjmA45zr0UdLOMQG1XBT/CLEZcOHULk8bm4zvyuc87roRcxM9mR5sWF5XRnNPLqYNzzUjrIZCQaryiHKSQth8LsZ9M\u003d"
+                        }
+                      ]
+                    },
+                    "minecraft:custom_data": {
+                      "id": "ROBOTRON_REFLECTOR"
+                    },
+                    "!minecraft:enchantments": {}
+                  }
+                },
+                {
+                  "id": "minecraft:player_head",
+                  "count": 2,
+                  "components": {
+                    "minecraft:tooltip_display": {
+                      "hidden_components": [
+                        "minecraft:jukebox_playable",
+                        "minecraft:painting/variant",
+                        "minecraft:map_id",
+                        "minecraft:fireworks",
+                        "minecraft:attribute_modifiers",
+                        "minecraft:unbreakable",
+                        "minecraft:written_book_content",
+                        "minecraft:banner_patterns",
+                        "minecraft:trim",
+                        "minecraft:potion_contents",
+                        "minecraft:block_entity_data",
+                        "minecraft:dyed_color"
+                      ]
+                    },
+                    "minecraft:custom_name": {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Precursor Apparatus",
+                          "color": "dark_purple"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Can be given to ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Professor Robot ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "to",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "complete the ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Sapphire Crystal Quest",
+                            "color": "aqua"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "This decaying piece of machinery",
+                            "color": "dark_gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "was once a part of a large robot",
+                            "color": "dark_gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "known as Automaton Prime. There\u0027s",
+                            "color": "dark_gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "still a lot of good stuff in here.",
+                            "color": "dark_gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "EPIC",
+                            "bold": true,
+                            "color": "dark_purple"
+                          }
+                        ],
+                        "italic": false
+                      }
+                    ],
+                    "minecraft:profile": {
+                      "id": [
+                        1031186763,
+                        2074820141,
+                        -1987225136,
+                        736002066
+                      ],
+                      "properties": [
+                        {
+                          "name": "textures",
+                          "value": "eyJ0aW1lc3RhbXAiOjE1NzI3NDE4NDc4NjcsInByb2ZpbGVJZCI6IjdkYTJhYjNhOTNjYTQ4ZWU4MzA0OGFmYzNiODBlNjhlIiwicHJvZmlsZU5hbWUiOiJHb2xkYXBmZWwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgxZTcwZDM5MzU3MDFmYTBlMTI5YmI2YWEwNjU2MTY1MzEwMTNjY2Q5YjZlMDBhY2VjNTcwYWVlYTNlZjUwNTIifX19",
+                          "signature": "ccAps5hTWVAZJfbXw3NtPv+pklgUczdsWjnnefkhAOGBKzV3SwWkxx5uYDHAr3TnQbLqurXfJqd+CqR6UwL2bSrN9ks7TjX6wCDAZMmtRUfA8oKL4Xhiu9fmRYLAP+J+hR3S8MzyT6SpgflPmE4hipGz/vSUY5iqSQk46m2Nmr4t/88PB23M0z269f7RWNt5m9rKRrw6kv04HD/lMgwWZe5Fk4SlL3iQ69C/+eOR7qqQlJAheSAZ1foJVyaHH3MHK2r9zZJ0QuWx3BS1MxxRed1llcwDuebWGmcM8+hygeM3llHJ8Pzp04OO2iDtIZBFlCS8rIW6ORAnWK05/J/0kusC72GHtRENv4kXUbcqtBlbG4sjZUu8vis6RGGL2rylBcT6wAfXhgLsnbilbB5aHOi0c6vSHt25awuMzVvAPs+XAkFMubzUHJ2Q+kW/lymcrkDuP8sjXLP2eN/VwMHQGcXb/L7JxH/Mmr5bRn6315yYUCjJ4uZBR5zank1Roso0ahy4SK81CuPHN+w0hvgV2NWfdgstFMpqZdAgkttg2CapQC1jnriSEkz1OGQCjxBKu/6LyXN9IBWp4V/TgM9YQ6e+7NRqWbSDD2TGj2FTLblOVdWkl5w2K2Ef3Cp8czwxyPIP49Ii4+Vb+nsSz1BuxB85ogxJh1LUdu0bkuyiSco\u003d"
+                        }
+                      ]
+                    },
+                    "minecraft:custom_data": {
+                      "id": "PRECURSOR_APPARATUS"
+                    },
+                    "!minecraft:enchantments": {}
+                  }
+                },
                 {},
                 {}
               ]
@@ -16446,14 +16731,14 @@
                       "potion_level": 1,
                       "potion": "combat_xp_boost",
                       "id": "POTION",
+                      "potion_type": "POTION",
                       "effects": [
                         {
                           "effect": "combat_xp_boost",
-                          "duration_ticks": 14400,
-                          "level": 1
+                          "level": 1,
+                          "duration_ticks": 14400
                         }
-                      ],
-                      "potion_type": "POTION"
+                      ]
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -16555,14 +16840,14 @@
                       "potion_level": 3,
                       "potion": "farming_xp_boost",
                       "id": "POTION",
+                      "potion_type": "POTION",
                       "effects": [
                         {
                           "effect": "farming_xp_boost",
-                          "duration_ticks": 43200,
-                          "level": 3
+                          "level": 3,
+                          "duration_ticks": 43200
                         }
-                      ],
-                      "potion_type": "POTION"
+                      ]
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -16664,14 +16949,14 @@
                       "potion_level": 3,
                       "potion": "farming_xp_boost",
                       "id": "POTION",
+                      "potion_type": "POTION",
                       "effects": [
                         {
                           "effect": "farming_xp_boost",
-                          "duration_ticks": 43200,
-                          "level": 3
+                          "level": 3,
+                          "duration_ticks": 43200
                         }
-                      ],
-                      "potion_type": "POTION"
+                      ]
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -16773,14 +17058,14 @@
                       "potion_level": 2,
                       "potion": "mining_xp_boost",
                       "id": "POTION",
+                      "potion_type": "POTION",
                       "effects": [
                         {
                           "effect": "mining_xp_boost",
-                          "duration_ticks": 28800,
-                          "level": 2
+                          "level": 2,
+                          "duration_ticks": 28800
                         }
-                      ],
-                      "potion_type": "POTION"
+                      ]
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -17526,9 +17811,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "donated_museum": 1,
-                      "id": "DOJO_BLUE_BELT",
                       "timestamp": 1753986909161,
+                      "id": "DOJO_BLUE_BELT",
+                      "donated_museum": 1,
                       "uuid": "2f354af5-19bb-4efb-af25-cf5b73e4bdb9"
                     },
                     "!minecraft:enchantments": {}

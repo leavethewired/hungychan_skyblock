@@ -45,8 +45,8 @@
               "status": "CORRECT"
             },
             "FLAWED_AMETHYST_GEM": {
-              "amount": 61,
-              "lastChange": 12,
+              "amount": 64,
+              "lastChange": 2,
               "status": "CORRECT"
             },
             "FINE_AMETHYST_GEM": {
@@ -65,8 +65,8 @@
               "status": "CORRECT"
             },
             "FLAWED_RUBY_GEM": {
-              "amount": 30,
-              "lastChange": 2,
+              "amount": 31,
+              "lastChange": 1,
               "status": "CORRECT"
             },
             "FINE_RUBY_GEM": {
@@ -125,8 +125,8 @@
               "status": "CORRECT"
             },
             "ROUGH_SAPPHIRE_GEM": {
-              "amount": 12392,
-              "lastChange": 56,
+              "amount": 12434,
+              "lastChange": 42,
               "status": "OUTDATED"
             },
             "ROUGH_JASPER_GEM": {
@@ -145,8 +145,8 @@
               "status": "OUTDATED"
             },
             "ROUGH_AMETHYST_GEM": {
-              "amount": 183,
-              "lastChange": 24,
+              "amount": 1408,
+              "lastChange": 168,
               "status": "OUTDATED"
             },
             "ROUGH_TOPAZ_GEM": {
@@ -245,12 +245,12 @@
               "status": "CORRECT"
             },
             "HARD_STONE": {
-              "amount": 6190,
-              "lastChange": 105,
+              "amount": 10010,
+              "lastChange": 1633,
               "status": "OUTDATED"
             },
             "STRING": {
-              "amount": 2,
+              "amount": 4,
               "lastChange": 2,
               "status": "OUTDATED"
             },
@@ -260,13 +260,13 @@
               "status": "OUTDATED"
             },
             "MITHRIL_ORE": {
-              "amount": 114,
-              "lastChange": 58,
+              "amount": 258,
+              "lastChange": 144,
               "status": "OUTDATED"
             },
             "ROUGH_RUBY_GEM": {
-              "amount": 272,
-              "lastChange": 15,
+              "amount": 304,
+              "lastChange": 32,
               "status": "OUTDATED"
             },
             "TREASURITE": {
@@ -282,6 +282,16 @@
             "SULPHUR": {
               "amount": 11,
               "lastChange": 11,
+              "status": "OUTDATED"
+            },
+            "COAL": {
+              "amount": 293,
+              "lastChange": 91,
+              "status": "OUTDATED"
+            },
+            "IRON_INGOT": {
+              "amount": 73,
+              "lastChange": 9,
               "status": "OUTDATED"
             }
           }
