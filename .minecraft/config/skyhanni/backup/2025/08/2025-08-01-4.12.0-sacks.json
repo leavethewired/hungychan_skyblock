@@ -180,8 +180,8 @@
               "status": "CORRECT"
             },
             "ENCHANTED_ENDER_PEARL": {
-              "amount": 2065,
-              "lastChange": 1,
+              "amount": 2105,
+              "lastChange": 3,
               "status": "CORRECT"
             },
             "ENCHANTED_EYE_OF_ENDER": {
@@ -310,8 +310,13 @@
               "status": "OUTDATED"
             },
             "ENCHANTED_ENDSTONE": {
-              "amount": 1,
+              "amount": 2,
               "lastChange": 1,
+              "status": "OUTDATED"
+            },
+            "OBSIDIAN": {
+              "amount": 11,
+              "lastChange": 11,
               "status": "OUTDATED"
             }
           }

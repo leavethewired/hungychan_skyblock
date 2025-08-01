@@ -2856,7 +2856,7 @@
       }
     },
     "slayerBossWarning": {
-      "enabled": true,
+      "enabled": false,
       "percent": 50,
       "repeat": false
     },
@@ -5229,14 +5229,14 @@
               },
               "COMBAT": {
                 "level": 28,
-                "totalXp": 5912285,
-                "currentXp": 189860,
+                "totalXp": 5928895,
+                "currentXp": 206470,
                 "currentXpMax": 1100000,
                 "overflowLevel": 28,
-                "overflowCurrentXp": 189860,
+                "overflowCurrentXp": 206470,
                 "overflowTotalXp": 0,
                 "overflowCurrentXpMax": 1100000,
-                "lastGain": "131.8",
+                "lastGain": "74.4",
                 "customGoalLevel": 0
               },
               "HUNTING": {
@@ -5464,7 +5464,7 @@
                 "END_STONE_SHULKER": 8,
                 "ENDSTONE_GEODE": 5,
                 "SHRIMP_THE_FISH": 3,
-                "ENDER_NECKLACE": 65,
+                "ENDER_NECKLACE": 66,
                 "END_LEGGINGS": 26,
                 "END_HELMET": 23,
                 "END_BOOTS": 33,
@@ -5805,26 +5805,26 @@
             "chocolateFactory": {
               "currentRabbits": 146,
               "maxRabbits": 206,
-              "currentChocolate": 1289052,
+              "currentChocolate": 1212803,
               "maxChocolate": 25000000000,
-              "chocolateThisPrestige": 1315655506,
-              "chocolateAllTime": 17537490912,
-              "rawChocPerSecond": 3697,
-              "chocolateMultiplier": 3.308,
-              "rawChocolateMultiplier": 2.7079999999999997,
+              "chocolateThisPrestige": 1371782584,
+              "chocolateAllTime": 17593617990,
+              "rawChocPerSecond": 3744,
+              "chocolateMultiplier": 3.316,
+              "rawChocolateMultiplier": 2.7159999999999997,
               "timeTowerLevel": 6,
-              "currentTimeTowerEnds": 0,
-              "nextTimeTower": 1754103820525,
-              "currentTimeTowerUses": 1,
+              "currentTimeTowerEnds": 1754082401169,
+              "nextTimeTower": 1754103820169,
+              "currentTimeTowerUses": 0,
               "timeTowerCooldown": 8,
               "maxTimeTowerUses": 3,
-              "bestUpgradeAvailableAt": 1754074557931,
-              "bestUpgradeCost": 7775752,
-              "lastDataSave": 1754074027525,
+              "bestUpgradeAvailableAt": 1754079247646,
+              "bestUpgradeCost": 6668961,
+              "lastDataSave": 1754078808169,
               "positionChange": {
-                "lastTime": 1754074004052,
-                "lastPosition": 323615,
-                "lastLeaderboard": "#323,615 §7Top §a4.06%"
+                "lastTime": 1754078800997,
+                "lastPosition": 323284,
+                "lastLeaderboard": "#323,284 §7Top §a4.06%"
               },
               "rabbitCounts": {
                 "Demetrious": 1,
@@ -6033,18 +6033,18 @@
               },
               "mealLastFound": {},
               "mealNextSpawn": {
-                "LUNCH": 1754078800000,
-                "BREAKFAST": 1754078450000,
-                "DINNER": 1754076750000,
-                "BRUNCH": 1754077250000,
-                "DEJEUNER": 1754077600000,
-                "SUPPER": 1754077950000
+                "LUNCH": 1754081200000,
+                "BREAKFAST": 1754080850000,
+                "DINNER": 1754079150000,
+                "BRUNCH": 1754079650000,
+                "DEJEUNER": 1754080000000,
+                "SUPPER": 1754080350000
               },
               "hotChocolateMixinExpiry": 0,
               "hitmanStats": {
-                "availableHitmanEggs": 0,
-                "singleSlotCooldownMark": 1754075205525,
-                "allSlotsCooldownMark": 1754081205525,
+                "availableHitmanEggs": 3,
+                "singleSlotCooldownMark": 1754080005169,
+                "allSlotsCooldownMark": 1754081205169,
                 "purchasedHitmanSlots": 6
               }
             },
@@ -6435,16 +6435,16 @@
                 "dupeChocolateGained": 17822135,
                 "strayChocolateGained": 16899489,
                 "rabbitTheFishFinds": 0,
-                "millisInCf": 193930000000,
+                "millisInCf": 207934000000,
                 "initialLeaderboardPosition": {
                   "position": 327703,
                   "percentile": 4.12
                 },
                 "finalLeaderboardPosition": {
-                  "position": 323615,
+                  "position": 323284,
                   "percentile": 4.06
                 },
-                "lastLbUpdate": 1754074004052,
+                "lastLbUpdate": 1754078800997,
                 "summarized": false,
                 "typeCountSnapshot": {
                   "uniques": 126,
@@ -7315,10 +7315,10 @@
                 "2": {
                   "id": 2,
                   "armor": [
-                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6cGxheWVyX2hlYWQiLCJkaXNwbGF5bmFtZSI6IsKnOUdyb292eSBGaWcgQ2FwIiwibmJ0dGFnIjp7IkhpZGVGbGFncyI6MjU0LCJVbmJyZWFrYWJsZSI6IjBiIiwiU2t1bGxPd25lciI6eyJJZCI6ImRjMWMwMGFkLWZjNTctM2UwMC1hNWM5LTZiZjZiMzUyZDAyNSIsIlByb3BlcnRpZXMiOnsidGV4dHVyZXMiOlt7IlZhbHVlIjoiZXdvZ0lDSjBhVzFsYzNSaGJYQWlJRG9nTVRjeE5qUXpOakV4T1RNMk1Td0tJQ0FpY0hKdlptbHNaVWxrSWlBNklDSTFPR1ptWldJNU5UTXhOR1EwT0Rjd1lUUXdZalZqWWpReVpEUmxZVFU1T0NJc0NpQWdJbkJ5YjJacGJHVk9ZVzFsSWlBNklDSlRhMmx1UkVKdVpYUWlMQW9nSUNKemFXZHVZWFIxY21WU1pYRjFhWEpsWkNJZ09pQjBjblZsTEFvZ0lDSjBaWGgwZFhKbGN5SWdPaUI3Q2lBZ0lDQWlVMHRKVGlJZ09pQjdDaUFnSUNBZ0lDSjFjbXdpSURvZ0ltaDBkSEE2THk5MFpYaDBkWEpsY3k1dGFXNWxZM0poWm5RdWJtVjBMM1JsZUhSMWNtVXZOVE14WkRObU5EUTRORGt4WVRNMVpEY3hNV0k0TnpjNU56TmxOV1JoTldRd1pUY3lZVEpsWTJaa1l6azRaR1ZrWlRjeFltWmhNV0kxTXpkaVlqUmxZaUlzQ2lBZ0lDQWdJQ0p0WlhSaFpHRjBZU0lnT2lCN0NpQWdJQ0FnSUNBZ0ltMXZaR1ZzSWlBNklDSnpiR2x0SWdvZ0lDQWdJQ0I5Q2lBZ0lDQjlDaUFnZlFwOSIsIlNpZ25hdHVyZSI6IkR6VUUrZGJRRlY5QTJRWEx0MTZDbmY5elJ5bnY4WUQ3dFZjWEgvTkUvcEtHazNKN2JMTDBLTDUyV1VaNWwyeFRSRG5YRWN6Yys4bmN5cGVjTEpQMVNOdDlYTGhaLzBLcEtBM2RrQ21zampUYThrcXpCRHMyc1dtdE0vd3IrWjlJL2pWZ3JqTm9zRnhJNjI5UlUwUVRDVExxL3NLZGZtcjAwUkdLZE9NSkZCNVF3bmpUbU5VUWNhSFF6RlRUVDg4N2lXOFJqU0NpaXA3T2VPUHRLRVRPK25NSmVDYzdxT01lcXhmWlRPWStXdS9TR1NUTXg5bHdRNjVDNXV1TFlsRDNqb2ppaFhVT3BqRTBmTmp6dzRaSDJxS0lNdGtwMEJ6YS9EOS9QQUFmaThHQUdzTzBRUTI5YjVhMUhiZnBmNVhWMmxrNDFaYms3SzRuZmF5NG9aQmhuWm5Eb1VGNGhFb2pLU205Q1JNUTBFdmFPeWZqWWQ4cyttZEdadGFFK0F5NVcvUkwwMGJTbnNaVkRKV1Nqc1lCQ043T0Y2Tkpjb3dCeEZVVmUxTEhCQmNJak1kUjluYWN6YUVJUkVWdlRVektuVE84a2hLUDRsQUZGWEU0QjBLcFhGM3FvR1lmZjlwOHlzbEVUcm9jU2F6N1JVVWxqWGx5R2E0Nk0wRTBrSGQ1eTZlN1JPaXZNQWR3dTV0ek03Mnd5SitVQ0IwVVBPYlhtaGJkaisvQS9VdUFWOVhtTVkxcFlBNFd3ZTNta0VmSVV6eGZwL1ordzU2STU2NWlIU1JKdUQzNTVDTS8wejFibnVWam9DaHhxSFM1VHdNR0RNcXl6SExYbUJhRm5mN3ZHSG13b01JVHhJYm9HeDk0aWVYMFV6c2x5aEdHNXBhNmxYOUI4SmlrOU9ZPSJ9XX0sImh5cGl4ZWxQb3B1bGF0ZWQiOiIxYiJ9LCJkaXNwbGF5Ijp7Ik5hbWUiOiLCpzlHcm9vdnkgRmlnIENhcCIsIkxvcmUiOlsiwqc3SGVhbHRoOiDCp2ErMTU1Iiwiwqc3RGVmZW5zZTogwqdhKzUwIiwiwqc3Rm9yYWdpbmcgRm9ydHVuZTogwqdhKzUyIMKnOSgrNCkgwqdiKCs4KSIsIsKnN0ZvcmFnaW5nIFdpc2RvbTogwqdhKzEgwqdiKCsxKSIsIsKnN1N3ZWVwOiDCp2ErOSDCp2IoKzMpIiwiwqc3Qm9vc3RlcnM6IMKnYsKnYuK4mcKnOC/Cp2LijovCpzgvwqdi6pWuIiwiIMKnOFvCpzjimJjCpzhdIiwiIiwiwqc5Rm9yZXN0IFBsZWRnZSBWIiwiwqc3R3JhbnRzIMKnNisxMOKYmCBGb3JhZ2luZyBGb3J0dW5lwqc3LiIsIsKnOUdyb3d0aCBWIiwiwqc3R3JhbnRzIMKnYSs3NSDCp2PinaQgSGVhbHRowqc3LiIsIsKnOVByb3RlY3Rpb24gViIsIsKnN0dyYW50cyDCp2ErMjAgwqdh4p2IIERlZmVuc2XCpzcuIiwiIiwiwqc5wqdsUkFSRSBIRUxNRVQiXX0sIkV4dHJhQXR0cmlidXRlcyI6eyJlbmNoYW50bWVudHMiOnsicHJvdGVjdGlvbiI6NSwiZm9yZXN0X3BsZWRnZSI6NSwiZ3Jvd3RoIjo1fSwiaWQiOiJGSUdfSEVMTUVUIiwidGltZXN0YW1wIjoxNzUwOTk3MDI4Mzk2LCJtb2RpZmllciI6Imdyb292eSIsInV1aWQiOiJhYmM5ZTRkZi1mMTlhLTRiNmItYmMwMi0wN2M5NDMzODU4ODEiLCJib29zdGVycyI6WyJzd2VlcCIsImZvcmFnaW5nX3dpc2RvbSIsImZvcmFnaW5nX2ZvcnR1bmUiXX0sImVuY2giOlt7fV0sIm92ZXJyaWRlTWV0YSI6IjFiIn0sImludGVybmFsbmFtZSI6Il8ifQ\u003d\u003d",
-                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6bGVhdGhlcl9jaGVzdHBsYXRlIiwiZGlzcGxheW5hbWUiOiLCpzlHcm9vdnkgRmlnbWFpbCIsIm5idHRhZyI6eyJIaWRlRmxhZ3MiOjI1NCwiVW5icmVha2FibGUiOiIxYiIsIlNrdWxsT3duZXIiOnsiSWQiOiI1MzkyNGYxYS04N2U2LTQ3MDktOGU1My1mMWM3ZDEzZGMyMzkiLCJQcm9wZXJ0aWVzIjp7InRleHR1cmVzIjpbe31dfSwiaHlwaXhlbFBvcHVsYXRlZCI6IjFiIn0sImRpc3BsYXkiOnsiTmFtZSI6IsKnOUdyb292eSBGaWdtYWlsIiwiTG9yZSI6WyLCpzdIZWFsdGg6IMKnYSsxNjAiLCLCpzdEZWZlbnNlOiDCp2ErNDUiLCLCpzdGb3JhZ2luZyBGb3J0dW5lOiDCp2ErNTIgwqc5KCs0KSDCp2IoKzgpIiwiwqc3Rm9yYWdpbmcgV2lzZG9tOiDCp2ErMSDCp2IoKzEpIiwiwqc3U3dlZXA6IMKnYSs5IMKnYigrMykiLCLCpzdCb29zdGVyczogwqdiwqdi4riZwqc4L8KnYuKOi8KnOC/Cp2Lqla4iLCIgwqc4W8KnOOKYmMKnOF0iLCIiLCLCpzlGb3Jlc3QgUGxlZGdlIFYiLCLCpzdHcmFudHMgwqc2KzEw4piYIEZvcmFnaW5nIEZvcnR1bmXCpzcuIiwiIiwiwqc5wqdsUkFSRSBDSEVTVFBMQVRFIl0sImNvbG9yIjoxODczNzUzfSwiRXh0cmFBdHRyaWJ1dGVzIjp7ImVuY2hhbnRtZW50cyI6eyJmb3Jlc3RfcGxlZGdlIjo1fSwiaWQiOiJGSUdfQ0hFU1RQTEFURSIsInRpbWVzdGFtcCI6MTc1MDk5NzAzNDUyOCwibW9kaWZpZXIiOiJncm9vdnkiLCJ1dWlkIjoiZDYwMjVmNjctNzY5MC00NDAzLTljMzktOGIwZDQxMjZmMzUyIiwiYm9vc3RlcnMiOlsic3dlZXAiLCJmb3JhZ2luZ19mb3J0dW5lIiwiZm9yYWdpbmdfd2lzZG9tIl19LCJlbmNoIjpbe31dLCJvdmVycmlkZU1ldGEiOiIxYiJ9LCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
-                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6bGVhdGhlcl9sZWdnaW5ncyIsImRpc3BsYXluYW1lIjoiwqc5R3Jvb3Z5IEZpZyBUcm91c2VycyIsIm5idHRhZyI6eyJIaWRlRmxhZ3MiOjI1NCwiVW5icmVha2FibGUiOiIxYiIsIlNrdWxsT3duZXIiOnsiSWQiOiI1MzkyNGYxYS04N2U2LTQ3MDktOGU1My1mMWM3ZDEzZGMyMzkiLCJQcm9wZXJ0aWVzIjp7InRleHR1cmVzIjpbe31dfSwiaHlwaXhlbFBvcHVsYXRlZCI6IjFiIn0sImRpc3BsYXkiOnsiTmFtZSI6IsKnOUdyb292eSBGaWcgVHJvdXNlcnMiLCJMb3JlIjpbIsKnN0hlYWx0aDogwqdhKzE0MCIsIsKnN0RlZmVuc2U6IMKnYSszNSIsIsKnN0ZvcmFnaW5nIEZvcnR1bmU6IMKnYSs1MiDCpzkoKzQpIMKnYigrOCkiLCLCpzdGb3JhZ2luZyBXaXNkb206IMKnYSsxIMKnYigrMSkiLCLCpzdTd2VlcDogwqdhKzkgwqdiKCszKSIsIsKnN0Jvb3N0ZXJzOiDCp2LCp2LiuJnCpzgvwqdi4o6Lwqc4L8KnYuqVriIsIiDCpzhbwqc44piYwqc4XSIsIiIsIsKnOUZvcmVzdCBQbGVkZ2UgViIsIsKnN0dyYW50cyDCpzYrMTDimJggRm9yYWdpbmcgRm9ydHVuZcKnNy4iLCIiLCLCpznCp2xSQVJFIExFR0dJTkdTIl0sImNvbG9yIjoxODczNzUzfSwiRXh0cmFBdHRyaWJ1dGVzIjp7ImVuY2hhbnRtZW50cyI6eyJmb3Jlc3RfcGxlZGdlIjo1fSwiaWQiOiJGSUdfTEVHR0lOR1MiLCJ0aW1lc3RhbXAiOjE3NTA5OTcwMzg1MTQsIm1vZGlmaWVyIjoiZ3Jvb3Z5IiwidXVpZCI6IjBlODViNzgyLTg2ZGEtNGFlNi1iMWU1LTQxMzE1ZmNiNGI3MSIsImJvb3N0ZXJzIjpbInN3ZWVwIiwiZm9yYWdpbmdfZm9ydHVuZSIsImZvcmFnaW5nX3dpc2RvbSJdfSwiZW5jaCI6W3t9XSwib3ZlcnJpZGVNZXRhIjoiMWIifSwiaW50ZXJuYWxuYW1lIjoiXyJ9",
-                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6bGVhdGhlcl9ib290cyIsImRpc3BsYXluYW1lIjoiwqc5R3Jvb3Z5IEZpZyBTdHJpZGVycyIsIm5idHRhZyI6eyJIaWRlRmxhZ3MiOjI1NCwiVW5icmVha2FibGUiOiIxYiIsIlNrdWxsT3duZXIiOnsiSWQiOiI1MzkyNGYxYS04N2U2LTQ3MDktOGU1My1mMWM3ZDEzZGMyMzkiLCJQcm9wZXJ0aWVzIjp7InRleHR1cmVzIjpbe31dfSwiaHlwaXhlbFBvcHVsYXRlZCI6IjFiIn0sImRpc3BsYXkiOnsiTmFtZSI6IsKnOUdyb292eSBGaWcgU3RyaWRlcnMiLCJMb3JlIjpbIsKnN0hlYWx0aDogwqdhKzE0MCIsIsKnN0RlZmVuc2U6IMKnYSs0NSIsIsKnN0ZvcmFnaW5nIEZvcnR1bmU6IMKnYSs0MiDCpzkoKzQpIMKnYigrOCkiLCLCpzdGb3JhZ2luZyBXaXNkb206IMKnYSsxIMKnYigrMSkiLCLCpzdTd2VlcDogwqdhKzkgwqdiKCszKSIsIsKnN0Jvb3N0ZXJzOiDCp2LCp2LiuJnCpzgvwqdi4o6Lwqc4L8KnYuqVriIsIiDCpzhbwqc44piYwqc4XSIsIiIsIsKnOURlcHRoIFN0cmlkZXIgSUlJIiwiwqc3UmVkdWNlcyBob3cgbXVjaCB5b3UgYXJlIHNsb3dlZCBpbiIsIsKnN3RoZSB3YXRlciBieSDCp2ExMDAlwqc3LiIsIsKnOUdyb3d0aCBWIiwiwqc3R3JhbnRzIMKnYSs3NSDCp2PinaQgSGVhbHRowqc3LiIsIsKnOVByb3RlY3Rpb24gViIsIsKnN0dyYW50cyDCp2ErMjAgwqdh4p2IIERlZmVuc2XCpzcuIiwiIiwiwqc5wqdsUkFSRSBCT09UUyJdLCJjb2xvciI6MTg3Mzc1M30sIkV4dHJhQXR0cmlidXRlcyI6eyJlbmNoYW50bWVudHMiOnsicHJvdGVjdGlvbiI6NSwiZGVwdGhfc3RyaWRlciI6MywiZ3Jvd3RoIjo1fSwiaWQiOiJGSUdfQk9PVFMiLCJ0aW1lc3RhbXAiOjE3NTA4OTc5NTU3NzQsIm1vZGlmaWVyIjoiZ3Jvb3Z5IiwidXVpZCI6IjhiNzYzYWViLWNjZDMtNDA4Yi05NzFiLTdmMjk2YzVhMjRjMiIsImJvb3N0ZXJzIjpbInN3ZWVwIiwiZm9yYWdpbmdfZm9ydHVuZSIsImZvcmFnaW5nX3dpc2RvbSJdfSwib3ZlcnJpZGVNZXRhIjoiMWIifSwiaW50ZXJuYWxuYW1lIjoiXyJ9"
+                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6cGxheWVyX2hlYWQiLCJkaXNwbGF5bmFtZSI6IsKnOUdyb292eSBGaWcgQ2FwIiwibmJ0dGFnIjp7IkhpZGVGbGFncyI6MjU0LCJVbmJyZWFrYWJsZSI6IjBiIiwiU2t1bGxPd25lciI6eyJJZCI6ImRjMWMwMGFkLWZjNTctM2UwMC1hNWM5LTZiZjZiMzUyZDAyNSIsIlByb3BlcnRpZXMiOnsidGV4dHVyZXMiOlt7IlZhbHVlIjoiZXdvZ0lDSjBhVzFsYzNSaGJYQWlJRG9nTVRjeE5qUXpOakV4T1RNMk1Td0tJQ0FpY0hKdlptbHNaVWxrSWlBNklDSTFPR1ptWldJNU5UTXhOR1EwT0Rjd1lUUXdZalZqWWpReVpEUmxZVFU1T0NJc0NpQWdJbkJ5YjJacGJHVk9ZVzFsSWlBNklDSlRhMmx1UkVKdVpYUWlMQW9nSUNKemFXZHVZWFIxY21WU1pYRjFhWEpsWkNJZ09pQjBjblZsTEFvZ0lDSjBaWGgwZFhKbGN5SWdPaUI3Q2lBZ0lDQWlVMHRKVGlJZ09pQjdDaUFnSUNBZ0lDSjFjbXdpSURvZ0ltaDBkSEE2THk5MFpYaDBkWEpsY3k1dGFXNWxZM0poWm5RdWJtVjBMM1JsZUhSMWNtVXZOVE14WkRObU5EUTRORGt4WVRNMVpEY3hNV0k0TnpjNU56TmxOV1JoTldRd1pUY3lZVEpsWTJaa1l6azRaR1ZrWlRjeFltWmhNV0kxTXpkaVlqUmxZaUlzQ2lBZ0lDQWdJQ0p0WlhSaFpHRjBZU0lnT2lCN0NpQWdJQ0FnSUNBZ0ltMXZaR1ZzSWlBNklDSnpiR2x0SWdvZ0lDQWdJQ0I5Q2lBZ0lDQjlDaUFnZlFwOSIsIlNpZ25hdHVyZSI6IkR6VUUrZGJRRlY5QTJRWEx0MTZDbmY5elJ5bnY4WUQ3dFZjWEgvTkUvcEtHazNKN2JMTDBLTDUyV1VaNWwyeFRSRG5YRWN6Yys4bmN5cGVjTEpQMVNOdDlYTGhaLzBLcEtBM2RrQ21zampUYThrcXpCRHMyc1dtdE0vd3IrWjlJL2pWZ3JqTm9zRnhJNjI5UlUwUVRDVExxL3NLZGZtcjAwUkdLZE9NSkZCNVF3bmpUbU5VUWNhSFF6RlRUVDg4N2lXOFJqU0NpaXA3T2VPUHRLRVRPK25NSmVDYzdxT01lcXhmWlRPWStXdS9TR1NUTXg5bHdRNjVDNXV1TFlsRDNqb2ppaFhVT3BqRTBmTmp6dzRaSDJxS0lNdGtwMEJ6YS9EOS9QQUFmaThHQUdzTzBRUTI5YjVhMUhiZnBmNVhWMmxrNDFaYms3SzRuZmF5NG9aQmhuWm5Eb1VGNGhFb2pLU205Q1JNUTBFdmFPeWZqWWQ4cyttZEdadGFFK0F5NVcvUkwwMGJTbnNaVkRKV1Nqc1lCQ043T0Y2Tkpjb3dCeEZVVmUxTEhCQmNJak1kUjluYWN6YUVJUkVWdlRVektuVE84a2hLUDRsQUZGWEU0QjBLcFhGM3FvR1lmZjlwOHlzbEVUcm9jU2F6N1JVVWxqWGx5R2E0Nk0wRTBrSGQ1eTZlN1JPaXZNQWR3dTV0ek03Mnd5SitVQ0IwVVBPYlhtaGJkaisvQS9VdUFWOVhtTVkxcFlBNFd3ZTNta0VmSVV6eGZwL1ordzU2STU2NWlIU1JKdUQzNTVDTS8wejFibnVWam9DaHhxSFM1VHdNR0RNcXl6SExYbUJhRm5mN3ZHSG13b01JVHhJYm9HeDk0aWVYMFV6c2x5aEdHNXBhNmxYOUI4SmlrOU9ZPSJ9XX0sImh5cGl4ZWxQb3B1bGF0ZWQiOiIxYiJ9LCJkaXNwbGF5Ijp7Ik5hbWUiOiLCpzlHcm9vdnkgRmlnIENhcCIsIkxvcmUiOlsiwqc3SGVhbHRoOiDCp2ErMTU1Iiwiwqc3RGVmZW5zZTogwqdhKzUwIiwiwqc3Rm9yYWdpbmcgRm9ydHVuZTogwqdhKzUyIMKnOSgrNCkgwqdiKCs4KSIsIsKnN0ZvcmFnaW5nIFdpc2RvbTogwqdhKzEgwqdiKCsxKSIsIsKnN1N3ZWVwOiDCp2ErOSDCp2IoKzMpIiwiwqc3Qm9vc3RlcnM6IMKnYsKnYuqVrsKnOC/Cp2LijovCpzgvwqdi4riZIiwiIMKnOFvCpzjimJjCpzhdIiwiIiwiwqc5Rm9yZXN0IFBsZWRnZSBWIiwiwqc3R3JhbnRzIMKnNisxMOKYmCBGb3JhZ2luZyBGb3J0dW5lwqc3LiIsIsKnOUdyb3d0aCBWIiwiwqc3R3JhbnRzIMKnYSs3NSDCp2PinaQgSGVhbHRowqc3LiIsIsKnOVByb3RlY3Rpb24gViIsIsKnN0dyYW50cyDCp2ErMjAgwqdh4p2IIERlZmVuc2XCpzcuIiwiIiwiwqc5wqdsUkFSRSBIRUxNRVQiXX0sIkV4dHJhQXR0cmlidXRlcyI6eyJlbmNoYW50bWVudHMiOnsicHJvdGVjdGlvbiI6NSwiZm9yZXN0X3BsZWRnZSI6NSwiZ3Jvd3RoIjo1fSwiaWQiOiJGSUdfSEVMTUVUIiwidGltZXN0YW1wIjoxNzUwOTk3MDI4Mzk2LCJtb2RpZmllciI6Imdyb292eSIsInV1aWQiOiJhYmM5ZTRkZi1mMTlhLTRiNmItYmMwMi0wN2M5NDMzODU4ODEiLCJib29zdGVycyI6WyJzd2VlcCIsImZvcmFnaW5nX3dpc2RvbSIsImZvcmFnaW5nX2ZvcnR1bmUiXX0sImVuY2giOlt7fV0sIm92ZXJyaWRlTWV0YSI6IjFiIn0sImludGVybmFsbmFtZSI6Il8ifQ\u003d\u003d",
+                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6bGVhdGhlcl9jaGVzdHBsYXRlIiwiZGlzcGxheW5hbWUiOiLCpzlHcm9vdnkgRmlnbWFpbCIsIm5idHRhZyI6eyJIaWRlRmxhZ3MiOjI1NCwiVW5icmVha2FibGUiOiIxYiIsIlNrdWxsT3duZXIiOnsiSWQiOiI1MzkyNGYxYS04N2U2LTQ3MDktOGU1My1mMWM3ZDEzZGMyMzkiLCJQcm9wZXJ0aWVzIjp7InRleHR1cmVzIjpbe31dfSwiaHlwaXhlbFBvcHVsYXRlZCI6IjFiIn0sImRpc3BsYXkiOnsiTmFtZSI6IsKnOUdyb292eSBGaWdtYWlsIiwiTG9yZSI6WyLCpzdIZWFsdGg6IMKnYSsxNjAiLCLCpzdEZWZlbnNlOiDCp2ErNDUiLCLCpzdGb3JhZ2luZyBGb3J0dW5lOiDCp2ErNTIgwqc5KCs0KSDCp2IoKzgpIiwiwqc3Rm9yYWdpbmcgV2lzZG9tOiDCp2ErMSDCp2IoKzEpIiwiwqc3U3dlZXA6IMKnYSs5IMKnYigrMykiLCLCpzdCb29zdGVyczogwqdiwqdi6pWuwqc4L8KnYuKOi8KnOC/Cp2LiuJkiLCIgwqc4W8KnOOKYmMKnOF0iLCIiLCLCpzlGb3Jlc3QgUGxlZGdlIFYiLCLCpzdHcmFudHMgwqc2KzEw4piYIEZvcmFnaW5nIEZvcnR1bmXCpzcuIiwiIiwiwqc5wqdsUkFSRSBDSEVTVFBMQVRFIl0sImNvbG9yIjoxODczNzUzfSwiRXh0cmFBdHRyaWJ1dGVzIjp7ImVuY2hhbnRtZW50cyI6eyJmb3Jlc3RfcGxlZGdlIjo1fSwiaWQiOiJGSUdfQ0hFU1RQTEFURSIsInRpbWVzdGFtcCI6MTc1MDk5NzAzNDUyOCwibW9kaWZpZXIiOiJncm9vdnkiLCJ1dWlkIjoiZDYwMjVmNjctNzY5MC00NDAzLTljMzktOGIwZDQxMjZmMzUyIiwiYm9vc3RlcnMiOlsic3dlZXAiLCJmb3JhZ2luZ19mb3J0dW5lIiwiZm9yYWdpbmdfd2lzZG9tIl19LCJlbmNoIjpbe31dLCJvdmVycmlkZU1ldGEiOiIxYiJ9LCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
+                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6bGVhdGhlcl9sZWdnaW5ncyIsImRpc3BsYXluYW1lIjoiwqc5R3Jvb3Z5IEZpZyBUcm91c2VycyIsIm5idHRhZyI6eyJIaWRlRmxhZ3MiOjI1NCwiVW5icmVha2FibGUiOiIxYiIsIlNrdWxsT3duZXIiOnsiSWQiOiI1MzkyNGYxYS04N2U2LTQ3MDktOGU1My1mMWM3ZDEzZGMyMzkiLCJQcm9wZXJ0aWVzIjp7InRleHR1cmVzIjpbe31dfSwiaHlwaXhlbFBvcHVsYXRlZCI6IjFiIn0sImRpc3BsYXkiOnsiTmFtZSI6IsKnOUdyb292eSBGaWcgVHJvdXNlcnMiLCJMb3JlIjpbIsKnN0hlYWx0aDogwqdhKzE0MCIsIsKnN0RlZmVuc2U6IMKnYSszNSIsIsKnN0ZvcmFnaW5nIEZvcnR1bmU6IMKnYSs1MiDCpzkoKzQpIMKnYigrOCkiLCLCpzdGb3JhZ2luZyBXaXNkb206IMKnYSsxIMKnYigrMSkiLCLCpzdTd2VlcDogwqdhKzkgwqdiKCszKSIsIsKnN0Jvb3N0ZXJzOiDCp2LCp2Lqla7Cpzgvwqdi4o6Lwqc4L8KnYuK4mSIsIiDCpzhbwqc44piYwqc4XSIsIiIsIsKnOUZvcmVzdCBQbGVkZ2UgViIsIsKnN0dyYW50cyDCpzYrMTDimJggRm9yYWdpbmcgRm9ydHVuZcKnNy4iLCIiLCLCpznCp2xSQVJFIExFR0dJTkdTIl0sImNvbG9yIjoxODczNzUzfSwiRXh0cmFBdHRyaWJ1dGVzIjp7ImVuY2hhbnRtZW50cyI6eyJmb3Jlc3RfcGxlZGdlIjo1fSwiaWQiOiJGSUdfTEVHR0lOR1MiLCJ0aW1lc3RhbXAiOjE3NTA5OTcwMzg1MTQsIm1vZGlmaWVyIjoiZ3Jvb3Z5IiwidXVpZCI6IjBlODViNzgyLTg2ZGEtNGFlNi1iMWU1LTQxMzE1ZmNiNGI3MSIsImJvb3N0ZXJzIjpbInN3ZWVwIiwiZm9yYWdpbmdfZm9ydHVuZSIsImZvcmFnaW5nX3dpc2RvbSJdfSwiZW5jaCI6W3t9XSwib3ZlcnJpZGVNZXRhIjoiMWIifSwiaW50ZXJuYWxuYW1lIjoiXyJ9",
+                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6bGVhdGhlcl9ib290cyIsImRpc3BsYXluYW1lIjoiwqc5R3Jvb3Z5IEZpZyBTdHJpZGVycyIsIm5idHRhZyI6eyJIaWRlRmxhZ3MiOjI1NCwiVW5icmVha2FibGUiOiIxYiIsIlNrdWxsT3duZXIiOnsiSWQiOiI1MzkyNGYxYS04N2U2LTQ3MDktOGU1My1mMWM3ZDEzZGMyMzkiLCJQcm9wZXJ0aWVzIjp7InRleHR1cmVzIjpbe31dfSwiaHlwaXhlbFBvcHVsYXRlZCI6IjFiIn0sImRpc3BsYXkiOnsiTmFtZSI6IsKnOUdyb292eSBGaWcgU3RyaWRlcnMiLCJMb3JlIjpbIsKnN0hlYWx0aDogwqdhKzE0MCIsIsKnN0RlZmVuc2U6IMKnYSs0NSIsIsKnN0ZvcmFnaW5nIEZvcnR1bmU6IMKnYSs0MiDCpzkoKzQpIMKnYigrOCkiLCLCpzdGb3JhZ2luZyBXaXNkb206IMKnYSsxIMKnYigrMSkiLCLCpzdTd2VlcDogwqdhKzkgwqdiKCszKSIsIsKnN0Jvb3N0ZXJzOiDCp2LCp2Lqla7Cpzgvwqdi4o6Lwqc4L8KnYuK4mSIsIiDCpzhbwqc44piYwqc4XSIsIiIsIsKnOURlcHRoIFN0cmlkZXIgSUlJIiwiwqc3UmVkdWNlcyBob3cgbXVjaCB5b3UgYXJlIHNsb3dlZCBpbiIsIsKnN3RoZSB3YXRlciBieSDCp2ExMDAlwqc3LiIsIsKnOUdyb3d0aCBWIiwiwqc3R3JhbnRzIMKnYSs3NSDCp2PinaQgSGVhbHRowqc3LiIsIsKnOVByb3RlY3Rpb24gViIsIsKnN0dyYW50cyDCp2ErMjAgwqdh4p2IIERlZmVuc2XCpzcuIiwiIiwiwqc5wqdsUkFSRSBCT09UUyJdLCJjb2xvciI6MTg3Mzc1M30sIkV4dHJhQXR0cmlidXRlcyI6eyJlbmNoYW50bWVudHMiOnsicHJvdGVjdGlvbiI6NSwiZGVwdGhfc3RyaWRlciI6MywiZ3Jvd3RoIjo1fSwiaWQiOiJGSUdfQk9PVFMiLCJ0aW1lc3RhbXAiOjE3NTA4OTc5NTU3NzQsIm1vZGlmaWVyIjoiZ3Jvb3Z5IiwidXVpZCI6IjhiNzYzYWViLWNjZDMtNDA4Yi05NzFiLTdmMjk2YzVhMjRjMiIsImJvb3N0ZXJzIjpbInN3ZWVwIiwiZm9yYWdpbmdfZm9ydHVuZSIsImZvcmFnaW5nX3dpc2RvbSJdfSwib3ZlcnJpZGVNZXRhIjoiMWIifSwiaW50ZXJuYWxuYW1lIjoiXyJ9"
                   ],
                   "locked": false,
                   "favorite": false
@@ -8224,14 +8224,14 @@
               "animalRarities": {}
             },
             "draconicSacrificeTracker": {
-              "itemsSacrificed": 191,
+              "itemsSacrificed": 192,
               "sacrificedItemsMap": {
                 "§5Ender Cloak": 1,
                 "§5Ender Boots": 30,
                 "§5Ender Helmet": 24,
                 "§5Ender Gauntlet": 14,
                 "§5Ender Leggings": 26,
-                "§5Ender Necklace": 60,
+                "§5Ender Necklace": 61,
                 "§5Ender Chestplate": 24,
                 "§6Protector Dragon Boots": 2,
                 "§6Unstable Dragon Boots": 5,
@@ -8241,8 +8241,8 @@
               },
               "items": {
                 "ESSENCE_DRAGON": {
-                  "timesGained": 191,
-                  "totalAmount": 783,
+                  "timesGained": 192,
+                  "totalAmount": 786,
                   "hidden": false
                 },
                 "ENCHANTED_ENDER_PEARL": {
@@ -8611,11 +8611,11 @@
               },
               "Voidgloom Seraph I": {
                 "slayerSpawnCost": 0,
-                "slayerCompletedCount": 20,
+                "slayerCompletedCount": 24,
                 "items": {
                   "NULL_SPHERE": {
-                    "timesGained": 20,
-                    "totalAmount": 51,
+                    "timesGained": 24,
+                    "totalAmount": 60,
                     "hidden": false
                   },
                   "SUMMONING_EYE": {
@@ -8629,18 +8629,18 @@
                     "hidden": false
                   },
                   "SKYBLOCK_COIN": {
-                    "timesGained": 1573,
-                    "totalAmount": 601908,
+                    "timesGained": 1670,
+                    "totalAmount": 630139,
                     "hidden": false
                   },
                   "ENDER_PEARL": {
-                    "timesGained": 1154,
-                    "totalAmount": 7884,
+                    "timesGained": 1266,
+                    "totalAmount": 8471,
                     "hidden": false
                   },
                   "ENCHANTED_ENDER_PEARL": {
-                    "timesGained": 145,
-                    "totalAmount": 382,
+                    "timesGained": 155,
+                    "totalAmount": 418,
                     "hidden": false
                   },
                   "ATTRIBUTE_SHARD_ENDER;1": {
@@ -8693,7 +8693,7 @@
             "stats": {
               "HEALTH": 1442.0,
               "DEFENSE": 275.73,
-              "STRENGTH": 241.0,
+              "STRENGTH": 239.0,
               "INTELLIGENCE": 218.0,
               "CRIT_DAMAGE": 746.0,
               "CRIT_CHANCE": 117.0,

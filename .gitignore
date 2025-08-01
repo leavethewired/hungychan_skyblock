@@ -17,3 +17,12 @@
 /.minecraft/config/skyhanni/logs
 /.minecraft/config/cookiesmod/profiles
 /.minecraft/config/skyblocker/backpack-preview
+.minecraft/config/skyblocker/item-repo/
+.minecraft/config/skyblockapi/sacks.json
+.minecraft/config/skyblockapi/slayer.json
+.minecraft/config/skyblockapi/wardrobe.json
+.minecraft/config/skyblocker/pet_cache.json
+/.minecraft/config/skyhanni/backup
+.minecraft/config/skyhanni/pets.json
+.minecraft/config/skyhanni/sacks.json
+.minecraft/config/skyhanni/storage.json
