@@ -1,0 +1,10 @@
+{
+	"type": "standard",
+	"id": "aiming",
+	"name": "Dragon Tracer",
+	"good": 5,
+	"max": 5,
+	"items": [
+		"BOW"
+	]
+}

@@ -1,0 +1,130 @@
+{
+  "players": {
+    "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
+      "profiles": {
+        "lemon": {
+          "pets": [
+            {
+              "petInternalName": "SKELETON;4",
+              "skinVariantIndex": -1,
+              "exp": 2227475.339435022,
+              "uuid": "2936f3bd-603b-4e68-923d-648d6b20de0f"
+            },
+            {
+              "petInternalName": "CHICKEN;4",
+              "skinVariantIndex": -1,
+              "exp": 1742280.8377257031,
+              "uuid": "fa89b7e4-3488-4f39-943c-a8d6580e7af0"
+            },
+            {
+              "petInternalName": "SILVERFISH;4",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+              "exp": 4243988.960900802,
+              "uuid": "8dc9e217-dd02-424a-86fe-911a39a98030"
+            },
+            {
+              "petInternalName": "GRANDMA_WOLF;4",
+              "skinVariantIndex": -1,
+              "exp": 185993.8707424258,
+              "uuid": "adb24eab-5701-421e-b64d-e43e513d06eb"
+            },
+            {
+              "petInternalName": "TARANTULA;4",
+              "skinVariantIndex": -1,
+              "exp": 150725.35061098856,
+              "uuid": "b45cf6ae-1094-4308-9067-a26f7ff7e9c7"
+            },
+            {
+              "petInternalName": "JERRY;4",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "f772aaed-efb7-43ea-8d0e-78ca5b9c6ffe"
+            },
+            {
+              "petInternalName": "REINDEER;4",
+              "skinVariantIndex": -1,
+              "exp": 57205.26507112282,
+              "uuid": "04ac85e4-aa1c-4d4c-b266-2275f5519268"
+            },
+            {
+              "petInternalName": "ZOMBIE;4",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "9153c1d3-62b2-4242-b30e-513c76460526"
+            },
+            {
+              "petInternalName": "GHOUL;3",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_SPOOKY_CUPCAKE",
+              "exp": 17366.093979999972,
+              "uuid": "45a13e3e-a4c5-43d3-b9a3-2c004fbf3aa5"
+            },
+            {
+              "petInternalName": "TARANTULA;3",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "b213a763-de5c-4a9d-aeb9-19f17fb6eb29"
+            },
+            {
+              "petInternalName": "MONKEY;2",
+              "skinVariantIndex": -1,
+              "exp": 7341869.026335301,
+              "uuid": "40ce4906-52d4-4e51-b768-6c97508e636b"
+            },
+            {
+              "petInternalName": "RABBIT;2",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "YELLOW_BANDANA",
+              "exp": 5258971.546503086,
+              "uuid": "9d0b51e3-6c5c-4fde-a3b1-2bc35c574379"
+            },
+            {
+              "petInternalName": "GUARDIAN;2",
+              "skinVariantIndex": -1,
+              "exp": 1234840.57263836,
+              "uuid": "6dfe9851-dc0b-4057-b69d-fd03182795c7"
+            },
+            {
+              "petInternalName": "FROG;2",
+              "skinVariantIndex": -1,
+              "exp": 647033.774643647,
+              "uuid": "2ecf7f29-14cd-471d-a4e0-ffa59a8d2e32"
+            },
+            {
+              "petInternalName": "HORSE;2",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "5711abfe-194b-40b4-b4fa-ababe165ae45"
+            },
+            {
+              "petInternalName": "ELEPHANT;1",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "21863656-971b-4a13-9a32-0cbab74217c1"
+            },
+            {
+              "petInternalName": "GUARDIAN;0",
+              "skinVariantIndex": -1,
+              "exp": 245265.7242000007,
+              "uuid": "a3859b81-eecb-41b7-9afe-3c08e9a3a12d"
+            },
+            {
+              "petInternalName": "GRIFFIN;0",
+              "skinVariantIndex": -1,
+              "exp": 54071.05400522156,
+              "uuid": "606f3fec-5887-4e74-ad47-d005fad0371c"
+            },
+            {
+              "petInternalName": "ROCK;2",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "03f83eb8-6d10-4d68-8de1-f7934c7b2efe"
+            }
+          ],
+          "expSharePets": []
+        }
+      }
+    }
+  }
+}

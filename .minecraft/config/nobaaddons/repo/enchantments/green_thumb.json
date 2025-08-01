@@ -1,0 +1,14 @@
+{
+	"type": "standard",
+	"id": "green_thumb",
+	"name": "Green Thumb",
+	"good": 1,
+	"max": 5,
+	"items": [
+		"NECKLACE",
+		"CLOAK",
+		"BELT",
+		"GLOVES",
+		"BRACELET"
+	]
+}

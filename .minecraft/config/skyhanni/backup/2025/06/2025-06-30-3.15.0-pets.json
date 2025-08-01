@@ -1,0 +1,38 @@
+{
+  "players": {
+    "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
+      "profiles": {
+        "lemon": {
+          "pets": [
+            {
+              "petInternalName": "GRANDMA_WOLF;2",
+              "exp": 185909.73874242578,
+              "uuid": "adb24eab-5701-421e-b64d-e43e513d06eb"
+            },
+            {
+              "petInternalName": "GUARDIAN;0",
+              "exp": 55444.63463502786,
+              "uuid": "6dfe9851-dc0b-4057-b69d-fd03182795c7"
+            },
+            {
+              "petInternalName": "ELEPHANT;1",
+              "exp": 0.0,
+              "uuid": "21863656-971b-4a13-9a32-0cbab74217c1"
+            },
+            {
+              "petInternalName": "GRIFFIN;0",
+              "exp": 3366.5338800000086,
+              "uuid": "606f3fec-5887-4e74-ad47-d005fad0371c"
+            },
+            {
+              "petInternalName": "MONKEY;2",
+              "exp": 36445.7,
+              "uuid": "40ce4906-52d4-4e51-b768-6c97508e636b"
+            }
+          ],
+          "expSharePets": []
+        }
+      }
+    }
+  }
+}

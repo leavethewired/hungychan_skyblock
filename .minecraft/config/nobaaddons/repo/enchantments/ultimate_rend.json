@@ -1,0 +1,9 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_rend",
+	"name": "Rend",
+	"max": 5,
+	"items": [
+		"BOW"
+	]
+}

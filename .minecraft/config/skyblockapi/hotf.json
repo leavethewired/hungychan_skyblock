@@ -1,0 +1,311 @@
+{
+  "@skyblockapi:version": 1,
+  "@skyblockapi:data": {
+    "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
+      "Lemon": {
+        "perks": {
+          "Monster Hunter": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Center of the Forest": {
+            "level": 3,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Tree Whisperer": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Lottery": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Foraging Madness": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Deep Waters": {
+            "level": 29,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Efficient Forager": {
+            "level": 35,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Collector": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Early Bird": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Precision Cutting": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Luck of the Forest": {
+            "level": 28,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Daily Wishes": {
+            "level": 53,
+            "unlocked": true,
+            "disabled": false
+          },
+          "250 Gifts": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Damage Boost": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Strength Boost": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Foraging Fortune": {
+            "level": 28,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Speed Boost": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Axe Toss": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Sweep": {
+            "level": 45,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Homing Axe": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Forest Strength": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Hunter\u0027s Luck": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Galatea\u0027s Might": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Essence Fortune": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Forest Speed": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Maniac Slicer": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Half Empty": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Ricochet": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Half Full": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          }
+        },
+        "tokens": 2,
+        "forest": 130000,
+        "forestTotal": 2066103
+      },
+      "Banana": {
+        "perks": {
+          "Monster Hunter": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Center of the Forest": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Tree Whisperer": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Lottery": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Foraging Madness": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Deep Waters": {
+            "level": 11,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Efficient Forager": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Collector": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Early Bird": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Precision Cutting": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Luck of the Forest": {
+            "level": 14,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Daily Wishes": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "250 Gifts": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Damage Boost": {
+            "level": 1,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Strength Boost": {
+            "level": 15,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Foraging Fortune": {
+            "level": 17,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Speed Boost": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Axe Toss": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Sweep": {
+            "level": 25,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Homing Axe": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Forest Strength": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Hunter\u0027s Luck": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Galatea\u0027s Might": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Essence Fortune": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Forest Speed": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Maniac Slicer": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Half Empty": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Ricochet": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Half Full": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          }
+        },
+        "tokens": 0,
+        "forest": 3251,
+        "forestTotal": 205670
+      }
+    }
+  }
+}

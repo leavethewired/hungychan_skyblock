@@ -1,0 +1,10 @@
+{
+	"type": "standard",
+	"id": "flame",
+	"name": "Flame",
+	"good": 2,
+	"max": 2,
+	"items": [
+		"BOW"
+	]
+}

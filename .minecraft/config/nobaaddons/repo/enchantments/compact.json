@@ -1,0 +1,22 @@
+{
+	"type": "stacking",
+	"id": "compact",
+	"name": "Compact",
+	"nbtKey": "compact_blocks",
+	"tiers": [
+		100,
+		500,
+		1500,
+		5000,
+		15000,
+		50000,
+		150000,
+		500000,
+		1000000
+	],
+	"items": [
+		"DRILL",
+		"GAUNTLET",
+		"PICKAXE"
+	]
+}

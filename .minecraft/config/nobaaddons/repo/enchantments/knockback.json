@@ -1,0 +1,12 @@
+{
+	"type": "standard",
+	"id": "knockback",
+	"name": "Knockback",
+	"good": 2,
+	"max": 2,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	]
+}

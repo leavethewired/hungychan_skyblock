@@ -1,0 +1,284 @@
+14:11:57 Trying to load config from config\skyhanni\config.json
+14:11:57 load-config-now
+14:11:57 Loaded config from file
+14:11:57 Trying to load sacks from config\skyhanni\sacks.json
+14:11:57 load-sacks-now
+14:11:57 com.google.gson.JsonSyntaxException: JSON document was not fully consumed.
+	at knot//com.google.gson.Gson.assertFullConsumption(Gson.java:1469)
+	at knot//com.google.gson.Gson.fromJson(Gson.java:1263)
+	at knot//com.google.gson.Gson.fromJson(Gson.java:1171)
+	at knot//com.google.gson.Gson.fromJson(Gson.java:1107)
+	at knot//at.hannibal2.skyhanni.config.ConfigManager.firstLoadFile(ConfigManager.kt:184)
+	at knot//at.hannibal2.skyhanni.config.ConfigManager.firstLoad(ConfigManager.kt:85)
+	at knot//at.hannibal2.skyhanni.SkyHanniMod.init(SkyHanniMod.kt:65)
+	at knot//at.hannibal2.skyhanni.SkyHanniModLoader.onInitialize(SkyHanniModLoader.kt:10)
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:399)
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startClient(Hooks.java:52)
+	at knot//net.minecraft.class_310.<init>(class_310.java:473)
+	at knot//net.minecraft.client.main.Main.main(Main.java:249)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:243)
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:278)
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+
+14:11:57 Exception while reading config\skyhanni\sacks.json. Will load blank sacks and save backup to config\skyhanni\sacks-1754046717548-backup.json
+14:11:57 Exception was com.google.gson.JsonSyntaxException: JSON document was not fully consumed.
+14:11:57 Setting sacks to be blank as it did not exist. It will be saved once something is written to it
+14:11:57 Trying to load friends from config\skyhanni\friends.json
+14:11:57 load-friends-now
+14:11:57 Loaded friends from file
+14:11:57 Trying to load known_features from config\skyhanni\known_features.json
+14:11:57 load-known_features-now
+14:11:57 Loaded known_features from file
+14:11:57 Trying to load jacob_contests from config\skyhanni\jacob_contests.json
+14:11:57 load-jacob_contests-now
+14:11:57 Loaded jacob_contests from file
+14:11:57 Trying to load visual_words from config\skyhanni\visual_words.json
+14:11:57 Setting visual_words to be blank as it did not exist. It will be saved once something is written to it
+14:11:57 Trying to load pets from config\skyhanni\pets.json
+14:11:57 load-pets-now
+14:11:57 Loaded pets from file
+14:11:57 Trying to load storage from config\skyhanni\storage.json
+14:11:57 load-storage-now
+14:11:57 Loaded storage from file
+14:11:57 Trying to load routes from config\skyhanni\routes.json
+14:11:57 load-routes-now
+14:11:57 Loaded routes from file
+14:12:57 saveConfig: auto-save-60s
+14:12:57 Saving config file
+14:12:57 Saved config file successfully
+14:12:57 saveConfig: auto-save-60s
+14:12:57 Saving config file
+14:12:57 Saved config file successfully
+14:13:03 saveConfig: Updated known feature flags
+14:13:03 Saving known_features file
+14:13:03 Saved known_features file successfully
+14:13:03 saveConfig: Updated known feature flags
+14:13:03 Saving known_features file
+14:13:03 Saved known_features file successfully
+14:13:22 saveConfig: saving-data
+14:13:22 Saving pets file
+14:13:22 Saved pets file successfully
+14:13:22 saveConfig: saving-data
+14:13:22 Saving pets file
+14:13:22 Saved pets file successfully
+14:13:52 saveConfig: saving-data
+14:13:52 Saving pets file
+14:13:52 Saved pets file successfully
+14:13:52 saveConfig: saving-data
+14:13:52 Saving pets file
+14:13:52 Saved pets file successfully
+14:13:57 saveConfig: auto-save-60s
+14:13:57 Saving config file
+14:13:57 Saved config file successfully
+14:13:57 saveConfig: auto-save-60s
+14:13:57 Saving config file
+14:13:57 Saved config file successfully
+14:14:57 saveConfig: auto-save-60s
+14:14:57 Saving config file
+14:14:57 Saved config file successfully
+14:14:57 saveConfig: auto-save-60s
+14:14:57 Saving config file
+14:14:57 Saved config file successfully
+14:15:57 saveConfig: auto-save-60s
+14:15:57 Saving config file
+14:15:57 Saved config file successfully
+14:15:57 saveConfig: auto-save-60s
+14:15:57 Saving config file
+14:15:57 Saved config file successfully
+14:16:28 saveConfig: saving-data
+14:16:28 Saving pets file
+14:16:28 Saved pets file successfully
+14:16:28 saveConfig: saving-data
+14:16:28 Saving pets file
+14:16:28 Saved pets file successfully
+14:16:57 saveConfig: auto-save-60s
+14:16:57 Saving config file
+14:16:57 Saved config file successfully
+14:16:57 saveConfig: auto-save-60s
+14:16:57 Saving config file
+14:16:57 Saved config file successfully
+14:17:57 saveConfig: auto-save-60s
+14:17:57 Saving config file
+14:17:57 Saved config file successfully
+14:17:57 saveConfig: auto-save-60s
+14:17:57 Saving config file
+14:17:57 Saved config file successfully
+14:18:57 saveConfig: auto-save-60s
+14:18:57 Saving config file
+14:18:57 Saved config file successfully
+14:18:57 saveConfig: auto-save-60s
+14:18:57 Saving config file
+14:18:57 Saved config file successfully
+14:19:57 saveConfig: auto-save-60s
+14:19:57 Saving config file
+14:19:57 Saved config file successfully
+14:19:57 saveConfig: auto-save-60s
+14:19:57 Saving config file
+14:19:57 Saved config file successfully
+14:20:57 saveConfig: auto-save-60s
+14:20:57 Saving config file
+14:20:57 Saved config file successfully
+14:20:57 saveConfig: auto-save-60s
+14:20:57 Saving config file
+14:20:57 Saved config file successfully
+14:21:57 saveConfig: auto-save-60s
+14:21:57 Saving config file
+14:21:57 Saved config file successfully
+14:21:57 saveConfig: auto-save-60s
+14:21:57 Saving config file
+14:21:57 Saved config file successfully
+14:21:58 saveConfig: saving-data
+14:21:58 Saving pets file
+14:21:58 Saved pets file successfully
+14:21:58 saveConfig: saving-data
+14:21:58 Saving pets file
+14:21:58 Saved pets file successfully
+14:22:29 saveConfig: saving-data
+14:22:29 Saving pets file
+14:22:29 Saved pets file successfully
+14:22:29 saveConfig: saving-data
+14:22:29 Saving pets file
+14:22:29 Saved pets file successfully
+14:22:43 saveConfig: saving-data
+14:22:43 Saving sacks file
+14:22:43 Saved sacks file successfully
+14:22:43 saveConfig: saving-data
+14:22:43 Saving sacks file
+14:22:43 Saved sacks file successfully
+14:22:57 saveConfig: auto-save-60s
+14:22:57 Saving config file
+14:22:57 Saved config file successfully
+14:22:57 saveConfig: auto-save-60s
+14:22:57 Saving config file
+14:22:57 Saved config file successfully
+14:23:00 saveConfig: saving-data
+14:23:00 Saving pets file
+14:23:00 Saved pets file successfully
+14:23:00 saveConfig: saving-data
+14:23:00 Saving pets file
+14:23:00 Saved pets file successfully
+14:23:23 saveConfig: saving-data
+14:23:23 Saving sacks file
+14:23:23 Saved sacks file successfully
+14:23:23 saveConfig: saving-data
+14:23:23 Saving sacks file
+14:23:23 Saved sacks file successfully
+14:23:53 saveConfig: saving-data
+14:23:53 Saving sacks file
+14:23:53 Saved sacks file successfully
+14:23:53 saveConfig: saving-data
+14:23:53 Saving sacks file
+14:23:53 Saved sacks file successfully
+14:23:57 saveConfig: auto-save-60s
+14:23:57 Saving config file
+14:23:57 Saved config file successfully
+14:23:57 saveConfig: auto-save-60s
+14:23:57 Saving config file
+14:23:57 Saved config file successfully
+14:24:13 saveConfig: saving-data
+14:24:13 Saving sacks file
+14:24:13 Saved sacks file successfully
+14:24:13 saveConfig: saving-data
+14:24:13 Saving sacks file
+14:24:13 Saved sacks file successfully
+14:24:26 saveConfig: saving-data
+14:24:26 Saving sacks file
+14:24:26 Saved sacks file successfully
+14:24:26 saveConfig: saving-data
+14:24:26 Saving sacks file
+14:24:26 Saved sacks file successfully
+14:24:36 saveConfig: saving-data
+14:24:36 Saving sacks file
+14:24:36 Saved sacks file successfully
+14:24:36 saveConfig: saving-data
+14:24:36 Saving sacks file
+14:24:36 Saved sacks file successfully
+14:24:57 saveConfig: auto-save-60s
+14:24:57 Saving config file
+14:24:57 Saved config file successfully
+14:24:57 saveConfig: auto-save-60s
+14:24:57 Saving config file
+14:24:57 Saved config file successfully
+14:25:02 saveConfig: saving-data
+14:25:02 Saving sacks file
+14:25:02 Saved sacks file successfully
+14:25:02 saveConfig: saving-data
+14:25:02 Saving sacks file
+14:25:02 Saved sacks file successfully
+14:25:09 saveConfig: saving-data
+14:25:09 Saving sacks file
+14:25:09 Saved sacks file successfully
+14:25:09 saveConfig: saving-data
+14:25:09 Saving sacks file
+14:25:09 Saved sacks file successfully
+14:25:24 saveConfig: saving-data
+14:25:24 Saving sacks file
+14:25:24 Saved sacks file successfully
+14:25:24 saveConfig: saving-data
+14:25:24 Saving sacks file
+14:25:24 Saved sacks file successfully
+14:25:36 saveConfig: saving-data
+14:25:36 Saving sacks file
+14:25:36 Saved sacks file successfully
+14:25:36 saveConfig: saving-data
+14:25:36 Saving sacks file
+14:25:36 Saved sacks file successfully
+14:25:46 saveConfig: saving-data
+14:25:46 Saving sacks file
+14:25:46 Saved sacks file successfully
+14:25:46 saveConfig: saving-data
+14:25:46 Saving sacks file
+14:25:46 Saved sacks file successfully
+14:25:57 saveConfig: auto-save-60s
+14:25:57 Saving config file
+14:25:57 Saved config file successfully
+14:25:57 saveConfig: auto-save-60s
+14:25:57 Saving config file
+14:25:57 Saved config file successfully
+14:26:01 saveConfig: saving-data
+14:26:01 Saving sacks file
+14:26:01 Saved sacks file successfully
+14:26:01 saveConfig: saving-data
+14:26:01 Saving sacks file
+14:26:01 Saved sacks file successfully
+14:26:15 saveConfig: saving-data
+14:26:15 Saving sacks file
+14:26:15 Saved sacks file successfully
+14:26:15 saveConfig: saving-data
+14:26:15 Saving sacks file
+14:26:15 Saved sacks file successfully
+14:26:20 saveConfig: saving-data
+14:26:20 Saving pets file
+14:26:20 Saved pets file successfully
+14:26:20 saveConfig: saving-data
+14:26:20 Saving pets file
+14:26:20 Saved pets file successfully
+14:26:49 saveConfig: saving-data
+14:26:49 Saving sacks file
+14:26:49 Saved sacks file successfully
+14:26:49 saveConfig: saving-data
+14:26:49 Saving sacks file
+14:26:49 Saved sacks file successfully
+14:26:51 saveConfig: saving-data
+14:26:51 Saving pets file
+14:26:51 Saved pets file successfully
+14:26:51 saveConfig: saving-data
+14:26:51 Saving pets file
+14:26:51 Saved pets file successfully
+14:26:57 saveConfig: auto-save-60s
+14:26:57 Saving config file
+14:26:57 Saved config file successfully
+14:26:57 saveConfig: auto-save-60s
+14:26:57 Saving config file
+14:26:57 Saved config file successfully
+14:27:42 saveConfig: shutdown-hook
+14:27:42 Saving config file
+14:27:42 Saved config file successfully
+14:27:42 saveConfig: shutdown-hook
+14:27:42 Saving config file

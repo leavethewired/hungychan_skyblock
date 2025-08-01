@@ -1,0 +1,1 @@
+{"HPLUS":"ITEMS MISC","model":{"on_false":{"model":"block/coal_block","type":"model"},"on_true":{"model":"hplus:skyblock/items/misc/bingo_display","type":"model"},"predicate":"custom_data","property":"component","type":"condition","value":{"id":"BINGO_DISPLAY"}}}

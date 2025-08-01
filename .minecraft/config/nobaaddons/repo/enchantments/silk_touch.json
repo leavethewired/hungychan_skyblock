@@ -1,0 +1,20 @@
+{
+	"type": "standard",
+	"id": "silk_touch",
+	"name": "Silk Touch",
+	"good": 1,
+	"max": 1,
+	"items": [
+		"DRILL",
+		"GAUNTLET",
+		"PICKAXE",
+		"HOE",
+		"AXE",
+		"SHOVEL",
+		"SHEARS"
+	],
+	"conflicts": [
+		"fortune",
+		"smelting_touch"
+	]
+}

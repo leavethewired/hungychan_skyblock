@@ -1,0 +1,13 @@
+{
+	"type": "standard",
+	"id": "divine_gift",
+	"name": "Divine Gift",
+	"good": 3,
+	"max": 3,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"BOW",
+		"GAUNTLET"
+	]
+}

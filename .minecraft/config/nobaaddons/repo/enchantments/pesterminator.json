@@ -1,0 +1,13 @@
+{
+	"type": "standard",
+	"id": "pesterminator",
+	"name": "Pesterminator",
+	"good": 1,
+	"max": 6,
+	"items": [
+		"HELMET",
+		"CHESTPLATE",
+		"LEGGINGS",
+		"BOOTS"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"type": "standard",
+	"id": "bane_of_arthropods",
+	"name": "Bane of Arthropods",
+	"good": 5,
+	"max": 7,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	]
+}

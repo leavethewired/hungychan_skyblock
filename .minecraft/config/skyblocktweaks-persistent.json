@@ -1,0 +1,59 @@
+{
+	"profiles": {
+		"62b760d8-92b6-4501-ada0-1fd8583f5266": {
+			"skillLevels": {
+				"COMBAT": 27,
+				"MINING": 26,
+				"FARMING": 26,
+				"FORAGING": 37,
+				"FISHING": 19,
+				"ENCHANTING": 30,
+				"ALCHEMY": 13,
+				"TAMING": 33,
+				"CARPENTRY": 22,
+				"RUNECRAFTING": 18,
+				"SOCIAL": 3,
+				"HUNTING": 22
+			},
+			"skillWisdom": {
+				"COMBAT": 69,
+				"MINING": 45,
+				"FARMING": 45,
+				"FORAGING": 57,
+				"FISHING": 45,
+				"ENCHANTING": 45,
+				"ALCHEMY": 45,
+				"TAMING": 25,
+				"CARPENTRY": 25,
+				"RUNECRAFTING": 25,
+				"SOCIAL": 25,
+				"HUNTING": 25
+			},
+			"lastGaveFetchurItem": 1752989307313
+		},
+		"05bfe89b-6320-466e-88f1-df5de2dd5e42": {
+			"skillLevels": {
+				"COMBAT": 23,
+				"MINING": 24,
+				"FARMING": 24,
+				"FORAGING": 22,
+				"FISHING": 15,
+				"ENCHANTING": 23,
+				"ALCHEMY": 4,
+				"TAMING": 25,
+				"CARPENTRY": 19,
+				"RUNECRAFTING": 10,
+				"SOCIAL": 3,
+				"HUNTING": 15
+			},
+			"skillWisdom": {
+				"COMBAT": 6,
+				"MINING": 6,
+				"FORAGING": 2,
+				"FISHING": 1,
+				"HUNTING": 2
+			},
+			"lastGaveFetchurItem": 1751910388396
+		}
+	}
+}

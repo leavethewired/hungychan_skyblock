@@ -1,0 +1,14 @@
+{
+	"type": "standard",
+	"id": "prosperity",
+	"name": "Prosperity",
+	"good": 1,
+	"max": 5,
+	"items": [
+		"NECKLACE",
+		"CLOAK",
+		"BELT",
+		"GLOVES",
+		"BRACELET"
+	]
+}

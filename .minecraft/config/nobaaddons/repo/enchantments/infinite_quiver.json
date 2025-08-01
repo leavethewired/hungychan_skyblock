@@ -1,0 +1,10 @@
+{
+	"type": "standard",
+	"id": "infinite_quiver",
+	"name": "Infinite Quiver",
+	"good": 5,
+	"max": 10,
+	"items": [
+		"BOW"
+	]
+}

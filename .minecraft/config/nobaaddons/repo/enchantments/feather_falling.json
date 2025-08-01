@@ -1,0 +1,10 @@
+{
+	"type": "standard",
+	"id": "feather_falling",
+	"name": "Feather Falling",
+	"good": 5,
+	"max": 10,
+	"items": [
+		"BOOTS"
+	]
+}

@@ -1,0 +1,187 @@
+[
+	{
+		"id": "arachno",
+		"name": "Arachno",
+		"abbreviation": "AR"
+	},
+	{
+		"id": "arachno_resistance",
+		"name": "Arachno Resistance",
+		"abbreviation": "AR"
+	},
+	{
+		"id": "attack_speed",
+		"name": "Attack Speed",
+		"abbreviation": "AS"
+	},
+	{
+		"id": "blazing",
+		"name": "Blazing",
+		"abbreviation": "BL"
+	},
+	{
+		"id": "blazing_fortune",
+		"name": "Blazing Fortune",
+		"abbreviation": "BF"
+	},
+	{
+		"id": "blazing_resistance",
+		"name": "Blazing Resistance",
+		"abbreviation": "BR"
+	},
+	{
+		"id": "breeze",
+		"name": "Breeze",
+		"abbreviation": "BR"
+	},
+	{
+		"id": "combo",
+		"name": "Combo",
+		"abbreviation": "CO"
+	},
+	{
+		"id": "deadeye",
+		"name": "Deadeye",
+		"abbreviation": "DE"
+	},
+	{
+		"id": "dominance",
+		"name": "Dominance",
+		"abbreviation": "DO"
+	},
+	{
+		"id": "double_hook",
+		"name": "Double Hook",
+		"abbreviation": "DH"
+	},
+	{
+		"id": "elite",
+		"name": "Elite",
+		"abbreviation": "EL"
+	},
+	{
+		"id": "ender",
+		"name": "Ender",
+		"abbreviation": "EN"
+	},
+	{
+		"id": "ender_resistance",
+		"name": "Ender Resistance",
+		"abbreviation": "ER"
+	},
+	{
+		"id": "experience",
+		"name": "Experience",
+		"abbreviation": "EX"
+	},
+	{
+		"id": "fisherman",
+		"name": "Fisherman",
+		"abbreviation": "FI"
+	},
+	{
+		"id": "fishing_experience",
+		"name": "Fishing Experience",
+		"abbreviation": "FE"
+	},
+	{
+		"id": "fishing_speed",
+		"name": "Fishing Speed",
+		"abbreviation": "FS"
+	},
+	{
+		"id": "fortitude",
+		"name": "Fortitude",
+		"abbreviation": "FO"
+	},
+	{
+		"id": "hunter",
+		"name": "Hunter",
+		"abbreviation": "HU"
+	},
+	{
+		"id": "ignition",
+		"name": "Ignition",
+		"abbreviation": "IG"
+	},
+	{
+		"id": "infection",
+		"name": "Infection",
+		"abbreviation": "IN"
+	},
+	{
+		"id": "life_recovery",
+		"name": "Life Recovery",
+		"abbreviation": "LR"
+	},
+	{
+		"id": "life_regeneration",
+		"name": "Life Regeneration",
+		"abbreviation": "LR"
+	},
+	{
+		"id": "lifeline",
+		"name": "Lifeline",
+		"abbreviation": "LL"
+	},
+	{
+		"id": "magic_find",
+		"name": "Magic Find",
+		"abbreviation": "MF"
+	},
+	{
+		"id": "mana_pool",
+		"name": "Mana Pool",
+		"abbreviation": "MP"
+	},
+	{
+		"id": "mana_regeneration",
+		"name": "Mana Regeneration",
+		"abbreviation": "MR"
+	},
+	{
+		"id": "mana_steal",
+		"name": "Mana Steal",
+		"abbreviation": "MS"
+	},
+	{
+		"id": "midas_touch",
+		"name": "Midas Touch",
+		"abbreviation": "MT"
+	},
+	{
+		"id": "speed",
+		"name": "Speed",
+		"abbreviation": "SP"
+	},
+	{
+		"id": "trophy_hunter",
+		"name": "Trophy Hunter",
+		"abbreviation": "TH"
+	},
+	{
+		"id": "undead",
+		"name": "Undead",
+		"abbreviation": "UN"
+	},
+	{
+		"id": "undead_resistance",
+		"name": "Undead Resistance",
+		"abbreviation": "UR"
+	},
+	{
+		"id": "veteran",
+		"name": "Veteran",
+		"abbreviation": "VE"
+	},
+	{
+		"id": "mending",
+		"name": "Vitality",
+		"abbreviation": "VI"
+	},
+	{
+		"id": "warrior",
+		"name": "Warrior",
+		"abbreviation": "WA"
+	}
+]

@@ -1,0 +1,19 @@
+{
+	"type": "standard",
+	"id": "great_spook",
+	"name": "Great Spook",
+	"good": 1,
+	"max": 1,
+	"items": [
+		"HELMET",
+		"CHESTPLATE",
+		"LEGGINGS",
+		"BOOTS"
+	],
+	"exclusiveToItems": [
+		"GREAT_SPOOK_HELMET",
+		"GREAT_SPOOK_CHESTPLATE",
+		"GREAT_SPOOK_LEGGINGS",
+		"GREAT_SPOOK_BOOTS"
+	]
+}

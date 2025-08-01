@@ -1,0 +1,36 @@
+{
+    "catchTimer": {
+        "color": 16777215,
+        "position": {
+            "scale": 2.0,
+            "x": 0.48,
+            "y": 0.55
+        },
+        "textShadow": true
+    },
+    "configVersion": 1,
+    "itemPickupLog": {
+        "color": 16777215,
+        "position": {
+            "scale": 1.0,
+            "x": 0.0,
+            "y": 0.0
+        },
+        "textShadow": true
+    },
+    "legionCounter": {
+        "scale": 1.0,
+        "x": 0.933,
+        "y": 0.15,
+        "textShadow": false
+    },
+    "minibossTimers": {
+        "color": 16777215,
+        "position": {
+            "scale": 1.0,
+            "x": 0.0,
+            "y": 0.0
+        },
+        "textShadow": true
+    }
+}

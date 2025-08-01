@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 55,
+    "supported_formats": {"min_inclusive": 55, "max_inclusive": 55},
+    "description": [
+      {"text":"  H","color":"#FFFDE0","bold":true},
+      {"text":"yp","color":"#FDF55F","bold":true},
+      {"text":"ix","color":"#FAD64A","bold":true},
+      {"text":"el","color":"#DC9613","bold":true},
+      {"text":"+ ","color":"#B26411","bold":true},
+      {"text":"0.22.1 ","color":"dark_green","bold":false},
+      {"text":"for 1.21.5\n","color":"gray","bold":false},
+      {"text":"v1    ","color":"dark_gray","bold":false},
+      {"text":"Created by ic22487","color":"dark_gray","bold":false}]
+  }
+}

@@ -1,0 +1,16 @@
+{
+	"type": "standard",
+	"id": "life_steal",
+	"name": "Life Steal",
+	"good": 3,
+	"max": 5,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	],
+	"conflicts": [
+		"mana_steal",
+		"syphon"
+	]
+}

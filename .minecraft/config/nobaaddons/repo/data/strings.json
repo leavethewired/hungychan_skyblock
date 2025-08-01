@@ -1,0 +1,31 @@
+{
+	"attribute_menu.container": "Attribute Menu",
+	"attribute_menu.left_click": "Left-Click to open!",
+
+	"chat.conversation_expired": "The conversation you were in expired and you have been moved back to the ALL channel.",
+	"chat.not_in_party": "You are not in a party and were moved to the ALL channel.",
+
+	"crimson_isle.vanquisher_spawn": "A Vanquisher is spawning nearby!",
+
+	"filter.tips.already_tipped_all": "You already tipped everyone that has boosters active, so there isn't anybody to be tipped right now!",
+	"filter.tips.cooldown": "Slow down! You can only use /tip every few seconds.",
+	"filter.tips.no_boosters": "No one has a network booster active right now, Try again later.",
+	"filter.tips.not_online": "That player is not online, try another user!",
+	"filter.tips.received_prefix": "You were tipped",
+	"filter.tips.sent_prefix": "You tipped",
+
+	"mayor.election_end": "The election room is now closed. Clerk Seraphine is doing a final count of the votes...",
+
+	"mythological.defeat_mobs": "Defeat all the burrow defenders in order to dig it!",
+
+	"party.invite_other.blocked": "You cannot invite that player since they have blocked you.",
+	"party.invite_other.generic_unallowed": "You cannot invite that player.",
+	"party.invite_other.not_found": "Couldn't find a player with that name!",
+	"party.invite_other.offline": "You cannot invite that player since they're not online.",
+
+	"slayer.quest_cancel": "Your Slayer Quest has been cancelled!",
+
+	"slot_info.desk_sprayed_with_prefix": "Sprayed with",
+
+	"storage.container": "Storage"
+}

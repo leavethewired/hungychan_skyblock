@@ -1,0 +1,10 @@
+{
+	"type": "standard",
+	"id": "punch",
+	"name": "Punch",
+	"good": 2,
+	"max": 2,
+	"items": [
+		"BOW"
+	]
+}

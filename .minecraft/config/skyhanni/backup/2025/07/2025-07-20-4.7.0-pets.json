@@ -1,0 +1,173 @@
+{
+  "players": {
+    "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
+      "profiles": {
+        "lemon": {
+          "pets": [
+            {
+              "petInternalName": "GRANDMA_WOLF;4",
+              "skinVariantIndex": -1,
+              "exp": 185993.8707424258,
+              "uuid": "adb24eab-5701-421e-b64d-e43e513d06eb"
+            },
+            {
+              "petInternalName": "SKELETON;4",
+              "skinVariantIndex": -1,
+              "exp": 2177657.3,
+              "uuid": "2936f3bd-603b-4e68-923d-648d6b20de0f"
+            },
+            {
+              "petInternalName": "TARANTULA;4",
+              "skinVariantIndex": -1,
+              "exp": 150725.35061098856,
+              "uuid": "b45cf6ae-1094-4308-9067-a26f7ff7e9c7"
+            },
+            {
+              "petInternalName": "JERRY;4",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "f772aaed-efb7-43ea-8d0e-78ca5b9c6ffe"
+            },
+            {
+              "petInternalName": "CHICKEN;4",
+              "skinVariantIndex": -1,
+              "exp": 1547591.7863297851,
+              "uuid": "fa89b7e4-3488-4f39-943c-a8d6580e7af0"
+            },
+            {
+              "petInternalName": "ZOMBIE;4",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "9153c1d3-62b2-4242-b30e-513c76460526"
+            },
+            {
+              "petInternalName": "GRIFFIN;0",
+              "skinVariantIndex": -1,
+              "exp": 54071.05400522156,
+              "uuid": "606f3fec-5887-4e74-ad47-d005fad0371c"
+            },
+            {
+              "petInternalName": "GHOUL;3",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_SPOOKY_CUPCAKE",
+              "exp": 17366.093979999972,
+              "uuid": "45a13e3e-a4c5-43d3-b9a3-2c004fbf3aa5"
+            },
+            {
+              "petInternalName": "RABBIT;2",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "YELLOW_BANDANA",
+              "exp": 5258971.546503086,
+              "uuid": "9d0b51e3-6c5c-4fde-a3b1-2bc35c574379"
+            },
+            {
+              "petInternalName": "MONKEY;2",
+              "skinVariantIndex": -1,
+              "exp": 6203360.0,
+              "uuid": "40ce4906-52d4-4e51-b768-6c97508e636b"
+            },
+            {
+              "petInternalName": "ELEPHANT;1",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "21863656-971b-4a13-9a32-0cbab74217c1"
+            },
+            {
+              "petInternalName": "ROCK;0",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "6d7406f5-fd5d-4ca6-8271-10ff1fb8fe14"
+            },
+            {
+              "petInternalName": "FROG;2",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "2ecf7f29-14cd-471d-a4e0-ffa59a8d2e32"
+            },
+            {
+              "petInternalName": "ROCK;1",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "c0694e04-5c7c-4843-b7c3-877f03333a7f"
+            },
+            {
+              "petInternalName": "GUARDIAN;0",
+              "skinVariantIndex": -1,
+              "exp": 245265.7242000007,
+              "uuid": "a3859b81-eecb-41b7-9afe-3c08e9a3a12d"
+            },
+            {
+              "petInternalName": "TARANTULA;3",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "b213a763-de5c-4a9d-aeb9-19f17fb6eb29"
+            },
+            {
+              "petInternalName": "GUARDIAN;2",
+              "skinVariantIndex": -1,
+              "exp": 192154.63463502785,
+              "uuid": "6dfe9851-dc0b-4057-b69d-fd03182795c7"
+            },
+            {
+              "petInternalName": "SILVERFISH;4",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+              "exp": 615112.4404740008,
+              "uuid": "8dc9e217-dd02-424a-86fe-911a39a98030"
+            }
+          ],
+          "expSharePets": []
+        },
+        "banana": {
+          "pets": [
+            {
+              "petInternalName": "GRANDMA_WOLF;4",
+              "exp": 717.6624,
+              "uuid": "8efcd199-cba3-40da-9ff1-8810f986a15b"
+            },
+            {
+              "petInternalName": "AMMONITE;4",
+              "exp": 0.0
+            },
+            {
+              "petInternalName": "BINGO;0",
+              "heldItemInternalName": "PET_ITEM_TITANIUM_MINECART",
+              "exp": 1.1798353364505263E7,
+              "uuid": "50c45c91-578b-4aca-88ff-1b7cea18004d"
+            },
+            {
+              "petInternalName": "ROCK;2",
+              "exp": 0.0,
+              "uuid": "824458c5-9793-42e2-843c-223d942a20c9"
+            },
+            {
+              "petInternalName": "DOLPHIN;1",
+              "exp": 1480081.1539975903,
+              "uuid": "27dc88e2-116e-4b5d-8fdd-521f9f302654"
+            },
+            {
+              "petInternalName": "FROG;0",
+              "exp": 1095601.0141873609,
+              "uuid": "c04ae10f-6452-4848-87f0-abbb06f6fa35"
+            },
+            {
+              "petInternalName": "FROG;1",
+              "heldItemInternalName": "FROG;1",
+              "exp": 1614783.8,
+              "uuid": "85f36c38-a939-4f23-804f-5a27cc2d5e08"
+            }
+          ],
+          "expSharePets": [
+            "50c45c91-578b-4aca-88ff-1b7cea18004d",
+            "8efcd199-cba3-40da-9ff1-8810f986a15b",
+            null
+          ]
+        },
+        "orange": {
+          "pets": [],
+          "expSharePets": []
+        }
+      }
+    }
+  }
+}

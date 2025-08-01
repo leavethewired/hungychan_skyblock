@@ -1,0 +1,48 @@
+{
+  "categoryClasses" : {
+    "voice" : 0,
+    "music" : 3,
+    "hostile" : 5,
+    "record" : 3,
+    "weather" : 1,
+    "neutral" : 2,
+    "block" : 6,
+    "ambient" : 1,
+    "master" : 0,
+    "player" : 6
+  },
+  "maxPercentPerCategory" : {
+    "voice" : 1.0,
+    "music" : 0.69455874,
+    "hostile" : 0.9,
+    "record" : 0.7,
+    "weather" : 0.5,
+    "neutral" : 0.6,
+    "block" : 0.8,
+    "ambient" : 0.5,
+    "master" : 1.0,
+    "player" : 0.95
+  },
+  "instantCategories" : [ "music", "master" ],
+  "soundVolumes" : {
+    "minecraft:block.note_block.pling" : 0.40297213,
+    "minecraft:entity.experience_orb.pickup" : 0.5045007,
+    "minecraft:entity.lightning_bolt.thunder" : 0.0,
+    "minecraft:entity.generic.explode" : 0.5045007,
+    "minecraft:entity.enderman.teleport" : 0.4863706,
+    "minecraft:entity.enderman.death" : 0.0,
+    "minecraft:entity.enderman.hurt" : 0.6060292,
+    "minecraft:entity.enderman.scream" : 0.6060292,
+    "minecraft:entity.ender_dragon.growl" : 0.0,
+    "minecraft:block.anvil.use" : 0.5081267,
+    "minecraft:entity.iron_golem.attack" : 0.5045007,
+    "minecraft:entity.iron_golem.damage" : 0.50087464,
+    "minecraft:entity.iron_golem.death" : 0.50087464,
+    "minecraft:entity.iron_golem.hurt" : 0.50087464,
+    "minecraft:entity.iron_golem.repair" : 0.50087464,
+    "minecraft:entity.iron_golem.step" : 0.5081267,
+    "minecraft:entity.magma_cube.squish" : 0.30869564
+  },
+  "maxDuplicatedSoundsByPos" : 20,
+  "maxDuplicatedSoundsById" : 3
+}

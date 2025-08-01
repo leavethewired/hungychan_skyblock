@@ -1,0 +1,12 @@
+{
+	"type": "standard",
+	"id": "pristine",
+	"name": "Prismatic",
+	"good": 1,
+	"max": 5,
+	"items": [
+		"DRILL",
+		"GAUNTLET",
+		"PICKAXE"
+	]
+}

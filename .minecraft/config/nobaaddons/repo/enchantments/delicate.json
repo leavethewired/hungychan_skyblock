@@ -1,0 +1,11 @@
+{
+	"type": "standard",
+	"id": "delicate",
+	"name": "Delicate",
+	"good": 5,
+	"max": 5,
+	"items": [
+		"HOE",
+		"AXE"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_flash",
+	"name": "Flash",
+	"max": 5,
+	"items": [
+		"FISHING_ROD"
+	]
+}

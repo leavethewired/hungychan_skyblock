@@ -1,0 +1,369 @@
+{
+    "chat": {
+        "chatCommands": {
+            "dm": {
+                "enabled": false,
+                "help": false,
+                "partyMe": false,
+                "warpMe": false,
+                "warpOut": false
+            },
+            "guild": {
+                "enabled": false,
+                "help": false,
+                "warpOut": false
+            },
+            "party": {
+                "allInvite": false,
+                "coords": false,
+                "enabled": false,
+                "help": false,
+                "joinInstanced": false,
+                "ping": false,
+                "tps": false,
+                "transfer": false,
+                "warp": false
+            }
+        },
+        "copyChat": {
+            "enabled": false,
+            "mode": "RIGHT_CLICK"
+        },
+        "displayCurrentChannel": true,
+        "filters": {
+            "allow5050ItemMessage": false,
+            "allowKeyMessage": false,
+            "blessingMessage": "SHOWN",
+            "healerOrbMessage": "SHOWN",
+            "hideAbilityCooldownMessage": false,
+            "hideAutopetMessages": false,
+            "hideGiantsSlamDamageMessage": false,
+            "hideGuidedBatDamageMessage": false,
+            "hideImplosionDamageMessage": false,
+            "hideMoltenWaveDamageMessage": false,
+            "hideProfileInfo": false,
+            "hideRayOfHopeDamageMessage": false,
+            "hideSeaCreatureCatchMessage": false,
+            "hideThrowDamageMessage": false,
+            "hideTipMessages": false,
+            "pickupObtainMessage": false,
+            "seaCreatureMaxRarity": "RARE"
+        },
+        "guildBridgeFormatting": {
+            "allowSpacesInName": false,
+            "botName": "",
+            "enabled": false
+        }
+    },
+    "configVersion": 13,
+    "crimsonIsle": {
+        "announceVanquisher": {
+            "announceChannel": "PARTY",
+            "enabled": false
+        },
+        "minibossTimers": {
+            "enabled": false,
+            "showRespawnTimerInWorld": false
+        }
+    },
+    "dungeons": {
+        "highlightStarredMobs": {
+            "enabled": false,
+            "highlightColor": 16777045,
+            "highlightMode": "FILLED_OUTLINE"
+        },
+        "simonSaysTimer": {
+            "enabled": false,
+            "timeInPartyChat": false
+        }
+    },
+    "events": {
+        "hoppity": {
+            "eggGuess": false,
+            "lineToGuess": false,
+            "requireMythicRabbit": false
+        },
+        "mythological": {
+            "alertInquisitor": false,
+            "announceChannel": "PARTY",
+            "announceRareDrops": false,
+            "burrowGuess": false,
+            "dingOnBurrowFind": false,
+            "findNearbyBurrows": false,
+            "findNearestWarp": false,
+            "ignoreCrypt": false,
+            "ignoreStonks": false,
+            "ignoreWizard": false,
+            "inquisitorFocusMode": false,
+            "lineToGuess": false,
+            "notificationSound": "DING",
+            "removeGuessOnBurrowFind": false,
+            "showInquisitorDespawnTime": false
+        }
+    },
+    "fishing": {
+        "announceSeaCreatures": {
+            "announceChannel": "PARTY",
+            "carrotKing": false,
+            "enabled": false,
+            "minimumRarity": "MYTHIC",
+            "nutcracker": false
+        },
+        "bobberTimer": {
+            "crimsonIsleOnly": true,
+            "enabled": true
+        },
+        "catchMessages": {
+            "revertTreasureMessages": false
+        },
+        "catchTimerHudElement": true,
+        "fixFishHookFieldDesync": true,
+        "hideOtherPeopleFishing": true,
+        "highlightThunderSparks": {
+            "enabled": false,
+            "highlightColor": 2416101,
+            "showText": true
+        },
+        "hotspotWaypoints": false,
+        "seaCreatureAlert": {
+            "carrotKing": false,
+            "enabled": false,
+            "minimumRarity": "LEGENDARY",
+            "nameInsteadOfRarity": false,
+            "notificationSound": "NONE",
+            "nutcracker": false
+        },
+        "trophyFishing": {
+            "compactMaxRarity": "SILVER",
+            "compactMessages": false,
+            "modifyChatMessages": false
+        }
+    },
+    "galatea": {
+        "coralotTimer": false,
+        "hideFloatingBlocks": false,
+        "moongladeBeaconSolver": {
+            "correctColor": 5635925,
+            "enabled": false,
+            "incorrectColor": 16733525
+        },
+        "muteFusionMachine": true,
+        "muteTreeChopping": false
+    },
+    "general": {
+        "allowKeybindsOutsideSkyBlock": false,
+        "compactModMessagePrefix": true,
+        "keybinds": {
+            "firstPersonPerspective": true
+        },
+        "shortCommands": {
+            "registerCalculateCommands": false,
+            "registerInstanceCommands": false,
+            "registerRootPingCommand": false
+        },
+        "updateNotifier": true,
+        "wikiCommandAutoOpen": false
+    },
+    "hunting": {
+        "attributeMenu": {
+            "costSource": "INSTANT_BUY",
+            "costToUpgrade": false,
+            "quickSearch": false,
+            "searchMode": "MIDDLE_CLICK"
+        },
+        "mobHighlight": {
+            "hideonleaf": false,
+            "hideonleafColor": 16777045,
+            "invisibug": false,
+            "invisibugColor": 5635925
+        }
+    },
+    "internal": {
+        "enableBazaarApi": true,
+        "gradients": true,
+        "sendModApiErrorsInChat": false
+    },
+    "inventory": {
+        "backpackPreview": {
+            "enabled": false,
+            "mode": "SHIFT_HELD"
+        },
+        "enchantmentTooltips": {
+            "averageColor": 5592575,
+            "badColor": 11184810,
+            "chromaMax": false,
+            "displayMode": "COMPACT",
+            "goodColor": 16755200,
+            "maxColor": 16755200,
+            "modifyTooltips": false,
+            "replaceRomanNumerals": true,
+            "showDescriptions": false,
+            "showMissingEnchants": "SHIFT_HELD",
+            "showStackingProgress": false
+        },
+        "itemPickupLog": {
+            "compactLines": true,
+            "enabled": false,
+            "timeoutSeconds": 5,
+            "updateFrequency": 1
+        },
+        "itemRarityHighlight": {
+            "alpha": 175,
+            "enabled": false,
+            "shape": "SQUARE"
+        },
+        "slotInfo": {
+            "bestiaryFamilyTier": false,
+            "bestiaryMilestone": false,
+            "checkMarkIfMaxed": false,
+            "collectionTier": false,
+            "dungeonHeadTier": false,
+            "enchantedBookLevel": false,
+            "enchantedBookName": false,
+            "gardenPlotPests": false,
+            "kuudraKeyTier": false,
+            "masterSkullTier": false,
+            "masterStarTier": false,
+            "minionTier": false,
+            "newYearCake": false,
+            "petCandy": false,
+            "petItem": false,
+            "petLevel": false,
+            "potionLevel": false,
+            "ranchersBootsSpeed": false,
+            "skillLevel": false,
+            "skyBlockLevel": false,
+            "trophyFish": false,
+            "tuningPoints": false,
+            "vacuumPests": false
+        },
+        "hideSkyblockerArmorCustomization": true
+    },
+    "mining": {
+        "glaciteMineshaft": {
+            "autoShareCorpses": false,
+            "corpseLocator": false,
+            "entranceWaypoint": false,
+            "ladderWaypoint": false
+        },
+        "wormAlert": {
+            "alertColor": 16733525,
+            "enabled": false,
+            "notificationSound": "DING"
+        }
+    },
+    "qol": {
+        "garden": {
+            "autoUnlockMouseOnTeleport": false,
+            "reduceMouseSensitivity": false,
+            "reductionMultiplier": 6
+        },
+        "soundFilters": {
+            "muteBanshee": true,
+            "muteEndermanScreams": true,
+            "muteEndermen": false,
+            "muteGoneWithTheWind": true,
+            "muteKillerSpring": false,
+            "mutePunch": true,
+            "muteReindrakeGiftDrop": false,
+            "muteReindrakeSpawn": false,
+            "muteWitherSkullAbilities": true
+        }
+    },
+    "repo": {
+        "autoUpdate": true,
+        "branch": "main",
+        "repository": "NobaAddons-REPO",
+        "solvedCaptcha": false,
+        "username": "nobaboy"
+    },
+    "rift": {
+        "freeInfusionAlert": false,
+        "splitStealAlert": false,
+        "splitStealItemCooldown": false,
+        "warpTarget": "WIZARD_TOWER"
+    },
+    "slayers": {
+        "alerts": {
+            "alertColor": 16733525,
+            "bossSpawn": false,
+            "minibossSpawn": false
+        },
+        "bossKillTime": false,
+        "compactMessages": {
+            "enabled": false,
+            "removeLastMessage": false
+        },
+        "highlightMinibosses": {
+            "enabled": false,
+            "highlightColor": 16755200
+        },
+        "inferno": {
+            "highlightHellionShield": false
+        },
+        "sven": {
+            "hidePupNametags": false
+        },
+        "voidgloom": {
+            "beaconPhaseColor": 16723356,
+            "brokenHeartRadiationTimer": false,
+            "damagePhaseColor": 6785279,
+            "highlightNukekubiFixations": false,
+            "highlightPhases": false,
+            "highlightYangGlyphs": false,
+            "hitsPhaseColor": 16751686,
+            "lineToGlyph": false,
+            "nukekubiFixationHighlightColor": 16733525,
+            "yangGlyphAlert": false,
+            "yangGlyphAlertColor": 16733525,
+            "yangGlyphHighlightColor": 16733525
+        }
+    },
+    "uiAndVisuals": {
+        "etherwarpOverlay": {
+            "allowOverlayOnAir": false,
+            "enabled": false,
+            "failHighlightColor": 11184810,
+            "highlightColor": 5592575,
+            "highlightFullBlock": false,
+            "showFailText": false,
+            "useServerPosition": false
+        },
+        "hideArmor": {
+            "enabled": false,
+            "onlyClientPlayer": false
+        },
+        "itemPosition": {
+            "cancelDrinkAnimation": false,
+            "cancelEquipAnimation": true,
+            "cancelItemUpdateAnimation": false,
+            "scale": 1.0,
+            "staticPosition": false,
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "legionPlayerCount": false,
+        "renderInfoBoxesOutsideSkyBlock": false,
+        "renderingTweaks": {
+            "fixEnchantedArmorGlint": false,
+            "hideAbsorptionHearts": false,
+            "hideAirBubbles": false,
+            "hideArmorBar": false,
+            "hideLightningBolt": false,
+            "removeArmorGlints": true,
+            "removeFrontFacingThirdPerson": false,
+            "showOwnNametag": false
+        },
+        "swingAnimation": {
+            "applyToAllPlayers": false,
+            "staticSwingPosition": false,
+            "swingDuration": 1
+        },
+        "temporaryWaypoints": {
+            "enabled": false,
+            "expirationTime": 30,
+            "waypointColor": 16777045
+        }
+    }
+}

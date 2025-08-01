@@ -1,0 +1,10 @@
+{
+	"type": "standard",
+	"id": "smarty_pants",
+	"name": "Smarty Pants",
+	"good": 1,
+	"max": 5,
+	"items": [
+		"LEGGINGS"
+	]
+}

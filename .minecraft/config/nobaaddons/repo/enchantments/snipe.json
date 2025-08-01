@@ -1,0 +1,10 @@
+{
+	"type": "standard",
+	"id": "snipe",
+	"name": "Snipe",
+	"good": 3,
+	"max": 4,
+	"items": [
+		"BOW"
+	]
+}

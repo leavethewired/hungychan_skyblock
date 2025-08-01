@@ -1,0 +1,22 @@
+{
+	"type": "stacking",
+	"id": "champion",
+	"name": "Champion",
+	"nbtKey": "champion_combat_xp",
+	"tiers": [
+		50000,
+		100000,
+		250000,
+		500000,
+		1000000,
+		1500000,
+		2000000,
+		2500000,
+		3000000
+	],
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	]
+}

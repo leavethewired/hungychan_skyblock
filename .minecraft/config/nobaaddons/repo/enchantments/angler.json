@@ -1,0 +1,14 @@
+{
+	"type": "standard",
+	"id": "angler",
+	"name": "Angler",
+	"good": 5,
+	"max": 6,
+	"items": [
+		"FISHING_ROD"
+	],
+	"conflicts": [
+		"sharpness",
+		"smite"
+	]
+}

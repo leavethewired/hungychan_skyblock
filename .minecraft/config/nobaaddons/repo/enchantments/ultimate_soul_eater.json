@@ -1,0 +1,11 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_soul_eater",
+	"name": "Soul Eater",
+	"max": 5,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"BOW"
+	]
+}

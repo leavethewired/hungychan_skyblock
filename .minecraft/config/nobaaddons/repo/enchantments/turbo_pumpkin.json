@@ -1,0 +1,11 @@
+{
+	"type": "standard",
+	"id": "turbo_pumpkin",
+	"name": "Turbo-Pumpkin",
+	"good": 1,
+	"max": 5,
+	"items": [
+		"AXE"
+	],
+	"abbreviation": "Pup."
+}

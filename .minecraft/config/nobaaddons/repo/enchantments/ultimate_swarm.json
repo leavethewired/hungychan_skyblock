@@ -1,0 +1,11 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_swarm",
+	"name": "Swarm",
+	"max": 5,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"BOW"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"type": "standard",
+	"id": "experience",
+	"name": "Experience",
+	"good": 3,
+	"max": 5,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"DRILL",
+		"GAUNTLET",
+		"PICKAXE"
+	]
+}

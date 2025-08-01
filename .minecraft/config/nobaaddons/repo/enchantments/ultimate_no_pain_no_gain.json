@@ -1,0 +1,12 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_no_pain_no_gain",
+	"name": "No Pain No Gain",
+	"max": 5,
+	"items": [
+		"HELMET",
+		"CHESTPLATE",
+		"LEGGINGS",
+		"BOOTS"
+	]
+}

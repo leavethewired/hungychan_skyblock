@@ -1,0 +1,23 @@
+[
+  {
+    "identifier": "example_uuid_here",
+    "displayName": "Guild Leader",
+    "scale": 1.5,
+    "enabled": true,
+    "category": "guild"
+  },
+  {
+    "identifier": "another_example_uuid",
+    "displayName": "Best Friend",
+    "scale": 2.0,
+    "enabled": true,
+    "category": "friends"
+  },
+  {
+    "identifier": "Notch",
+    "displayName": "",
+    "scale": 1.2,
+    "enabled": true,
+    "category": "special"
+  }
+]

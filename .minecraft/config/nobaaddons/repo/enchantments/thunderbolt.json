@@ -1,0 +1,15 @@
+{
+	"type": "standard",
+	"id": "thunderbolt",
+	"name": "Thunderbolt",
+	"good": 5,
+	"max": 7,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	],
+	"conflicts": [
+		"thunderlord"
+	]
+}

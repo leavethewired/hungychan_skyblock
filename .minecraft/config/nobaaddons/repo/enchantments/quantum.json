@@ -1,0 +1,10 @@
+{
+	"type": "standard",
+	"id": "quantum",
+	"name": "Quantum",
+	"good": 3,
+	"max": 5,
+	"items": [
+		"NECKLACE"
+	]
+}

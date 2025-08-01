@@ -1,0 +1,92 @@
+[
+	{
+		"id": "SULPHUR_SKITTER",
+		"name": "Sulphur Skitter",
+		"rarity": "COMMON"
+	},
+	{
+		"id": "BLOBFISH",
+		"name": "Blobfish",
+		"rarity": "COMMON"
+	},
+	{
+		"id": "OBFUSCATED_1",
+		"name": "Obfuscated 1",
+		"rarity": "COMMON"
+	},
+	{
+		"id": "STEAMING_HOT_FLOUNDER",
+		"name": "Steaming-Hot Flounder",
+		"rarity": "COMMON"
+	},
+	{
+		"id": "GUSHER",
+		"name": "Gusher",
+		"rarity": "COMMON"
+	},
+	{
+		"id": "OBFUSCATED_2",
+		"name": "Obfuscated 2",
+		"rarity": "UNCOMMON"
+	},
+	{
+		"id": "SLUGFISH",
+		"name": "Slugfish",
+		"rarity": "UNCOMMON"
+	},
+	{
+		"id": "FLYFISH",
+		"name": "Flyfish",
+		"rarity": "UNCOMMON"
+	},
+	{
+		"id": "OBFUSCATED_3",
+		"name": "Obfuscated 3",
+		"rarity": "RARE"
+	},
+	{
+		"id": "VANILLE",
+		"name": "Vanille",
+		"rarity": "RARE"
+	},
+	{
+		"id": "LAVAHORSE",
+		"name": "Lavahorse",
+		"rarity": "RARE"
+	},
+	{
+		"id": "MANA_RAY",
+		"name": "Mana Ray",
+		"rarity": "RARE"
+	},
+	{
+		"id": "VOLCANIC_STONEFISH",
+		"name": "Volcanic Stonefish",
+		"rarity": "RARE"
+	},
+	{
+		"id": "SKELETON_FISH",
+		"name": "Skeleton Fish",
+		"rarity": "EPIC"
+	},
+	{
+		"id": "MOLDFIN",
+		"name": "Moldfin",
+		"rarity": "EPIC"
+	},
+	{
+		"id": "SOUL_FISH",
+		"name": "Soul Fish",
+		"rarity": "EPIC"
+	},
+	{
+		"id": "KARATE_FISH",
+		"name": "Karate Fish",
+		"rarity": "EPIC"
+	},
+	{
+		"id": "GOLDEN_FISH",
+		"name": "Golden Fish",
+		"rarity": "LEGENDARY"
+	}
+]

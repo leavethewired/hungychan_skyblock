@@ -1,0 +1,46 @@
+06:50:39 Trying to load config from config\skyhanni\config.json
+06:50:39 load-config-now
+06:50:39 Loaded config from file
+06:50:39 Trying to load sacks from config\skyhanni\sacks.json
+06:50:39 load-sacks-now
+06:50:39 Loaded sacks from file
+06:50:39 Trying to load friends from config\skyhanni\friends.json
+06:50:39 load-friends-now
+06:50:39 Loaded friends from file
+06:50:39 Trying to load known_features from config\skyhanni\known_features.json
+06:50:39 load-known_features-now
+06:50:39 Loaded known_features from file
+06:50:39 Trying to load jacob_contests from config\skyhanni\jacob_contests.json
+06:50:39 load-jacob_contests-now
+06:50:39 Loaded jacob_contests from file
+06:50:39 Trying to load visual_words from config\skyhanni\visual_words.json
+06:50:39 Setting visual_words to be blank as it did not exist. It will be saved once something is written to it
+06:50:39 Trying to load pets from config\skyhanni\pets.json
+06:50:39 load-pets-now
+06:50:39 Loaded pets from file
+06:50:39 Trying to load storage from config\skyhanni\storage.json
+06:50:39 load-storage-now
+06:50:39 Loaded storage from file
+06:50:39 Trying to load routes from config\skyhanni\routes.json
+06:50:39 load-routes-now
+06:50:39 Loaded routes from file
+06:51:36 saveConfig: Updated known feature flags
+06:51:36 Saving known_features file
+06:51:36 Saved known_features file successfully
+06:51:36 saveConfig: Updated known feature flags
+06:51:36 Saving known_features file
+06:51:36 Saved known_features file successfully
+06:51:39 saveConfig: auto-save-60s
+06:51:39 Saving config file
+06:51:39 Saved config file successfully
+06:51:39 saveConfig: auto-save-60s
+06:51:39 Saving config file
+06:51:39 Saved config file successfully
+06:52:39 saveConfig: auto-save-60s
+06:52:39 Saving config file
+06:52:39 Saved config file successfully
+06:52:39 saveConfig: auto-save-60s
+06:52:39 Saving config file
+06:52:39 Saved config file successfully
+06:53:01 saveConfig: shutdown-hook
+06:53:01 Saving config file

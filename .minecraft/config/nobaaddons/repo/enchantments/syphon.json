@@ -1,0 +1,16 @@
+{
+	"type": "standard",
+	"id": "syphon",
+	"name": "Drain",
+	"good": 3,
+	"max": 5,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	],
+	"conflicts": [
+		"life_steal",
+		"mana_steal"
+	]
+}

@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 46,
+    "description": "fufufu~ §2 §r ",
+    "supported_formats": {
+      "min_inclusive": 30,
+      "max_inclusive": 999
+    }
+  }
+}

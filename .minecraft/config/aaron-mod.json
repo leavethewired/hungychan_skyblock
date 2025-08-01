@@ -1,0 +1,197 @@
+{
+	"version": 3,
+	"general": {
+		"colourProfile": "Original",
+		"customColourProfile": {
+			"primaryColour": -7003223,
+			"secondaryColour": -6284873,
+			"infoColour": -7266647,
+			"highlightColour": -1,
+			"hoverColour": -1,
+			"supportingInfoColour": -1
+		}
+	},
+	"uiAndVisuals": {
+		"scoreboard": {
+			"shadowedScoreboardText": false,
+			"hideScore": true
+		},
+		"nameTags": {
+			"shadowedNameTags": true,
+			"hideNameTagBackground": true
+		},
+		"overlays": {
+			"hideFireOverlay": false,
+			"statusEffectBackgroundAlpha": 1.0,
+			"hideTutorials": true
+		},
+		"fpsHud": {
+			"enableFpsHud": true,
+			"x": 0,
+			"y": 1,
+			"scale": 1.0
+		},
+		"pingHud": {
+			"enablePingHud": true,
+			"colouredPing": false,
+			"x": 44,
+			"y": 1,
+			"scale": 1.0
+		},
+		"tpsHud": {
+			"enableTpsHud": true,
+			"x": 89,
+			"y": 1,
+			"scale": 1.0
+		},
+		"debugHud": {
+			"extraDebugInfo": true,
+			"alwaysShowDayInF3": false
+		},
+		"world": {
+			"zoomMultiplier": 0.3,
+			"hideWorldLoadingScreen": true,
+			"hideMobSpawnerAnimations": false,
+			"hideLightning": false,
+			"hideFog": false,
+			"correctAmbientDarkness": true
+		},
+		"legacyRevival": {
+			"oldMessageTrustIndicatorColours": false,
+			"potionGlint": false
+		},
+		"inventoryScreen": {
+			"separateInventoryGuiScale": false,
+			"inventoryGuiScale": 0
+		},
+		"imagePreview": {
+			"enableImagePreview": true,
+			"scale": 1.0
+		},
+		"chromaText": {
+			"chromaSize": 100,
+			"chromaSpeed": 4.0,
+			"chromaSaturation": 0.75,
+			"canDisableChromaPack": false
+		},
+		"seasonal": {
+			"decemberChristmasChests": false
+		}
+	},
+	"refinements": {
+		"secureSkinDownloads": true,
+		"silenceResourcePackLogSpam": true,
+		"chat": {
+			"copyChatMessages": false,
+			"copyChatMode": "ENTIRE_MESSAGE",
+			"copyChatMouseButton": "MIDDLE",
+			"chatHistoryLength": 100
+		},
+		"input": {
+			"disableScrollLooping": false,
+			"dontResetCursorPosition": false,
+			"alternateF3PlusNKeybind": false
+		},
+		"screenshots": {
+			"optimizedScreenshots": true
+		},
+		"tooltips": {
+			"showItemGroupsOutsideCreative": false
+		},
+		"music": {
+			"uninterruptedMusic": true
+		}
+	},
+	"skyblock": {
+		"commands": {
+			"enableSkyblockCommands": true,
+			"lbinPriceDayAverage": "THREE_DAY"
+		},
+		"enchantments": {
+			"rainbowMaxEnchants": false,
+			"rainbowMode": "CHROMA",
+			"showGoodEnchants": true,
+			"goodEnchantsColour": -22016
+		},
+		"dungeons": {
+			"dungeonFinderPlayerStats": false,
+			"oldMasterStars": false,
+			"fancyDiamondHeadNames": false,
+			"hideClickOnTimeTooltips": false
+		},
+		"m7": {
+			"glowingDragons": false,
+			"dragonBoundingBoxes": false,
+			"dragonSpawnTimers": false,
+			"dragonSpawnNotifications": false,
+			"dragonHealthDisplay": false,
+			"dragonAimWaypoints": false,
+			"arrowStackWaypoints": false
+		}
+	},
+	"particles": {
+		"states": {
+			"minecraft:block": true,
+			"minecraft:angry_villager": true,
+			"minecraft:crit": true,
+			"minecraft:composter": true,
+			"minecraft:ash": true
+		},
+		"scaling": {
+			"minecraft:heart": 0.8,
+			"minecraft:bubble": 0.8,
+			"minecraft:end_rod": 0.9,
+			"minecraft:explosion": 0.8,
+			"minecraft:crit": 0.4,
+			"minecraft:bubble_pop": 0.8,
+			"minecraft:bubble_column_up": 0.8,
+			"minecraft:enchant": 0.9,
+			"minecraft:happy_villager": 0.9
+		},
+		"alphas": {
+			"minecraft:heart": 0.7,
+			"minecraft:bubble": 0.45000002,
+			"minecraft:end_rod": 0.7,
+			"minecraft:explosion": 0.5,
+			"minecraft:fishing": 0.6,
+			"minecraft:crit": 0.3,
+			"minecraft:angry_villager": 0.7,
+			"minecraft:falling_water": 0.7,
+			"minecraft:bubble_pop": 0.5,
+			"minecraft:ash": 0.7,
+			"minecraft:bubble_column_up": 0.5,
+			"minecraft:rain": 0.3,
+			"minecraft:enchant": 0.65000004,
+			"minecraft:happy_villager": 0.5
+		}
+	},
+	"textReplacer": {
+		"enableTextReplacer": false,
+		"textReplacements": {}
+	},
+	"itemModel": {
+		"enableItemModelCustomization": false,
+		"swingDuration": 6,
+		"ignoreMiningEffects": false,
+		"mainHand": {
+			"enabled": true,
+			"x": 0.0,
+			"y": 0.0,
+			"z": 0.0,
+			"scale": 1.0,
+			"xRotation": 0.0,
+			"yRotation": 0.0,
+			"zRotation": 0.0
+		},
+		"offHand": {
+			"enabled": true,
+			"x": 0.0,
+			"y": 0.0,
+			"z": 0.0,
+			"scale": 1.0,
+			"xRotation": 0.0,
+			"yRotation": 0.0,
+			"zRotation": 0.0
+		}
+	}
+}

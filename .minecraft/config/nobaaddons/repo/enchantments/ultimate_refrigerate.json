@@ -1,0 +1,12 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_refrigerate",
+	"name": "Refrigerate",
+	"max": 5,
+	"items": [
+		"HELMET",
+		"CHESTPLATE",
+		"LEGGINGS",
+		"BOOTS"
+	]
+}

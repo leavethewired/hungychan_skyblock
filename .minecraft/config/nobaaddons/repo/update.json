@@ -1,0 +1,11 @@
+{
+	"latest": "1.0.0-Beta.7",
+	"releaseNotes": "Fixed Etherwarp Overlay for 0.23.2, added support for 1.21.8, and other bug fixes",
+	"forMinecraft": ["1.21.5", "1.21.6", "1.21.7", "1.21.8"],
+	"downloadUrl": "https://modrinth.com/mod/nobaaddons/version/1.0.0-Beta.7+{version}",
+	"changelogUrl": "https://codeberg.org/nobaboy/NobaAddons/src/branch/main/docs/changelog/1.0.0-Beta.7.md",
+	"minecraftVersionOverrides": {
+		"1.21.6": "1.21.8",
+		"1.21.7": "1.21.8"
+	}
+}

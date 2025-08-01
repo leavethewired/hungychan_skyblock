@@ -1,0 +1,14 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_inferno",
+	"name": "Inferno",
+	"max": 5,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"BOW",
+		"FISHING_ROD",
+		"GAUNTLET",
+		"AXE"
+	]
+}

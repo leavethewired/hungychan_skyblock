@@ -1,0 +1,282 @@
+{
+  "players": {
+    "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
+      "profiles": {
+        "lemon": {
+          "sackContents": {
+            "FLAWED_JADE_GEM": {
+              "amount": 117,
+              "lastChange": 4,
+              "status": "CORRECT"
+            },
+            "FINE_JADE_GEM": {
+              "amount": 1,
+              "lastChange": 1,
+              "status": "CORRECT"
+            },
+            "FLAWED_AMBER_GEM": {
+              "amount": 170,
+              "lastChange": 94,
+              "status": "CORRECT"
+            },
+            "FINE_AMBER_GEM": {
+              "amount": 1,
+              "lastChange": 1,
+              "status": "CORRECT"
+            },
+            "FLAWED_TOPAZ_GEM": {
+              "amount": 33,
+              "lastChange": 30,
+              "status": "CORRECT"
+            },
+            "FINE_TOPAZ_GEM": {
+              "amount": 8,
+              "lastChange": 1,
+              "status": "CORRECT"
+            },
+            "FLAWED_SAPPHIRE_GEM": {
+              "amount": 91,
+              "lastChange": 12,
+              "status": "CORRECT"
+            },
+            "FINE_SAPPHIRE_GEM": {
+              "amount": 1,
+              "lastChange": 1,
+              "status": "CORRECT"
+            },
+            "FLAWED_AMETHYST_GEM": {
+              "amount": 61,
+              "lastChange": 12,
+              "status": "CORRECT"
+            },
+            "FINE_AMETHYST_GEM": {
+              "amount": 1,
+              "lastChange": 1,
+              "status": "CORRECT"
+            },
+            "FLAWED_JASPER_GEM": {
+              "amount": 43,
+              "lastChange": 6,
+              "status": "CORRECT"
+            },
+            "FINE_JASPER_GEM": {
+              "amount": 5,
+              "lastChange": 1,
+              "status": "CORRECT"
+            },
+            "FLAWED_RUBY_GEM": {
+              "amount": 28,
+              "lastChange": 24,
+              "status": "CORRECT"
+            },
+            "FINE_RUBY_GEM": {
+              "amount": 1,
+              "lastChange": 1,
+              "status": "CORRECT"
+            },
+            "FLAWED_OPAL_GEM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FINE_OPAL_GEM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FLAWED_ONYX_GEM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FINE_ONYX_GEM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FLAWED_AQUAMARINE_GEM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FINE_AQUAMARINE_GEM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FLAWED_CITRINE_GEM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FINE_CITRINE_GEM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FLAWED_PERIDOT_GEM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FINE_PERIDOT_GEM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ROUGH_SAPPHIRE_GEM": {
+              "amount": 7383,
+              "lastChange": 77,
+              "status": "OUTDATED"
+            },
+            "ROUGH_JASPER_GEM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "OUTDATED"
+            },
+            "ROUGH_AMBER_GEM": {
+              "amount": 27,
+              "lastChange": 27,
+              "status": "OUTDATED"
+            },
+            "ROUGH_JADE_GEM": {
+              "amount": 1052,
+              "lastChange": 23,
+              "status": "OUTDATED"
+            },
+            "ROUGH_AMETHYST_GEM": {
+              "amount": 183,
+              "lastChange": 24,
+              "status": "OUTDATED"
+            },
+            "ROUGH_TOPAZ_GEM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "OUTDATED"
+            },
+            "ABSOLUTE_ENDER_PEARL": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_BLAZE_POWDER": {
+              "amount": 11,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_BLAZE_ROD": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_BONE": {
+              "amount": 13,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_BONE_BLOCK": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_ENDER_PEARL": {
+              "amount": 1958,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_EYE_OF_ENDER": {
+              "amount": 12,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_GHAST_TEAR": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_GUNPOWDER": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_MAGMA_CREAM": {
+              "amount": 9,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_ROTTEN_FLESH": {
+              "amount": 89,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_SLIME_BLOCK": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_SLIME_BALL": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_SPIDER_EYE": {
+              "amount": 30,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_STRING": {
+              "amount": 109,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SILVER_FANG": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "STUFFED_CHILI_PEPPER": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "WHIPPED_MAGMA_CREAM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "HARD_STONE": {
+              "amount": 5105,
+              "lastChange": 413,
+              "status": "OUTDATED"
+            },
+            "STRING": {
+              "amount": 2,
+              "lastChange": 2,
+              "status": "OUTDATED"
+            },
+            "EMERALD": {
+              "amount": 36,
+              "lastChange": 36,
+              "status": "OUTDATED"
+            },
+            "MITHRIL_ORE": {
+              "amount": 114,
+              "lastChange": 58,
+              "status": "OUTDATED"
+            },
+            "ROUGH_RUBY_GEM": {
+              "amount": 272,
+              "lastChange": 15,
+              "status": "OUTDATED"
+            },
+            "TREASURITE": {
+              "amount": 1,
+              "lastChange": 1,
+              "status": "OUTDATED"
+            }
+          }
+        }
+      }
+    }
+  }
+}

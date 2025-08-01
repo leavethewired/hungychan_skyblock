@@ -1,0 +1,11 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_chimera",
+	"name": "Chimera",
+	"max": 5,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	]
+}

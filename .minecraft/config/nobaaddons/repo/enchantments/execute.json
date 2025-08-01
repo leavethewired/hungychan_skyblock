@@ -1,0 +1,15 @@
+{
+	"type": "standard",
+	"id": "execute",
+	"name": "Execute",
+	"good": 5,
+	"max": 6,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	],
+	"conflicts": [
+		"PROSECUTE"
+	]
+}

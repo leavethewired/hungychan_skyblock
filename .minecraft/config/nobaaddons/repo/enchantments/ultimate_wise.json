@@ -1,0 +1,23 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_wise",
+	"name": "Ultimate Wise",
+	"max": 5,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"BOW",
+		"FISHING_ROD",
+		"DRILL",
+		"GAUNTLET",
+		"PICKAXE",
+		"HOE",
+		"AXE",
+		"SHOVEL",
+		"SHEARS",
+		"WAND"
+	],
+	"exclusiveToItems": [
+		"PRECURSOR_EYE"
+	]
+}

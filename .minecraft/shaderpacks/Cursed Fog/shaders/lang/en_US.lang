@@ -1,0 +1,186 @@
+#Profiles
+profile.STANDARD=§eStandard
+profile.STANDARD_FAST=§e§oStandard Fast
+profile.MIMIMALISM=§bMinimalism
+
+screen.Cam=Camera
+screen.BC=Lens
+screen.CC=Color correction
+screen.LT=Lighting
+screen.NVG=Night Vision Goggles
+
+option.BY=§6Hover over me
+option.BY.comment=§9Discord: §fhttps://discord.com/invite/65CkSpxrmm. §4YouTube: §fhttps://www.youtube.com/@lolip_p.
+value.BY.0=§fBy LoLip_p
+value.BY.1=§fBy LoLip_p
+
+option.MOTION_BLUR=§6Motion Blur
+option.MOTION_BLUR.comment=Blur the image when rotating the camera (makes the gameplay more enjoyable and smooth). The higher the value, the greater the smoothness effect. It is recommended to leave it on and change only the §2Motion Blur Strength §f parameter, depending on your preferences.
+value.MOTION_BLUR.0=Off
+value.MOTION_BLUR.1=On
+option.MOTION_BLURRING_STRENGTH=Motion Blur Strength
+option.MOTION_BLURRING_STRENGTH.comment=Adjusts the blur strength. §4A high value may cause dizziness and motion sickness in some people.
+
+#FXAA
+option.ANTI_ALIASING=Anti-Aliasing
+option.ANTI_ALIASING.comment=Makes the boundaries of objects smoother, removing any “jags” that appear.
+value.ANTI_ALIASING.0=Off
+value.ANTI_ALIASING.1=On
+
+option.BIT=16 BIT
+value.BIT.0=Off
+value.BIT.1=On
+
+option.SSR=§6Screen reflection
+value.SSR.0=Off
+value.SSR.1=On
+
+option.RED_FILTER=§6Red Filter
+value.RED_FILTER.0=Off
+value.RED_FILTER.1=On
+
+option.PBR=§6PBR
+value.PBR.0=Off
+value.PBR.1=On
+
+option.WAVES=Waves
+value.WAVES.0=Off
+value.WAVES.1=On
+
+option.SWAYING_FOLIAGE=Swaying foliage
+value.SWAYING_FOLIAGE.0=Off
+value.SWAYING_FOLIAGE.1=On
+
+option.GRAIN=§6Grain
+value.GRAIN.0=Off
+value.GRAIN.1=On
+option.GRAIN_STRENGTH=Grain Strength
+
+option.SCANLINE=§6Scanline
+value.SCANLINE.0=Off
+value.SCANLINE.1=On
+option.SCANLINE_STRENGTH=Scanline Strength
+option.SCANLINE_WIDTH=Scanline Width
+
+option.COLOR_DIST=§6Color Distortion
+value.COLOR_DIST.0=Off
+value.COLOR_DIST.1=On
+option.COLOR_DIST_STRENGTH=Color Distortion Strength
+
+option.BLACK_STRIPES=§6Black lines
+value.BLACK_STRIPES.0=Off
+value.BLACK_STRIPES.1=On
+
+option.DOF=§6Depth of Field (DOF)
+value.DOF.0=Off
+value.DOF.1=On
+option.DOF_STRENGTH=Blur Strength
+option.TONEMAP_WHITE=Tonemap white
+
+option.EXPOSURE=Exposure
+option.AUTO_EXPOSURE=§6Auto exposure
+value.AUTO_EXPOSURE.0=Off
+value.AUTO_EXPOSURE.1=On
+option.AUTO_EXPOSURE_SPEED=Exposure speed
+option.AUTO_EXPOSURE_RADIUS=Exposure radius
+
+option.VIGNETTE=§6Vignette
+value.VIGNETTE.0=Off
+value.VIGNETTE.1=On
+
+option.CHROMATIC_ABERRATION=Chromatic aberration
+option.ZOOM=Zoom
+option.DIST_STRENGTH=§6Distortion Strength
+option.INTENSITY_CAM_SHAKE=Intensity Camera Shake
+option.VIGNETTE_RADIUS=Vignette radius
+option.VIGNETTE_STRENGTH=Vignette Strength
+option.BLACK_STRIPES_WIDTH=Width black lines
+option.BLACK_STRIPES_SOFT=Softness black lines
+
+option.SATURATION=Saturation
+option.BRIGHTNESS=Brightness
+option.CONTRAST=Contrast
+
+
+
+option.CRT_MASK=CRT Mask
+value.CRT_MASK.0=Off
+value.CRT_MASK.1=On
+
+option.R_DIRECTION=Film artifacts
+value.R_DIRECTION.0=Off
+value.R_DIRECTION.1=On
+
+option.INTERLACED_SCAN=Interlaced scan
+value.INTERLACED_SCAN.0=Off
+value.INTERLACED_SCAN.1=On
+
+option.FOG_DISTANCE=Fog distance
+option.DIRECTION_STRENGTH=Number of artifacts
+
+option.CLOUDS=Clouds
+value.CLOUDS.0=Off
+value.CLOUDS.1=On
+value.CLOUDS.2=Only during the day
+
+option.FLICKERING_LIGHT=Flickering light
+value.FLICKERING_LIGHT.0=Off
+value.FLICKERING_LIGHT.1=On
+
+#Lighting
+option.SOFT=§6Soft shadows
+value.SOFT.1=Off
+value.SOFT.2=On
+
+option.SHADING=§6Shading
+option.SHADING.comment=Shades a plane that does not fall under the sun's ray.
+value.SHADING.0=Off
+value.SHADING.1=On
+option.NEW_LIGHTING="New" lighting
+option.NEW_LIGHTING.comment="New" MINECRAFT lighting mode.
+value.NEW_LIGHTING.0=Off
+value.NEW_LIGHTING.1=On
+option.CLASSIC_NIGHT=Classic night
+option.CLASSIC_NIGHT.comment=This shader provides updated lighting at night.
+value.CLASSIC_NIGHT.0=Off
+value.CLASSIC_NIGHT.1=On
+option.SHADOW_TRANSPARENCY=Shadow transparency
+option.degree_night_darkness=Night darkness
+option.SUN_ANGLE=Sun angle
+option.LIGHT_ABSORPTION=Light absorption
+option.LIGHT_ABSORPTION.comment=Regulates the absorption of light during the day from lighting sources located under the sun.
+
+// Shadow
+option.ENABLE_SHADOW=§6Shadow
+value.ENABLE_SHADOW.0=Off
+value.ENABLE_SHADOW.1=On
+option.sunPathRotation=Sun Path Rotation
+option.sunPathRotation.comment=Adjusts sun angle.
+option.shadowDistance=Shadow Distance
+option.shadowDistance.comment=Adjusts shadow distance.
+
+value.shadowDistance.64.0=§a4 Chunks
+value.shadowDistance.80.0=§a5 Chunks
+value.shadowDistance.96.0=§a6 Chunks
+value.shadowDistance.112.0=§a7 Chunks
+value.shadowDistance.128.0=§a8 Chunks
+value.shadowDistance.160.0=§e10 Chunks
+value.shadowDistance.192.0=§e12 Chunks
+value.shadowDistance.224.0=§e14 Chunks
+value.shadowDistance.256.0=§c16 Chunks
+value.shadowDistance.320.0=§c20 Chunks
+value.shadowDistance.384.0=§4§l24 Chunks
+value.shadowDistance.512.0=§4§l32 Chunks
+value.shadowDistance.768.0=§4§k-§r§4§l§n§o48 Chunks§r§4§k-
+value.shadowDistance.1024.0=§4§k-§r§4§l§n§o64 Chunks§r§4§k-
+
+option.shadowMapResolution=Quality
+option.shadowMapResolution.comment=Adjusts shadowmap size. §e[*]§r Higher resolution gives sharper shadows, but reduces performance.
+value.shadowMapResolution.256=Very Low (256)
+value.shadowMapResolution.512=Low (512)
+value.shadowMapResolution.768=Low Medium (768)
+value.shadowMapResolution.1024=Medium (1024)
+value.shadowMapResolution.1536=Medium High (1536)
+value.shadowMapResolution.2048=High (2048)
+value.shadowMapResolution.3072=Very High (3072)
+value.shadowMapResolution.4096=Ultra High (4096)

@@ -1,0 +1,1 @@
+{"model":{"cases":[{"model":{"model":"hplus:ui/bank_upgrades/palatial_account","type":"model"},"when":[{"extra":[{"color":"gold","text":"Generate 1B Coins"}],"italic":false,"text":""}]}],"component":"custom_name","fallback":{"model":"block/emerald_block","type":"model"},"property":"component","type":"select"}}

@@ -1,0 +1,12 @@
+{
+	"type": "standard",
+	"id": "ender_slayer",
+	"name": "Ender Slayer",
+	"good": 5,
+	"max": 7,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	]
+}

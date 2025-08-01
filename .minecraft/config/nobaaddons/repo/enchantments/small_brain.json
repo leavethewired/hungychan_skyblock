@@ -1,0 +1,13 @@
+{
+	"type": "standard",
+	"id": "small_brain",
+	"name": "Small Brain",
+	"good": 3,
+	"max": 5,
+	"items": [
+		"HELMET"
+	],
+	"conflicts": [
+		"big_brain"
+	]
+}

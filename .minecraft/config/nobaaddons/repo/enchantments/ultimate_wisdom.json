@@ -1,0 +1,12 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_wisdom",
+	"name": "Wisdom",
+	"max": 5,
+	"items": [
+		"HELMET",
+		"CHESTPLATE",
+		"LEGGINGS",
+		"BOOTS"
+	]
+}

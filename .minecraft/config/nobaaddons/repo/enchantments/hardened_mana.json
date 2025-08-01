@@ -1,0 +1,18 @@
+{
+	"type": "standard",
+	"id": "hardened_mana",
+	"name": "Hardened Mana",
+	"good": -1,
+	"max": 10,
+	"items": [
+		"HELMET",
+		"CHESTPLATE",
+		"LEGGINGS",
+		"BOOTS"
+	],
+	"conflicts": [
+		"ferocious_mana",
+		"mana_vampire",
+		"strong_mana"
+	]
+}

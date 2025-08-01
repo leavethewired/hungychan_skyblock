@@ -1,0 +1,10 @@
+{
+	"type": "standard",
+	"id": "transylvanian",
+	"name": "Transylvanian",
+	"good": 4,
+	"max": 5,
+	"items": [
+		"HELMET"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"type": "standard",
+	"id": "looting",
+	"name": "Looting",
+	"good": 3,
+	"max": 5,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"FISHING_ROD",
+		"GAUNTLET"
+	]
+}

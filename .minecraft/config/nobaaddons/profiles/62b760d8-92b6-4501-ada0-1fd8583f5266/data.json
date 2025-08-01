@@ -1,0 +1,12 @@
+{
+    "configVersion": 1,
+    "pet": {
+        "name": "Enderman",
+        "id": "ENDERMAN",
+        "xp": 1198606.1945332182,
+        "rarity": "EPIC",
+        "uuid": "96197bd3-9e3b-45b4-9f08-54173b5a478c"
+    },
+    "riftTimers": {},
+    "trophyFish": {}
+}

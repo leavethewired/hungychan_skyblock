@@ -1,0 +1,42 @@
+[
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "icon": "minecraft:wheat",
+    "name": "1"
+  },
+  null,
+  null,
+  null,
+  {
+    "icon": "minecraft:carved_pumpkin",
+    "name": "2"
+  },
+  null,
+  {
+    "icon": "minecraft:carrot",
+    "name": "3"
+  },
+  null,
+  null,
+  null,
+  {
+    "icon": "minecraft:melon_slice",
+    "name": "4"
+  },
+  {
+    "icon": "minecraft:orange_stained_glass_pane",
+    "name": "8"
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+]

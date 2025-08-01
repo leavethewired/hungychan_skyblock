@@ -1,0 +1,12 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_habanero_tactics",
+	"name": "Habanero Tactics",
+	"max": 5,
+	"items": [
+		"HELMET",
+		"CHESTPLATE",
+		"LEGGINGS",
+		"BOOTS"
+	]
+}

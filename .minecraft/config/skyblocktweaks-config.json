@@ -1,0 +1,389 @@
+{
+	"configVersion": 1,
+	"notificationStream": "ALPHA",
+	"chatAllErrors": false,
+	"chatModApiErrors": false,
+	"constantLoader": {
+		"autoUpdate": true,
+		"user": "SkyblockTweaks",
+		"repo": "data",
+		"branch": "main"
+	},
+	"hudTweaks": {
+		"noShadowActionBar": false,
+		"noRenderBossBar": false,
+		"noRenderHearts": false,
+		"showHearsInRift": true,
+		"noRenderArmor": false,
+		"noRenderHunger": false,
+		"noRenderMountHealth": false,
+		"noRenderPotionOverlay": false
+	},
+	"inventory": {
+		"redirectRecipeBook": false,
+		"noRenderPotionHud": false
+	},
+	"minionExp": {
+		"enabled": true,
+		"side": "RIGHT",
+		"shadowText": false
+	},
+	"reforgeOverlay": {
+		"filterOverlay": false,
+		"filterOverlaySide": "LEFT",
+		"filterOverlayShadow": false,
+		"nameTooltip": false
+	},
+	"actionBarFilters": {
+		"hideHealth": false,
+		"hideDefense": false,
+		"hideMana": false,
+		"hideAbilityUse": false,
+		"hideSkill": false,
+		"hideDrill": false,
+		"hideSecrets": false,
+		"hideTickers": false,
+		"hideRiftTime": false,
+		"hideLocation": false,
+		"hidePressure": false
+	},
+	"hubSelectorHighlight": {
+		"enabledRegular": true,
+		"enabledDungeon": true,
+		"hotmHighlight": false,
+		"hotfHighlight": true,
+		"widgetHighlight": true,
+		"sblevelHighlight": true,
+		"unclaimedCommissionHighlight": true,
+		"unclaimedContestHighlight": true,
+		"toggleEffectHighlight": true
+	},
+	"partyCommands": {
+		"enabled": false,
+		"blockedUsers": [],
+		"cooldown": 750,
+		"boopInvites": false
+	},
+	"brewingStandOverlay": {
+		"enabled": true
+	},
+	"chatProtections": {
+		"coop": true,
+		"guildLeave": true,
+		"ip": true
+	},
+	"huds": {
+		"mana": {
+			"enabled": false,
+			"mode": "SHADOW",
+			"x": 0.0,
+			"y": 0.3,
+			"scale": 1.0,
+			"color": -11184641,
+			"outlineColor": -16777216,
+			"icon": true,
+			"separator": ",",
+			"anchor": "LEFT"
+		},
+		"overflowMana": {
+			"enabled": false,
+			"hideWhenZero": true,
+			"mode": "SHADOW",
+			"x": 0.0,
+			"y": 0.4,
+			"scale": 1.0,
+			"color": -16733526,
+			"outlineColor": -16777216,
+			"icon": true,
+			"separator": ",",
+			"anchor": "LEFT"
+		},
+		"manaBar": {
+			"enabled": false,
+			"x": 0.0,
+			"y": 0.25,
+			"scale": 1.0,
+			"color": -11184641,
+			"anchor": "LEFT"
+		},
+		"health": {
+			"enabled": false,
+			"mode": "SHADOW",
+			"x": 0.0,
+			"y": 0.2,
+			"scale": 1.0,
+			"color": -43691,
+			"colorAbsorption": -22016,
+			"outlineColor": -16777216,
+			"icon": true,
+			"separator": ",",
+			"anchor": "LEFT",
+			"hideInRift": true
+		},
+		"healthBar": {
+			"enabled": false,
+			"x": 0.0,
+			"y": 0.15,
+			"scale": 1.0,
+			"color": -43691,
+			"colorAbsorption": -22016,
+			"anchor": "LEFT",
+			"hideInRift": true
+		},
+		"ehp": {
+			"enabled": false,
+			"mode": "SHADOW",
+			"x": 0.0,
+			"y": 0.1,
+			"scale": 1.0,
+			"color": -16733696,
+			"outlineColor": -16777216,
+			"icon": true,
+			"separator": ",",
+			"anchor": "LEFT"
+		},
+		"speed": {
+			"enabled": false,
+			"mode": "SHADOW",
+			"color": -1,
+			"outlineColor": -16777216,
+			"x": -2.524885E-4,
+			"y": 0.69009596,
+			"scale": 1.0,
+			"anchor": "LEFT"
+		},
+		"defense": {
+			"enabled": false,
+			"mode": "SHADOW",
+			"color": -11141291,
+			"outlineColor": -16777216,
+			"x": 0.008733716,
+			"y": 0.76083976,
+			"scale": 1.0,
+			"anchor": "LEFT",
+			"icon": true,
+			"separator": ","
+		},
+		"dr": {
+			"enabled": false,
+			"mode": "SHADOW",
+			"color": -11141291,
+			"outlineColor": -16777216,
+			"x": 0.0,
+			"y": 0.0,
+			"anchor": "LEFT",
+			"scale": 1.0
+		},
+		"drillFuel": {
+			"enabled": false,
+			"abridgeSecondNumber": false,
+			"mode": "SHADOW",
+			"color": -16733696,
+			"outlineColor": -16777216,
+			"x": 0.0,
+			"y": 0.45,
+			"separator": ",",
+			"scale": 1.0,
+			"anchor": "LEFT"
+		},
+		"drillFuelBar": {
+			"enabled": false,
+			"x": 0.0,
+			"y": 0.5,
+			"scale": 1.0,
+			"anchor": "LEFT",
+			"color": -16733696
+		},
+		"coordinates": {
+			"enabled": false,
+			"showOutside": false,
+			"decimalPlaces": 0,
+			"mode": "SHADOW",
+			"color": -1,
+			"outlineColor": -16777216,
+			"x": 0.0,
+			"y": 0.6,
+			"scale": 1.0,
+			"anchor": "LEFT"
+		},
+		"time": {
+			"enabled": false,
+			"showOutside": false,
+			"seconds": false,
+			"twelveHour": true,
+			"amPM": true,
+			"mode": "SHADOW",
+			"color": -1,
+			"outlineColor": -16777216,
+			"x": 0.0,
+			"y": 0.65,
+			"scale": 1.0,
+			"anchor": "LEFT"
+		},
+		"fps": {
+			"enabled": false,
+			"showOutside": false,
+			"reverse": false,
+			"mode": "SHADOW",
+			"color": -1,
+			"outlineColor": -16777216,
+			"x": 0.0,
+			"y": 0.55,
+			"scale": 1.0,
+			"anchor": "LEFT"
+		},
+		"skills": {
+			"enabled": false,
+			"skillMode": "HYPIXEL",
+			"actionsLeft": true,
+			"abridgeDenominator": true,
+			"mode": "SHADOW",
+			"x": 0.0,
+			"y": 0.8,
+			"scale": 1.0,
+			"color": -16733526,
+			"outlineColor": -16777216,
+			"anchor": "LEFT"
+		},
+		"skillBar": {
+			"enabled": false,
+			"x": 0.1,
+			"y": 0.0,
+			"scale": 1.0,
+			"color": -16733526,
+			"anchor": "LEFT"
+		},
+		"ticker": {
+			"enabled": false,
+			"x": 0.1,
+			"y": 0.1,
+			"scale": 1.0,
+			"anchor": "LEFT"
+		},
+		"quiver": {
+			"enabled": false,
+			"mode": "SHADOW",
+			"x": 0.0,
+			"y": 0.9,
+			"scale": 1.0,
+			"outlineColor": -16777216,
+			"anchor": "LEFT",
+			"icon": true
+		},
+		"armorStack": {
+			"enabled": false,
+			"mode": "SHADOW",
+			"color": -22016,
+			"outlineColor": -16777216,
+			"x": 0.0,
+			"y": 0.95,
+			"scale": 1.0,
+			"anchor": "LEFT"
+		},
+		"riftTime": {
+			"enabled": false,
+			"mode": "SHADOW",
+			"x": 0.47931153,
+			"y": 0.8648649,
+			"scale": 1.0,
+			"color": -11141291,
+			"inactiveColor": -5592406,
+			"outlineColor": -16777216,
+			"icon": true,
+			"showLeftText": true,
+			"anchor": "LEFT"
+		},
+		"rainmaker": {
+			"enabled": false,
+			"mode": "SHADOW",
+			"x": 0.15,
+			"y": 0.25,
+			"scale": 1.0,
+			"color": -11141121,
+			"outlineColor": -16777216,
+			"anchor": "LEFT",
+			"icon": true
+		},
+		"secrets": {
+			"enabled": false,
+			"mode": "SHADOW",
+			"label": true,
+			"icon": true,
+			"x": 0.15,
+			"y": 0.35,
+			"scale": 1.0,
+			"labelColor": -5592406,
+			"numberColor": -171,
+			"outlineColor": -16777216,
+			"anchor": "LEFT"
+		},
+		"pressure": {
+			"enabled": false,
+			"mode": "SHADOW",
+			"x": 0.0064851064,
+			"y": 0.7322704,
+			"scale": 1.0,
+			"color": -11184641,
+			"outlineColor": -16777216,
+			"icon": true,
+			"percent": true,
+			"anchor": "LEFT"
+		}
+	},
+	"mining": {
+		"hud": {
+			"enabled": false,
+			"useNumbers": true,
+			"abbreviatePowder": false,
+			"icons": true,
+			"composition": [
+				"COMMISSIONS",
+				"MITHRIL_POWDER",
+				"GEMSTONE_POWDER",
+				"GLACITE_POWER",
+				"COOLDOWN"
+			],
+			"x": 0.25,
+			"y": 0.0,
+			"mode": "OUTLINE",
+			"color": -16733526,
+			"outlineColor": -16777216,
+			"scale": 1.0
+		},
+		"eventTimer": {
+			"enabled": false,
+			"x": 0.25,
+			"y": 0.25,
+			"icons": true,
+			"scale": 1.0,
+			"colorPrimary": -16733526,
+			"colorSecondary": -1,
+			"outlineColor": -16777216,
+			"mode": "SHADOW",
+			"anchor": "LEFT"
+		},
+		"titles": {
+			"goblinTitles": true,
+			"goldenText": "Golden Goblin!",
+			"goldenColor": -22016,
+			"diamondText": "Diamond Goblin!",
+			"diamondColor": -11141121
+		},
+		"fetchur": {
+			"chatSolver": true,
+			"fetchurHud": false,
+			"showHudOutsideMines": false,
+			"showHudWhenAlreadyDone": false,
+			"showPrefix": true,
+			"showIcon": true,
+			"showName": false,
+			"color": -11141291,
+			"outlineColor": -16777216,
+			"mode": "SHADOW",
+			"scale": 1.0,
+			"x": 0.3,
+			"y": 0.3,
+			"anchor": "LEFT"
+		}
+	}
+}

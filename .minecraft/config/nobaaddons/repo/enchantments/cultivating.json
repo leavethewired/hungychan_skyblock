@@ -1,0 +1,21 @@
+{
+	"type": "stacking",
+	"id": "cultivating",
+	"name": "Cultivating",
+	"nbtKey": "farmed_cultivating",
+	"tiers": [
+		1000,
+		5000,
+		25000,
+		100000,
+		300000,
+		1500000,
+		5000000,
+		20000000,
+		100000000
+	],
+	"items": [
+		"HOE",
+		"AXE"
+	]
+}

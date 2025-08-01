@@ -1,0 +1,16 @@
+{
+  "4e67b1a054c04694bc76dbe4e7fd9e63": {
+    "62b760d8-92b6-4501-ada0-1fd8583f5266": {
+      "uuid": "96197bd3-9e3b-45b4-9f08-54173b5a478c",
+      "type": "ENDERMAN",
+      "exp": 1198606.1945332182,
+      "tier": "EPIC"
+    },
+    "05bfe89b-6320-466e-88f1-df5de2dd5e42": {
+      "uuid": "c5333167-96ba-4fa7-8e0b-05745e6c7262",
+      "type": "FROG",
+      "exp": 1604168.2227633272,
+      "tier": "UNCOMMON"
+    }
+  }
+}

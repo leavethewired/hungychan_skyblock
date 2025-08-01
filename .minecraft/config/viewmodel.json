@@ -1,0 +1,22 @@
+{
+  "shouldCheck": true,
+  "mainPositionX": 0.0,
+  "mainRotationX": -0.745,
+  "offPositionX": 0.0,
+  "offRotationX": 0.0,
+  "mainPositionY": 0.155,
+  "mainRotationY": 0.0,
+  "offPositionY": 0.0,
+  "offRotationY": 0.0,
+  "mainPositionZ": 0.105,
+  "mainRotationZ": 0.0,
+  "offPositionZ": 0.0,
+  "offRotationZ": 0.0,
+  "handSpeedSwing": 5,
+  "mainHandScale": 0.5,
+  "offHandScale": 0.5,
+  "noHandSwingV1": false,
+  "noHandSwingV2": false,
+  "noFoodSwing": false,
+  "noHandRender": false
+}

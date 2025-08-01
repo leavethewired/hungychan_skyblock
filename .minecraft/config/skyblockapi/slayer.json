@@ -1,0 +1,47 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
+      "Banana": {
+        "slayers": {
+          "REVENANT_HORROR": {
+            "xp": 50,
+            "meterXp": 0
+          },
+          "SVEN_PACKMASTER": {
+            "xp": 0,
+            "meterXp": 0
+          }
+        }
+      },
+      "Lemon": {
+        "slayers": {
+          "REVENANT_HORROR": {
+            "xp": 317,
+            "meterXp": 250
+          },
+          "TARANTULA_BROODFATHER": {
+            "xp": 5473,
+            "meterXp": 5250
+          },
+          "SVEN_PACKMASTER": {
+            "xp": 355,
+            "meterXp": 750
+          },
+          "VOIDGLOOM_SERAPH": {
+            "xp": -5,
+            "meterXp": 0
+          },
+          "RIFTSTALKER_BLOODFIEND": {
+            "xp": 0,
+            "meterXp": 0
+          },
+          "INFERNO_DEMONLORD": {
+            "xp": 0,
+            "meterXp": 0
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "players": {
+      "426f45e9-b50c-4d4d-83f7-153b33ae342a": {
+        "name": "IEuterpe",
+        "time": 1753369394438
+      },
+      "4bbd40c5-9740-428f-aa1c-8aafb53e837c": {
+        "name": "nr1pir",
+        "time": 1753907313608
+      },
+      "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
+        "name": "catholicschool",
+        "time": 1753715306312
+      },
+      "0905a7a7-eda8-4a3b-9ebe-bcd72876301a": {
+        "name": "himej0shi",
+        "time": 1753991881543
+      }
+    }
+  }
+}

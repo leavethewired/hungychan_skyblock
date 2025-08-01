@@ -1,0 +1,19 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
+      "Lemon": {
+        "boosterCookieExpireTime": 1755487854076,
+        "godPotionDuration": 10800000
+      },
+      "Banana": {
+        "boosterCookieExpireTime": 1752546600513,
+        "godPotionDuration": 0
+      },
+      "Orange": {
+        "boosterCookieExpireTime": 1752281999434,
+        "godPotionDuration": 0
+      }
+    }
+  }
+}

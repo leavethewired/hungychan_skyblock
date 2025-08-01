@@ -1,0 +1,29 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
+      "friends": [
+        {
+          "name": "getkankerirl",
+          "uuid": "ed784e95-9d32-4244-9c06-efddc77691f5",
+          "bestFriend": false
+        },
+        {
+          "name": "himej0shi",
+          "uuid": "0905a7a7-eda8-4a3b-9ebe-bcd72876301a",
+          "bestFriend": true
+        },
+        {
+          "name": "nr1pir",
+          "uuid": "4bbd40c5-9740-428f-aa1c-8aafb53e837c",
+          "bestFriend": true
+        },
+        {
+          "name": "nr1pir",
+          "uuid": "4bbd40c5-9740-428f-aa1c-8aafb53e837c",
+          "bestFriend": true
+        }
+      ]
+    }
+  }
+}

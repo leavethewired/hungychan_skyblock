@@ -1,0 +1,105 @@
+20:58:01 Trying to load config from config\skyhanni\config.json
+20:58:01 load-config-now
+20:58:01 Loaded config from file
+20:58:01 Trying to load sacks from config\skyhanni\sacks.json
+20:58:01 load-sacks-now
+20:58:01 Loaded sacks from file
+20:58:01 Trying to load friends from config\skyhanni\friends.json
+20:58:01 load-friends-now
+20:58:01 Loaded friends from file
+20:58:01 Trying to load known_features from config\skyhanni\known_features.json
+20:58:01 load-known_features-now
+20:58:01 Loaded known_features from file
+20:58:01 Trying to load jacob_contests from config\skyhanni\jacob_contests.json
+20:58:01 load-jacob_contests-now
+20:58:01 Loaded jacob_contests from file
+20:58:01 Trying to load visual_words from config\skyhanni\visual_words.json
+20:58:01 Setting visual_words to be blank as it did not exist. It will be saved once something is written to it
+20:58:01 Trying to load pets from config\skyhanni\pets.json
+20:58:01 load-pets-now
+20:58:01 Loaded pets from file
+20:58:01 Trying to load storage from config\skyhanni\storage.json
+20:58:01 load-storage-now
+20:58:01 Loaded storage from file
+20:58:01 Trying to load routes from config\skyhanni\routes.json
+20:58:01 load-routes-now
+20:58:01 Loaded routes from file
+20:59:01 saveConfig: auto-save-60s
+20:59:01 Saving config file
+20:59:01 Saved config file successfully
+20:59:01 saveConfig: auto-save-60s
+20:59:01 Saving config file
+20:59:01 Saved config file successfully
+21:00:01 saveConfig: auto-save-60s
+21:00:01 Saving config file
+21:00:01 Saved config file successfully
+21:00:01 saveConfig: auto-save-60s
+21:00:01 Saving config file
+21:00:01 Saved config file successfully
+21:01:01 saveConfig: auto-save-60s
+21:01:01 Saving config file
+21:01:01 Saved config file successfully
+21:01:01 saveConfig: auto-save-60s
+21:01:01 Saving config file
+21:01:01 Saved config file successfully
+21:02:01 saveConfig: auto-save-60s
+21:02:01 Saving config file
+21:02:01 Saved config file successfully
+21:02:01 saveConfig: auto-save-60s
+21:02:01 Saving config file
+21:02:01 Saved config file successfully
+21:03:01 saveConfig: auto-save-60s
+21:03:01 Saving config file
+21:03:01 Saved config file successfully
+21:03:01 saveConfig: auto-save-60s
+21:03:01 Saving config file
+21:03:01 Saved config file successfully
+21:04:01 saveConfig: auto-save-60s
+21:04:01 Saving config file
+21:04:01 Saved config file successfully
+21:04:01 saveConfig: auto-save-60s
+21:04:01 Saving config file
+21:04:01 Saved config file successfully
+21:05:01 saveConfig: auto-save-60s
+21:05:01 Saving config file
+21:05:01 Saved config file successfully
+21:05:01 saveConfig: auto-save-60s
+21:05:01 Saving config file
+21:05:01 Saved config file successfully
+21:06:01 saveConfig: auto-save-60s
+21:06:01 Saving config file
+21:06:01 Saved config file successfully
+21:06:01 saveConfig: auto-save-60s
+21:06:01 Saving config file
+21:06:01 Saved config file successfully
+21:07:01 saveConfig: auto-save-60s
+21:07:01 Saving config file
+21:07:01 Saved config file successfully
+21:07:01 saveConfig: auto-save-60s
+21:07:01 Saving config file
+21:07:01 Saved config file successfully
+21:08:01 saveConfig: auto-save-60s
+21:08:01 Saving config file
+21:08:01 Saved config file successfully
+21:08:01 saveConfig: auto-save-60s
+21:08:01 Saving config file
+21:08:01 Saved config file successfully
+21:09:01 saveConfig: auto-save-60s
+21:09:01 Saving config file
+21:09:01 Saved config file successfully
+21:09:01 saveConfig: auto-save-60s
+21:09:01 Saving config file
+21:09:01 Saved config file successfully
+21:10:01 saveConfig: auto-save-60s
+21:10:01 Saving config file
+21:10:01 Saved config file successfully
+21:10:01 saveConfig: auto-save-60s
+21:10:01 Saving config file
+21:10:01 Saved config file successfully
+21:10:23 saveConfig: Updated known feature flags
+21:10:23 Saving known_features file
+21:10:23 Saved known_features file successfully
+21:10:23 saveConfig: Updated known feature flags
+21:10:23 Saving known_features file
+21:10:23 Saved known_features file successfully
+21:10:40 saveConfig: shutdown-hook

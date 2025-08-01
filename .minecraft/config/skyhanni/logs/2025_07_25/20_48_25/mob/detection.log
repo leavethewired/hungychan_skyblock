@@ -1,0 +1,90 @@
+20:49:39 `Chicken`3248282 missed {
+ is already Found: false).
+ Position: LorenzVec(x=-0.53125, y=100.0, z=14.46875)
+ DistanceC: 17.771577569810987
+Relative Position: LorenzVec(x=-8.698040606234152, y=0.0, z=-17.771577569810987)
+ }
+20:49:39 `Chicken`3248281 missed {
+ is already Found: false).
+ Position: LorenzVec(x=4.5, y=100.0, z=13.5)
+ DistanceC: 18.740327569810987
+Relative Position: LorenzVec(x=-3.6667906062341515, y=0.0, z=-18.740327569810987)
+ }
+20:49:40 `Zombie`3248556 missed {
+ is already Found: false).
+ Position: LorenzVec(x=3.5, y=100.0, z=16.5)
+ DistanceC: 15.740327569810987
+Relative Position: LorenzVec(x=-4.6667906062341515, y=0.0, z=-15.740327569810987)
+ }
+20:49:40 `Sheep`3248238 missed {
+ is already Found: false).
+ Position: LorenzVec(x=3.3125, y=100.0, z=11.59375)
+ DistanceC: 20.646577569810987
+Relative Position: LorenzVec(x=-4.8542906062341515, y=0.0, z=-20.646577569810987)
+ }
+20:49:40 `Sheep`3248239 missed {
+ is already Found: false).
+ Position: LorenzVec(x=0.9270833333333334, y=100.0, z=10.4375)
+ DistanceC: 21.802827569810987
+Relative Position: LorenzVec(x=-7.2397072729008185, y=0.0, z=-21.802827569810987)
+ }
+20:49:40 `Sheep`3248240 missed {
+ is already Found: false).
+ Position: LorenzVec(x=4.53125, y=100.0, z=10.4375)
+ DistanceC: 21.802827569810987
+Relative Position: LorenzVec(x=-3.6355406062341515, y=0.0, z=-21.802827569810987)
+ }
+20:49:40 `Sheep`3248241 missed {
+ is already Found: false).
+ Position: LorenzVec(x=4.53125, y=100.0, z=11.59375)
+ DistanceC: 20.646577569810987
+Relative Position: LorenzVec(x=-3.6355406062341515, y=0.0, z=-20.646577569810987)
+ }
+20:49:40 `Chicken`3248280 missed {
+ is already Found: false).
+ Position: LorenzVec(x=-0.375, y=100.0, z=10.5)
+ DistanceC: 21.740327569810987
+Relative Position: LorenzVec(x=-8.541790606234152, y=0.0, z=-21.740327569810987)
+ }
+20:49:40 `Chicken`3248283 missed {
+ is already Found: false).
+ Position: LorenzVec(x=1.625, y=100.0, z=10.46875)
+ DistanceC: 21.771577569810987
+Relative Position: LorenzVec(x=-6.5417906062341515, y=0.0, z=-21.771577569810987)
+ }
+20:49:45 `Chicken`3248687 missed {
+ is already Found: false).
+ Position: LorenzVec(x=3.5, y=100.0, z=13.5)
+ DistanceC: 18.740327569810987
+Relative Position: LorenzVec(x=-4.6667906062341515, y=0.0, z=-18.740327569810987)
+ }
+20:49:48 `Cow`3248760 missed {
+ is already Found: false).
+ Position: LorenzVec(x=2.5, y=100.0, z=13.5)
+ DistanceC: 18.740327569810987
+Relative Position: LorenzVec(x=-5.6667906062341515, y=0.0, z=-18.740327569810987)
+ }
+20:49:54 `Sheep`3248974 missed {
+ is already Found: false).
+ Position: LorenzVec(x=0.5, y=100.0, z=14.5)
+ DistanceC: 17.740327569810987
+Relative Position: LorenzVec(x=-7.6667906062341515, y=0.0, z=-17.740327569810987)
+ }
+20:50:17 `Chicken`3250016 missed {
+ is already Found: false).
+ Position: LorenzVec(x=0.5, y=100.0, z=14.5)
+ DistanceC: 17.740327569810987
+Relative Position: LorenzVec(x=-7.6667906062341515, y=0.0, z=-17.740327569810987)
+ }
+20:50:21 `Cow`3250485 missed {
+ is already Found: false).
+ Position: LorenzVec(x=3.5, y=100.0, z=11.5)
+ DistanceC: 20.740327569810987
+Relative Position: LorenzVec(x=-4.6667906062341515, y=0.0, z=-20.740327569810987)
+ }
+20:50:27 `Sheep`3251509 missed {
+ is already Found: false).
+ Position: LorenzVec(x=3.5, y=100.0, z=13.5)
+ DistanceC: 18.740327569810987
+Relative Position: LorenzVec(x=-4.6667906062341515, y=0.0, z=-18.740327569810987)
+ }

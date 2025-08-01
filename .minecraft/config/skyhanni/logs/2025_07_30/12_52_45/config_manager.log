@@ -1,0 +1,112 @@
+12:52:46 Trying to load config from config\skyhanni\config.json
+12:52:46 load-config-now
+12:52:46 Loaded config from file
+12:52:46 Trying to load sacks from config\skyhanni\sacks.json
+12:52:46 load-sacks-now
+12:52:46 Loaded sacks from file
+12:52:46 Trying to load friends from config\skyhanni\friends.json
+12:52:46 load-friends-now
+12:52:46 Loaded friends from file
+12:52:46 Trying to load known_features from config\skyhanni\known_features.json
+12:52:46 load-known_features-now
+12:52:46 Loaded known_features from file
+12:52:46 Trying to load jacob_contests from config\skyhanni\jacob_contests.json
+12:52:46 load-jacob_contests-now
+12:52:47 Loaded jacob_contests from file
+12:52:47 Trying to load visual_words from config\skyhanni\visual_words.json
+12:52:47 Setting visual_words to be blank as it did not exist. It will be saved once something is written to it
+12:52:47 Trying to load pets from config\skyhanni\pets.json
+12:52:47 load-pets-now
+12:52:47 Loaded pets from file
+12:52:47 Trying to load storage from config\skyhanni\storage.json
+12:52:47 load-storage-now
+12:52:47 Loaded storage from file
+12:52:47 Trying to load routes from config\skyhanni\routes.json
+12:52:47 load-routes-now
+12:52:47 Loaded routes from file
+12:53:47 saveConfig: auto-save-60s
+12:53:47 Saving config file
+12:53:47 Saved config file successfully
+12:53:47 saveConfig: auto-save-60s
+12:53:47 Saving config file
+12:53:47 Saved config file successfully
+12:54:47 saveConfig: auto-save-60s
+12:54:47 Saving config file
+12:54:47 Saved config file successfully
+12:54:47 saveConfig: auto-save-60s
+12:54:47 Saving config file
+12:54:47 Saved config file successfully
+12:55:47 saveConfig: auto-save-60s
+12:55:47 Saving config file
+12:55:47 Saved config file successfully
+12:55:47 saveConfig: auto-save-60s
+12:55:47 Saving config file
+12:55:47 Saved config file successfully
+12:56:00 saveConfig: Updated known feature flags
+12:56:00 Saving known_features file
+12:56:00 Saved known_features file successfully
+12:56:00 saveConfig: Updated known feature flags
+12:56:00 Saving known_features file
+12:56:00 Saved known_features file successfully
+12:56:21 saveConfig: saving-data
+12:56:21 Saving pets file
+12:56:21 Saved pets file successfully
+12:56:21 saveConfig: saving-data
+12:56:21 Saving pets file
+12:56:21 Saved pets file successfully
+12:56:47 saveConfig: auto-save-60s
+12:56:47 Saving config file
+12:56:47 Saved config file successfully
+12:56:47 saveConfig: auto-save-60s
+12:56:47 Saving config file
+12:56:47 Saved config file successfully
+12:56:52 saveConfig: saving-data
+12:56:52 Saving pets file
+12:56:52 Saved pets file successfully
+12:56:52 saveConfig: saving-data
+12:56:52 Saving pets file
+12:56:52 Saved pets file successfully
+12:57:36 saveConfig: saving-data
+12:57:36 Saving pets file
+12:57:36 Saved pets file successfully
+12:57:36 saveConfig: saving-data
+12:57:36 Saving pets file
+12:57:36 Saved pets file successfully
+12:57:47 saveConfig: auto-save-60s
+12:57:47 Saving config file
+12:57:47 Saved config file successfully
+12:57:47 saveConfig: auto-save-60s
+12:57:47 Saving config file
+12:57:47 Saved config file successfully
+12:58:07 saveConfig: saving-data
+12:58:07 Saving pets file
+12:58:07 Saved pets file successfully
+12:58:07 saveConfig: saving-data
+12:58:07 Saving pets file
+12:58:07 Saved pets file successfully
+12:58:27 saveConfig: saving-data
+12:58:27 Saving sacks file
+12:58:27 Saved sacks file successfully
+12:58:27 saveConfig: saving-data
+12:58:27 Saving sacks file
+12:58:27 Saved sacks file successfully
+12:58:34 saveConfig: saving-data
+12:58:34 Saving sacks file
+12:58:34 Saved sacks file successfully
+12:58:34 saveConfig: saving-data
+12:58:34 Saving sacks file
+12:58:34 Saved sacks file successfully
+12:58:38 saveConfig: saving-data
+12:58:38 Saving pets file
+12:58:38 Saved pets file successfully
+12:58:38 saveConfig: saving-data
+12:58:38 Saving pets file
+12:58:38 Saved pets file successfully
+12:58:47 saveConfig: auto-save-60s
+12:58:47 Saving config file
+12:58:47 Saved config file successfully
+12:58:47 saveConfig: auto-save-60s
+12:58:47 Saving config file
+12:58:47 Saved config file successfully
+12:58:55 saveConfig: shutdown-hook
+12:58:55 Saving config file

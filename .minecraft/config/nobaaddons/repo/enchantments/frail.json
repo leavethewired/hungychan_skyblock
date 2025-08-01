@@ -1,0 +1,10 @@
+{
+	"type": "standard",
+	"id": "frail",
+	"name": "Frail",
+	"good": 5,
+	"max": 7,
+	"items": [
+		"FISHING_ROD"
+	]
+}

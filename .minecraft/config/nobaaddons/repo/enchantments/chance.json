@@ -1,0 +1,10 @@
+{
+	"type": "standard",
+	"id": "chance",
+	"name": "Chance",
+	"good": 3,
+	"max": 5,
+	"items": [
+		"BOW"
+	]
+}

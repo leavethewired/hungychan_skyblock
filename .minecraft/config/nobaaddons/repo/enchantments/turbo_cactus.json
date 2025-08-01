@@ -1,0 +1,12 @@
+{
+	"type": "standard",
+	"id": "turbo_cactus",
+	"name": "Turbo-Cacti",
+	"good": 1,
+	"max": 5,
+	"items": [
+		"HOE",
+		"AXE"
+	],
+	"abbreviation": "Cac."
+}

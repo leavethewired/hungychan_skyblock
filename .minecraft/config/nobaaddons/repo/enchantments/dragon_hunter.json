@@ -1,0 +1,13 @@
+{
+	"type": "standard",
+	"id": "dragon_hunter",
+	"name": "Dragon Hunter",
+	"good": 5,
+	"max": 5,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"BOW",
+		"GAUNTLET"
+	]
+}

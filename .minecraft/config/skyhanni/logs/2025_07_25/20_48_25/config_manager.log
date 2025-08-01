@@ -1,0 +1,88 @@
+20:48:27 Trying to load config from config\skyhanni\config.json
+20:48:27 load-config-now
+20:48:27 Loaded config from file
+20:48:27 Trying to load sacks from config\skyhanni\sacks.json
+20:48:27 load-sacks-now
+20:48:27 Loaded sacks from file
+20:48:27 Trying to load friends from config\skyhanni\friends.json
+20:48:27 load-friends-now
+20:48:27 Loaded friends from file
+20:48:27 Trying to load known_features from config\skyhanni\known_features.json
+20:48:27 load-known_features-now
+20:48:28 Loaded known_features from file
+20:48:28 Trying to load jacob_contests from config\skyhanni\jacob_contests.json
+20:48:28 load-jacob_contests-now
+20:48:28 Loaded jacob_contests from file
+20:48:28 Trying to load visual_words from config\skyhanni\visual_words.json
+20:48:28 Setting visual_words to be blank as it did not exist. It will be saved once something is written to it
+20:48:28 Trying to load pets from config\skyhanni\pets.json
+20:48:28 load-pets-now
+20:48:28 Loaded pets from file
+20:48:28 Trying to load storage from config\skyhanni\storage.json
+20:48:28 load-storage-now
+20:48:28 Loaded storage from file
+20:48:28 Trying to load routes from config\skyhanni\routes.json
+20:48:28 load-routes-now
+20:48:28 Loaded routes from file
+20:49:13 saveConfig: Updated known feature flags
+20:49:13 Saving known_features file
+20:49:13 Saved known_features file successfully
+20:49:13 saveConfig: Updated known feature flags
+20:49:13 Saving known_features file
+20:49:13 Saved known_features file successfully
+20:49:28 saveConfig: auto-save-60s
+20:49:28 Saving config file
+20:49:28 Saved config file successfully
+20:49:28 saveConfig: auto-save-60s
+20:49:28 Saving config file
+20:49:28 Saved config file successfully
+20:49:31 saveConfig: saving-data
+20:49:31 Saving pets file
+20:49:31 Saved pets file successfully
+20:49:31 saveConfig: saving-data
+20:49:31 Saving pets file
+20:49:31 Saved pets file successfully
+20:49:39 saveConfig: Updated Items
+20:49:39 Saving storage file
+20:49:39 Saved storage file successfully
+20:49:39 saveConfig: Updated Items
+20:49:39 Saving storage file
+20:49:39 Saved storage file successfully
+20:49:43 saveConfig: Updated Items
+20:49:43 Saving storage file
+20:49:43 Saved storage file successfully
+20:49:43 saveConfig: Updated Items
+20:49:43 Saving storage file
+20:49:43 Saved storage file successfully
+20:49:44 saveConfig: Updated Items
+20:49:44 Saving storage file
+20:49:44 Saved storage file successfully
+20:49:44 saveConfig: Updated Items
+20:49:44 Saving storage file
+20:49:44 Saved storage file successfully
+20:49:51 saveConfig: Updated Items
+20:49:51 Saving storage file
+20:49:51 Saved storage file successfully
+20:49:51 saveConfig: Updated Items
+20:49:51 Saving storage file
+20:49:51 Saved storage file successfully
+20:50:02 saveConfig: saving-data
+20:50:02 Saving pets file
+20:50:02 Saved pets file successfully
+20:50:02 saveConfig: saving-data
+20:50:02 Saving pets file
+20:50:02 Saved pets file successfully
+20:50:26 saveConfig: Updated Items
+20:50:26 Saving storage file
+20:50:26 Saved storage file successfully
+20:50:26 saveConfig: Updated Items
+20:50:26 Saving storage file
+20:50:26 Saved storage file successfully
+20:50:28 saveConfig: auto-save-60s
+20:50:28 Saving config file
+20:50:28 Saved config file successfully
+20:50:28 saveConfig: auto-save-60s
+20:50:28 Saving config file
+20:50:28 Saved config file successfully
+20:50:41 saveConfig: shutdown-hook
+20:50:41 Saving config file

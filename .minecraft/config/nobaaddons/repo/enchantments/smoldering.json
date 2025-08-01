@@ -1,0 +1,13 @@
+{
+	"type": "standard",
+	"id": "smoldering",
+	"name": "Smoldering",
+	"good": 1,
+	"max": 5,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"BOW",
+		"GAUNTLET"
+	]
+}

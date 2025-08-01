@@ -1,0 +1,69 @@
+{
+  "rarities": {
+    "legendary": {
+      "level_1": 1,
+      "level_2": 1,
+      "level_3": 1,
+      "level_4": 2,
+      "level_5": 2,
+      "level_6": 2,
+      "level_7": 3,
+      "level_8": 3,
+      "level_9": 4,
+      "level_10": 5,
+      "total": 24
+    },
+    "epic": {
+      "level_1": 1,
+      "level_2": 1,
+      "level_3": 2,
+      "level_4": 2,
+      "level_5": 3,
+      "level_6": 3,
+      "level_7": 4,
+      "level_8": 4,
+      "level_9": 5,
+      "level_10": 7,
+      "total": 32
+    },
+    "rare": {
+      "level_1": 1,
+      "level_2": 2,
+      "level_3": 3,
+      "level_4": 3,
+      "level_5": 4,
+      "level_6": 4,
+      "level_7": 5,
+      "level_8": 6,
+      "level_9": 8,
+      "level_10": 12,
+      "total": 48
+    },
+    "uncommon": {
+      "level_1": 1,
+      "level_2": 2,
+      "level_3": 3,
+      "level_4": 4,
+      "level_5": 5,
+      "level_6": 6,
+      "level_7": 7,
+      "level_8": 8,
+      "level_9": 12,
+      "level_10": 16,
+      "total": 64
+    },
+    "common": {
+      "level_1": 1,
+      "level_2": 3,
+      "level_3": 5,
+      "level_4": 6,
+      "level_5": 7,
+      "level_6": 8,
+      "level_7": 10,
+      "level_8": 14,
+      "level_9": 18,
+      "level_10": 24,
+      "total": 96
+    }
+  }
+}

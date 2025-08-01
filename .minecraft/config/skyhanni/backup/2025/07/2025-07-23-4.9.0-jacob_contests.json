@@ -1,0 +1,996 @@
+{
+  "knownContests": [
+    {
+      "startTime": 1753197300000,
+      "crops": [
+        "COCOA_BEANS",
+        "NETHER_WART",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753200900000,
+      "crops": [
+        "MELON",
+        "CARROT",
+        "WHEAT"
+      ]
+    },
+    {
+      "startTime": 1753204500000,
+      "crops": [
+        "CACTUS",
+        "SUGAR_CANE",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "startTime": 1753208100000,
+      "crops": [
+        "SUGAR_CANE",
+        "PUMPKIN",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753211700000,
+      "crops": [
+        "CARROT",
+        "WHEAT",
+        "POTATO"
+      ]
+    },
+    {
+      "startTime": 1753215300000,
+      "crops": [
+        "MELON",
+        "NETHER_WART",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753218900000,
+      "crops": [
+        "NETHER_WART",
+        "PUMPKIN",
+        "CARROT"
+      ]
+    },
+    {
+      "startTime": 1753222500000,
+      "crops": [
+        "WHEAT",
+        "CACTUS",
+        "COCOA_BEANS"
+      ]
+    },
+    {
+      "startTime": 1753226100000,
+      "crops": [
+        "MELON",
+        "SUGAR_CANE",
+        "POTATO"
+      ]
+    },
+    {
+      "startTime": 1753229700000,
+      "crops": [
+        "MUSHROOM",
+        "CACTUS",
+        "CARROT"
+      ]
+    },
+    {
+      "startTime": 1753233300000,
+      "crops": [
+        "MELON",
+        "COCOA_BEANS",
+        "WHEAT"
+      ]
+    },
+    {
+      "startTime": 1753236900000,
+      "crops": [
+        "POTATO",
+        "PUMPKIN",
+        "SUGAR_CANE"
+      ]
+    },
+    {
+      "startTime": 1753240500000,
+      "crops": [
+        "NETHER_WART",
+        "CACTUS",
+        "CARROT"
+      ]
+    },
+    {
+      "startTime": 1753244100000,
+      "crops": [
+        "POTATO",
+        "SUGAR_CANE",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753247700000,
+      "crops": [
+        "WHEAT",
+        "COCOA_BEANS",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "startTime": 1753251300000,
+      "crops": [
+        "CARROT",
+        "NETHER_WART",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753254900000,
+      "crops": [
+        "COCOA_BEANS",
+        "SUGAR_CANE",
+        "WHEAT"
+      ]
+    },
+    {
+      "startTime": 1753258500000,
+      "crops": [
+        "MUSHROOM",
+        "PUMPKIN",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753262100000,
+      "crops": [
+        "WHEAT",
+        "MUSHROOM",
+        "COCOA_BEANS"
+      ]
+    },
+    {
+      "startTime": 1753265700000,
+      "crops": [
+        "CARROT",
+        "NETHER_WART",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753269300000,
+      "crops": [
+        "PUMPKIN",
+        "MELON",
+        "POTATO"
+      ]
+    },
+    {
+      "startTime": 1753272900000,
+      "crops": [
+        "COCOA_BEANS",
+        "MUSHROOM",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753276500000,
+      "crops": [
+        "PUMPKIN",
+        "NETHER_WART",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753280100000,
+      "crops": [
+        "POTATO",
+        "WHEAT",
+        "SUGAR_CANE"
+      ]
+    },
+    {
+      "startTime": 1753283700000,
+      "crops": [
+        "COCOA_BEANS",
+        "SUGAR_CANE",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753287300000,
+      "crops": [
+        "PUMPKIN",
+        "MUSHROOM",
+        "NETHER_WART"
+      ]
+    },
+    {
+      "startTime": 1753290900000,
+      "crops": [
+        "WHEAT",
+        "POTATO",
+        "CARROT"
+      ]
+    },
+    {
+      "startTime": 1753294500000,
+      "crops": [
+        "COCOA_BEANS",
+        "CARROT",
+        "SUGAR_CANE"
+      ]
+    },
+    {
+      "startTime": 1753298100000,
+      "crops": [
+        "POTATO",
+        "MELON",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "startTime": 1753301700000,
+      "crops": [
+        "NETHER_WART",
+        "MUSHROOM",
+        "WHEAT"
+      ]
+    },
+    {
+      "startTime": 1753305300000,
+      "crops": [
+        "COCOA_BEANS",
+        "MELON",
+        "NETHER_WART"
+      ]
+    },
+    {
+      "startTime": 1753308900000,
+      "crops": [
+        "CARROT",
+        "SUGAR_CANE",
+        "WHEAT"
+      ]
+    },
+    {
+      "startTime": 1753312500000,
+      "crops": [
+        "MUSHROOM",
+        "CACTUS",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "startTime": 1753316100000,
+      "crops": [
+        "COCOA_BEANS",
+        "PUMPKIN",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753319700000,
+      "crops": [
+        "WHEAT",
+        "MELON",
+        "CARROT"
+      ]
+    },
+    {
+      "startTime": 1753323300000,
+      "crops": [
+        "SUGAR_CANE",
+        "POTATO",
+        "NETHER_WART"
+      ]
+    },
+    {
+      "startTime": 1753326900000,
+      "crops": [
+        "POTATO",
+        "MUSHROOM",
+        "COCOA_BEANS"
+      ]
+    },
+    {
+      "startTime": 1753330500000,
+      "crops": [
+        "PUMPKIN",
+        "CACTUS",
+        "SUGAR_CANE"
+      ]
+    },
+    {
+      "startTime": 1753334100000,
+      "crops": [
+        "WHEAT",
+        "NETHER_WART",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753337700000,
+      "crops": [
+        "CARROT",
+        "MELON",
+        "COCOA_BEANS"
+      ]
+    },
+    {
+      "startTime": 1753341300000,
+      "crops": [
+        "SUGAR_CANE",
+        "POTATO",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753344900000,
+      "crops": [
+        "MUSHROOM",
+        "PUMPKIN",
+        "WHEAT"
+      ]
+    },
+    {
+      "startTime": 1753348500000,
+      "crops": [
+        "WHEAT",
+        "CARROT",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753352100000,
+      "crops": [
+        "POTATO",
+        "NETHER_WART",
+        "SUGAR_CANE"
+      ]
+    },
+    {
+      "startTime": 1753355700000,
+      "crops": [
+        "MUSHROOM",
+        "COCOA_BEANS",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "startTime": 1753359300000,
+      "crops": [
+        "POTATO",
+        "MELON",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753362900000,
+      "crops": [
+        "COCOA_BEANS",
+        "CARROT",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753366500000,
+      "crops": [
+        "PUMPKIN",
+        "WHEAT",
+        "NETHER_WART"
+      ]
+    },
+    {
+      "startTime": 1753370100000,
+      "crops": [
+        "NETHER_WART",
+        "SUGAR_CANE",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753373700000,
+      "crops": [
+        "COCOA_BEANS",
+        "CACTUS",
+        "POTATO"
+      ]
+    },
+    {
+      "startTime": 1753377300000,
+      "crops": [
+        "WHEAT",
+        "CARROT",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753380900000,
+      "crops": [
+        "SUGAR_CANE",
+        "COCOA_BEANS",
+        "POTATO"
+      ]
+    },
+    {
+      "startTime": 1753384500000,
+      "crops": [
+        "PUMPKIN",
+        "CACTUS",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753388100000,
+      "crops": [
+        "MUSHROOM",
+        "NETHER_WART",
+        "WHEAT"
+      ]
+    },
+    {
+      "startTime": 1753391700000,
+      "crops": [
+        "SUGAR_CANE",
+        "MUSHROOM",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753395300000,
+      "crops": [
+        "POTATO",
+        "WHEAT",
+        "COCOA_BEANS"
+      ]
+    },
+    {
+      "startTime": 1753398900000,
+      "crops": [
+        "NETHER_WART",
+        "CARROT",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "startTime": 1753402500000,
+      "crops": [
+        "SUGAR_CANE",
+        "COCOA_BEANS",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753406100000,
+      "crops": [
+        "CARROT",
+        "MELON",
+        "POTATO"
+      ]
+    },
+    {
+      "startTime": 1753409700000,
+      "crops": [
+        "PUMPKIN",
+        "MUSHROOM",
+        "NETHER_WART"
+      ]
+    },
+    {
+      "startTime": 1753413300000,
+      "crops": [
+        "COCOA_BEANS",
+        "POTATO",
+        "NETHER_WART"
+      ]
+    },
+    {
+      "startTime": 1753416900000,
+      "crops": [
+        "WHEAT",
+        "PUMPKIN",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753420500000,
+      "crops": [
+        "CARROT",
+        "SUGAR_CANE",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753424100000,
+      "crops": [
+        "CARROT",
+        "COCOA_BEANS",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753427700000,
+      "crops": [
+        "WHEAT",
+        "SUGAR_CANE",
+        "POTATO"
+      ]
+    },
+    {
+      "startTime": 1753431300000,
+      "crops": [
+        "CACTUS",
+        "MUSHROOM",
+        "NETHER_WART"
+      ]
+    },
+    {
+      "startTime": 1753434900000,
+      "crops": [
+        "WHEAT",
+        "COCOA_BEANS",
+        "CARROT"
+      ]
+    },
+    {
+      "startTime": 1753438500000,
+      "crops": [
+        "MELON",
+        "CACTUS",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753442100000,
+      "crops": [
+        "PUMPKIN",
+        "SUGAR_CANE",
+        "POTATO"
+      ]
+    },
+    {
+      "startTime": 1753445700000,
+      "crops": [
+        "MUSHROOM",
+        "CACTUS",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753449300000,
+      "crops": [
+        "CARROT",
+        "COCOA_BEANS",
+        "WHEAT"
+      ]
+    },
+    {
+      "startTime": 1753452900000,
+      "crops": [
+        "SUGAR_CANE",
+        "PUMPKIN",
+        "NETHER_WART"
+      ]
+    },
+    {
+      "startTime": 1753456500000,
+      "crops": [
+        "POTATO",
+        "COCOA_BEANS",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753460100000,
+      "crops": [
+        "WHEAT",
+        "CACTUS",
+        "NETHER_WART"
+      ]
+    },
+    {
+      "startTime": 1753463700000,
+      "crops": [
+        "CARROT",
+        "MELON",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "startTime": 1753467300000,
+      "crops": [
+        "COCOA_BEANS",
+        "POTATO",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753470900000,
+      "crops": [
+        "WHEAT",
+        "SUGAR_CANE",
+        "CARROT"
+      ]
+    },
+    {
+      "startTime": 1753474500000,
+      "crops": [
+        "MELON",
+        "NETHER_WART",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753478100000,
+      "crops": [
+        "CACTUS",
+        "CARROT",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753481700000,
+      "crops": [
+        "PUMPKIN",
+        "MUSHROOM",
+        "SUGAR_CANE"
+      ]
+    },
+    {
+      "startTime": 1753485300000,
+      "crops": [
+        "COCOA_BEANS",
+        "WHEAT",
+        "POTATO"
+      ]
+    },
+    {
+      "startTime": 1753488900000,
+      "crops": [
+        "WHEAT",
+        "PUMPKIN",
+        "NETHER_WART"
+      ]
+    },
+    {
+      "startTime": 1753492500000,
+      "crops": [
+        "COCOA_BEANS",
+        "SUGAR_CANE",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753496100000,
+      "crops": [
+        "CARROT",
+        "MELON",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753499700000,
+      "crops": [
+        "COCOA_BEANS",
+        "POTATO",
+        "WHEAT"
+      ]
+    },
+    {
+      "startTime": 1753503300000,
+      "crops": [
+        "NETHER_WART",
+        "PUMPKIN",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753506900000,
+      "crops": [
+        "CACTUS",
+        "MUSHROOM",
+        "CARROT"
+      ]
+    },
+    {
+      "startTime": 1753510500000,
+      "crops": [
+        "PUMPKIN",
+        "WHEAT",
+        "NETHER_WART"
+      ]
+    },
+    {
+      "startTime": 1753514100000,
+      "crops": [
+        "CARROT",
+        "POTATO",
+        "COCOA_BEANS"
+      ]
+    },
+    {
+      "startTime": 1753517700000,
+      "crops": [
+        "SUGAR_CANE",
+        "MELON",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753521300000,
+      "crops": [
+        "CACTUS",
+        "SUGAR_CANE",
+        "CARROT"
+      ]
+    },
+    {
+      "startTime": 1753524900000,
+      "crops": [
+        "NETHER_WART",
+        "PUMPKIN",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753528500000,
+      "crops": [
+        "POTATO",
+        "MUSHROOM",
+        "COCOA_BEANS"
+      ]
+    },
+    {
+      "startTime": 1753532100000,
+      "crops": [
+        "COCOA_BEANS",
+        "WHEAT",
+        "NETHER_WART"
+      ]
+    },
+    {
+      "startTime": 1753535700000,
+      "crops": [
+        "CACTUS",
+        "SUGAR_CANE",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "startTime": 1753539300000,
+      "crops": [
+        "POTATO",
+        "CARROT",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753542900000,
+      "crops": [
+        "WHEAT",
+        "PUMPKIN",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753546500000,
+      "crops": [
+        "MUSHROOM",
+        "NETHER_WART",
+        "SUGAR_CANE"
+      ]
+    },
+    {
+      "startTime": 1753550100000,
+      "crops": [
+        "CACTUS",
+        "POTATO",
+        "CARROT"
+      ]
+    },
+    {
+      "startTime": 1753553700000,
+      "crops": [
+        "WHEAT",
+        "POTATO",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "startTime": 1753557300000,
+      "crops": [
+        "COCOA_BEANS",
+        "NETHER_WART",
+        "MELON"
+      ]
+    },
+    {
+      "startTime": 1753560900000,
+      "crops": [
+        "MUSHROOM",
+        "CARROT",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753564500000,
+      "crops": [
+        "COCOA_BEANS",
+        "MELON",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753157700000,
+      "crops": [
+        "CACTUS",
+        "NETHER_WART",
+        "POTATO"
+      ]
+    },
+    {
+      "startTime": 1753161300000,
+      "crops": [
+        "SUGAR_CANE",
+        "CARROT",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "startTime": 1753164900000,
+      "crops": [
+        "MELON",
+        "COCOA_BEANS",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753168500000,
+      "crops": [
+        "CARROT",
+        "POTATO",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "startTime": 1753172100000,
+      "crops": [
+        "NETHER_WART",
+        "WHEAT",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753175700000,
+      "crops": [
+        "MUSHROOM",
+        "CARROT",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753179300000,
+      "crops": [
+        "WHEAT",
+        "COCOA_BEANS",
+        "SUGAR_CANE"
+      ]
+    },
+    {
+      "startTime": 1753182900000,
+      "crops": [
+        "MELON",
+        "NETHER_WART",
+        "POTATO"
+      ]
+    },
+    {
+      "startTime": 1753186500000,
+      "crops": [
+        "PUMPKIN",
+        "MELON",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753190100000,
+      "crops": [
+        "NETHER_WART",
+        "WHEAT",
+        "CARROT"
+      ]
+    },
+    {
+      "startTime": 1753193700000,
+      "crops": [
+        "POTATO",
+        "COCOA_BEANS",
+        "SUGAR_CANE"
+      ]
+    },
+    {
+      "startTime": 1753121700000,
+      "crops": [
+        "POTATO",
+        "COCOA_BEANS",
+        "SUGAR_CANE"
+      ]
+    },
+    {
+      "startTime": 1753125300000,
+      "crops": [
+        "MELON",
+        "WHEAT",
+        "CARROT"
+      ]
+    },
+    {
+      "startTime": 1753128900000,
+      "crops": [
+        "NETHER_WART",
+        "PUMPKIN",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753132500000,
+      "crops": [
+        "NETHER_WART",
+        "WHEAT",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753136100000,
+      "crops": [
+        "PUMPKIN",
+        "COCOA_BEANS",
+        "CACTUS"
+      ]
+    },
+    {
+      "startTime": 1753139700000,
+      "crops": [
+        "SUGAR_CANE",
+        "MELON",
+        "POTATO"
+      ]
+    },
+    {
+      "startTime": 1753143300000,
+      "crops": [
+        "CACTUS",
+        "PUMPKIN",
+        "NETHER_WART"
+      ]
+    },
+    {
+      "startTime": 1753146900000,
+      "crops": [
+        "COCOA_BEANS",
+        "POTATO",
+        "MUSHROOM"
+      ]
+    },
+    {
+      "startTime": 1753150500000,
+      "crops": [
+        "CARROT",
+        "WHEAT",
+        "SUGAR_CANE"
+      ]
+    },
+    {
+      "startTime": 1753154100000,
+      "crops": [
+        "MUSHROOM",
+        "COCOA_BEANS",
+        "MELON"
+      ]
+    }
+  ]
+}

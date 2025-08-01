@@ -1,0 +1,9 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_the_one",
+	"name": "The One",
+	"max": 5,
+	"items": [
+		"NECKLACE"
+	]
+}

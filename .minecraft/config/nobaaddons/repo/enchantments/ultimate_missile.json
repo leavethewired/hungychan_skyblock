@@ -1,0 +1,9 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_missile",
+	"name": "Missile",
+	"max": 5,
+	"items": [
+		"AXE"
+	]
+}

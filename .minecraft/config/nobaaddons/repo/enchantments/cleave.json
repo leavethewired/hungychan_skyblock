@@ -1,0 +1,12 @@
+{
+	"type": "standard",
+	"id": "cleave",
+	"name": "Cleave",
+	"good": 5,
+	"max": 6,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	]
+}

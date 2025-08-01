@@ -1,0 +1,13 @@
+{
+	"type": "standard",
+	"id": "ice_cold",
+	"name": "Ice Cold",
+	"good": 1,
+	"max": 5,
+	"items": [
+		"HELMET",
+		"CHESTPLATE",
+		"LEGGINGS",
+		"BOOTS"
+	]
+}

@@ -1,0 +1,107 @@
+{
+  "gui": {
+    "infoText": "",
+    "openConfigKey": -1,
+    "openHudEditorKey": -1,
+    "fullHudEditor": true
+  },
+  "chat": {
+    "chatFilters": {
+      "hideWatchdog": true,
+      "hideFireSale": true,
+      "hideSkyMallChange": false
+    }
+  },
+  "dungeon": {
+    "requeueKey": -1,
+    "shortCommands": false
+  },
+  "foraging": {
+    "infoText": "",
+    "neededWhisperHud": true,
+    "onePerkAtATime": true
+  },
+  "garden": {
+    "mouseSensitivity": {
+      "mouseSensitivity": -1,
+      "showHud": false,
+      "onGarden": true,
+      "disableOnWarp": true
+    },
+    "warpToSpawn": -1,
+    "gardenMap": {
+      "enabled": false,
+      "infoText": "",
+      "backgroundColor": "0:250:13:13:13",
+      "defaultPlotColor": "0:255:211:211:211",
+      "textColor": "0:255:255:255:255",
+      "plotTextColor": "0:255:0:0:0",
+      "pestColor": "0:255:255:179:0",
+      "sprayColor": "0:255:0:249:255",
+      "playerIconType": "ARROW",
+      "playerIconColor": "0:150:255:0:112"
+    }
+  },
+  "mining": {
+    "infoText": "",
+    "neededPowderHud": true,
+    "onePerkAtATime": true
+  },
+  "inventory": {
+    "attributeMenu": {
+      "highlightDisabled": true,
+      "highlightMaxed": true,
+      "showMaxStatBoost": "SHIFT",
+      "showShardsLeftToMax": "ALWAYS",
+      "obtainOption": "SHIFT",
+      "levelNumber": true,
+      "hideDescription": false
+    },
+    "powerStone": {
+      "favoriteKey": -1,
+      "powerStoneColor": "0:220:255:170:0"
+    },
+    "abiContact": {
+      "favoriteKey": -1,
+      "abiContactColor": "0:220:255:170:0"
+    },
+    "petMenu": {
+      "activePet": false,
+      "favoriteKey": -1,
+      "showXPSharedPets": true,
+      "petHighlightColor": "0:220:255:170:0",
+      "petActiveColor": "0:220:0:255:0",
+      "xpSharedColor": "0:255:0:255:255"
+    }
+  },
+  "miscFeatures": {
+    "keybinds": {
+      "petsMenuKeybind": -1,
+      "storageMenuKeybind": -1,
+      "wardrobeMenuKeybind": -1,
+      "equipmentMenuKeybind": -1,
+      "potionBagKeybind": -1,
+      "tradeMenuKeybind": -1
+    },
+    "funny": {
+      "spacemanHelmetConfig": {
+        "realisticSpacemanHelmet": false,
+        "onlyIfEquipped": true
+      }
+    },
+    "blockBreakingParticles": false,
+    "hidePotionHud": false
+  },
+  "dev": {
+    "enabledDevMode": true,
+    "locationCommand": false,
+    "soundDetector": true,
+    "copyItemDataKey": -1,
+    "repo": {
+      "infoText": "",
+      "attributeMenuRepoBuilder": false,
+      "attributeMenuInfoRepoBuilder": false,
+      "attributeDataFromBazaar": false
+    }
+  }
+}

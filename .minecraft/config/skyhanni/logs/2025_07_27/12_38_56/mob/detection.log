@@ -1,0 +1,24 @@
+12:40:10 `Enderman`3019567 missed {
+ is already Found: false).
+ Position: LorenzVec(x=-511.5, y=69.0, z=-275.625)
+ DistanceC: 8.5
+Relative Position: LorenzVec(x=-8.5, y=-32.0, z=-0.625)
+ }
+12:40:10 `Enderman`3021275 missed {
+ is already Found: false).
+ Position: LorenzVec(x=-517.71875, y=71.0, z=-263.625)
+ DistanceC: 14.71875
+Relative Position: LorenzVec(x=-14.71875, y=-30.0, z=11.375)
+ }
+12:40:10 `Enderman`3021277 missed {
+ is already Found: false).
+ Position: LorenzVec(x=-516.1875, y=71.0625, z=-262.34375)
+ DistanceC: 13.1875
+Relative Position: LorenzVec(x=-13.1875, y=-29.9375, z=12.65625)
+ }
+12:40:10 `Enderman`3021273 missed {
+ is already Found: false).
+ Position: LorenzVec(x=-513.65625, y=69.0, z=-289.90625)
+ DistanceC: 14.90625
+Relative Position: LorenzVec(x=-10.65625, y=-32.0, z=-14.90625)
+ }

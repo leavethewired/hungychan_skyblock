@@ -1,0 +1,951 @@
+[
+  {
+    "id": [
+      "282,66",
+      "102,66"
+    ],
+    "name": "Spawn"
+  },
+  {
+    "id": [
+      "710,-592"
+    ],
+    "name": "Mines",
+    "secrets": 10
+  },
+  {
+    "id": [
+      "642,-384"
+    ],
+    "name": "Doors",
+    "secrets": 5
+  },
+  {
+    "id": [
+      "246,-132"
+    ],
+    "name": "Locked Away",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "750,-240"
+    ],
+    "name": "Beams",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "30,-204"
+    ],
+    "name": "Hall"
+  },
+  {
+    "id": [
+      "30,-276"
+    ],
+    "name": "Banners",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "30,-132"
+    ],
+    "name": "Andesite",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "30,-96"
+    ],
+    "name": "Painting",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "66,-348"
+    ],
+    "name": "Multicolored",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "534,-312"
+    ],
+    "name": "Black Flag",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "642,-168"
+    ],
+    "name": "Overgrown Chains",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "498,-132"
+    ],
+    "name": "Chains",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "174,-312"
+    ],
+    "name": "Golden Oasis",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "1118,-384"
+    ],
+    "name": "Redstone Warrior",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "30,-168"
+    ],
+    "name": "Silvers Sword",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "30,-384"
+    ],
+    "name": "Pedestal",
+    "secrets": 5
+  },
+  {
+    "id": [
+      "678,-240"
+    ],
+    "name": "Temple",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "102,-96"
+    ],
+    "name": "Big Red Flag",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "462,-132"
+    ],
+    "name": "Mural",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "462,-96"
+    ],
+    "name": "Perch",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "678,-168"
+    ],
+    "name": "End",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "498,-276"
+    ],
+    "name": "Cage",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "66,-276"
+    ],
+    "name": "Sloth",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "138,-204"
+    ],
+    "name": "Steps",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "66,-168"
+    ],
+    "name": "Granite",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "438,-384"
+    ],
+    "name": "Crypt",
+    "secrets": 5
+  },
+  {
+    "id": [
+      "138,-168"
+    ],
+    "name": "Dueces",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "570,-240"
+    ],
+    "name": "Red Green",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "534,-96"
+    ],
+    "name": "Long Hall",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "174,-168"
+    ],
+    "name": "Mirror",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "30,-348"
+    ],
+    "name": "Quad Lava",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "210,-96"
+    ],
+    "name": "Waterfall",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "66,-96"
+    ],
+    "name": "Basement",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "498,-240"
+    ],
+    "name": "Dip",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "498,-204"
+    ],
+    "name": "Water",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "642,-240"
+    ],
+    "name": "Dome",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "210,-132"
+    ],
+    "name": "Scaffolding",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "606,-168"
+    ],
+    "name": "Small Stairs",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "138,-132"
+    ],
+    "name": "Tomioka"
+  },
+  {
+    "id": [
+      "174,-132"
+    ],
+    "name": "Mushroom",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "570,-168"
+    ],
+    "name": "Slabs",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "30,-240"
+    ],
+    "name": "Duncan",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "102,-312"
+    ],
+    "name": "Logs",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "750,-168"
+    ],
+    "name": "Cages",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "102,-168"
+    ],
+    "name": "Admin"
+  },
+  {
+    "id": [
+      "98,-384"
+    ],
+    "name": "Skull",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "710,-384"
+    ],
+    "name": "Balcony",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "66,-312"
+    ],
+    "name": "Knight",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "462,-204"
+    ],
+    "name": "Sarcophagus",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "462,-168"
+    ],
+    "name": "Drop",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "174,-96"
+    ],
+    "name": "Raccoon",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "642,-96"
+    ],
+    "name": "Double Diamond",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "102,-132"
+    ],
+    "name": "Blue Skulls",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "66,-240"
+    ],
+    "name": "Leaves",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "710,-524"
+    ],
+    "name": "Withermancers",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "534,-168"
+    ],
+    "name": "Redstone Key",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "66,-132"
+    ],
+    "name": "Prison Cell",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "66,-204"
+    ],
+    "name": "Cell",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "534,-204"
+    ],
+    "name": "Arrow Trap",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "1050,-384"
+    ],
+    "name": "Bridges",
+    "secrets": 6
+  },
+  {
+    "id": [
+      "102,-348"
+    ],
+    "name": "Cobble Wall Pillar",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "498,-168"
+    ],
+    "name": "Spikes",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "166,-384"
+    ],
+    "name": "Gold",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "506,-524"
+    ],
+    "name": "Chambers",
+    "secrets": 5
+  },
+  {
+    "id": [
+      "642,-524"
+    ],
+    "name": "Lava Ravine",
+    "secrets": 6
+  },
+  {
+    "id": [
+      "530,-420"
+    ],
+    "name": "Wizard",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "714,-240"
+    ],
+    "name": "Overgrown",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "102,-204"
+    ],
+    "name": "Jumping Skulls",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "102,-240"
+    ],
+    "name": "Lots Of Floors",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "778,-384"
+    ],
+    "name": "Purple Flags",
+    "secrets": 5
+  },
+  {
+    "id": [
+      "574,-384"
+    ],
+    "name": "Archway",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "506,-384"
+    ],
+    "name": "Mage",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "1322,-384"
+    ],
+    "name": "Grass Ruin",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "1526,-384"
+    ],
+    "name": "Grand Library",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "690,-456"
+    ],
+    "name": "Pit",
+    "secrets": 5
+  },
+  {
+    "id": [
+      "778,-592"
+    ],
+    "name": "Atlas",
+    "secrets": 6
+  },
+  {
+    "id": [
+      "1050,-524"
+    ],
+    "name": "Layers",
+    "secrets": 8
+  },
+  {
+    "id": [
+      "822,-456"
+    ],
+    "name": "Waterfall",
+    "secrets": 8
+  },
+  {
+    "id": [
+      "1186,-384"
+    ],
+    "name": "Pressure Plate",
+    "secrets": 6
+  },
+  {
+    "id": [
+      "642,-592"
+    ],
+    "name": "Super Tall",
+    "secrets": 6
+  },
+  {
+    "id": [
+      "30,-420"
+    ],
+    "name": "Gravel",
+    "secrets": 6
+  },
+  {
+    "id": [
+      "506,-592"
+    ],
+    "name": "Cathedral",
+    "secrets": 8
+  },
+  {
+    "id": [
+      "130,-420"
+    ],
+    "name": "Red Blue",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "234,-524"
+    ],
+    "name": "Spider",
+    "secrets": 9
+  },
+  {
+    "id": [
+      "730,-420"
+    ],
+    "name": "Deathmite",
+    "secrets": 6
+  },
+  {
+    "id": [
+      "846,-592"
+    ],
+    "name": "Museum",
+    "secrets": 5
+  },
+  {
+    "id": [
+      "574,-524"
+    ],
+    "name": "Market",
+    "secrets": 5
+  },
+  {
+    "id": [
+      "166,-524"
+    ],
+    "name": "Melon",
+    "secrets": 7
+  },
+  {
+    "id": [
+      "30,-456"
+    ],
+    "name": "Mossy",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "574,-592"
+    ],
+    "name": "Flags",
+    "secrets": 7
+  },
+  {
+    "id": [
+      "438,-524"
+    ],
+    "name": "Well",
+    "secrets": 7
+  },
+  {
+    "id": [
+      "162,-456"
+    ],
+    "name": "Hallway",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "230,-420"
+    ],
+    "name": "Diagonal",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "630,-420"
+    ],
+    "name": "Catwalk",
+    "secrets": 6
+  },
+  {
+    "id": [
+      "778,-524"
+    ],
+    "name": "Dino Dig Site",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "234,-592"
+    ],
+    "name": "Stairs",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "558,-456"
+    ],
+    "name": "Quartz Knight",
+    "secrets": 7
+  },
+  {
+    "id": [
+      "438,-592"
+    ],
+    "name": "Buttons",
+    "secrets": 5
+  },
+  {
+    "id": [
+      "166,-592"
+    ],
+    "name": "Rail Track",
+    "secrets": 9
+  },
+  {
+    "id": [
+      "354,-60"
+    ],
+    "name": "Sanctuary",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "282,-60"
+    ],
+    "name": "Pillars",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "102,-60"
+    ],
+    "name": "Sand Dragon",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "66,-60"
+    ],
+    "name": "Tombstone",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "30,-60"
+    ],
+    "name": "Stone Window",
+    "secrets": 2
+  },
+  {
+    "id": [
+      "318,-60"
+    ],
+    "name": "Lava Pool",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "174,-60"
+    ],
+    "name": "Lava Skull",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "210,-60"
+    ],
+    "name": "Mini Rail Track",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "570,-312"
+    ],
+    "name": "Carpets",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "246,-60"
+    ],
+    "name": "Trinity",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "138,-60"
+    ],
+    "name": "Hanging Vines",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "174,66",
+      "246,102",
+      "210,66"
+    ],
+    "name": "Miniboss"
+  },
+  {
+    "id": [
+      "210,102"
+    ],
+    "name": "King Midas"
+  },
+  {
+    "id": [
+      "318,66"
+    ],
+    "name": "Shadow Assassin"
+  },
+  {
+    "id": [
+      "-60,-96"
+    ],
+    "name": "Three Weirdos"
+  },
+  {
+    "id": [
+      "-60,-60"
+    ],
+    "name": "Water Board"
+  },
+  {
+    "id": [
+      "-132,-492"
+    ],
+    "name": "Ice Fill"
+  },
+  {
+    "id": [
+      "-60,-528"
+    ],
+    "name": "Creeper"
+  },
+  {
+    "id": [
+      "-60,-456"
+    ],
+    "name": "Maze"
+  },
+  {
+    "id": [
+      "-60,-204",
+      "-96,-204"
+    ],
+    "name": "Higher Lower",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "-60,-600"
+    ],
+    "name": "Quiz"
+  },
+  {
+    "id": [
+      "-96,-168"
+    ],
+    "name": "Tic Tac Toe",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "-60,-564"
+    ],
+    "name": "Boulder"
+  },
+  {
+    "id": [
+      "-60,-276"
+    ],
+    "name": "Ice Path"
+  },
+  {
+    "id": [
+      "-384,30",
+      "-348,30"
+    ],
+    "name": "New Trap",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "-312,30"
+    ],
+    "name": "Old Trap",
+    "secrets": 4
+  },
+  {
+    "id": [
+      "354,66",
+      "138,30",
+      "138,66"
+    ],
+    "name": "Blood"
+  },
+  {
+    "id": [
+      "462,-312"
+    ],
+    "name": "Fairy"
+  },
+  {
+    "id": [
+      "846,-524"
+    ],
+    "name": "Altar",
+    "secrets": 6
+  },
+  {
+    "id": [
+      "914,-524"
+    ],
+    "name": "Pirate",
+    "secrets": 6
+  },
+  {
+    "id": [
+      "714,-168"
+    ],
+    "name": "Criss-Cross",
+    "secrets": 1
+  },
+  {
+    "id": [
+      "822,-168"
+    ],
+    "name": "Ritual",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "954,-456"
+    ],
+    "name": "Pipes",
+    "secrets": 7
+  },
+  {
+    "id": [
+      "830,-420"
+    ],
+    "name": "Slime",
+    "secrets": 5
+  },
+  {
+    "id": [
+      "606,-96"
+    ],
+    "name": "Redstone Crypt",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "570,-96"
+    ],
+    "name": "Staircase",
+    "secrets": 3
+  },
+  {
+    "id": [
+      "714,-96"
+    ],
+    "name": "Zodd",
+    "secrets": 1
+  }
+]

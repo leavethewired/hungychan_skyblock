@@ -1,0 +1,87 @@
+{
+  "players": {
+    "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
+      "profiles": {
+        "lemon": {
+          "pets": [
+            {
+              "petInternalName": "GRANDMA_WOLF;2",
+              "exp": 185993.9,
+              "uuid": "adb24eab-5701-421e-b64d-e43e513d06eb"
+            },
+            {
+              "petInternalName": "GUARDIAN;0",
+              "exp": 55444.63463502786,
+              "uuid": "6dfe9851-dc0b-4057-b69d-fd03182795c7"
+            },
+            {
+              "petInternalName": "ELEPHANT;1",
+              "exp": 0.0,
+              "uuid": "21863656-971b-4a13-9a32-0cbab74217c1"
+            },
+            {
+              "petInternalName": "GRIFFIN;0",
+              "exp": 3366.5338800000086,
+              "uuid": "606f3fec-5887-4e74-ad47-d005fad0371c"
+            },
+            {
+              "petInternalName": "MONKEY;2",
+              "exp": 2509577.7,
+              "uuid": "40ce4906-52d4-4e51-b768-6c97508e636b"
+            },
+            {
+              "petInternalName": "ELEPHANT;0",
+              "exp": 1604.5319249999975,
+              "uuid": "cd30d8c4-f196-4cd1-a2db-5146c67bc0c2"
+            },
+            {
+              "petInternalName": "RABBIT;2",
+              "heldItemInternalName": "YELLOW_BANDANA",
+              "exp": 5258971.546503086,
+              "uuid": "9d0b51e3-6c5c-4fde-a3b1-2bc35c574379"
+            }
+          ],
+          "expSharePets": []
+        },
+        "banana": {
+          "pets": [
+            {
+              "petInternalName": "BINGO;0",
+              "heldItemInternalName": "BINGO;0",
+              "exp": 3408136.8,
+              "uuid": "50c45c91-578b-4aca-88ff-1b7cea18004d"
+            },
+            {
+              "petInternalName": "GRANDMA_WOLF;4",
+              "exp": 0.0,
+              "uuid": "8efcd199-cba3-40da-9ff1-8810f986a15b"
+            },
+            {
+              "petInternalName": "ENDERMAN;2",
+              "exp": 0.0,
+              "uuid": "095ec247-2774-4627-b614-b40b0e6614d4"
+            },
+            {
+              "petInternalName": "ROCK;0",
+              "exp": 0.0,
+              "uuid": "a9839634-5a5d-4e0b-9d8a-6f1da6dd53b5"
+            },
+            {
+              "petInternalName": "AMMONITE;4",
+              "exp": 0.0
+            }
+          ],
+          "expSharePets": [
+            "50c45c91-578b-4aca-88ff-1b7cea18004d",
+            "8efcd199-cba3-40da-9ff1-8810f986a15b",
+            "095ec247-2774-4627-b614-b40b0e6614d4"
+          ]
+        },
+        "orange": {
+          "pets": [],
+          "expSharePets": []
+        }
+      }
+    }
+  }
+}

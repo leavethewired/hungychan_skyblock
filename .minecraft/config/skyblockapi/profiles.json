@@ -1,0 +1,26 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
+      "sbLevelProgress": {
+        "Lemon": 12,
+        "Banana": 98,
+        "Orange": 26
+      },
+      "coop": {
+        "Lemon": true
+      },
+      "profileType": {
+        "Lemon": "IRONMAN",
+        "Banana": "BINGO",
+        "Orange": "NORMAL",
+        "ananaB": "BINGO"
+      },
+      "sbLevel": {
+        "Lemon": 129,
+        "Banana": 66,
+        "Orange": 56
+      }
+    }
+  }
+}

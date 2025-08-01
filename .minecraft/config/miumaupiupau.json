@@ -1,0 +1,30 @@
+{
+  "prefix": "!",
+  "chance": 18,
+  "duplicateWords": false,
+  "commandWhitelist": [
+    "^(msg|tell|w) [a-zA-Z0-9_]{2,16} ",
+    "^(reply|r) ",
+    "^me ",
+    "^(partychat|pc)"
+  ],
+  "words": [
+    "mmrraow",
+    "miumaupiupau",
+    "miumau",
+    "miu",
+    "mau",
+    "meow",
+    "purr",
+    "ᓚ₍^. .^₎",
+    "₍^. .^₎ᓗ",
+    "⟅₍^. .^₎",
+    "₍^. .^₎⟆",
+    "ᓚᕠᗢ",
+    "ᗢᕡᓗ",
+    "🐈",
+    "ʕ•ᴥ•ʔ",
+    "nyaa",
+    ":3"
+  ]
+}

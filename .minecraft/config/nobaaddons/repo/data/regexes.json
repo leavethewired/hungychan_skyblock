@@ -1,0 +1,96 @@
+{
+	"attribute_menu.shard_name": "^Source: (?<name>.+?) Shard \\((?<id>[CUREL]\\d+)\\)",
+	"attribute_menu.syphon_to_level": "^Syphon (?<remaining>\\d+) (?:more to level up|shard to unlock)!",
+
+	"chat_coordinates": "(?<username>[A-z0-9_]+): [Xx]: (?<x>[0-9.-]+),? [Yy]: (?<y>[0-9.-]+),? [Zz]: (?<z>[0-9.-]+)(?<info>.*)",
+
+	"chat.channel": "^You are now in the (?<channel>ALL|GUILD|OFFICER|PARTY|SKYBLOCK CO-OP) channel",
+	"chat.conversation_opened": "^Opened a chat conversation with (?:\\[[A-Z+]+] )?(?<username>[A-z0-9_]+) for the next 5 minutes\\. Use /chat a to leave",
+
+	"chat_commands.dm": "^From (?:\\[[A-Z+]+] )?(?<username>[A-z0-9_]+): [!?.](?<command>[A-z0-9_]+) ?(?<argument>[A-z0-9_ ]+)?",
+	"chat_commands.guild": "^Guild > (?:\\[[A-Z+]+] )?(?<username>[A-z0-9_]+)(?: \\[[A-z0-9 ]+])?: [!?.](?<command>[A-z0-9_]+) ?(?<argument>[A-z0-9_ ]+)?",
+	"chat_commands.party": "^Party > (?:\\[[A-Z+]+] )?(?<username>[A-z0-9_]+): [!?.](?<command>[A-z0-9_]+) ?(?<argument>[A-z0-9_ ]+)?",
+
+	"crimson_isle.miniboss_spawn": "BEWARE - (?:The )?(?<name>[A-Za-z ]+) [Ii]s [Ss]pawning\\.?",
+	"crimson_isle.miniboss_down": "^[ ]+(?<name>[A-Z ]+) DOWN!",
+
+	"dungeons.boss_dialogue": "^\\[BOSS] (?<name>[A-z ]+):.*",
+	"dungeons.device_completed": "^(?<username>[A-z0-9_]+) completed a device! \\([1-7]/7\\)",
+
+	"fishing.catch_timer": "^(?:\\d+\\.\\d+|!{3})$",
+	"fishing.double_hook": "^It's a Double Hook!(?: Woot woot!)?",
+	"fishing.treasure_catch": "^⛃ (?<rarity>GOOD|GREAT|OUTSTANDING)(?<treasureType> JUNK)? CATCH! You caught .+",
+	"fishing.trophy_fish_catch": "^♔ TROPHY FISH! You caught an? (?<fish>[A-z 0-9-]+) (?<rarity>BRONZE|SILVER|GOLD|DIAMOND)!.*",
+	"fishing.trophy_fish_rarity": "(?<rarity>Bronze|Silver|Gold|Diamond) [✔✖](?: \\((?<amount>[\\d,]+)\\))?",
+
+	"filter.abilities.cooldown": "^This ability is on cooldown for [0-9]+s\\.",
+	"filter.abilities.damage": "^Your (?<ability>[A-z' ]+) hit [0-9]+ (enemies|enemy) for [0-9,.]+ damage\\.",
+	"filter.blessings.found": "^DUNGEON BUFF! ([A-z0-9_]+ found a|A) Blessing of (?<blessing>[A-z]+) [IV]+( was found)?!( \\([A-z0-9 ]+\\))?",
+	"filter.blessings.stats": "(?<value>\\+[\\d.]+x?(?: & \\+[\\d.]+x?)?) (?<stat>❁ Strength|☠ Crit Damage|❈ Defense|❁ Damage|HP|❣ Health Regen|✦ Speed|✎ Intelligence)",
+	"filter.healer_orb.other_pickup": "^◕ [A-z0-9_]+ picked up your [A-z ]+!",
+	"filter.healer_orb.pickup": "^◕ You picked up a (?<orb>[A-z ]+) from (?<player>[A-z0-9_]+) healing you for (?<health>[0-9.]+)❤ and granting you (?<buff>[0-9+%]+) (?<stat>[A-z ]+) for (?<duration>[0-9]+) seconds\\.",
+	"filter.pickup.item": "^A (?<item>[A-z ]+) was picked up!",
+	"filter.pickup.item_obtained": "^(?:\\[[A-Z+]+] )?[A-z0-9_]+ has obtained (?<item>[A-z ]+)!",
+	"filter.profile.playing_on": "^You are playing on profile: [A-z-() ]+",
+	"filter.profile.uuid": "^Profile ID: [A-z0-9-]+",
+	"filter.profile.uuid_suggest": "^§e§lCLICK THIS TO SUGGEST IT IN CHAT §7§l\\[(?:NO )?DASHES]",
+	"filter.tips.already_tipped": "^You've already tipped someone in the past hour in [A-z ]+! Wait a bit and try again!",
+
+	"mayor.foxy_event": "Schedules an extra §.(?<event>[A-z ]+) §.event during the year\\.",
+	"mayor.name": "Mayor (?<name>[A-z]+)",
+
+	"mythological.dig_burrow": "^(?:You dug out a Griffin Burrow|You finished the Griffin burrow chain)! \\(\\d/4\\)",
+	"mythological.dig_mob": "^(?:Oi|Uh oh|Yikes|Woah|Oh|Danger|Good Grief)! You dug out (?:a )?(?<mob>[A-z ]+)!",
+	"mythological.inquisitor_dead": "(?:Party > )?(?:\\[[A-Z+]+] )?(?<username>[A-z0-9_]+): Inquisitor dead!",
+	"mythological.inquisitor_spawn.coords": "(?<username>[A-z0-9_]+): [Xx]: (?<x>[0-9.-]+),? [Yy]: (?<y>[0-9.-]+),? [Zz]: (?<z>[0-9.-]+).*",
+	"mythological.inquisitor_spawn.inquisitorchecker": "(?<username>[A-z0-9_]+): A MINOS INQUISITOR has spawned near \\[.*] at Coords (?<x>[0-9.-]+) (?<y>[0-9.-]+) (?<z>[0-9.-]+)",
+
+	"party.disbanded": "^(?:\\[[A-Z+]+] )?(?<former>[A-z0-9_]+) has disbanded the party!",
+	"party.join": "^You have joined (?:\\[[A-Z+]+] )?(?<leader>[A-z0-9_]+)'s party!",
+	"party.kicked": "^You have been kicked from the party by (?:\\[[A-Z+]+] )?[A-z0-9_]+",
+	"party.leave": "^(?:You left the party\\.|The party was disbanded because (?:all invites expired and the party was empty|the party leader disconnected)\\.|You are not in a party(?: right now)?[.!]|You are not currently in a party[.!])",
+	"party.offline_kicked": "^Kicked (?:\\[[A-Z+]+] )?(?<name>[A-z0-9_]+) because they were offline\\.",
+	"party.offline_removed": "^(?:\\[[A-Z+]+] )?(?<name>[A-z0-9_]+) was removed from your party because they disconnected\\.",
+	"party.other_join": "^(?:\\[[A-Z+]+] )?(?<name>[A-z0-9_]+) joined the party\\.",
+	"party.other_kicked": "^(?:\\[[A-Z+]+] )?(?<name>[A-z0-9_]+) has been removed from the party\\.",
+	"party.other_leave": "^(?:\\[[A-Z+]+] )?(?<name>[A-z0-9_]+) has left the party\\.",
+	"party.party_finder_join": "^Party Finder > (?<name>[A-z0-9_]+) joined the (?:dungeon )?group! \\([A-z0-9 ]+\\)",
+	"party.promote_demote": "^(?:\\[[A-Z+]+] )?[A-z0-9_]+ has (?:promoted|demoted) (?:\\[[A-Z+]+] )?[A-z0-9_]+ to Party (?:Member|Moderator|Leader)",
+	"party.transfer": "^The party was transferred to (?:\\[[A-Z+]+] )?(?<newLeader>[A-z0-9_]+) by (?:\\[[A-Z+]+] )?(?<formerLeader>[A-z0-9_]+)",
+	"party.transfer_leave": "^The party was transferred to (?:\\[[A-Z+]+] )?(?<newLeader>[A-z0-9_]+) because (?:\\[[A-Z+]+] )?(?<formerLeader>[A-z0-9_]+) left",
+
+	"pets.autopet": "^§cAutopet §eequipped your §7\\[Lvl (?<level>\\d+)] (?:§.\\[.*] )?§(?<rarity>.)(?<name>[A-z ]+)(?:§. ✦)?§e! §a§lVIEW RULE",
+	"pets.despawn": "^You despawned your (?<name>[A-z ]+)(?: ✦)?!",
+	"pets.menu_title": "^Pets(?: \\(\\d+/\\d+\\) )?",
+	"pets.name": "^(?<favorite>⭐ )?\\[Lvl (?<level>\\d+)] (?:\\[\\d+✦] )?(?<name>[A-z- ]+)(?: ✦|$)",
+
+	"rift.free_infusions": "Free infusions: (?<count>\\d)/\\d",
+	"rift.next_free_infusion": "Next infusion in: (?<time>(?:\\d+[hms] ?)+)",
+	"rift.split_steal_cooldown": "SPLIT! You need to wait (?<time>(?:\\d+[hms] ?)+) before you can play again\\.",
+
+	"skyblock.currency": "^(?<currency>[A-z]+): (?<amount>[\\d,]+).*",
+	"skyblock.item_cooldown": "^Cooldown: (?<cooldown>(?:\\d+[hms] ?)+)",
+	"skyblock.item_tag": "^(?:a )?(?:SHINY )?(?<rarity>(?:UN)?COMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|ULTIMATE|(?:VERY )?SPECIAL)(?: DUNGEON)? ?(?<type>[A-Z ]+)?(?: a)?$",
+	"skyblock.level": "^Your SkyBlock Level: \\[(?<level>\\d+)]",
+	"skyblock.profile_id": "^Profile ID: (?<id>[0-9a-f]{8}-?(?:[0-9a-f]{4}-?){3}[0-9a-f]{12})",
+	"skyblock.profile_type": "^. (?<type>Ironman|Stranded|Bingo)",
+	"skyblock.xp": "^\\s+(?<xp>\\d+)/100 XP",
+	"skyblock.zone": "^[⏣ф] (?<zone>[A-z-'\" ]+)(?: .*)?$",
+
+	"slayer.boss_slain": "^[ ]+NICE! SLAYER BOSS SLAIN!",
+	"slayer.level": "^[ ]+(?<slayer>[A-z]+) Slayer LVL (?<level>\\d) - (?:LVL MAXED OUT|Next LVL in (?<nextLevel>[\\d,]+) XP)!",
+	"slayer.quest_clear": "^[ ]+SLAYER QUEST COMPLETE!",
+	"slayer.quest_complete": "^[ ]+SLAYER QUEST COMPLETE!",
+	"slayer.quest_failed": "^[ ]+SLAYER QUEST FAILED!",
+	"slayer.quest_started": "^[ ]+SLAYER QUEST STARTED!",
+	"slayer.rng_meter": "^[ ]+RNG Meter - (?<xp>[\\d,]+) Stored XP",
+	"slayer.slay_to_spawn": "^[ ]+» Slay [\\d,]+ Combat XP worth of .+",
+	"slayer.talk_to_maddox": "^[ ]+» Talk to Maddox to claim your [A-z]+ Slayer XP!",
+
+	"slot_info.desk_pest_count": "ൠ This plot has (?<count>\\d+) Pests?!",
+	"slot_info.tuning_points": "^Stat has: (?<points>\\d+) points?",
+	"slot_info.vacuum_pests": "^Vacuum Bag: (?<amount>[\\d,]+) Pests",
+
+	"storage.container": "^(?<type>Ender Chest|(?:Small|Medium|Large|Greater|Jumbo) Backpack(?: ✦)?) \\((?:Slot #)?(?<page>\\d+)(?:/\\d)?\\)",
+	"storage.backpack_removed": "^Removed backpack from slot (?<slot>\\d+)!"
+}

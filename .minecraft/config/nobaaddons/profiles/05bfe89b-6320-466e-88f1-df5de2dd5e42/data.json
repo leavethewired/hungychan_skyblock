@@ -1,0 +1,13 @@
+{
+    "configVersion": 1,
+    "pet": {
+        "name": "Frog",
+        "id": "FROG",
+        "xp": 1604168.2227633272,
+        "rarity": "UNCOMMON",
+        "candy": 10,
+        "uuid": "c5333167-96ba-4fa7-8e0b-05745e6c7262"
+    },
+    "riftTimers": {},
+    "trophyFish": {}
+}

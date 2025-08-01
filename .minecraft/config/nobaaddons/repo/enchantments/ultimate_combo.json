@@ -1,0 +1,11 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_combo",
+	"name": "Combo",
+	"max": 5,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	]
+}

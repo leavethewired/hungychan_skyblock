@@ -1,0 +1,12 @@
+{
+	"type": "standard",
+	"id": "vampirism",
+	"name": "Vampirism",
+	"good": 5,
+	"max": 6,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	]
+}

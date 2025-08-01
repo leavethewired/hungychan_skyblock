@@ -1,0 +1,15 @@
+{
+	"type": "standard",
+	"id": "first_strike",
+	"name": "First Strike",
+	"good": 4,
+	"max": 5,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	],
+	"conflicts": [
+		"triple_strike"
+	]
+}

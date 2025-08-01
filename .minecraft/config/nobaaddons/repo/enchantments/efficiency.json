@@ -1,0 +1,16 @@
+{
+	"type": "standard",
+	"id": "efficiency",
+	"name": "Efficiency",
+	"good": 5,
+	"max": 10,
+	"items": [
+		"DRILL",
+		"GAUNTLET",
+		"PICKAXE",
+		"HOE",
+		"AXE",
+		"SHOVEL",
+		"SHEARS"
+	]
+}

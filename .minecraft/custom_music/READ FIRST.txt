@@ -1,0 +1,3 @@
+Only .ogg files will be playable in game! You can convert your music with https://www.freeconvert.com/mp3-to-ogg 
+ You need to restart minecraft for new sounds to be applied. 
+Play your custom music with /playsound custom_music:<filename> [<pitch>] [<volume>] [<looping>]

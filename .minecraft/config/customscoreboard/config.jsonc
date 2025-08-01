@@ -1,0 +1,130 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 3,
+    "enabled": true,
+    // Valid Values: SEPARATOR, TIME, TITLE, ISLAND, LOBBY, PROFILE, DATE, AREA, SLAYER, BANK, COPPER, PARTY, MAYOR, BITS, SLAYER_STATS, MOTES, HEAT, PET, GOD_POTION, EVENTS, MAXWELL_POWER, SKYBLOCK_LEVEL, SOULFLOW, NORTH_STARS, QUIVER, POWDER, GEMS, COLD, PURSE, COOKIE_BUFF, PLAYER_COUNT, OBJECTIVE, FOOTER
+    "appearance": [
+        "SEPARATOR",
+        "DATE",
+        "TIME",
+        "ISLAND",
+        "AREA",
+        "SEPARATOR",
+        "PURSE",
+        "MOTES",
+        "BITS",
+        "COPPER",
+        "HEAT",
+        "COLD",
+        "NORTH_STARS",
+        "SOULFLOW",
+        "SEPARATOR",
+        "SLAYER",
+        "QUIVER",
+        "EVENTS",
+        "POWDER",
+        "MAYOR",
+        "PARTY"
+    ],
+    // Valid Values: NEW_YEAR, DUNGEONS, TRAPPER, RIFT, WINTER, BROODMOTHER, ESSENCE, GALATEA, CARNIVAL, ANNIVERSARY, SPOOKY, MINING, QUEUE, GARDEN, SERVER_RESTART, KUUDRA, MAGMA_BOSS, JACOB_MEDALS, FLIGHT_DURATION, DOJO, DAMAGE, JACOBS_CONTEST, VOTING, REDSTONE, DARK_AUCTION
+    "events": [
+        "ANNIVERSARY",
+        "BROODMOTHER",
+        "CARNIVAL",
+        "DAMAGE",
+        "DARK_AUCTION",
+        "DOJO",
+        "DUNGEONS",
+        "ESSENCE",
+        "FLIGHT_DURATION",
+        "GALATEA",
+        "GARDEN",
+        "JACOB_MEDALS",
+        "JACOBS_CONTEST",
+        "KUUDRA",
+        "MAGMA_BOSS",
+        "MINING",
+        "NEW_YEAR",
+        "QUEUE",
+        "REDSTONE",
+        "RIFT",
+        "SERVER_RESTART",
+        "SPOOKY",
+        "TRAPPER",
+        "VOTING",
+        "WINTER"
+    ],
+    // Range: 0.1 - 2
+    "scale": 1.0,
+    "title_options": {
+        // Valid Values: START, CENTER, END
+        "alignment": "CENTER",
+        "use_custom_text": false,
+        "custom_text": ""
+    },
+    "footer_options": {
+        // Valid Values: START, CENTER, END
+        "alignment": "CENTER",
+        "use_custom_text": false,
+        "custom_text": ""
+    },
+    // Valid Values: TEXT_COLOR_NUMBER, COLOR_TEXT_NUMBER, COLOR_NUMBER_TEXT, COLOR_NUMBER_RESET_TEXT
+    "number_display_format": "TEXT_COLOR_NUMBER",
+    // Valid Values: LONG, SHORT
+    "number_format": "LONG",
+    // Valid Values: TOP, CENTER, BOTTOM
+    "vertical_alignment": "CENTER",
+    // Valid Values: LEFT, CENTER, RIGHT
+    "horizontal_alignment": "RIGHT",
+    "hide_hypixel": true,
+    "text_shadow": true,
+    "customLines": true,
+    "outsideSkyBlock": false,
+    "update_notification": true,
+    "scoreboardOverhaul": false,
+    "Background": {
+        "enabled": true,
+        // [Color Format: RGBA]
+        "color": -1610612736,
+        // Range: 0 - 20
+        "padding": 5,
+        // Range: 0 - 20
+        "margin": 0,
+        // Range: 0 - 20
+        "radius": 5,
+        "imageBackground": true,
+        // Range: 5 - 100
+        "imageBackgroundTransparency": 50,
+        "customImageFile": ""
+    },
+    "line_modification": {
+        // Valid Values: ISO_YYYYMMDD, YEAR_MONTH_DAY, US_SLASH_MMDDYYYY, US_DASH_MMDDYYYY, UK_DDMMYYYY, UK_DASH_DDMMYYYY, DAY_MONTH_YEAR, DAY_MONTH_YEAR_SHORT, FULL_MONTH_DAY_YEAR, SHORT_MONTH_DAY_YEAR
+        "dateFormat": "US_SLASH_MMDDYYYY",
+        "bits_available": true,
+        "colored_month": true,
+        "profile_name": false,
+        "mayor_time": true,
+        // Valid Values: OFF, COUNT, ALL
+        "mayorPerksDisplay": "ALL",
+        // Valid Values: OFF, COMPACT, FULL
+        "ministerDisplay": "FULL",
+        "all_events": true,
+        "hypixel_title": true,
+        "party_everywhere": true,
+        // Range: 1 - 10
+        "max_party": 5,
+        "party_leader": true,
+        "consecutive_separator": true,
+        "separators_start_end": true,
+        "color_arrow": true,
+        // Valid Values: NUMBER, PERCENTAGE
+        "arrow_display": "NUMBER",
+        "piggy": false,
+        "pet_max": true,
+        "magicalPower": true,
+        "slayerLevel": true,
+        // Valid Values: CURRENT, TOTAL, BOTH
+        "powderDisplay": "CURRENT",
+        "hypixel_powder": true
+    }
+}

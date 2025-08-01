@@ -1,0 +1,872 @@
+[
+	{
+		"id": "C1",
+		"name": "Grove Shard",
+		"bazaarProduct": "SHARD_GROVE"
+	},
+	{
+		"id": "C2",
+		"name": "Mist Shard",
+		"bazaarProduct": "SHARD_MIST"
+	},
+	{
+		"id": "C3",
+		"name": "Flash Shard",
+		"bazaarProduct": "SHARD_FLASH"
+	},
+	{
+		"id": "C4",
+		"name": "Phanpyre Shard",
+		"bazaarProduct": "SHARD_PHANPYRE"
+	},
+	{
+		"id": "C5",
+		"name": "Cod Shard",
+		"bazaarProduct": "SHARD_COD"
+	},
+	{
+		"id": "C7",
+		"name": "Phanflare Shard",
+		"bazaarProduct": "SHARD_PHANFLARE"
+	},
+	{
+		"id": "C8",
+		"name": "Night Squid Shard",
+		"bazaarProduct": "SHARD_NIGHT_SQUID"
+	},
+	{
+		"id": "C9",
+		"name": "Lapis Zombie Shard",
+		"bazaarProduct": "SHARD_LAPIS_ZOMBIE"
+	},
+	{
+		"id": "C10",
+		"name": "Hideonleaf Shard",
+		"bazaarProduct": "SHARD_HIDEONLEAF"
+	},
+	{
+		"id": "C11",
+		"name": "Verdant Shard",
+		"bazaarProduct": "SHARD_VERDANT"
+	},
+	{
+		"id": "C12",
+		"name": "Chill Shard",
+		"bazaarProduct": "SHARD_CHILL"
+	},
+	{
+		"id": "C14",
+		"name": "Sea Archer Shard",
+		"bazaarProduct": "SHARD_SEA_ARCHER"
+	},
+	{
+		"id": "C15",
+		"name": "Voracious Spider Shard",
+		"bazaarProduct": "SHARD_VORACIOUS_SPIDER"
+	},
+	{
+		"id": "C16",
+		"name": "Hideongift Shard",
+		"bazaarProduct": "SHARD_HIDEONGIFT"
+	},
+	{
+		"id": "C17",
+		"name": "Birries Shard",
+		"bazaarProduct": "SHARD_BIRRIES"
+	},
+	{
+		"id": "C18",
+		"name": "Tank Zombie Shard",
+		"bazaarProduct": "SHARD_TANK_ZOMBIE"
+	},
+	{
+		"id": "C19",
+		"name": "Crow Shard",
+		"bazaarProduct": "SHARD_CROW"
+	},
+	{
+		"id": "C20",
+		"name": "Tadgang Shard",
+		"bazaarProduct": "SHARD_TADGANG"
+	},
+	{
+		"id": "C21",
+		"name": "Zealot Shard",
+		"bazaarProduct": "SHARD_ZEALOT"
+	},
+	{
+		"id": "C23",
+		"name": "Coralot Shard",
+		"bazaarProduct": "SHARD_CORALOT"
+	},
+	{
+		"id": "C24",
+		"name": "Harpy Shard",
+		"bazaarProduct": "SHARD_HARPY"
+	},
+	{
+		"id": "C25",
+		"name": "Mudworm Shard",
+		"bazaarProduct": "SHARD_MUDWORM"
+	},
+	{
+		"id": "C27",
+		"name": "Golden Ghoul Shard",
+		"bazaarProduct": "SHARD_GOLDEN_GHOUL"
+	},
+	{
+		"id": "C29",
+		"name": "Azure Shard",
+		"bazaarProduct": "SHARD_AZURE"
+	},
+	{
+		"id": "C30",
+		"name": "Bezal Shard",
+		"bazaarProduct": "SHARD_BEZAL"
+	},
+	{
+		"id": "C33",
+		"name": "Yog Shard",
+		"bazaarProduct": "SHARD_YOG"
+	},
+	{
+		"id": "C34",
+		"name": "Boreal Owl Shard",
+		"bazaarProduct": "SHARD_BOREAL_OWL"
+	},
+	{
+		"id": "C35",
+		"name": "Newt Shard",
+		"bazaarProduct": "SHARD_NEWT"
+	},
+	{
+		"id": "C36",
+		"name": "Miner Zombie Shard",
+		"bazaarProduct": "SHARD_MINER_ZOMBIE"
+	},
+	{
+		"id": "U1",
+		"name": "Bramble Shard",
+		"bazaarProduct": "SHARD_BRAMBLE"
+	},
+	{
+		"id": "U2",
+		"name": "Tide Shard",
+		"bazaarProduct": "SHARD_TIDE"
+	},
+	{
+		"id": "U3",
+		"name": "Quake Shard",
+		"bazaarProduct": "SHARD_QUAKE"
+	},
+	{
+		"id": "U4",
+		"name": "Sparrow Shard",
+		"bazaarProduct": "SHARD_SPARROW"
+	},
+	{
+		"id": "U5",
+		"name": "Goldfin Shard",
+		"bazaarProduct": "SHARD_GOLDFIN"
+	},
+	{
+		"id": "U6",
+		"name": "Troglobyte Shard",
+		"bazaarProduct": "SHARD_TROGLOBYTE"
+	},
+	{
+		"id": "U7",
+		"name": "Hideoncave Shard",
+		"bazaarProduct": "SHARD_HIDEONCAVE"
+	},
+	{
+		"id": "U8",
+		"name": "Salamander Shard",
+		"bazaarProduct": "SHARD_SALAMANDER"
+	},
+	{
+		"id": "U9",
+		"name": "Cuboa Shard",
+		"bazaarProduct": "SHARD_CUBOA"
+	},
+	{
+		"id": "U10",
+		"name": "Pest Shard",
+		"bazaarProduct": "SHARD_PEST"
+	},
+	{
+		"id": "U11",
+		"name": "Mossybit Shard",
+		"bazaarProduct": "SHARD_MOSSYBIT"
+	},
+	{
+		"id": "U12",
+		"name": "Rain Slime Shard",
+		"bazaarProduct": "SHARD_RAIN_SLIME"
+	},
+	{
+		"id": "U15",
+		"name": "Seer Shard",
+		"bazaarProduct": "SHARD_SEER"
+	},
+	{
+		"id": "U16",
+		"name": "Heron Shard",
+		"bazaarProduct": "SHARD_HERON"
+	},
+	{
+		"id": "U18",
+		"name": "Obsidian Defender Shard",
+		"bazaarProduct": "SHARD_OBSIDIAN_DEFENDER"
+	},
+	{
+		"id": "U20",
+		"name": "Salmon Shard",
+		"bazaarProduct": "SHARD_SALMON"
+	},
+	{
+		"id": "U21",
+		"name": "Viper Shard",
+		"bazaarProduct": "SHARD_VIPER"
+	},
+	{
+		"id": "U22",
+		"name": "Praying Mantis Shard",
+		"bazaarProduct": "SHARD_PRAYING_MANTIS"
+	},
+	{
+		"id": "U24",
+		"name": "Zombie Soldier Shard",
+		"bazaarProduct": "SHARD_ZOMBIE_SOLDIER"
+	},
+	{
+		"id": "U25",
+		"name": "Bambuleaf Shard",
+		"bazaarProduct": "SHARD_BAMBULEAF"
+	},
+	{
+		"id": "U27",
+		"name": "Sycophant Shard",
+		"bazaarProduct": "SHARD_SYCOPHANT"
+	},
+	{
+		"id": "U28",
+		"name": "Seagull Shard",
+		"bazaarProduct": "SHARD_SEAGULL"
+	},
+	{
+		"id": "U29",
+		"name": "Ent Shard",
+		"bazaarProduct": "SHARD_ENT"
+	},
+	{
+		"id": "U30",
+		"name": "Soul of the Alpha Shard",
+		"bazaarProduct": "SHARD_SOUL_OF_THE_ALPHA"
+	},
+	{
+		"id": "U31",
+		"name": "Mochibear Shard",
+		"bazaarProduct": "SHARD_MOCHIBEAR"
+	},
+	{
+		"id": "U32",
+		"name": "Magma Slug Shard",
+		"bazaarProduct": "SHARD_MAGMA_SLUG"
+	},
+	{
+		"id": "U33",
+		"name": "Flaming Spider Shard",
+		"bazaarProduct": "SHARD_FLAMING_SPIDER"
+	},
+	{
+		"id": "U34",
+		"name": "Kiwi Shard",
+		"bazaarProduct": "SHARD_KIWI"
+	},
+	{
+		"id": "U36",
+		"name": "Bruiser Shard",
+		"bazaarProduct": "SHARD_BRUISER"
+	},
+	{
+		"id": "U38",
+		"name": "Stridersurfer Shard",
+		"bazaarProduct": "SHARD_STRIDER_SURFER"
+	},
+	{
+		"id": "U39",
+		"name": "Rana Shard",
+		"bazaarProduct": "SHARD_RANA"
+	},
+	{
+		"id": "U40",
+		"name": "Termite Shard",
+		"bazaarProduct": "SHARD_TERMITE"
+	},
+	{
+		"id": "R1",
+		"name": "Sylvan Shard",
+		"bazaarProduct": "SHARD_SYLVAN"
+	},
+	{
+		"id": "R2",
+		"name": "Cascade Shard",
+		"bazaarProduct": "SHARD_CASCADE"
+	},
+	{
+		"id": "R3",
+		"name": "Bolt Shard",
+		"bazaarProduct": "SHARD_BOLT"
+	},
+	{
+		"id": "R4",
+		"name": "Bambloom Shard",
+		"bazaarProduct": "SHARD_BAMBLOOM"
+	},
+	{
+		"id": "R5",
+		"name": "Toad Shard",
+		"bazaarProduct": "SHARD_TOAD"
+	},
+	{
+		"id": "R6",
+		"name": "Glacite Walker Shard",
+		"bazaarProduct": "SHARD_GLACITE_WALKER"
+	},
+	{
+		"id": "R7",
+		"name": "Beaconmite Shard",
+		"bazaarProduct": "SHARD_BEACONMITE"
+	},
+	{
+		"id": "R8",
+		"name": "Lizard King Shard",
+		"bazaarProduct": "SHARD_LIZARD_KING"
+	},
+	{
+		"id": "R9",
+		"name": "Python Shard",
+		"bazaarProduct": "SHARD_PYTHON"
+	},
+	{
+		"id": "R10",
+		"name": "Invisibug Shard",
+		"bazaarProduct": "SHARD_INVISIBUG"
+	},
+	{
+		"id": "R11",
+		"name": "Piranha Shard",
+		"bazaarProduct": "SHARD_PIRANHA"
+	},
+	{
+		"id": "R13",
+		"name": "Hideongeon Shard",
+		"bazaarProduct": "SHARD_HIDEONGEON"
+	},
+	{
+		"id": "R15",
+		"name": "Lapis Skeleton Shard",
+		"bazaarProduct": "SHARD_LAPIS_SKELETON"
+	},
+	{
+		"id": "R16",
+		"name": "Cropeetle Shard",
+		"bazaarProduct": "SHARD_CROPEETLE"
+	},
+	{
+		"id": "R18",
+		"name": "Drowned Shard",
+		"bazaarProduct": "SHARD_DROWNED"
+	},
+	{
+		"id": "R21",
+		"name": "Star Sentry Shard",
+		"bazaarProduct": "SHARD_STAR_SENTRY"
+	},
+	{
+		"id": "R22",
+		"name": "Hideondra Shard",
+		"bazaarProduct": "SHARD_HIDEONDRA"
+	},
+	{
+		"id": "R23",
+		"name": "Abyssal Lanternfish Shard",
+		"bazaarProduct": "SHARD_ABYSSAL_LANTERN"
+	},
+	{
+		"id": "R24",
+		"name": "Arachne Shard",
+		"bazaarProduct": "SHARD_ARACHNE"
+	},
+	{
+		"id": "R25",
+		"name": "Bitbug Shard",
+		"bazaarProduct": "SHARD_BITBUG"
+	},
+	{
+		"id": "R27",
+		"name": "Revenant Shard",
+		"bazaarProduct": "SHARD_REVENANT"
+	},
+	{
+		"id": "R29",
+		"name": "Silentdepth Shard",
+		"bazaarProduct": "SHARD_SILENTDEPTH"
+	},
+	{
+		"id": "R30",
+		"name": "Skeletor Shard",
+		"bazaarProduct": "SHARD_SKELETOR"
+	},
+	{
+		"id": "R31",
+		"name": "Thyst Shard",
+		"bazaarProduct": "SHARD_THYST"
+	},
+	{
+		"id": "R33",
+		"name": "Quartzfang Shard",
+		"bazaarProduct": "SHARD_QUARTZFANG"
+	},
+	{
+		"id": "R34",
+		"name": "Hideonring Shard",
+		"bazaarProduct": "SHARD_HIDEONRING"
+	},
+	{
+		"id": "R35",
+		"name": "Snowfin Shard",
+		"bazaarProduct": "SHARD_SNOWFIN"
+	},
+	{
+		"id": "R36",
+		"name": "Kada Knight Shard",
+		"bazaarProduct": "SHARD_KADA_KNIGHT"
+	},
+	{
+		"id": "R38",
+		"name": "Carrot King Shard",
+		"bazaarProduct": "SHARD_CARROT_KING"
+	},
+	{
+		"id": "R39",
+		"name": "Wither Specter Shard",
+		"bazaarProduct": "SHARD_WITHER_SPECTER"
+	},
+	{
+		"id": "R42",
+		"name": "Matcho Shard",
+		"bazaarProduct": "SHARD_MATCHO"
+	},
+	{
+		"id": "R43",
+		"name": "Ladybug Shard",
+		"bazaarProduct": "SHARD_LADYBUG"
+	},
+	{
+		"id": "R44",
+		"name": "Lumisquid Shard",
+		"bazaarProduct": "SHARD_LUMISQUID"
+	},
+	{
+		"id": "R45",
+		"name": "Crocodile Shard",
+		"bazaarProduct": "SHARD_CROCODILE"
+	},
+	{
+		"id": "R46",
+		"name": "Bullfrog Shard",
+		"bazaarProduct": "SHARD_BULLFROG"
+	},
+	{
+		"id": "R49",
+		"name": "Dreadwing Shard",
+		"bazaarProduct": "SHARD_DREADWING"
+	},
+	{
+		"id": "R50",
+		"name": "Joydive Shard",
+		"bazaarProduct": "SHARD_JOYDIVE"
+	},
+	{
+		"id": "R51",
+		"name": "Stalagmight Shard",
+		"bazaarProduct": "SHARD_STALAGMIGHT"
+	},
+	{
+		"id": "R52",
+		"name": "Fungloom Shard",
+		"bazaarProduct": "SHARD_FUNGLOOM"
+	},
+	{
+		"id": "R53",
+		"name": "Eel Shard",
+		"bazaarProduct": "SHARD_EEL"
+	},
+	{
+		"id": "R54",
+		"name": "King Cobra Shard",
+		"bazaarProduct": "SHARD_KING_COBRA"
+	},
+	{
+		"id": "R56",
+		"name": "Lava Flame Shard",
+		"bazaarProduct": "SHARD_LAVA_FLAME"
+	},
+	{
+		"id": "R57",
+		"name": "Draconic Shard",
+		"bazaarProduct": "SHARD_DRACONIC"
+	},
+	{
+		"id": "R58",
+		"name": "Falcon Shard",
+		"bazaarProduct": "SHARD_FALCON"
+	},
+	{
+		"id": "R59",
+		"name": "Inferno Koi Shard",
+		"bazaarProduct": "SHARD_INFERNO_KOI"
+	},
+	{
+		"id": "R60",
+		"name": "Wither Shard",
+		"bazaarProduct": "SHARD_WITHER"
+	},
+	{
+		"id": "R61",
+		"name": "Gecko Shard",
+		"bazaarProduct": "SHARD_GECKO"
+	},
+	{
+		"id": "E1",
+		"name": "Terra Shard",
+		"bazaarProduct": "SHARD_TERRA"
+	},
+	{
+		"id": "E2",
+		"name": "Cryo Shard",
+		"bazaarProduct": "SHARD_CRYO"
+	},
+	{
+		"id": "E3",
+		"name": "Aero Shard",
+		"bazaarProduct": "SHARD_AERO"
+	},
+	{
+		"id": "E4",
+		"name": "Pandarai Shard",
+		"bazaarProduct": "SHARD_PANDARAI"
+	},
+	{
+		"id": "E5",
+		"name": "Leviathan Shard",
+		"bazaarProduct": "SHARD_LEVIATHAN"
+	},
+	{
+		"id": "E6",
+		"name": "Alligator Shard",
+		"bazaarProduct": "SHARD_ALLIGATOR"
+	},
+	{
+		"id": "E7",
+		"name": "Fenlord Shard",
+		"bazaarProduct": "SHARD_FENLORD"
+	},
+	{
+		"id": "E9",
+		"name": "Basilisk Shard",
+		"bazaarProduct": "SHARD_BASILISK"
+	},
+	{
+		"id": "E10",
+		"name": "Iguana Shard",
+		"bazaarProduct": "SHARD_IGUANA"
+	},
+	{
+		"id": "E11",
+		"name": "Moray Eel Shard",
+		"bazaarProduct": "SHARD_MORAY_EEL"
+	},
+	{
+		"id": "E12",
+		"name": "Thorn Shard",
+		"bazaarProduct": "SHARD_THORN"
+	},
+	{
+		"id": "E13",
+		"name": "Lunar Moth Shard",
+		"bazaarProduct": "SHARD_LUNAR_MOTH"
+	},
+	{
+		"id": "E14",
+		"name": "Fire Eel Shard",
+		"bazaarProduct": "SHARD_FIRE_EEL"
+	},
+	{
+		"id": "E15",
+		"name": "Bal Shard",
+		"bazaarProduct": "SHARD_BAL"
+	},
+	{
+		"id": "E16",
+		"name": "Hideonsack Shard",
+		"bazaarProduct": "SHARD_HIDEONSACK"
+	},
+	{
+		"id": "E17",
+		"name": "Water Hydra Shard",
+		"bazaarProduct": "SHARD_WATER_HYDRA"
+	},
+	{
+		"id": "E18",
+		"name": "Flare Shard",
+		"bazaarProduct": "SHARD_FLARE"
+	},
+	{
+		"id": "E20",
+		"name": "Sea Emperor Shard",
+		"bazaarProduct": "SHARD_SEA_EMPEROR"
+	},
+	{
+		"id": "E21",
+		"name": "Prince Shard",
+		"bazaarProduct": "SHARD_PRINCE"
+	},
+	{
+		"id": "E22",
+		"name": "Komodo Dragon Shard",
+		"bazaarProduct": "SHARD_KOMODO_DRAGON"
+	},
+	{
+		"id": "E24",
+		"name": "Mimic Shard",
+		"bazaarProduct": "SHARD_MIMIC"
+	},
+	{
+		"id": "E26",
+		"name": "Shellwise Shard",
+		"bazaarProduct": "SHARD_SHELLWISE"
+	},
+	{
+		"id": "E27",
+		"name": "Barbarian Duke X Shard",
+		"bazaarProduct": "SHARD_BARBARIAN_DUKE_X"
+	},
+	{
+		"id": "E28",
+		"name": "Toucan Shard",
+		"bazaarProduct": "SHARD_TOUCAN"
+	},
+	{
+		"id": "E29",
+		"name": "Hellwisp Shard",
+		"bazaarProduct": "SHARD_HELLWISP"
+	},
+	{
+		"id": "E30",
+		"name": "Caiman Shard",
+		"bazaarProduct": "SHARD_CAIMAN"
+	},
+	{
+		"id": "E31",
+		"name": "Firefly Shard",
+		"bazaarProduct": "SHARD_FIREFLY"
+	},
+	{
+		"id": "E32",
+		"name": "Sea Serpent Shard",
+		"bazaarProduct": "SHARD_SEA_SERPENT"
+	},
+	{
+		"id": "E33",
+		"name": "Ghost Shard",
+		"bazaarProduct": "SHARD_GHOST"
+	},
+	{
+		"id": "E34",
+		"name": "XYZ Shard",
+		"bazaarProduct": "SHARD_XYZ"
+	},
+	{
+		"id": "E35",
+		"name": "Leatherback Shard",
+		"bazaarProduct": "SHARD_LEATHERBACK"
+	},
+	{
+		"id": "E36",
+		"name": "Cavernshade Shard",
+		"bazaarProduct": "SHARD_CAVERNSHADE"
+	},
+	{
+		"id": "E37",
+		"name": "Dragonfly Shard",
+		"bazaarProduct": "SHARD_DRAGONFLY"
+	},
+	{
+		"id": "L1",
+		"name": "Tenebris Shard",
+		"bazaarProduct": "SHARD_TENEBRIS"
+	},
+	{
+		"id": "L2",
+		"name": "Blizzard Shard",
+		"bazaarProduct": "SHARD_BLIZZARD"
+	},
+	{
+		"id": "L3",
+		"name": "Tempest Shard",
+		"bazaarProduct": "SHARD_TEMPEST"
+	},
+	{
+		"id": "L4",
+		"name": "Chameleon Shard",
+		"bazaarProduct": "SHARD_CHAMELEON"
+	},
+	{
+		"id": "L6",
+		"name": "Tiamat Shard",
+		"bazaarProduct": "SHARD_TIAMAT"
+	},
+	{
+		"id": "L7",
+		"name": "Wyvern Shard",
+		"bazaarProduct": "SHARD_WYVERN"
+	},
+	{
+		"id": "L8",
+		"name": "Tortoise Shard",
+		"bazaarProduct": "SHARD_TORTOISE"
+	},
+	{
+		"id": "L9",
+		"name": "Endstone Protector Shard",
+		"bazaarProduct": "SHARD_ENDSTONE_PROTECTOR"
+	},
+	{
+		"id": "L11",
+		"name": "Naga Shard",
+		"bazaarProduct": "SHARD_NAGA"
+	},
+	{
+		"id": "L12",
+		"name": "Lapis Creeper Shard",
+		"bazaarProduct": "SHARD_LAPIS_CREEPER"
+	},
+	{
+		"id": "L13",
+		"name": "Wartybug Shard",
+		"bazaarProduct": "SHARD_WARTYBUG"
+	},
+	{
+		"id": "L14",
+		"name": "Spike Shard",
+		"bazaarProduct": "SHARD_SPIKE"
+	},
+	{
+		"id": "L15",
+		"name": "Kraken Shard",
+		"bazaarProduct": "SHARD_KRAKEN"
+	},
+	{
+		"id": "L17",
+		"name": "Taurus Shard",
+		"bazaarProduct": "SHARD_TAURUS"
+	},
+	{
+		"id": "L18",
+		"name": "Daemon Shard",
+		"bazaarProduct": "SHARD_DAEMON"
+	},
+	{
+		"id": "L20",
+		"name": "Moltenfish Shard",
+		"bazaarProduct": "SHARD_MOLTENFISH"
+	},
+	{
+		"id": "L23",
+		"name": "Shinyfish Shard",
+		"bazaarProduct": "SHARD_SHINYFISH"
+	},
+	{
+		"id": "L24",
+		"name": "Ananke Shard",
+		"bazaarProduct": "SHARD_ANANKE"
+	},
+	{
+		"id": "L25",
+		"name": "Hideonbox Shard",
+		"bazaarProduct": "SHARD_HIDEONBOX"
+	},
+	{
+		"id": "L26",
+		"name": "Lord Jawbus Shard",
+		"bazaarProduct": "SHARD_LORD_JAWBUS"
+	},
+	{
+		"id": "L27",
+		"name": "Burningsoul Shard",
+		"bazaarProduct": "SHARD_BURNINGSOUL"
+	},
+	{
+		"id": "L28",
+		"name": "Cinderbat Shard",
+		"bazaarProduct": "SHARD_CINDER_BAT"
+	},
+	{
+		"id": "L29",
+		"name": "Megalith Shard",
+		"bazaarProduct": "SHARD_MEGALITH"
+	},
+	{
+		"id": "L30",
+		"name": "Power Dragon Shard",
+		"bazaarProduct": "SHARD_POWER_DRAGON"
+	},
+	{
+		"id": "L31",
+		"name": "Condor Shard",
+		"bazaarProduct": "SHARD_CONDOR"
+	},
+	{
+		"id": "L32",
+		"name": "Sun Fish Shard",
+		"bazaarProduct": "SHARD_SUN_FISH"
+	},
+	{
+		"id": "L33",
+		"name": "Apex Dragon Shard",
+		"bazaarProduct": "SHARD_APEX_DRAGON"
+	},
+	{
+		"id": "L34",
+		"name": "Dodo Shard",
+		"bazaarProduct": "SHARD_DODO"
+	},
+	{
+		"id": "L36",
+		"name": "Jormung Shard",
+		"bazaarProduct": "SHARD_JORMUNG"
+	},
+	{
+		"id": "L39",
+		"name": "Etherdrake Shard",
+		"bazaarProduct": "SHARD_ETHERDRAKE"
+	},
+	{
+		"id": "L41",
+		"name": "Galaxy Fish Shard",
+		"bazaarProduct": "SHARD_GALAXY_FISH"
+	},
+	{
+		"id": "L42",
+		"name": "Molthorn Shard",
+		"bazaarProduct": "SHARD_MOLTHORN"
+	},
+	{
+		"id": "L44",
+		"name": "Starborn Shard",
+		"bazaarProduct": "SHARD_STARBORN"
+	}
+]

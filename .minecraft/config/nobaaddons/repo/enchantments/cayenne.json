@@ -1,0 +1,14 @@
+{
+	"type": "standard",
+	"id": "cayenne",
+	"name": "Cayenne",
+	"good": 4,
+	"max": 5,
+	"items": [
+		"NECKLACE",
+		"CLOAK",
+		"BELT",
+		"GLOVES",
+		"BRACELET"
+	]
+}

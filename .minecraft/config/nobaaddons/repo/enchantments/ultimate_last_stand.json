@@ -1,0 +1,12 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_last_stand",
+	"name": "Last Stand",
+	"max": 5,
+	"items": [
+		"HELMET",
+		"CHESTPLATE",
+		"LEGGINGS",
+		"BOOTS"
+	]
+}

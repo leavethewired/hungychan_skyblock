@@ -1,0 +1,8 @@
+01:53:27 Visitor status change for '§aArthur': NEW -> WAITING (tooltipMissingItems)
+01:53:28 Visitor status change for '§9Old Man Garry': NEW -> WAITING (tooltipMissingItems)
+01:53:29 Visitor status change for '§aHornum': NEW -> WAITING (tooltipMissingItems)
+01:53:31 Visitor status change for '§aFriendly Hiker': NEW -> WAITING (tooltipMissingItems)
+01:53:35 Visitor status change for '§aHornum': WAITING -> REFUSED (refused)
+01:53:38 Visitor status change for '§9Iron Forger': NEW -> WAITING (tooltipMissingItems)
+01:53:41 Visitor status change for '§aLynn': NEW -> READY (tooltipClickToGive)
+01:53:43 Visitor status change for '§aLynn': READY -> ACCEPTED (accepted)

@@ -1,0 +1,12 @@
+{
+	"type": "standard",
+	"id": "fire_aspect",
+	"name": "Fire Aspect",
+	"good": 2,
+	"max": 3,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	]
+}

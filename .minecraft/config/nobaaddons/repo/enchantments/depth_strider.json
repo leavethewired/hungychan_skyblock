@@ -1,0 +1,10 @@
+{
+	"type": "standard",
+	"id": "depth_strider",
+	"name": "Depth Strider",
+	"good": 3,
+	"max": 3,
+	"items": [
+		"BOOTS"
+	]
+}

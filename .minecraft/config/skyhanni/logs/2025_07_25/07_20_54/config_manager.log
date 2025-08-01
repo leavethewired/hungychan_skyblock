@@ -1,0 +1,62 @@
+07:20:55 Trying to load config from config\skyhanni\config.json
+07:20:55 load-config-now
+07:20:55 Loaded config from file
+07:20:55 Trying to load sacks from config\skyhanni\sacks.json
+07:20:55 load-sacks-now
+07:20:55 Loaded sacks from file
+07:20:55 Trying to load friends from config\skyhanni\friends.json
+07:20:55 load-friends-now
+07:20:55 Loaded friends from file
+07:20:55 Trying to load known_features from config\skyhanni\known_features.json
+07:20:55 load-known_features-now
+07:20:55 Loaded known_features from file
+07:20:55 Trying to load jacob_contests from config\skyhanni\jacob_contests.json
+07:20:55 load-jacob_contests-now
+07:20:55 Loaded jacob_contests from file
+07:20:55 Trying to load visual_words from config\skyhanni\visual_words.json
+07:20:55 Setting visual_words to be blank as it did not exist. It will be saved once something is written to it
+07:20:55 Trying to load pets from config\skyhanni\pets.json
+07:20:55 load-pets-now
+07:20:55 Loaded pets from file
+07:20:55 Trying to load storage from config\skyhanni\storage.json
+07:20:55 load-storage-now
+07:20:55 Loaded storage from file
+07:20:55 Trying to load routes from config\skyhanni\routes.json
+07:20:55 load-routes-now
+07:20:55 Loaded routes from file
+07:21:55 saveConfig: auto-save-60s
+07:21:55 Saving config file
+07:21:56 Saved config file successfully
+07:21:56 saveConfig: auto-save-60s
+07:21:56 Saving config file
+07:21:56 Saved config file successfully
+07:22:55 saveConfig: auto-save-60s
+07:22:55 Saving config file
+07:22:55 Saved config file successfully
+07:22:55 saveConfig: auto-save-60s
+07:22:55 Saving config file
+07:22:55 Saved config file successfully
+07:23:55 saveConfig: auto-save-60s
+07:23:55 Saving config file
+07:23:55 Saved config file successfully
+07:23:55 saveConfig: auto-save-60s
+07:23:55 Saving config file
+07:23:55 Saved config file successfully
+07:24:55 saveConfig: auto-save-60s
+07:24:55 Saving config file
+07:24:55 Saved config file successfully
+07:24:55 saveConfig: auto-save-60s
+07:24:55 Saving config file
+07:24:55 Saved config file successfully
+07:25:55 saveConfig: auto-save-60s
+07:25:55 Saving config file
+07:25:55 Saved config file successfully
+07:25:55 saveConfig: auto-save-60s
+07:25:55 Saving config file
+07:25:55 Saved config file successfully
+07:26:55 saveConfig: auto-save-60s
+07:26:55 Saving config file
+07:26:55 Saved config file successfully
+07:26:55 saveConfig: auto-save-60s
+07:26:55 Saving config file
+07:26:55 Saved config file successfully

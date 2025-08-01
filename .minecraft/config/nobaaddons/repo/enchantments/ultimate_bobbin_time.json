@@ -1,0 +1,12 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_bobbin_time",
+	"name": "Bobbin' Time",
+	"max": 5,
+	"items": [
+		"HELMET",
+		"CHESTPLATE",
+		"LEGGINGS",
+		"BOOTS"
+	]
+}

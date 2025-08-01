@@ -1,0 +1,12 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_bank",
+	"name": "Bank",
+	"max": 5,
+	"items": [
+		"HELMET",
+		"CHESTPLATE",
+		"LEGGINGS",
+		"BOOTS"
+	]
+}

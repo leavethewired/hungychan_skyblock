@@ -1,0 +1,134 @@
+[
+  {
+    "warp_name": "home",
+    "aliases": ["island", "is"]
+  },
+  {
+    "warp_name": "hub",
+    "aliases": ["village", "hub"]
+  },
+  {
+    "warp_name": "museum",
+    "aliases": []
+  },
+  {
+    "warp_name": "da",
+    "aliases": []
+  },
+  {
+    "warp_name": "castle",
+    "aliases": []
+  },
+  {
+    "warp_name": "crypts",
+    "aliases": ["crypt"]
+  },
+  {
+    "warp_name": "carnival",
+    "aliases": []
+  },
+  {
+    "warp_name": "dungeon_hub",
+    "aliases": ["dungeons", "dhub", "dh"]
+  },
+  {
+    "warp_name": "barn",
+    "aliases": []
+  },
+  {
+    "warp_name": "desert",
+    "aliases": []
+  },
+  {
+    "warp_name": "trapper",
+    "aliases": ["trap"]
+  },
+  {
+    "warp_name": "park",
+    "aliases": []
+  },
+  {
+    "warp_name": "howl",
+    "aliases": ["howling_cave"]
+  },
+  {
+    "warp_name": "jungle",
+    "aliases": []
+  },
+  {
+    "warp_name": "gold",
+    "aliases": []
+  },
+  {
+    "warp_name": "deep",
+    "aliases": []
+  },
+  {
+    "warp_name": "dwarves",
+    "aliases": ["dmines", "mines"]
+  },
+  {
+    "warp_name": "forge",
+    "aliases": ["forge"]
+  },
+  {
+    "warp_name": "basecamp",
+    "aliases": ["base", "camp", "glacite", "tunnel", "tunnels"]
+  },
+  {
+    "warp_name": "crystals",
+    "aliases": ["hollows", "ch"]
+  },
+  {
+    "warp_name": "nucleus",
+    "aliases": ["cn"]
+  },
+  {
+    "warp_name": "spider",
+    "aliases": ["spiders"]
+  },
+  {
+    "warp_name": "top",
+    "aliases": ["nest"]
+  },
+  {
+    "warp_name": "arachne",
+    "aliases": ["sanctuary"]
+  },
+  {
+    "warp_name": "end",
+    "aliases": []
+  },
+  {
+    "warp_name": "drag",
+    "aliases": ["dragons"]
+  },
+  {
+    "warp_name": "void",
+    "aliases": ["sepulture"]
+  },
+  {
+    "warp_name": "isle",
+    "aliases": ["crimson", "nether"]
+  },
+  {
+    "warp_name": "skull",
+    "aliases": ["kuudra"]
+  },
+  {
+    "warp_name": "tomb",
+    "aliases": ["smold", "smoldering_tomb"]
+  },
+  {
+    "warp_name": "wasteland",
+    "aliases": []
+  },
+  {
+    "warp_name": "garden",
+    "aliases": []
+  },
+  {
+    "warp_name": "jerry",
+    "aliases": ["winter", "workshop", "savethejerrys"]
+  }
+]

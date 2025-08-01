@@ -1,0 +1,14 @@
+{
+  "ownPlayerScale": 0.9,
+  "ownPlayerSmoothScaling": true,
+  "enableOtherPlayersScaling": true,
+  "otherPlayersScale": 0.9,
+  "otherPlayersSmoothScaling": false,
+  "applyToAllPlayers": false,
+  "enablePlayerPresets": true,
+  "enableHypixelSafety": true,
+  "allowSkyblockScaling": true,
+  "enableCrosshairInThirdPerson": true,
+  "enableCrosshairInThirdPersonFront": false,
+  "disableSelfieCam": false
+}

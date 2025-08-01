@@ -1,0 +1,12 @@
+{
+	"type": "standard",
+	"id": "scavenger",
+	"name": "Scavenger",
+	"good": 3,
+	"max": 6,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"GAUNTLET"
+	]
+}

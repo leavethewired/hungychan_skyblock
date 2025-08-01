@@ -1,0 +1,11 @@
+{
+	"type": "standard",
+	"id": "turbo_potato",
+	"name": "Turbo-Potato",
+	"good": 1,
+	"max": 5,
+	"items": [
+		"HOE"
+	],
+	"abbreviation": "Pot."
+}

@@ -1,0 +1,15 @@
+{
+	"type": "standard",
+	"id": "tabasco",
+	"name": "Tabasco",
+	"good": 3,
+	"max": 3,
+	"items": [
+		"SWORD",
+		"LONGSWORD",
+		"BOW",
+		"FISHING_ROD",
+		"GAUNTLET",
+		"AXE"
+	]
+}

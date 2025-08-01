@@ -1,0 +1,9 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_first_impression",
+	"name": "First Impression",
+	"max": 5,
+	"items": [
+		"AXE"
+	]
+}

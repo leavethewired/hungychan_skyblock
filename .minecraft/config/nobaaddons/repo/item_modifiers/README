@@ -1,0 +1,2 @@
+`enchants.json` should not be manually updated! Update `../enchantments/{id}.json` instead,
+and run `../sync_legacy_enchants.py`.

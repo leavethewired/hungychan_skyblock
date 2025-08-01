@@ -1,0 +1,13 @@
+{
+	"type": "standard",
+	"id": "scuba",
+	"name": "Scuba",
+	"good": 3,
+	"max": 5,
+	"items": [
+		"HELMET",
+		"CHESTPLATE",
+		"LEGGINGS",
+		"BOOTS"
+	]
+}

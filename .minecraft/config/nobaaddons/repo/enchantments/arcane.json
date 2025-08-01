@@ -1,0 +1,10 @@
+{
+	"type": "standard",
+	"id": "arcane",
+	"name": "Arcane",
+	"good": 1,
+	"max": 5,
+	"items": [
+		"AXE"
+	]
+}

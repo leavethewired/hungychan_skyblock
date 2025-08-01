@@ -1,0 +1,29 @@
+{
+  "players": {
+    "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
+      "profiles": {
+        "lemon": {
+          "pets": [
+            {
+              "petInternalName": "FROG;1",
+              "heldItemInternalName": "FROG;1",
+              "exp": 1345312.3,
+              "uuid": "9d24ac32-2315-453a-9ab1-d08aaf0b6093"
+            },
+            {
+              "petInternalName": "GRANDMA_WOLF;2",
+              "exp": 185909.73874242578,
+              "uuid": "adb24eab-5701-421e-b64d-e43e513d06eb"
+            },
+            {
+              "petInternalName": "GUARDIAN;0",
+              "exp": 55444.63463502786,
+              "uuid": "6dfe9851-dc0b-4057-b69d-fd03182795c7"
+            }
+          ],
+          "expSharePets": []
+        }
+      }
+    }
+  }
+}

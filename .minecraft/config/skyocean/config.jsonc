@@ -1,0 +1,204 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 5,
+    "chat": {
+        "enableProfileInChat": false,
+        "piggyRepairHelper": true,
+        "enableSackNotification": true,
+        "sackNotificationItems": [
+            "Glossy Gemstone"
+        ]
+    },
+    "slayer": {
+        "enableBlazeHighlight": true,
+        "highlightOwnBoss": true,
+        "highlightMini": true,
+        "highlightBigBoys": true
+    },
+    "fishing": {
+        "enableTrophyNumbers": false,
+        // Range: 0.25 - 5
+        "hookTextScale": 1.0,
+        "lavaReplacement": false,
+        "fixBobber": true,
+        "hideOtherBobbers": false,
+        "hotspot": {
+            "circleSurface": true,
+            "circleOutline": true,
+            // Range: 0 - 100
+            "surfaceTransparency": 50,
+            // Range: 0 - 100
+            "outlineTransparency": 100
+        }
+    },
+    "foraging": {
+        "hotfStackSize": true,
+        "hotfTotalProgress": true,
+        "hotfDisplayShiftCost": true,
+        "hotfDisplayTotalLeft": true,
+        "galatea": {
+            "muteThePhantoms": true,
+            // Valid Values: WHITE, ORANGE, MAGENTA, LIGHT_BLUE, YELLOW, LIME, PINK, GRAY, LIGHT_GRAY, CYAN, PURPLE, BLUE, BROWN, GREEN, RED, BLACK
+            "shulkerOverwrite": "PINK"
+        }
+    },
+    "garden": {
+        "pestBaitType": true,
+        "deskPestHighlight": true
+    },
+    "inventory": {
+        "sackValue": {
+            "enabled": true,
+            // Valid Values: BAZAAR, NPC
+            "priceSource": "NPC"
+        },
+        "inventoryButtons": false
+    },
+    "loreCleanup": {
+        "enableDrillCleanup": false,
+        "dungeonQuality": false,
+        "compactLevelBars": false,
+        "enableStoragePreview": false
+    },
+    "mining": {
+        "modifyCommissions": true,
+        "hotmStackSize": false,
+        "hotmTotalProgress": false,
+        "hotmDisplayShiftCost": false,
+        "hotmDisplayTotalLeft": false,
+        "chAreaWalls": false,
+        "puzzlerSolver": true,
+        "retexture": {
+            "recolorCarpets": true,
+            "customGlaciteTextures": false,
+            "customMist": false,
+            "customGemstoneTextures": false
+        },
+        "mineshaft": {
+            "shaftAnnouncement": true,
+            // Valid Values: CHAT, PARTY
+            "shaftAnnounceType": "CHAT",
+            "corpseWaypoint": true,
+            "keyAnnouncement": true
+        }
+    },
+    "misc": {
+        "ministerInCalendar": true,
+        "previousServer": false,
+        // Type: Integer
+        "previousServerTime": 360,
+        "anvilHelper": false,
+        "hideLightning": true,
+        "showHiddenPetCandy": true,
+        "hideEntityFire": false,
+        // Valid Values: WHITE, ORANGE, MAGENTA, LIGHT_BLUE, YELLOW, LIME, PINK, GRAY, LIGHT_GRAY, CYAN, PURPLE, BLUE, BROWN, GREEN, RED, BLACK
+        "itemSearchItemHighlight": "RED",
+        "craftHelperEnabled": true,
+        "craftHelperHideCompleted": true,
+        "craftHelperParentAmount": true,
+        // Range: 0 - 100
+        "transparentArmorSelf": 100,
+        // Range: 0 - 100
+        "transparentArmorOthers": 100
+    },
+    "buttons": {
+        "button0": {
+            "item": "minecraft:diamond_sword",
+            "command": "Skills",
+            "title": "Your Skills",
+            "tooltip": "",
+            "disabled": false
+        },
+        "button1": {
+            "item": "minecraft:painting",
+            "command": "Collections",
+            "title": "Collections",
+            "tooltip": "",
+            "disabled": false
+        },
+        "button2": {
+            "item": "minecraft:bone",
+            "command": "Pets",
+            "title": "Pets(?: \\(\\d+/\\d+\\))?",
+            "tooltip": "",
+            "disabled": false
+        },
+        "button3": {
+            "item": "ARMOR_OF_YOG_CHESTPLATE",
+            "command": "Wardrobe",
+            "title": "Wardrobe(?: \\(\\d+/\\d+\\))?",
+            "tooltip": "",
+            "disabled": false
+        },
+        "button4": {
+            "item": "minecraft:bundle",
+            "command": "Sacks",
+            "title": "Sack of Sacks",
+            "tooltip": "",
+            "disabled": false
+        },
+        "button5": {
+            "item": "RUNEBOOK",
+            "command": "Accessories",
+            "title": "Accessory Bag(?: \\(\\d+/\\d+\\))?",
+            "tooltip": "",
+            "disabled": false
+        },
+        "button6": {
+            "item": "minecraft:ender_chest",
+            "command": "Storage",
+            "title": "Storage",
+            "tooltip": "",
+            "disabled": false
+        },
+        "button7": {
+            "item": "minecraft:grass_block",
+            "command": "warp island",
+            "title": "a^",
+            "tooltip": "Island",
+            "disabled": false
+        },
+        "button8": {
+            "item": "HUB_PORTAL",
+            "command": "Hub",
+            "title": "a^",
+            "tooltip": "",
+            "disabled": false
+        },
+        "button9": {
+            "item": "minecraft:skeleton_skull",
+            "command": "warp dh",
+            "title": "a^",
+            "tooltip": "Dungeon Hub",
+            "disabled": false
+        },
+        "button10": {
+            "item": "SMOOTH_CHOCOLATE_BAR",
+            "command": "ChocolateFactory",
+            "title": "Chocolate Factory",
+            "tooltip": "Chocolate Factory",
+            "disabled": false
+        },
+        "button11": {
+            "item": "ESSENCE_GOLD",
+            "command": "Bazaar",
+            "title": "(?:Special )?Bazaar",
+            "tooltip": "",
+            "disabled": false
+        },
+        "button12": {
+            "item": "ESSENCE_DIAMOND",
+            "command": "Auction",
+            "title": "(?:Co-op )?Auction House",
+            "tooltip": "",
+            "disabled": false
+        },
+        "button13": {
+            "item": "minecraft:crafting_table",
+            "command": "CraftingTable",
+            "title": "Craft Item",
+            "tooltip": "Crafting Table",
+            "disabled": false
+        }
+    }
+}

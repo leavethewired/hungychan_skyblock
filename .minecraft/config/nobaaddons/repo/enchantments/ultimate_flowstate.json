@@ -1,0 +1,11 @@
+{
+	"type": "ultimate",
+	"id": "ultimate_flowstate",
+	"name": "Flowstate",
+	"max": 3,
+	"items": [
+		"DRILL",
+		"GAUNTLET",
+		"PICKAXE"
+	]
+}

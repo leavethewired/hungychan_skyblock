@@ -1,0 +1,11 @@
+{
+	"type": "standard",
+	"id": "turbo_wheat",
+	"name": "Turbo-Wheat",
+	"good": 1,
+	"max": 5,
+	"items": [
+		"HOE"
+	],
+	"abbreviation": "Whe."
+}

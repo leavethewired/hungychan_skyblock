@@ -1,0 +1,183 @@
+#Profiles
+profile.STANDARD=§eСтандарт
+profile.STANDARD_FAST=§e§oСтандарт Быстро
+profile.MIMIMALISM=§bМинимализм
+
+screen.Cam=Камера
+screen.BC=Линза
+screen.CC=Цветовая коррекция
+screen.LT=Освещение
+screen.NVG=Очки ночного видения
+
+option.BY=§6Наведи на меня
+option.BY.comment=§9Discord: §fhttps://discord.com/invite/65CkSpxrmm. §4YouTube: §fhttps://www.youtube.com/@lolip_p.
+value.BY.0=§fСделал LoLip_p
+value.BY.1=§fСделал LoLip_p
+
+option.MOTION_BLUR=§6Размытие в движении
+option.MOTION_BLUR.comment=Размытие изображения при повороте камеры (делает геймплей более приятным и гладким). Чем больше значение тем больше эффект плавности. Советуется оставлять включённым и менять только параметр §2Сила размытия §fв зависимости от ваших предпочтений.
+value.MOTION_BLUR.0=Выкл
+value.MOTION_BLUR.1=Вкл
+option.MOTION_BLURRING_STRENGTH=Сила размытия
+option.MOTION_BLURRING_STRENGTH.comment=Регулирует силу размытия. §4Высокое значение может вызвать у некоторых людей головокружение и укачивание.
+
+#FXAA
+option.ANTI_ALIASING=Сглаживание
+option.ANTI_ALIASING.comment=Делает границы объектов более гладкими, убирая возникающие «зубцы».
+value.ANTI_ALIASING.0=Выкл
+value.ANTI_ALIASING.1=Вкл
+
+option.BIT=16 BIT
+value.BIT.0=Выкл
+value.BIT.1=Вкл
+
+option.SSR=§6Экранное отражение
+value.SSR.0=Выкл
+value.SSR.1=Вкл
+
+option.RED_FILTER=§6Красный фильтр
+value.RED_FILTER.0=Выкл
+value.RED_FILTER.1=Вкл
+
+option.PBR=§6PBR
+value.PBR.0=Выкл
+value.PBR.1=Вкл
+
+option.WAVES=Волны
+value.WAVES.0=Выкл
+value.WAVES.1=Вкл
+
+option.SWAYING_FOLIAGE=Колышущаяся листва
+value.SWAYING_FOLIAGE.0=Выкл
+value.SWAYING_FOLIAGE.1=Вкл
+
+option.GRAIN=§6Зерно
+value.GRAIN.0=Выкл
+value.GRAIN.1=Вкл
+option.GRAIN_STRENGTH=Сила зерна
+
+option.SCANLINE=§6Линия развертки
+value.SCANLINE.0=Выкл
+value.SCANLINE.1=Вкл
+option.SCANLINE_STRENGTH=Сила линии развертки
+option.SCANLINE_WIDTH=Ширина линии развертки
+
+option.COLOR_DIST=§6Искажение цвета
+value.COLOR_DIST.0=Выкл
+value.COLOR_DIST.1=Вкл
+option.COLOR_DIST_STRENGTH=Сила искажения цвета
+
+option.BLACK_STRIPES=§6Чёрные полосы
+value.BLACK_STRIPES.0=Выкл
+value.BLACK_STRIPES.1=Вкл
+
+option.DOF=§6Глубина Резкости (ГР)
+value.DOF.0=Выкл
+value.DOF.1=Вкл
+option.DOF_STRENGTH=Сила Размытия
+option.TONEMAP_WHITE=Степень белого
+
+option.EXPOSURE=Экспозиция
+option.AUTO_EXPOSURE=§6Авто экспозиция
+value.AUTO_EXPOSURE.0=Выкл
+value.AUTO_EXPOSURE.1=Вкл
+option.AUTO_EXPOSURE_SPEED=Скорость смены экспозиции
+option.AUTO_EXPOSURE_RADIUS=Радиус экспозиции
+
+option.VIGNETTE=§6Виньетка
+value.VIGNETTE.0=Выкл
+value.VIGNETTE.1=Вкл
+
+option.CHROMATIC_ABERRATION=Хроматическая аберрация
+option.DIST_STRENGTH=§6Сила искажения
+option.INTENSITY_CAM_SHAKE=Интенсивность дрожания
+option.VIGNETTE_RADIUS=Радиус виньетки
+option.VIGNETTE_STRENGTH=Сила виньетки
+option.BLACK_STRIPES_WIDTH=Ширина чёрных линий
+option.BLACK_STRIPES_SOFT=Мягкость чёрных линий
+
+option.SATURATION=Насыщенность
+option.BRIGHTNESS=Яркость
+option.CONTRAST=Контраст
+
+option.CRT_MASK=CRT Маска
+value.CRT_MASK.0=Выкл
+value.CRT_MASK.1=Вкл
+
+option.R_DIRECTION=Артефакты плёнки
+value.R_DIRECTION.0=Выкл
+value.R_DIRECTION.1=Вкл
+
+option.INTERLACED_SCAN=Чересстрочная развертка
+value.INTERLACED_SCAN.0=Выкл
+value.INTERLACED_SCAN.1=Вкл
+
+option.FOG_DISTANCE=Дальность тумана
+option.DIRECTION_STRENGTH=Количество артефактов
+
+option.CLOUDS=Облока
+value.CLOUDS.0=Выкл
+value.CLOUDS.1=Вкл
+value.CLOUDS.2=Только днём
+
+option.FLICKERING_LIGHT=Мерцающий свет
+value.FLICKERING_LIGHT.0=Выкл
+value.FLICKERING_LIGHT.1=Вкл
+
+#Lighting
+option.SOFT=§6Мягкие тени
+value.SOFT.1=Выкл
+value.SOFT.2=Вкл
+
+option.SHADING=§6Затенение
+option.SHADING.comment=Затеняет плоскость, которая не попадает под луч солнца.
+value.SHADING.0=Выкл
+value.SHADING.1=Вкл
+option.NEW_LIGHTING="Новое" освещение
+option.NEW_LIGHTING.comment=Режим "нового" MINECRAFT освещения.
+value.NEW_LIGHTING.0=Выкл
+value.NEW_LIGHTING.1=Вкл
+option.CLASSIC_NIGHT=Классическая ночь
+option.CLASSIC_NIGHT.comment=Данный шейдер предоставляет обновлённое освещение ночью.
+value.CLASSIC_NIGHT.0=Выкл
+value.CLASSIC_NIGHT.1=Вкл
+option.SHADOW_TRANSPARENCY=Прозрачность тени
+option.degree_night_darkness=Ночная темнота
+option.SUN_ANGLE=Угол Солнца
+option.LIGHT_ABSORPTION=Поглощение света
+option.LIGHT_ABSORPTION.comment=Регулирует поглощение света днём от источников освещения находящиеся под солнцем.
+
+// Shadow
+option.ENABLE_SHADOW=§6Тень
+value.ENABLE_SHADOW.0=Выкл
+value.ENABLE_SHADOW.1=Вкл
+option.sunPathRotation=Поворот солнца и луны
+option.sunPathRotation.comment=Регулирует угол наклона солнца.
+option.shadowDistance=Расстояние тени
+option.shadowDistance.comment=Регулирует расстояние тени.
+
+value.shadowDistance.64.0=§a4 Чанка
+value.shadowDistance.80.0=§a5 Чанков
+value.shadowDistance.96.0=§a6 Чанков
+value.shadowDistance.112.0=§a7 Чанков
+value.shadowDistance.128.0=§a8 Чанков
+value.shadowDistance.160.0=§e10 Чанков
+value.shadowDistance.192.0=§e12 Чанков
+value.shadowDistance.224.0=§e14 Чанков
+value.shadowDistance.256.0=§c16 Чанков
+value.shadowDistance.320.0=§c20 Чанков
+value.shadowDistance.384.0=§4§l24 Чанка
+value.shadowDistance.512.0=§4§l32 Чанка
+value.shadowDistance.768.0=§4§k-§r§4§l§n§o48 Чанков§r§4§k-
+value.shadowDistance.1024.0=§4§k-§r§4§l§n§o64 Чанка§r§4§k-
+
+option.shadowMapResolution=Качество
+option.shadowMapResolution.comment=Настраивает размер теневой карты. §e[*]§r Более высокое разрешение дает более четкие тени, но снижает производительность.
+value.shadowMapResolution.256=Очень низкое (256)
+value.shadowMapResolution.512=Низкое (512)
+value.shadowMapResolution.768=Низко Среднее (768)
+value.shadowMapResolution.1024=Среднее (1024)
+value.shadowMapResolution.1536=Средне Высокое (1536)
+value.shadowMapResolution.2048=Высокое (2048)
+value.shadowMapResolution.3072=Очень Высокое (3072)
+value.shadowMapResolution.4096=Сверхвысокое (4096)

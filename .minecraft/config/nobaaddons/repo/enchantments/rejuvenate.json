@@ -1,0 +1,16 @@
+{
+	"type": "standard",
+	"id": "rejuvenate",
+	"name": "Rejuvenate",
+	"good": 3,
+	"max": 5,
+	"items": [
+		"HELMET",
+		"CHESTPLATE",
+		"LEGGINGS",
+		"BOOTS"
+	],
+	"conflicts": [
+		"respite"
+	]
+}

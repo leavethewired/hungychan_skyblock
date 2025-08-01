@@ -1,0 +1,13 @@
+{
+	"type": "standard",
+	"id": "reflection",
+	"name": "Reflection",
+	"good": 1,
+	"max": 5,
+	"items": [
+		"CHESTPLATE"
+	],
+	"conflicts": [
+		"thorns"
+	]
+}

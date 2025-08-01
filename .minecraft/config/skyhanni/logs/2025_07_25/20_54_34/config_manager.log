@@ -1,0 +1,2311 @@
+20:54:36 Trying to load config from config\skyhanni\config.json
+20:54:36 load-config-now
+20:54:36 Loaded config from file
+20:54:36 Trying to load sacks from config\skyhanni\sacks.json
+20:54:36 load-sacks-now
+20:54:36 Loaded sacks from file
+20:54:36 Trying to load friends from config\skyhanni\friends.json
+20:54:36 load-friends-now
+20:54:36 Loaded friends from file
+20:54:36 Trying to load known_features from config\skyhanni\known_features.json
+20:54:36 load-known_features-now
+20:54:36 Loaded known_features from file
+20:54:36 Trying to load jacob_contests from config\skyhanni\jacob_contests.json
+20:54:36 load-jacob_contests-now
+20:54:36 Loaded jacob_contests from file
+20:54:36 Trying to load visual_words from config\skyhanni\visual_words.json
+20:54:36 Setting visual_words to be blank as it did not exist. It will be saved once something is written to it
+20:54:36 Trying to load pets from config\skyhanni\pets.json
+20:54:36 load-pets-now
+20:54:36 Loaded pets from file
+20:54:36 Trying to load storage from config\skyhanni\storage.json
+20:54:36 load-storage-now
+20:54:36 Loaded storage from file
+20:54:36 Trying to load routes from config\skyhanni\routes.json
+20:54:36 load-routes-now
+20:54:36 Loaded routes from file
+20:55:36 saveConfig: auto-save-60s
+20:55:36 Saving config file
+20:55:36 Saved config file successfully
+20:55:36 saveConfig: auto-save-60s
+20:55:36 Saving config file
+20:55:36 Saved config file successfully
+20:56:36 saveConfig: auto-save-60s
+20:56:36 Saving config file
+20:56:36 Saved config file successfully
+20:56:36 saveConfig: auto-save-60s
+20:56:36 Saving config file
+20:56:36 Saved config file successfully
+20:56:44 saveConfig: Updated known feature flags
+20:56:44 Saving known_features file
+20:56:44 Saved known_features file successfully
+20:56:44 saveConfig: Updated known feature flags
+20:56:44 Saving known_features file
+20:56:44 Saved known_features file successfully
+20:57:15 saveConfig: saving-data
+20:57:15 Saving pets file
+20:57:15 Saved pets file successfully
+20:57:15 saveConfig: saving-data
+20:57:15 Saving pets file
+20:57:15 Saved pets file successfully
+20:57:27 saveConfig: Updated Items
+20:57:27 Saving storage file
+20:57:27 Saved storage file successfully
+20:57:27 saveConfig: Updated Items
+20:57:27 Saving storage file
+20:57:27 Saved storage file successfully
+20:57:31 saveConfig: Updated Items
+20:57:31 Saving storage file
+20:57:31 Saved storage file successfully
+20:57:31 saveConfig: Updated Items
+20:57:31 Saving storage file
+20:57:31 Saved storage file successfully
+20:57:32 saveConfig: Updated Items
+20:57:32 Saving storage file
+20:57:32 Saved storage file successfully
+20:57:32 saveConfig: Updated Items
+20:57:32 Saving storage file
+20:57:32 Saved storage file successfully
+20:57:36 saveConfig: auto-save-60s
+20:57:36 Saving config file
+20:57:36 Saved config file successfully
+20:57:36 saveConfig: auto-save-60s
+20:57:36 Saving config file
+20:57:36 Saved config file successfully
+20:57:39 saveConfig: Updated Items
+20:57:39 Saving storage file
+20:57:39 Saved storage file successfully
+20:57:39 saveConfig: Updated Items
+20:57:39 Saving storage file
+20:57:39 Saved storage file successfully
+20:57:40 saveConfig: Updated Items
+20:57:40 Saving storage file
+20:57:40 Saved storage file successfully
+20:57:40 saveConfig: Updated Items
+20:57:40 Saving storage file
+20:57:40 Saved storage file successfully
+20:57:42 saveConfig: Updated Items
+20:57:42 Saving storage file
+20:57:42 Saved storage file successfully
+20:57:42 saveConfig: Updated Items
+20:57:42 Saving storage file
+20:57:42 Saved storage file successfully
+20:57:46 saveConfig: saving-data
+20:57:46 Saving pets file
+20:57:46 Saved pets file successfully
+20:57:46 saveConfig: saving-data
+20:57:46 Saving pets file
+20:57:46 Saved pets file successfully
+20:58:18 saveConfig: Updated Items
+20:58:18 Saving storage file
+20:58:18 Saved storage file successfully
+20:58:18 saveConfig: Updated Items
+20:58:18 Saving storage file
+20:58:18 Saved storage file successfully
+20:58:19 saveConfig: Updated Items
+20:58:19 Saving storage file
+20:58:19 Saved storage file successfully
+20:58:19 saveConfig: Updated Items
+20:58:19 Saving storage file
+20:58:19 Saved storage file successfully
+20:58:19 saveConfig: saving-data
+20:58:19 Saving pets file
+20:58:19 Saved pets file successfully
+20:58:19 saveConfig: saving-data
+20:58:19 Saving pets file
+20:58:19 Saved pets file successfully
+20:58:20 saveConfig: Updated Items
+20:58:20 Saving storage file
+20:58:20 Saved storage file successfully
+20:58:20 saveConfig: Updated Items
+20:58:20 Saving storage file
+20:58:20 Saved storage file successfully
+20:58:36 saveConfig: auto-save-60s
+20:58:36 Saving config file
+20:58:36 Saved config file successfully
+20:58:36 saveConfig: auto-save-60s
+20:58:36 Saving config file
+20:58:36 Saved config file successfully
+20:58:38 saveConfig: Updated Items
+20:58:38 Saving storage file
+20:58:38 Saved storage file successfully
+20:58:38 saveConfig: Updated Items
+20:58:38 Saving storage file
+20:58:38 Saved storage file successfully
+20:58:39 saveConfig: Updated Items
+20:58:39 Saving storage file
+20:58:39 Saved storage file successfully
+20:58:39 saveConfig: Updated Items
+20:58:39 Saving storage file
+20:58:39 Saved storage file successfully
+20:58:50 saveConfig: saving-data
+20:58:50 Saving pets file
+20:58:50 Saved pets file successfully
+20:58:50 saveConfig: saving-data
+20:58:50 Saving pets file
+20:58:50 Saved pets file successfully
+20:59:21 saveConfig: Updated Items
+20:59:21 Saving storage file
+20:59:21 Saved storage file successfully
+20:59:21 saveConfig: Updated Items
+20:59:21 Saving storage file
+20:59:21 Saved storage file successfully
+20:59:21 saveConfig: saving-data
+20:59:21 Saving pets file
+20:59:21 Saved pets file successfully
+20:59:21 saveConfig: saving-data
+20:59:21 Saving pets file
+20:59:21 Saved pets file successfully
+20:59:22 saveConfig: Updated Items
+20:59:22 Saving storage file
+20:59:22 Saved storage file successfully
+20:59:22 saveConfig: Updated Items
+20:59:22 Saving storage file
+20:59:22 Saved storage file successfully
+20:59:36 saveConfig: auto-save-60s
+20:59:36 Saving config file
+20:59:36 Saved config file successfully
+20:59:36 saveConfig: auto-save-60s
+20:59:36 Saving config file
+20:59:36 Saved config file successfully
+20:59:52 saveConfig: saving-data
+20:59:52 Saving pets file
+20:59:52 Saved pets file successfully
+20:59:52 saveConfig: saving-data
+20:59:52 Saving pets file
+20:59:52 Saved pets file successfully
+21:00:36 saveConfig: auto-save-60s
+21:00:36 Saving config file
+21:00:36 Saved config file successfully
+21:00:36 saveConfig: auto-save-60s
+21:00:36 Saving config file
+21:00:36 Saved config file successfully
+21:01:36 saveConfig: auto-save-60s
+21:01:36 Saving config file
+21:01:36 Saved config file successfully
+21:01:36 saveConfig: auto-save-60s
+21:01:36 Saving config file
+21:01:36 Saved config file successfully
+21:02:18 saveConfig: Updated Items
+21:02:18 Saving storage file
+21:02:18 Saved storage file successfully
+21:02:18 saveConfig: Updated Items
+21:02:18 Saving storage file
+21:02:18 Saved storage file successfully
+21:02:19 saveConfig: Updated Items
+21:02:19 Saving storage file
+21:02:19 Saved storage file successfully
+21:02:19 saveConfig: Updated Items
+21:02:19 Saving storage file
+21:02:19 Saved storage file successfully
+21:02:36 saveConfig: auto-save-60s
+21:02:36 Saving config file
+21:02:36 Saved config file successfully
+21:02:36 saveConfig: auto-save-60s
+21:02:36 Saving config file
+21:02:36 Saved config file successfully
+21:02:37 saveConfig: Updated Items
+21:02:37 Saving storage file
+21:02:37 Saved storage file successfully
+21:02:37 saveConfig: Updated Items
+21:02:37 Saving storage file
+21:02:37 Saved storage file successfully
+21:02:45 saveConfig: saving-data
+21:02:45 Saving pets file
+21:02:45 Saved pets file successfully
+21:02:45 saveConfig: saving-data
+21:02:45 Saving pets file
+21:02:45 Saved pets file successfully
+21:03:16 saveConfig: saving-data
+21:03:16 Saving sacks file
+21:03:16 Saved sacks file successfully
+21:03:16 saveConfig: saving-data
+21:03:16 Saving sacks file
+21:03:16 Saved sacks file successfully
+21:03:16 saveConfig: saving-data
+21:03:16 Saving pets file
+21:03:16 Saved pets file successfully
+21:03:16 saveConfig: saving-data
+21:03:16 Saving pets file
+21:03:16 Saved pets file successfully
+21:03:36 saveConfig: auto-save-60s
+21:03:36 Saving config file
+21:03:36 Saved config file successfully
+21:03:36 saveConfig: auto-save-60s
+21:03:36 Saving config file
+21:03:36 Saved config file successfully
+21:03:47 saveConfig: saving-data
+21:03:47 Saving pets file
+21:03:47 Saved pets file successfully
+21:03:47 saveConfig: saving-data
+21:03:47 Saving pets file
+21:03:47 Saved pets file successfully
+21:03:48 saveConfig: saving-data
+21:03:48 Saving sacks file
+21:03:48 Saved sacks file successfully
+21:03:48 saveConfig: saving-data
+21:03:48 Saving sacks file
+21:03:48 Saved sacks file successfully
+21:04:18 saveConfig: saving-data
+21:04:18 Saving pets file
+21:04:18 Saved pets file successfully
+21:04:18 saveConfig: saving-data
+21:04:18 Saving pets file
+21:04:18 Saved pets file successfully
+21:04:23 saveConfig: saving-data
+21:04:23 Saving sacks file
+21:04:23 Saved sacks file successfully
+21:04:23 saveConfig: saving-data
+21:04:23 Saving sacks file
+21:04:23 Saved sacks file successfully
+21:04:36 saveConfig: auto-save-60s
+21:04:36 Saving config file
+21:04:36 Saved config file successfully
+21:04:36 saveConfig: auto-save-60s
+21:04:36 Saving config file
+21:04:36 Saved config file successfully
+21:04:49 saveConfig: saving-data
+21:04:49 Saving pets file
+21:04:49 Saved pets file successfully
+21:04:49 saveConfig: saving-data
+21:04:49 Saving pets file
+21:04:49 Saved pets file successfully
+21:04:52 saveConfig: saving-data
+21:04:52 Saving sacks file
+21:04:52 Saved sacks file successfully
+21:04:52 saveConfig: saving-data
+21:04:52 Saving sacks file
+21:04:52 Saved sacks file successfully
+21:05:20 saveConfig: saving-data
+21:05:20 Saving pets file
+21:05:20 Saved pets file successfully
+21:05:20 saveConfig: saving-data
+21:05:20 Saving pets file
+21:05:20 Saved pets file successfully
+21:05:24 saveConfig: saving-data
+21:05:24 Saving sacks file
+21:05:24 Saved sacks file successfully
+21:05:24 saveConfig: saving-data
+21:05:24 Saving sacks file
+21:05:24 Saved sacks file successfully
+21:05:36 saveConfig: auto-save-60s
+21:05:36 Saving config file
+21:05:36 Saved config file successfully
+21:05:36 saveConfig: auto-save-60s
+21:05:36 Saving config file
+21:05:36 Saved config file successfully
+21:05:44 saveConfig: Updated Items
+21:05:44 Saving storage file
+21:05:44 Saved storage file successfully
+21:05:44 saveConfig: Updated Items
+21:05:44 Saving storage file
+21:05:44 Saved storage file successfully
+21:05:45 saveConfig: saving-data
+21:05:45 Saving sacks file
+21:05:45 Saved sacks file successfully
+21:05:45 saveConfig: saving-data
+21:05:45 Saving sacks file
+21:05:45 Saved sacks file successfully
+21:05:51 saveConfig: saving-data
+21:05:51 Saving pets file
+21:05:51 Saved pets file successfully
+21:05:51 saveConfig: saving-data
+21:05:51 Saving pets file
+21:05:51 Saved pets file successfully
+21:06:16 saveConfig: saving-data
+21:06:16 Saving sacks file
+21:06:16 Saved sacks file successfully
+21:06:16 saveConfig: saving-data
+21:06:16 Saving sacks file
+21:06:16 Saved sacks file successfully
+21:06:19 saveConfig: Updated Items
+21:06:19 Saving storage file
+21:06:19 Saved storage file successfully
+21:06:19 saveConfig: Updated Items
+21:06:19 Saving storage file
+21:06:19 Saved storage file successfully
+21:06:22 saveConfig: saving-data
+21:06:22 Saving pets file
+21:06:22 Saved pets file successfully
+21:06:22 saveConfig: saving-data
+21:06:22 Saving pets file
+21:06:22 Saved pets file successfully
+21:06:26 saveConfig: Updated Items
+21:06:26 Saving storage file
+21:06:26 Saved storage file successfully
+21:06:26 saveConfig: Updated Items
+21:06:26 Saving storage file
+21:06:26 Saved storage file successfully
+21:06:36 saveConfig: saving-data
+21:06:36 Saving sacks file
+21:06:36 Saved sacks file successfully
+21:06:36 saveConfig: saving-data
+21:06:36 Saving sacks file
+21:06:36 Saved sacks file successfully
+21:06:36 saveConfig: auto-save-60s
+21:06:36 Saving config file
+21:06:36 Saved config file successfully
+21:06:36 saveConfig: auto-save-60s
+21:06:36 Saving config file
+21:06:36 Saved config file successfully
+21:06:46 saveConfig: saving-data
+21:06:46 Saving sacks file
+21:06:46 Saved sacks file successfully
+21:06:46 saveConfig: saving-data
+21:06:46 Saving sacks file
+21:06:46 Saved sacks file successfully
+21:06:53 saveConfig: saving-data
+21:06:53 Saving pets file
+21:06:53 Saved pets file successfully
+21:06:53 saveConfig: saving-data
+21:06:53 Saving pets file
+21:06:53 Saved pets file successfully
+21:07:03 saveConfig: saving-data
+21:07:03 Saving sacks file
+21:07:03 Saved sacks file successfully
+21:07:03 saveConfig: saving-data
+21:07:03 Saving sacks file
+21:07:03 Saved sacks file successfully
+21:07:11 saveConfig: saving-data
+21:07:11 Saving sacks file
+21:07:11 Saved sacks file successfully
+21:07:11 saveConfig: saving-data
+21:07:11 Saving sacks file
+21:07:11 Saved sacks file successfully
+21:07:24 saveConfig: saving-data
+21:07:24 Saving pets file
+21:07:24 Saved pets file successfully
+21:07:24 saveConfig: saving-data
+21:07:24 Saving pets file
+21:07:24 Saved pets file successfully
+21:07:36 saveConfig: auto-save-60s
+21:07:36 Saving config file
+21:07:36 Saved config file successfully
+21:07:36 saveConfig: auto-save-60s
+21:07:36 Saving config file
+21:07:36 Saved config file successfully
+21:07:46 saveConfig: saving-data
+21:07:46 Saving sacks file
+21:07:46 Saved sacks file successfully
+21:07:46 saveConfig: saving-data
+21:07:46 Saving sacks file
+21:07:46 Saved sacks file successfully
+21:07:51 saveConfig: Updated Items
+21:07:51 Saving storage file
+21:07:51 Saved storage file successfully
+21:07:51 saveConfig: Updated Items
+21:07:51 Saving storage file
+21:07:51 Saved storage file successfully
+21:07:55 saveConfig: saving-data
+21:07:55 Saving pets file
+21:07:55 Saved pets file successfully
+21:07:55 saveConfig: saving-data
+21:07:55 Saving pets file
+21:07:55 Saved pets file successfully
+21:07:58 saveConfig: Updated Items
+21:07:58 Saving storage file
+21:07:58 Saved storage file successfully
+21:07:58 saveConfig: Updated Items
+21:07:58 Saving storage file
+21:07:58 Saved storage file successfully
+21:08:03 saveConfig: Updated Items
+21:08:03 Saving storage file
+21:08:03 Saved storage file successfully
+21:08:03 saveConfig: Updated Items
+21:08:03 Saving storage file
+21:08:03 Saved storage file successfully
+21:08:04 saveConfig: Updated Items
+21:08:04 Saving storage file
+21:08:04 Saved storage file successfully
+21:08:04 saveConfig: Updated Items
+21:08:04 Saving storage file
+21:08:04 Saved storage file successfully
+21:08:22 saveConfig: Updated Items
+21:08:22 Saving storage file
+21:08:22 Saved storage file successfully
+21:08:22 saveConfig: Updated Items
+21:08:22 Saving storage file
+21:08:22 Saved storage file successfully
+21:08:29 saveConfig: Updated Items
+21:08:29 Saving storage file
+21:08:29 Saved storage file successfully
+21:08:29 saveConfig: Updated Items
+21:08:29 Saving storage file
+21:08:29 Saved storage file successfully
+21:08:30 saveConfig: Updated Items
+21:08:30 Saving storage file
+21:08:30 Saved storage file successfully
+21:08:30 saveConfig: Updated Items
+21:08:30 Saving storage file
+21:08:30 Saved storage file successfully
+21:08:36 saveConfig: auto-save-60s
+21:08:36 Saving config file
+21:08:36 Saved config file successfully
+21:08:36 saveConfig: auto-save-60s
+21:08:36 Saving config file
+21:08:36 Saved config file successfully
+21:08:36 saveConfig: saving-data
+21:08:36 Saving pets file
+21:08:36 Saved pets file successfully
+21:08:36 saveConfig: saving-data
+21:08:36 Saving pets file
+21:08:36 Saved pets file successfully
+21:08:37 saveConfig: Updated Items
+21:08:37 Saving storage file
+21:08:37 Saved storage file successfully
+21:08:37 saveConfig: Updated Items
+21:08:37 Saving storage file
+21:08:37 Saved storage file successfully
+21:08:39 saveConfig: Updated Items
+21:08:39 Saving storage file
+21:08:39 Saved storage file successfully
+21:08:39 saveConfig: Updated Items
+21:08:39 Saving storage file
+21:08:39 Saved storage file successfully
+21:08:40 saveConfig: Updated Items
+21:08:40 Saving storage file
+21:08:40 Saved storage file successfully
+21:08:40 saveConfig: Updated Items
+21:08:40 Saving storage file
+21:08:40 Saved storage file successfully
+21:08:41 saveConfig: Updated Items
+21:08:41 Saving storage file
+21:08:41 Saved storage file successfully
+21:08:41 saveConfig: Updated Items
+21:08:41 Saving storage file
+21:08:41 Saved storage file successfully
+21:08:42 saveConfig: Updated Items
+21:08:42 Saving storage file
+21:08:42 Saved storage file successfully
+21:08:42 saveConfig: Updated Items
+21:08:42 Saving storage file
+21:08:42 Saved storage file successfully
+21:08:44 saveConfig: Updated Items
+21:08:44 Saving storage file
+21:08:44 Saved storage file successfully
+21:08:44 saveConfig: Updated Items
+21:08:44 Saving storage file
+21:08:44 Saved storage file successfully
+21:08:45 saveConfig: Updated Items
+21:08:45 Saving storage file
+21:08:45 Saved storage file successfully
+21:08:45 saveConfig: Updated Items
+21:08:45 Saving storage file
+21:08:45 Saved storage file successfully
+21:08:55 saveConfig: Updated Items
+21:08:55 Saving storage file
+21:08:55 Saved storage file successfully
+21:08:55 saveConfig: Updated Items
+21:08:55 Saving storage file
+21:08:55 Saved storage file successfully
+21:09:00 saveConfig: saving-data
+21:09:00 Saving sacks file
+21:09:00 Saved sacks file successfully
+21:09:00 saveConfig: saving-data
+21:09:00 Saving sacks file
+21:09:00 Saved sacks file successfully
+21:09:00 saveConfig: Updated Items
+21:09:00 Saving storage file
+21:09:00 Saved storage file successfully
+21:09:00 saveConfig: Updated Items
+21:09:00 Saving storage file
+21:09:00 Saved storage file successfully
+21:09:02 saveConfig: Updated Items
+21:09:02 Saving storage file
+21:09:02 Saved storage file successfully
+21:09:02 saveConfig: Updated Items
+21:09:02 Saving storage file
+21:09:02 Saved storage file successfully
+21:09:07 saveConfig: saving-data
+21:09:07 Saving pets file
+21:09:07 Saved pets file successfully
+21:09:07 saveConfig: saving-data
+21:09:07 Saving pets file
+21:09:07 Saved pets file successfully
+21:09:08 saveConfig: Updated Items
+21:09:08 Saving storage file
+21:09:08 Saved storage file successfully
+21:09:08 saveConfig: Updated Items
+21:09:08 Saving storage file
+21:09:08 Saved storage file successfully
+21:09:13 saveConfig: Updated Items
+21:09:13 Saving storage file
+21:09:13 Saved storage file successfully
+21:09:13 saveConfig: Updated Items
+21:09:13 Saving storage file
+21:09:13 Saved storage file successfully
+21:09:15 saveConfig: Updated Items
+21:09:15 Saving storage file
+21:09:15 Saved storage file successfully
+21:09:15 saveConfig: Updated Items
+21:09:15 Saving storage file
+21:09:15 Saved storage file successfully
+21:09:16 saveConfig: Updated Items
+21:09:16 Saving storage file
+21:09:16 Saved storage file successfully
+21:09:16 saveConfig: Updated Items
+21:09:16 Saving storage file
+21:09:16 Saved storage file successfully
+21:09:17 saveConfig: Updated Items
+21:09:17 Saving storage file
+21:09:17 Saved storage file successfully
+21:09:17 saveConfig: Updated Items
+21:09:17 Saving storage file
+21:09:17 Saved storage file successfully
+21:09:36 saveConfig: auto-save-60s
+21:09:36 Saving config file
+21:09:36 Saved config file successfully
+21:09:36 saveConfig: auto-save-60s
+21:09:36 Saving config file
+21:09:36 Saved config file successfully
+21:10:19 saveConfig: Updated Items
+21:10:19 Saving storage file
+21:10:19 Saved storage file successfully
+21:10:19 saveConfig: Updated Items
+21:10:19 Saving storage file
+21:10:19 Saved storage file successfully
+21:10:20 saveConfig: Updated Items
+21:10:20 Saving storage file
+21:10:20 Saved storage file successfully
+21:10:20 saveConfig: Updated Items
+21:10:20 Saving storage file
+21:10:20 Saved storage file successfully
+21:10:24 saveConfig: Updated Items
+21:10:24 Saving storage file
+21:10:24 Saved storage file successfully
+21:10:24 saveConfig: Updated Items
+21:10:24 Saving storage file
+21:10:24 Saved storage file successfully
+21:10:36 saveConfig: auto-save-60s
+21:10:36 Saving config file
+21:10:36 Saved config file successfully
+21:10:36 saveConfig: auto-save-60s
+21:10:36 Saving config file
+21:10:36 Saved config file successfully
+21:10:55 saveConfig: Updated Items
+21:10:55 Saving storage file
+21:10:55 Saved storage file successfully
+21:10:55 saveConfig: Updated Items
+21:10:55 Saving storage file
+21:10:55 Saved storage file successfully
+21:10:56 saveConfig: Updated Items
+21:10:56 Saving storage file
+21:10:56 Saved storage file successfully
+21:10:56 saveConfig: Updated Items
+21:10:56 Saving storage file
+21:10:56 Saved storage file successfully
+21:10:58 saveConfig: Updated Items
+21:10:58 Saving storage file
+21:10:58 Saved storage file successfully
+21:10:58 saveConfig: Updated Items
+21:10:58 Saving storage file
+21:10:58 Saved storage file successfully
+21:10:59 saveConfig: Updated Items
+21:10:59 Saving storage file
+21:10:59 Saved storage file successfully
+21:10:59 saveConfig: Updated Items
+21:10:59 Saving storage file
+21:10:59 Saved storage file successfully
+21:11:09 saveConfig: Updated Items
+21:11:09 Saving storage file
+21:11:09 Saved storage file successfully
+21:11:09 saveConfig: Updated Items
+21:11:09 Saving storage file
+21:11:09 Saved storage file successfully
+21:11:10 saveConfig: Updated Items
+21:11:10 Saving storage file
+21:11:10 Saved storage file successfully
+21:11:10 saveConfig: Updated Items
+21:11:10 Saving storage file
+21:11:10 Saved storage file successfully
+21:11:11 saveConfig: Updated Items
+21:11:11 Saving storage file
+21:11:11 Saved storage file successfully
+21:11:11 saveConfig: Updated Items
+21:11:11 Saving storage file
+21:11:11 Saved storage file successfully
+21:11:13 saveConfig: saving-data
+21:11:13 Saving sacks file
+21:11:13 Saved sacks file successfully
+21:11:13 saveConfig: saving-data
+21:11:13 Saving sacks file
+21:11:13 Saved sacks file successfully
+21:11:29 saveConfig: Updated Items
+21:11:29 Saving storage file
+21:11:29 Saved storage file successfully
+21:11:29 saveConfig: Updated Items
+21:11:29 Saving storage file
+21:11:29 Saved storage file successfully
+21:11:31 saveConfig: saving-data
+21:11:31 Saving sacks file
+21:11:31 Saved sacks file successfully
+21:11:31 saveConfig: saving-data
+21:11:31 Saving sacks file
+21:11:31 Saved sacks file successfully
+21:11:36 saveConfig: auto-save-60s
+21:11:36 Saving config file
+21:11:36 Saved config file successfully
+21:11:36 saveConfig: auto-save-60s
+21:11:36 Saving config file
+21:11:36 Saved config file successfully
+21:12:01 saveConfig: Updated Items
+21:12:01 Saving storage file
+21:12:01 Saved storage file successfully
+21:12:01 saveConfig: Updated Items
+21:12:01 Saving storage file
+21:12:01 Saved storage file successfully
+21:12:02 saveConfig: Updated Items
+21:12:02 Saving storage file
+21:12:02 Saved storage file successfully
+21:12:02 saveConfig: Updated Items
+21:12:02 Saving storage file
+21:12:02 Saved storage file successfully
+21:12:36 saveConfig: auto-save-60s
+21:12:36 Saving config file
+21:12:36 Saved config file successfully
+21:12:36 saveConfig: auto-save-60s
+21:12:36 Saving config file
+21:12:36 Saved config file successfully
+21:12:37 saveConfig: saving-data
+21:12:37 Saving sacks file
+21:12:37 Saved sacks file successfully
+21:12:37 saveConfig: saving-data
+21:12:37 Saving sacks file
+21:12:37 Saved sacks file successfully
+21:13:08 saveConfig: saving-data
+21:13:08 Saving sacks file
+21:13:08 Saved sacks file successfully
+21:13:08 saveConfig: saving-data
+21:13:08 Saving sacks file
+21:13:08 Saved sacks file successfully
+21:13:13 saveConfig: Updated Items
+21:13:13 Saving storage file
+21:13:13 Saved storage file successfully
+21:13:13 saveConfig: Updated Items
+21:13:13 Saving storage file
+21:13:13 Saved storage file successfully
+21:13:36 saveConfig: auto-save-60s
+21:13:36 Saving config file
+21:13:36 Saved config file successfully
+21:13:36 saveConfig: auto-save-60s
+21:13:36 Saving config file
+21:13:36 Saved config file successfully
+21:13:44 saveConfig: saving-data
+21:13:44 Saving sacks file
+21:13:44 Saved sacks file successfully
+21:13:44 saveConfig: saving-data
+21:13:44 Saving sacks file
+21:13:44 Saved sacks file successfully
+21:14:15 saveConfig: saving-data
+21:14:15 Saving sacks file
+21:14:15 Saved sacks file successfully
+21:14:15 saveConfig: saving-data
+21:14:15 Saving sacks file
+21:14:15 Saved sacks file successfully
+21:14:36 saveConfig: auto-save-60s
+21:14:36 Saving config file
+21:14:36 Saved config file successfully
+21:14:36 saveConfig: auto-save-60s
+21:14:36 Saving config file
+21:14:36 Saved config file successfully
+21:14:46 saveConfig: saving-data
+21:14:46 Saving sacks file
+21:14:46 Saved sacks file successfully
+21:14:46 saveConfig: saving-data
+21:14:46 Saving sacks file
+21:14:46 Saved sacks file successfully
+21:15:16 saveConfig: saving-data
+21:15:16 Saving sacks file
+21:15:16 Saved sacks file successfully
+21:15:16 saveConfig: saving-data
+21:15:16 Saving sacks file
+21:15:16 Saved sacks file successfully
+21:15:36 saveConfig: auto-save-60s
+21:15:36 Saving config file
+21:15:36 Saved config file successfully
+21:15:36 saveConfig: auto-save-60s
+21:15:36 Saving config file
+21:15:36 Saved config file successfully
+21:15:48 saveConfig: saving-data
+21:15:48 Saving sacks file
+21:15:48 Saved sacks file successfully
+21:15:48 saveConfig: saving-data
+21:15:48 Saving sacks file
+21:15:48 Saved sacks file successfully
+21:16:18 saveConfig: saving-data
+21:16:18 Saving sacks file
+21:16:18 Saved sacks file successfully
+21:16:18 saveConfig: saving-data
+21:16:18 Saving sacks file
+21:16:18 Saved sacks file successfully
+21:16:36 saveConfig: auto-save-60s
+21:16:36 Saving config file
+21:16:36 Saved config file successfully
+21:16:36 saveConfig: auto-save-60s
+21:16:36 Saving config file
+21:16:36 Saved config file successfully
+21:16:49 saveConfig: saving-data
+21:16:49 Saving sacks file
+21:16:49 Saved sacks file successfully
+21:16:49 saveConfig: saving-data
+21:16:49 Saving sacks file
+21:16:49 Saved sacks file successfully
+21:17:20 saveConfig: saving-data
+21:17:20 Saving sacks file
+21:17:20 Saved sacks file successfully
+21:17:20 saveConfig: saving-data
+21:17:20 Saving sacks file
+21:17:20 Saved sacks file successfully
+21:17:29 saveConfig: Updated Items
+21:17:29 Saving storage file
+21:17:29 Saved storage file successfully
+21:17:29 saveConfig: Updated Items
+21:17:29 Saving storage file
+21:17:29 Saved storage file successfully
+21:17:33 saveConfig: saving-data
+21:17:33 Saving sacks file
+21:17:33 Saved sacks file successfully
+21:17:33 saveConfig: saving-data
+21:17:33 Saving sacks file
+21:17:33 Saved sacks file successfully
+21:17:36 saveConfig: auto-save-60s
+21:17:36 Saving config file
+21:17:36 Saved config file successfully
+21:17:36 saveConfig: auto-save-60s
+21:17:36 Saving config file
+21:17:36 Saved config file successfully
+21:18:12 saveConfig: saving-data
+21:18:12 Saving sacks file
+21:18:12 Saved sacks file successfully
+21:18:12 saveConfig: saving-data
+21:18:12 Saving sacks file
+21:18:12 Saved sacks file successfully
+21:18:36 saveConfig: auto-save-60s
+21:18:36 Saving config file
+21:18:36 Saved config file successfully
+21:18:36 saveConfig: auto-save-60s
+21:18:36 Saving config file
+21:18:36 Saved config file successfully
+21:18:43 saveConfig: saving-data
+21:18:43 Saving sacks file
+21:18:43 Saved sacks file successfully
+21:18:43 saveConfig: saving-data
+21:18:43 Saving sacks file
+21:18:43 Saved sacks file successfully
+21:19:00 saveConfig: saving-data
+21:19:00 Saving sacks file
+21:19:00 Saved sacks file successfully
+21:19:00 saveConfig: saving-data
+21:19:00 Saving sacks file
+21:19:00 Saved sacks file successfully
+21:19:36 saveConfig: auto-save-60s
+21:19:36 Saving config file
+21:19:36 Saved config file successfully
+21:19:36 saveConfig: auto-save-60s
+21:19:36 Saving config file
+21:19:36 Saved config file successfully
+21:19:42 saveConfig: saving-data
+21:19:42 Saving sacks file
+21:19:42 Saved sacks file successfully
+21:19:42 saveConfig: saving-data
+21:19:42 Saving sacks file
+21:19:42 Saved sacks file successfully
+21:20:06 saveConfig: saving-data
+21:20:06 Saving sacks file
+21:20:06 Saved sacks file successfully
+21:20:06 saveConfig: saving-data
+21:20:06 Saving sacks file
+21:20:06 Saved sacks file successfully
+21:20:36 saveConfig: auto-save-60s
+21:20:36 Saving config file
+21:20:36 Saved config file successfully
+21:20:36 saveConfig: auto-save-60s
+21:20:36 Saving config file
+21:20:36 Saved config file successfully
+21:20:44 saveConfig: saving-data
+21:20:44 Saving sacks file
+21:20:44 Saved sacks file successfully
+21:20:44 saveConfig: saving-data
+21:20:44 Saving sacks file
+21:20:44 Saved sacks file successfully
+21:21:15 saveConfig: saving-data
+21:21:15 Saving sacks file
+21:21:15 Saved sacks file successfully
+21:21:15 saveConfig: saving-data
+21:21:15 Saving sacks file
+21:21:15 Saved sacks file successfully
+21:21:36 saveConfig: auto-save-60s
+21:21:36 Saving config file
+21:21:36 Saved config file successfully
+21:21:36 saveConfig: auto-save-60s
+21:21:36 Saving config file
+21:21:36 Saved config file successfully
+21:21:46 saveConfig: saving-data
+21:21:46 Saving sacks file
+21:21:46 Saved sacks file successfully
+21:21:46 saveConfig: saving-data
+21:21:46 Saving sacks file
+21:21:46 Saved sacks file successfully
+21:22:16 saveConfig: saving-data
+21:22:16 Saving sacks file
+21:22:16 Saved sacks file successfully
+21:22:16 saveConfig: saving-data
+21:22:16 Saving sacks file
+21:22:16 Saved sacks file successfully
+21:22:23 saveConfig: saving-data
+21:22:23 Saving sacks file
+21:22:23 Saved sacks file successfully
+21:22:23 saveConfig: saving-data
+21:22:23 Saving sacks file
+21:22:23 Saved sacks file successfully
+21:22:36 saveConfig: auto-save-60s
+21:22:36 Saving config file
+21:22:36 Saved config file successfully
+21:22:36 saveConfig: auto-save-60s
+21:22:36 Saving config file
+21:22:36 Saved config file successfully
+21:23:32 saveConfig: saving-data
+21:23:32 Saving sacks file
+21:23:32 Saved sacks file successfully
+21:23:32 saveConfig: saving-data
+21:23:32 Saving sacks file
+21:23:32 Saved sacks file successfully
+21:23:36 saveConfig: auto-save-60s
+21:23:36 Saving config file
+21:23:36 Saved config file successfully
+21:23:36 saveConfig: auto-save-60s
+21:23:36 Saving config file
+21:23:36 Saved config file successfully
+21:24:01 saveConfig: saving-data
+21:24:01 Saving sacks file
+21:24:01 Saved sacks file successfully
+21:24:01 saveConfig: saving-data
+21:24:01 Saving sacks file
+21:24:01 Saved sacks file successfully
+21:24:28 saveConfig: saving-data
+21:24:28 Saving sacks file
+21:24:28 Saved sacks file successfully
+21:24:28 saveConfig: saving-data
+21:24:28 Saving sacks file
+21:24:28 Saved sacks file successfully
+21:24:36 saveConfig: auto-save-60s
+21:24:36 Saving config file
+21:24:36 Saved config file successfully
+21:24:36 saveConfig: auto-save-60s
+21:24:36 Saving config file
+21:24:36 Saved config file successfully
+21:25:02 saveConfig: saving-data
+21:25:02 Saving sacks file
+21:25:02 Saved sacks file successfully
+21:25:02 saveConfig: saving-data
+21:25:02 Saving sacks file
+21:25:02 Saved sacks file successfully
+21:25:33 saveConfig: saving-data
+21:25:33 Saving sacks file
+21:25:33 Saved sacks file successfully
+21:25:33 saveConfig: saving-data
+21:25:33 Saving sacks file
+21:25:33 Saved sacks file successfully
+21:25:36 saveConfig: auto-save-60s
+21:25:36 Saving config file
+21:25:36 Saved config file successfully
+21:25:36 saveConfig: auto-save-60s
+21:25:36 Saving config file
+21:25:36 Saved config file successfully
+21:26:04 saveConfig: saving-data
+21:26:04 Saving sacks file
+21:26:04 Saved sacks file successfully
+21:26:04 saveConfig: saving-data
+21:26:04 Saving sacks file
+21:26:04 Saved sacks file successfully
+21:26:34 saveConfig: saving-data
+21:26:34 Saving sacks file
+21:26:34 Saved sacks file successfully
+21:26:34 saveConfig: saving-data
+21:26:34 Saving sacks file
+21:26:34 Saved sacks file successfully
+21:26:36 saveConfig: auto-save-60s
+21:26:36 Saving config file
+21:26:36 Saved config file successfully
+21:26:36 saveConfig: auto-save-60s
+21:26:36 Saving config file
+21:26:36 Saved config file successfully
+21:27:06 saveConfig: saving-data
+21:27:06 Saving sacks file
+21:27:06 Saved sacks file successfully
+21:27:06 saveConfig: saving-data
+21:27:06 Saving sacks file
+21:27:06 Saved sacks file successfully
+21:27:36 saveConfig: auto-save-60s
+21:27:36 Saving config file
+21:27:36 Saved config file successfully
+21:27:36 saveConfig: auto-save-60s
+21:27:36 Saving config file
+21:27:36 Saved config file successfully
+21:27:37 saveConfig: saving-data
+21:27:37 Saving sacks file
+21:27:37 Saved sacks file successfully
+21:27:37 saveConfig: saving-data
+21:27:37 Saving sacks file
+21:27:37 Saved sacks file successfully
+21:28:08 saveConfig: saving-data
+21:28:08 Saving sacks file
+21:28:08 Saved sacks file successfully
+21:28:08 saveConfig: saving-data
+21:28:08 Saving sacks file
+21:28:08 Saved sacks file successfully
+21:28:36 saveConfig: auto-save-60s
+21:28:36 Saving config file
+21:28:36 Saved config file successfully
+21:28:36 saveConfig: auto-save-60s
+21:28:36 Saving config file
+21:28:36 Saved config file successfully
+21:28:39 saveConfig: saving-data
+21:28:39 Saving sacks file
+21:28:39 Saved sacks file successfully
+21:28:39 saveConfig: saving-data
+21:28:39 Saving sacks file
+21:28:39 Saved sacks file successfully
+21:29:10 saveConfig: saving-data
+21:29:10 Saving sacks file
+21:29:10 Saved sacks file successfully
+21:29:10 saveConfig: saving-data
+21:29:10 Saving sacks file
+21:29:10 Saved sacks file successfully
+21:29:36 saveConfig: auto-save-60s
+21:29:36 Saving config file
+21:29:36 Saved config file successfully
+21:29:36 saveConfig: auto-save-60s
+21:29:36 Saving config file
+21:29:36 Saved config file successfully
+21:29:41 saveConfig: saving-data
+21:29:41 Saving sacks file
+21:29:41 Saved sacks file successfully
+21:29:41 saveConfig: saving-data
+21:29:41 Saving sacks file
+21:29:41 Saved sacks file successfully
+21:30:12 saveConfig: saving-data
+21:30:12 Saving sacks file
+21:30:12 Saved sacks file successfully
+21:30:12 saveConfig: saving-data
+21:30:12 Saving sacks file
+21:30:12 Saved sacks file successfully
+21:30:36 saveConfig: auto-save-60s
+21:30:36 Saving config file
+21:30:36 Saved config file successfully
+21:30:36 saveConfig: auto-save-60s
+21:30:36 Saving config file
+21:30:36 Saved config file successfully
+21:30:44 saveConfig: saving-data
+21:30:44 Saving sacks file
+21:30:44 Saved sacks file successfully
+21:30:44 saveConfig: saving-data
+21:30:44 Saving sacks file
+21:30:44 Saved sacks file successfully
+21:31:15 saveConfig: saving-data
+21:31:15 Saving sacks file
+21:31:15 Saved sacks file successfully
+21:31:15 saveConfig: saving-data
+21:31:15 Saving sacks file
+21:31:15 Saved sacks file successfully
+21:31:36 saveConfig: auto-save-60s
+21:31:36 Saving config file
+21:31:36 Saved config file successfully
+21:31:36 saveConfig: auto-save-60s
+21:31:36 Saving config file
+21:31:36 Saved config file successfully
+21:31:47 saveConfig: saving-data
+21:31:47 Saving sacks file
+21:31:47 Saved sacks file successfully
+21:31:47 saveConfig: saving-data
+21:31:47 Saving sacks file
+21:31:47 Saved sacks file successfully
+21:32:18 saveConfig: saving-data
+21:32:18 Saving sacks file
+21:32:18 Saved sacks file successfully
+21:32:18 saveConfig: saving-data
+21:32:18 Saving sacks file
+21:32:18 Saved sacks file successfully
+21:32:36 saveConfig: auto-save-60s
+21:32:36 Saving config file
+21:32:36 Saved config file successfully
+21:32:36 saveConfig: auto-save-60s
+21:32:36 Saving config file
+21:32:36 Saved config file successfully
+21:32:49 saveConfig: saving-data
+21:32:49 Saving sacks file
+21:32:49 Saved sacks file successfully
+21:32:49 saveConfig: saving-data
+21:32:49 Saving sacks file
+21:32:49 Saved sacks file successfully
+21:33:36 saveConfig: auto-save-60s
+21:33:36 Saving config file
+21:33:36 Saved config file successfully
+21:33:36 saveConfig: auto-save-60s
+21:33:36 Saving config file
+21:33:36 Saved config file successfully
+21:34:36 saveConfig: auto-save-60s
+21:34:36 Saving config file
+21:34:36 Saved config file successfully
+21:34:36 saveConfig: auto-save-60s
+21:34:36 Saving config file
+21:34:36 Saved config file successfully
+21:35:36 saveConfig: auto-save-60s
+21:35:36 Saving config file
+21:35:36 Saved config file successfully
+21:35:36 saveConfig: auto-save-60s
+21:35:36 Saving config file
+21:35:36 Saved config file successfully
+21:36:36 saveConfig: auto-save-60s
+21:36:36 Saving config file
+21:36:36 Saved config file successfully
+21:36:36 saveConfig: auto-save-60s
+21:36:36 Saving config file
+21:36:36 Saved config file successfully
+21:37:36 saveConfig: auto-save-60s
+21:37:36 Saving config file
+21:37:36 Saved config file successfully
+21:37:36 saveConfig: auto-save-60s
+21:37:36 Saving config file
+21:37:36 Saved config file successfully
+21:38:16 saveConfig: Updated Items
+21:38:16 Saving storage file
+21:38:16 Saved storage file successfully
+21:38:16 saveConfig: Updated Items
+21:38:16 Saving storage file
+21:38:16 Saved storage file successfully
+21:38:18 saveConfig: Updated Items
+21:38:18 Saving storage file
+21:38:18 Saved storage file successfully
+21:38:18 saveConfig: Updated Items
+21:38:18 Saving storage file
+21:38:18 Saved storage file successfully
+21:38:20 saveConfig: Updated Items
+21:38:20 Saving storage file
+21:38:20 Saved storage file successfully
+21:38:20 saveConfig: Updated Items
+21:38:20 Saving storage file
+21:38:20 Saved storage file successfully
+21:38:21 saveConfig: Updated Items
+21:38:21 Saving storage file
+21:38:21 Saved storage file successfully
+21:38:21 saveConfig: Updated Items
+21:38:21 Saving storage file
+21:38:21 Saved storage file successfully
+21:38:22 saveConfig: saving-data
+21:38:22 Saving sacks file
+21:38:22 Saved sacks file successfully
+21:38:22 saveConfig: saving-data
+21:38:22 Saving sacks file
+21:38:22 Saved sacks file successfully
+21:38:24 saveConfig: Updated Items
+21:38:24 Saving storage file
+21:38:24 Saved storage file successfully
+21:38:24 saveConfig: Updated Items
+21:38:24 Saving storage file
+21:38:24 Saved storage file successfully
+21:38:26 saveConfig: Updated Items
+21:38:26 Saving storage file
+21:38:26 Saved storage file successfully
+21:38:26 saveConfig: Updated Items
+21:38:26 Saving storage file
+21:38:26 Saved storage file successfully
+21:38:27 saveConfig: Updated Items
+21:38:27 Saving storage file
+21:38:27 Saved storage file successfully
+21:38:27 saveConfig: Updated Items
+21:38:27 Saving storage file
+21:38:27 Saved storage file successfully
+21:38:28 saveConfig: Updated Items
+21:38:28 Saving storage file
+21:38:28 Saved storage file successfully
+21:38:28 saveConfig: Updated Items
+21:38:28 Saving storage file
+21:38:28 Saved storage file successfully
+21:38:30 saveConfig: Updated Items
+21:38:30 Saving storage file
+21:38:30 Saved storage file successfully
+21:38:30 saveConfig: Updated Items
+21:38:30 Saving storage file
+21:38:30 Saved storage file successfully
+21:38:31 saveConfig: Updated Items
+21:38:31 Saving storage file
+21:38:31 Saved storage file successfully
+21:38:31 saveConfig: Updated Items
+21:38:31 Saving storage file
+21:38:31 Saved storage file successfully
+21:38:32 saveConfig: Updated Items
+21:38:32 Saving storage file
+21:38:32 Saved storage file successfully
+21:38:32 saveConfig: Updated Items
+21:38:32 Saving storage file
+21:38:32 Saved storage file successfully
+21:38:34 saveConfig: Updated Items
+21:38:34 Saving storage file
+21:38:34 Saved storage file successfully
+21:38:34 saveConfig: Updated Items
+21:38:34 Saving storage file
+21:38:34 Saved storage file successfully
+21:38:36 saveConfig: auto-save-60s
+21:38:36 Saving config file
+21:38:36 Saved config file successfully
+21:38:36 saveConfig: auto-save-60s
+21:38:36 Saving config file
+21:38:36 Saved config file successfully
+21:38:38 saveConfig: Updated Items
+21:38:38 Saving storage file
+21:38:38 Saved storage file successfully
+21:38:38 saveConfig: Updated Items
+21:38:38 Saving storage file
+21:38:38 Saved storage file successfully
+21:38:44 saveConfig: Updated Items
+21:38:44 Saving storage file
+21:38:44 Saved storage file successfully
+21:38:44 saveConfig: Updated Items
+21:38:44 Saving storage file
+21:38:44 Saved storage file successfully
+21:38:47 saveConfig: saving-data
+21:38:47 Saving pets file
+21:38:47 Saved pets file successfully
+21:38:47 saveConfig: saving-data
+21:38:47 Saving pets file
+21:38:47 Saved pets file successfully
+21:39:00 saveConfig: Updated Items
+21:39:00 Saving storage file
+21:39:00 Saved storage file successfully
+21:39:00 saveConfig: Updated Items
+21:39:00 Saving storage file
+21:39:00 Saved storage file successfully
+21:39:02 saveConfig: Updated Items
+21:39:02 Saving storage file
+21:39:02 Saved storage file successfully
+21:39:02 saveConfig: Updated Items
+21:39:02 Saving storage file
+21:39:02 Saved storage file successfully
+21:39:18 saveConfig: saving-data
+21:39:18 Saving pets file
+21:39:18 Saved pets file successfully
+21:39:18 saveConfig: saving-data
+21:39:18 Saving pets file
+21:39:18 Saved pets file successfully
+21:39:34 saveConfig: Updated Items
+21:39:34 Saving storage file
+21:39:34 Saved storage file successfully
+21:39:34 saveConfig: Updated Items
+21:39:34 Saving storage file
+21:39:34 Saved storage file successfully
+21:39:36 saveConfig: auto-save-60s
+21:39:36 Saving config file
+21:39:36 Saved config file successfully
+21:39:36 saveConfig: auto-save-60s
+21:39:36 Saving config file
+21:39:36 Saved config file successfully
+21:39:36 saveConfig: Updated Items
+21:39:36 Saving storage file
+21:39:36 Saved storage file successfully
+21:39:36 saveConfig: Updated Items
+21:39:36 Saving storage file
+21:39:36 Saved storage file successfully
+21:39:38 saveConfig: Updated Items
+21:39:38 Saving storage file
+21:39:38 Saved storage file successfully
+21:39:38 saveConfig: Updated Items
+21:39:38 Saving storage file
+21:39:38 Saved storage file successfully
+21:39:39 saveConfig: Updated Items
+21:39:39 Saving storage file
+21:39:39 Saved storage file successfully
+21:39:39 saveConfig: Updated Items
+21:39:39 Saving storage file
+21:39:39 Saved storage file successfully
+21:39:42 saveConfig: Updated Items
+21:39:42 Saving storage file
+21:39:42 Saved storage file successfully
+21:39:42 saveConfig: Updated Items
+21:39:42 Saving storage file
+21:39:42 Saved storage file successfully
+21:39:43 saveConfig: Updated Items
+21:39:43 Saving storage file
+21:39:43 Saved storage file successfully
+21:39:43 saveConfig: Updated Items
+21:39:43 Saving storage file
+21:39:43 Saved storage file successfully
+21:39:44 saveConfig: Updated Items
+21:39:44 Saving storage file
+21:39:44 Saved storage file successfully
+21:39:44 saveConfig: Updated Items
+21:39:44 Saving storage file
+21:39:44 Saved storage file successfully
+21:39:48 saveConfig: Updated Items
+21:39:48 Saving storage file
+21:39:48 Saved storage file successfully
+21:39:48 saveConfig: Updated Items
+21:39:48 Saving storage file
+21:39:48 Saved storage file successfully
+21:39:52 saveConfig: Updated Items
+21:39:52 Saving storage file
+21:39:52 Saved storage file successfully
+21:39:52 saveConfig: Updated Items
+21:39:52 Saving storage file
+21:39:52 Saved storage file successfully
+21:39:54 saveConfig: Updated Items
+21:39:54 Saving storage file
+21:39:54 Saved storage file successfully
+21:39:54 saveConfig: Updated Items
+21:39:54 Saving storage file
+21:39:54 Saved storage file successfully
+21:39:56 saveConfig: Updated Items
+21:39:56 Saving storage file
+21:39:56 Saved storage file successfully
+21:39:56 saveConfig: Updated Items
+21:39:56 Saving storage file
+21:39:56 Saved storage file successfully
+21:39:57 saveConfig: Updated Items
+21:39:57 Saving storage file
+21:39:57 Saved storage file successfully
+21:39:57 saveConfig: Updated Items
+21:39:57 Saving storage file
+21:39:57 Saved storage file successfully
+21:39:58 saveConfig: Updated Items
+21:39:58 Saving storage file
+21:39:58 Saved storage file successfully
+21:39:58 saveConfig: Updated Items
+21:39:58 Saving storage file
+21:39:58 Saved storage file successfully
+21:40:00 saveConfig: Updated Items
+21:40:00 Saving storage file
+21:40:00 Saved storage file successfully
+21:40:00 saveConfig: Updated Items
+21:40:00 Saving storage file
+21:40:00 Saved storage file successfully
+21:40:01 saveConfig: Updated Items
+21:40:01 Saving storage file
+21:40:01 Saved storage file successfully
+21:40:01 saveConfig: Updated Items
+21:40:01 Saving storage file
+21:40:01 Saved storage file successfully
+21:40:03 saveConfig: Updated Items
+21:40:03 Saving storage file
+21:40:03 Saved storage file successfully
+21:40:03 saveConfig: Updated Items
+21:40:03 Saving storage file
+21:40:03 Saved storage file successfully
+21:40:07 saveConfig: Updated Items
+21:40:07 Saving storage file
+21:40:07 Saved storage file successfully
+21:40:07 saveConfig: Updated Items
+21:40:07 Saving storage file
+21:40:07 Saved storage file successfully
+21:40:08 saveConfig: Updated Items
+21:40:08 Saving storage file
+21:40:08 Saved storage file successfully
+21:40:08 saveConfig: Updated Items
+21:40:08 Saving storage file
+21:40:08 Saved storage file successfully
+21:40:11 saveConfig: Updated Items
+21:40:11 Saving storage file
+21:40:11 Saved storage file successfully
+21:40:11 saveConfig: Updated Items
+21:40:11 Saving storage file
+21:40:11 Saved storage file successfully
+21:40:12 saveConfig: Updated Items
+21:40:12 Saving storage file
+21:40:12 Saved storage file successfully
+21:40:12 saveConfig: Updated Items
+21:40:12 Saving storage file
+21:40:12 Saved storage file successfully
+21:40:13 saveConfig: Updated Items
+21:40:13 Saving storage file
+21:40:13 Saved storage file successfully
+21:40:13 saveConfig: Updated Items
+21:40:13 Saving storage file
+21:40:13 Saved storage file successfully
+21:40:15 saveConfig: Updated Items
+21:40:15 Saving storage file
+21:40:15 Saved storage file successfully
+21:40:15 saveConfig: Updated Items
+21:40:15 Saving storage file
+21:40:15 Saved storage file successfully
+21:40:19 saveConfig: Updated Items
+21:40:19 Saving storage file
+21:40:19 Saved storage file successfully
+21:40:19 saveConfig: Updated Items
+21:40:19 Saving storage file
+21:40:19 Saved storage file successfully
+21:40:21 saveConfig: Updated Items
+21:40:21 Saving storage file
+21:40:21 Saved storage file successfully
+21:40:21 saveConfig: Updated Items
+21:40:21 Saving storage file
+21:40:21 Saved storage file successfully
+21:40:23 saveConfig: Updated Items
+21:40:23 Saving storage file
+21:40:23 Saved storage file successfully
+21:40:23 saveConfig: Updated Items
+21:40:23 Saving storage file
+21:40:23 Saved storage file successfully
+21:40:25 saveConfig: Updated Items
+21:40:25 Saving storage file
+21:40:25 Saved storage file successfully
+21:40:25 saveConfig: Updated Items
+21:40:25 Saving storage file
+21:40:25 Saved storage file successfully
+21:40:26 saveConfig: Updated Items
+21:40:26 Saving storage file
+21:40:26 Saved storage file successfully
+21:40:26 saveConfig: Updated Items
+21:40:26 Saving storage file
+21:40:26 Saved storage file successfully
+21:40:27 saveConfig: Updated Items
+21:40:27 Saving storage file
+21:40:27 Saved storage file successfully
+21:40:27 saveConfig: Updated Items
+21:40:27 Saving storage file
+21:40:27 Saved storage file successfully
+21:40:31 saveConfig: Updated Items
+21:40:31 Saving storage file
+21:40:31 Saved storage file successfully
+21:40:31 saveConfig: Updated Items
+21:40:31 Saving storage file
+21:40:31 Saved storage file successfully
+21:40:33 saveConfig: Updated Items
+21:40:33 Saving storage file
+21:40:33 Saved storage file successfully
+21:40:33 saveConfig: Updated Items
+21:40:33 Saving storage file
+21:40:33 Saved storage file successfully
+21:40:36 saveConfig: auto-save-60s
+21:40:36 Saving config file
+21:40:36 Saved config file successfully
+21:40:36 saveConfig: auto-save-60s
+21:40:36 Saving config file
+21:40:36 Saved config file successfully
+21:40:37 saveConfig: Updated Items
+21:40:37 Saving storage file
+21:40:37 Saved storage file successfully
+21:40:37 saveConfig: Updated Items
+21:40:37 Saving storage file
+21:40:37 Saved storage file successfully
+21:40:39 saveConfig: Updated Items
+21:40:39 Saving storage file
+21:40:39 Saved storage file successfully
+21:40:39 saveConfig: Updated Items
+21:40:39 Saving storage file
+21:40:39 Saved storage file successfully
+21:40:41 saveConfig: Updated Items
+21:40:41 Saving storage file
+21:40:41 Saved storage file successfully
+21:40:41 saveConfig: Updated Items
+21:40:41 Saving storage file
+21:40:41 Saved storage file successfully
+21:40:44 saveConfig: Updated Items
+21:40:44 Saving storage file
+21:40:44 Saved storage file successfully
+21:40:44 saveConfig: Updated Items
+21:40:44 Saving storage file
+21:40:44 Saved storage file successfully
+21:40:46 saveConfig: Updated Items
+21:40:46 Saving storage file
+21:40:46 Saved storage file successfully
+21:40:46 saveConfig: Updated Items
+21:40:46 Saving storage file
+21:40:46 Saved storage file successfully
+21:40:51 saveConfig: Updated Items
+21:40:51 Saving storage file
+21:40:51 Saved storage file successfully
+21:40:51 saveConfig: Updated Items
+21:40:51 Saving storage file
+21:40:51 Saved storage file successfully
+21:40:52 saveConfig: Updated Items
+21:40:52 Saving storage file
+21:40:52 Saved storage file successfully
+21:40:52 saveConfig: Updated Items
+21:40:52 Saving storage file
+21:40:52 Saved storage file successfully
+21:40:53 saveConfig: Updated Items
+21:40:53 Saving storage file
+21:40:53 Saved storage file successfully
+21:40:53 saveConfig: Updated Items
+21:40:53 Saving storage file
+21:40:53 Saved storage file successfully
+21:40:54 saveConfig: Updated Items
+21:40:54 Saving storage file
+21:40:54 Saved storage file successfully
+21:40:54 saveConfig: Updated Items
+21:40:54 Saving storage file
+21:40:54 Saved storage file successfully
+21:40:55 saveConfig: Updated Items
+21:40:55 Saving storage file
+21:40:55 Saved storage file successfully
+21:40:55 saveConfig: Updated Items
+21:40:55 Saving storage file
+21:40:55 Saved storage file successfully
+21:41:17 saveConfig: Updated Items
+21:41:17 Saving storage file
+21:41:17 Saved storage file successfully
+21:41:17 saveConfig: Updated Items
+21:41:17 Saving storage file
+21:41:17 Saved storage file successfully
+21:41:20 saveConfig: Updated Items
+21:41:20 Saving storage file
+21:41:20 Saved storage file successfully
+21:41:20 saveConfig: Updated Items
+21:41:20 Saving storage file
+21:41:20 Saved storage file successfully
+21:41:22 saveConfig: Updated Items
+21:41:22 Saving storage file
+21:41:22 Saved storage file successfully
+21:41:22 saveConfig: Updated Items
+21:41:22 Saving storage file
+21:41:22 Saved storage file successfully
+21:41:25 saveConfig: Updated Items
+21:41:25 Saving storage file
+21:41:25 Saved storage file successfully
+21:41:25 saveConfig: Updated Items
+21:41:25 Saving storage file
+21:41:25 Saved storage file successfully
+21:41:28 saveConfig: Updated Items
+21:41:28 Saving storage file
+21:41:28 Saved storage file successfully
+21:41:28 saveConfig: Updated Items
+21:41:28 Saving storage file
+21:41:28 Saved storage file successfully
+21:41:31 saveConfig: Updated Items
+21:41:31 Saving storage file
+21:41:31 Saved storage file successfully
+21:41:31 saveConfig: Updated Items
+21:41:31 Saving storage file
+21:41:31 Saved storage file successfully
+21:41:34 saveConfig: Updated Items
+21:41:34 Saving storage file
+21:41:34 Saved storage file successfully
+21:41:34 saveConfig: Updated Items
+21:41:34 Saving storage file
+21:41:34 Saved storage file successfully
+21:41:36 saveConfig: auto-save-60s
+21:41:36 Saving config file
+21:41:36 Saved config file successfully
+21:41:36 saveConfig: auto-save-60s
+21:41:36 Saving config file
+21:41:36 Saved config file successfully
+21:41:37 saveConfig: Updated Items
+21:41:37 Saving storage file
+21:41:37 Saved storage file successfully
+21:41:37 saveConfig: Updated Items
+21:41:37 Saving storage file
+21:41:37 Saved storage file successfully
+21:41:39 saveConfig: Updated Items
+21:41:39 Saving storage file
+21:41:39 Saved storage file successfully
+21:41:39 saveConfig: Updated Items
+21:41:39 Saving storage file
+21:41:39 Saved storage file successfully
+21:41:42 saveConfig: Updated Items
+21:41:42 Saving storage file
+21:41:42 Saved storage file successfully
+21:41:42 saveConfig: Updated Items
+21:41:42 Saving storage file
+21:41:42 Saved storage file successfully
+21:41:45 saveConfig: Updated Items
+21:41:45 Saving storage file
+21:41:45 Saved storage file successfully
+21:41:45 saveConfig: Updated Items
+21:41:45 Saving storage file
+21:41:45 Saved storage file successfully
+21:41:48 saveConfig: Updated Items
+21:41:48 Saving storage file
+21:41:48 Saved storage file successfully
+21:41:48 saveConfig: Updated Items
+21:41:48 Saving storage file
+21:41:48 Saved storage file successfully
+21:41:51 saveConfig: Updated Items
+21:41:51 Saving storage file
+21:41:51 Saved storage file successfully
+21:41:51 saveConfig: Updated Items
+21:41:51 Saving storage file
+21:41:51 Saved storage file successfully
+21:41:54 saveConfig: Updated Items
+21:41:54 Saving storage file
+21:41:54 Saved storage file successfully
+21:41:54 saveConfig: Updated Items
+21:41:54 Saving storage file
+21:41:54 Saved storage file successfully
+21:41:57 saveConfig: Updated Items
+21:41:57 Saving storage file
+21:41:57 Saved storage file successfully
+21:41:57 saveConfig: Updated Items
+21:41:57 Saving storage file
+21:41:57 Saved storage file successfully
+21:42:01 saveConfig: Updated Items
+21:42:01 Saving storage file
+21:42:01 Saved storage file successfully
+21:42:01 saveConfig: Updated Items
+21:42:01 Saving storage file
+21:42:01 Saved storage file successfully
+21:42:05 saveConfig: Updated Items
+21:42:05 Saving storage file
+21:42:05 Saved storage file successfully
+21:42:05 saveConfig: Updated Items
+21:42:05 Saving storage file
+21:42:05 Saved storage file successfully
+21:42:08 saveConfig: Updated Items
+21:42:08 Saving storage file
+21:42:08 Saved storage file successfully
+21:42:08 saveConfig: Updated Items
+21:42:08 Saving storage file
+21:42:08 Saved storage file successfully
+21:42:20 saveConfig: Updated Items
+21:42:20 Saving storage file
+21:42:20 Saved storage file successfully
+21:42:20 saveConfig: Updated Items
+21:42:20 Saving storage file
+21:42:20 Saved storage file successfully
+21:42:21 saveConfig: Updated Items
+21:42:21 Saving storage file
+21:42:21 Saved storage file successfully
+21:42:21 saveConfig: Updated Items
+21:42:21 Saving storage file
+21:42:21 Saved storage file successfully
+21:42:25 saveConfig: Updated Items
+21:42:25 Saving storage file
+21:42:25 Saved storage file successfully
+21:42:25 saveConfig: Updated Items
+21:42:25 Saving storage file
+21:42:25 Saved storage file successfully
+21:42:29 saveConfig: Updated Items
+21:42:29 Saving storage file
+21:42:29 Saved storage file successfully
+21:42:29 saveConfig: Updated Items
+21:42:29 Saving storage file
+21:42:29 Saved storage file successfully
+21:42:30 saveConfig: Updated Items
+21:42:30 Saving storage file
+21:42:30 Saved storage file successfully
+21:42:30 saveConfig: Updated Items
+21:42:30 Saving storage file
+21:42:30 Saved storage file successfully
+21:42:33 saveConfig: Updated Items
+21:42:33 Saving storage file
+21:42:33 Saved storage file successfully
+21:42:33 saveConfig: Updated Items
+21:42:33 Saving storage file
+21:42:33 Saved storage file successfully
+21:42:36 saveConfig: auto-save-60s
+21:42:36 Saving config file
+21:42:36 Saved config file successfully
+21:42:36 saveConfig: auto-save-60s
+21:42:36 Saving config file
+21:42:36 Saved config file successfully
+21:42:36 saveConfig: Updated Items
+21:42:36 Saving storage file
+21:42:36 Saved storage file successfully
+21:42:36 saveConfig: Updated Items
+21:42:36 Saving storage file
+21:42:36 Saved storage file successfully
+21:42:40 saveConfig: Updated Items
+21:42:40 Saving storage file
+21:42:40 Saved storage file successfully
+21:42:40 saveConfig: Updated Items
+21:42:40 Saving storage file
+21:42:40 Saved storage file successfully
+21:42:42 saveConfig: Updated Items
+21:42:42 Saving storage file
+21:42:42 Saved storage file successfully
+21:42:42 saveConfig: Updated Items
+21:42:42 Saving storage file
+21:42:42 Saved storage file successfully
+21:42:45 saveConfig: Updated Items
+21:42:45 Saving storage file
+21:42:45 Saved storage file successfully
+21:42:45 saveConfig: Updated Items
+21:42:45 Saving storage file
+21:42:45 Saved storage file successfully
+21:43:23 saveConfig: Updated Items
+21:43:23 Saving storage file
+21:43:23 Saved storage file successfully
+21:43:23 saveConfig: Updated Items
+21:43:23 Saving storage file
+21:43:23 Saved storage file successfully
+21:43:28 saveConfig: Updated Items
+21:43:28 Saving storage file
+21:43:28 Saved storage file successfully
+21:43:28 saveConfig: Updated Items
+21:43:28 Saving storage file
+21:43:28 Saved storage file successfully
+21:43:31 saveConfig: Updated Items
+21:43:31 Saving storage file
+21:43:31 Saved storage file successfully
+21:43:31 saveConfig: Updated Items
+21:43:31 Saving storage file
+21:43:31 Saved storage file successfully
+21:43:34 saveConfig: Updated Items
+21:43:34 Saving storage file
+21:43:34 Saved storage file successfully
+21:43:34 saveConfig: Updated Items
+21:43:34 Saving storage file
+21:43:34 Saved storage file successfully
+21:43:36 saveConfig: auto-save-60s
+21:43:36 Saving config file
+21:43:36 Saved config file successfully
+21:43:36 saveConfig: auto-save-60s
+21:43:36 Saving config file
+21:43:36 Saved config file successfully
+21:43:37 saveConfig: Updated Items
+21:43:37 Saving storage file
+21:43:37 Saved storage file successfully
+21:43:37 saveConfig: Updated Items
+21:43:37 Saving storage file
+21:43:37 Saved storage file successfully
+21:43:40 saveConfig: Updated Items
+21:43:40 Saving storage file
+21:43:40 Saved storage file successfully
+21:43:40 saveConfig: Updated Items
+21:43:40 Saving storage file
+21:43:40 Saved storage file successfully
+21:43:43 saveConfig: Updated Items
+21:43:43 Saving storage file
+21:43:43 Saved storage file successfully
+21:43:43 saveConfig: Updated Items
+21:43:43 Saving storage file
+21:43:43 Saved storage file successfully
+21:43:46 saveConfig: Updated Items
+21:43:46 Saving storage file
+21:43:46 Saved storage file successfully
+21:43:46 saveConfig: Updated Items
+21:43:46 Saving storage file
+21:43:46 Saved storage file successfully
+21:43:51 saveConfig: Updated Items
+21:43:51 Saving storage file
+21:43:51 Saved storage file successfully
+21:43:51 saveConfig: Updated Items
+21:43:51 Saving storage file
+21:43:51 Saved storage file successfully
+21:43:55 saveConfig: Updated Items
+21:43:55 Saving storage file
+21:43:55 Saved storage file successfully
+21:43:55 saveConfig: Updated Items
+21:43:55 Saving storage file
+21:43:55 Saved storage file successfully
+21:44:00 saveConfig: Updated Items
+21:44:00 Saving storage file
+21:44:00 Saved storage file successfully
+21:44:00 saveConfig: Updated Items
+21:44:00 Saving storage file
+21:44:00 Saved storage file successfully
+21:44:03 saveConfig: Updated Items
+21:44:03 Saving storage file
+21:44:03 Saved storage file successfully
+21:44:03 saveConfig: Updated Items
+21:44:03 Saving storage file
+21:44:03 Saved storage file successfully
+21:44:05 saveConfig: Updated Items
+21:44:05 Saving storage file
+21:44:05 Saved storage file successfully
+21:44:05 saveConfig: Updated Items
+21:44:05 Saving storage file
+21:44:05 Saved storage file successfully
+21:44:07 saveConfig: Updated Items
+21:44:07 Saving storage file
+21:44:07 Saved storage file successfully
+21:44:07 saveConfig: Updated Items
+21:44:07 Saving storage file
+21:44:07 Saved storage file successfully
+21:44:10 saveConfig: Updated Items
+21:44:10 Saving storage file
+21:44:10 Saved storage file successfully
+21:44:10 saveConfig: Updated Items
+21:44:10 Saving storage file
+21:44:10 Saved storage file successfully
+21:44:15 saveConfig: Updated Items
+21:44:15 Saving storage file
+21:44:15 Saved storage file successfully
+21:44:15 saveConfig: Updated Items
+21:44:15 Saving storage file
+21:44:15 Saved storage file successfully
+21:44:15 saveConfig: saving-data
+21:44:15 Saving pets file
+21:44:15 Saved pets file successfully
+21:44:15 saveConfig: saving-data
+21:44:15 Saving pets file
+21:44:15 Saved pets file successfully
+21:44:17 saveConfig: Updated Items
+21:44:17 Saving storage file
+21:44:17 Saved storage file successfully
+21:44:17 saveConfig: Updated Items
+21:44:17 Saving storage file
+21:44:17 Saved storage file successfully
+21:44:18 saveConfig: Updated Items
+21:44:18 Saving storage file
+21:44:18 Saved storage file successfully
+21:44:18 saveConfig: Updated Items
+21:44:18 Saving storage file
+21:44:18 Saved storage file successfully
+21:44:20 saveConfig: Updated Items
+21:44:20 Saving storage file
+21:44:20 Saved storage file successfully
+21:44:20 saveConfig: Updated Items
+21:44:20 Saving storage file
+21:44:20 Saved storage file successfully
+21:44:36 saveConfig: auto-save-60s
+21:44:36 Saving config file
+21:44:36 Saved config file successfully
+21:44:36 saveConfig: auto-save-60s
+21:44:36 Saving config file
+21:44:36 Saved config file successfully
+21:44:46 saveConfig: Updated Items
+21:44:46 Saving storage file
+21:44:46 Saved storage file successfully
+21:44:46 saveConfig: Updated Items
+21:44:46 Saving storage file
+21:44:46 Saved storage file successfully
+21:44:49 saveConfig: Updated Items
+21:44:49 Saving storage file
+21:44:49 Saved storage file successfully
+21:44:49 saveConfig: Updated Items
+21:44:49 Saving storage file
+21:44:49 Saved storage file successfully
+21:44:50 saveConfig: Updated Items
+21:44:50 Saving storage file
+21:44:50 Saved storage file successfully
+21:44:50 saveConfig: Updated Items
+21:44:50 Saving storage file
+21:44:50 Saved storage file successfully
+21:44:51 saveConfig: Updated Items
+21:44:51 Saving storage file
+21:44:51 Saved storage file successfully
+21:44:51 saveConfig: Updated Items
+21:44:51 Saving storage file
+21:44:51 Saved storage file successfully
+21:44:53 saveConfig: Updated Items
+21:44:53 Saving storage file
+21:44:53 Saved storage file successfully
+21:44:53 saveConfig: Updated Items
+21:44:53 Saving storage file
+21:44:53 Saved storage file successfully
+21:44:54 saveConfig: Updated Items
+21:44:54 Saving storage file
+21:44:54 Saved storage file successfully
+21:44:54 saveConfig: Updated Items
+21:44:54 Saving storage file
+21:44:54 Saved storage file successfully
+21:45:08 saveConfig: saving-data
+21:45:08 Saving sacks file
+21:45:08 Saved sacks file successfully
+21:45:08 saveConfig: saving-data
+21:45:08 Saving sacks file
+21:45:08 Saved sacks file successfully
+21:45:08 saveConfig: Updated Items
+21:45:08 Saving storage file
+21:45:08 Saved storage file successfully
+21:45:08 saveConfig: Updated Items
+21:45:08 Saving storage file
+21:45:08 Saved storage file successfully
+21:45:10 saveConfig: Updated Items
+21:45:10 Saving storage file
+21:45:10 Saved storage file successfully
+21:45:10 saveConfig: Updated Items
+21:45:10 Saving storage file
+21:45:10 Saved storage file successfully
+21:45:11 saveConfig: Updated Items
+21:45:11 Saving storage file
+21:45:11 Saved storage file successfully
+21:45:11 saveConfig: Updated Items
+21:45:11 Saving storage file
+21:45:11 Saved storage file successfully
+21:45:12 saveConfig: Updated Items
+21:45:12 Saving storage file
+21:45:12 Saved storage file successfully
+21:45:12 saveConfig: Updated Items
+21:45:12 Saving storage file
+21:45:12 Saved storage file successfully
+21:45:13 saveConfig: Updated Items
+21:45:13 Saving storage file
+21:45:13 Saved storage file successfully
+21:45:13 saveConfig: Updated Items
+21:45:13 Saving storage file
+21:45:13 Saved storage file successfully
+21:45:15 saveConfig: Updated Items
+21:45:15 Saving storage file
+21:45:15 Saved storage file successfully
+21:45:15 saveConfig: Updated Items
+21:45:15 Saving storage file
+21:45:15 Saved storage file successfully
+21:45:20 saveConfig: saving-data
+21:45:20 Saving sacks file
+21:45:20 Saved sacks file successfully
+21:45:20 saveConfig: saving-data
+21:45:20 Saving sacks file
+21:45:20 Saved sacks file successfully
+21:45:23 saveConfig: Updated Items
+21:45:23 Saving storage file
+21:45:23 Saved storage file successfully
+21:45:23 saveConfig: Updated Items
+21:45:23 Saving storage file
+21:45:23 Saved storage file successfully
+21:45:24 saveConfig: Updated Items
+21:45:24 Saving storage file
+21:45:24 Saved storage file successfully
+21:45:24 saveConfig: Updated Items
+21:45:24 Saving storage file
+21:45:24 Saved storage file successfully
+21:45:25 saveConfig: Updated Items
+21:45:25 Saving storage file
+21:45:25 Saved storage file successfully
+21:45:25 saveConfig: Updated Items
+21:45:25 Saving storage file
+21:45:25 Saved storage file successfully
+21:45:26 saveConfig: Updated Items
+21:45:26 Saving storage file
+21:45:26 Saved storage file successfully
+21:45:26 saveConfig: Updated Items
+21:45:26 Saving storage file
+21:45:26 Saved storage file successfully
+21:45:27 saveConfig: Updated Items
+21:45:27 Saving storage file
+21:45:27 Saved storage file successfully
+21:45:27 saveConfig: Updated Items
+21:45:27 Saving storage file
+21:45:27 Saved storage file successfully
+21:45:28 saveConfig: Updated Items
+21:45:28 Saving storage file
+21:45:28 Saved storage file successfully
+21:45:28 saveConfig: Updated Items
+21:45:28 Saving storage file
+21:45:28 Saved storage file successfully
+21:45:29 saveConfig: Updated Items
+21:45:29 Saving storage file
+21:45:29 Saved storage file successfully
+21:45:29 saveConfig: Updated Items
+21:45:29 Saving storage file
+21:45:29 Saved storage file successfully
+21:45:30 saveConfig: Updated Items
+21:45:30 Saving storage file
+21:45:30 Saved storage file successfully
+21:45:30 saveConfig: Updated Items
+21:45:30 Saving storage file
+21:45:30 Saved storage file successfully
+21:45:32 saveConfig: Updated Items
+21:45:32 Saving storage file
+21:45:32 Saved storage file successfully
+21:45:32 saveConfig: Updated Items
+21:45:32 Saving storage file
+21:45:32 Saved storage file successfully
+21:45:33 saveConfig: Updated Items
+21:45:33 Saving storage file
+21:45:33 Saved storage file successfully
+21:45:33 saveConfig: Updated Items
+21:45:33 Saving storage file
+21:45:33 Saved storage file successfully
+21:45:34 saveConfig: Updated Items
+21:45:34 Saving storage file
+21:45:34 Saved storage file successfully
+21:45:34 saveConfig: Updated Items
+21:45:34 Saving storage file
+21:45:34 Saved storage file successfully
+21:45:36 saveConfig: auto-save-60s
+21:45:36 Saving config file
+21:45:36 Saved config file successfully
+21:45:36 saveConfig: auto-save-60s
+21:45:36 Saving config file
+21:45:36 Saved config file successfully
+21:45:37 saveConfig: Updated Items
+21:45:37 Saving storage file
+21:45:37 Saved storage file successfully
+21:45:37 saveConfig: Updated Items
+21:45:37 Saving storage file
+21:45:37 Saved storage file successfully
+21:45:38 saveConfig: Updated Items
+21:45:38 Saving storage file
+21:45:38 Saved storage file successfully
+21:45:38 saveConfig: Updated Items
+21:45:38 Saving storage file
+21:45:38 Saved storage file successfully
+21:45:39 saveConfig: Updated Items
+21:45:39 Saving storage file
+21:45:39 Saved storage file successfully
+21:45:39 saveConfig: Updated Items
+21:45:39 Saving storage file
+21:45:39 Saved storage file successfully
+21:45:40 saveConfig: Updated Items
+21:45:40 Saving storage file
+21:45:40 Saved storage file successfully
+21:45:40 saveConfig: Updated Items
+21:45:40 Saving storage file
+21:45:40 Saved storage file successfully
+21:45:41 saveConfig: Updated Items
+21:45:41 Saving storage file
+21:45:41 Saved storage file successfully
+21:45:41 saveConfig: Updated Items
+21:45:41 Saving storage file
+21:45:41 Saved storage file successfully
+21:45:45 saveConfig: Updated Items
+21:45:45 Saving storage file
+21:45:45 Saved storage file successfully
+21:45:45 saveConfig: Updated Items
+21:45:45 Saving storage file
+21:45:45 Saved storage file successfully
+21:45:46 saveConfig: Updated Items
+21:45:46 Saving storage file
+21:45:46 Saved storage file successfully
+21:45:46 saveConfig: Updated Items
+21:45:46 Saving storage file
+21:45:46 Saved storage file successfully
+21:45:52 saveConfig: saving-data
+21:45:52 Saving sacks file
+21:45:52 Saved sacks file successfully
+21:45:52 saveConfig: saving-data
+21:45:52 Saving sacks file
+21:45:52 Saved sacks file successfully
+21:45:52 saveConfig: Updated Items
+21:45:52 Saving storage file
+21:45:52 Saved storage file successfully
+21:45:52 saveConfig: Updated Items
+21:45:52 Saving storage file
+21:45:52 Saved storage file successfully
+21:45:57 saveConfig: Updated Items
+21:45:57 Saving storage file
+21:45:57 Saved storage file successfully
+21:45:57 saveConfig: Updated Items
+21:45:57 Saving storage file
+21:45:57 Saved storage file successfully
+21:46:01 saveConfig: saving-data
+21:46:01 Saving pets file
+21:46:01 Saved pets file successfully
+21:46:01 saveConfig: saving-data
+21:46:01 Saving pets file
+21:46:01 Saved pets file successfully
+21:46:22 saveConfig: Updated Items
+21:46:22 Saving storage file
+21:46:22 Saved storage file successfully
+21:46:22 saveConfig: Updated Items
+21:46:22 Saving storage file
+21:46:22 Saved storage file successfully
+21:46:26 saveConfig: Updated Items
+21:46:26 Saving storage file
+21:46:26 Saved storage file successfully
+21:46:26 saveConfig: Updated Items
+21:46:26 Saving storage file
+21:46:26 Saved storage file successfully
+21:46:27 saveConfig: Updated Items
+21:46:27 Saving storage file
+21:46:27 Saved storage file successfully
+21:46:27 saveConfig: Updated Items
+21:46:27 Saving storage file
+21:46:27 Saved storage file successfully
+21:46:28 saveConfig: Updated Items
+21:46:28 Saving storage file
+21:46:28 Saved storage file successfully
+21:46:28 saveConfig: Updated Items
+21:46:28 Saving storage file
+21:46:28 Saved storage file successfully
+21:46:29 saveConfig: Updated Items
+21:46:29 Saving storage file
+21:46:29 Saved storage file successfully
+21:46:29 saveConfig: Updated Items
+21:46:29 Saving storage file
+21:46:29 Saved storage file successfully
+21:46:30 saveConfig: Updated Items
+21:46:30 Saving storage file
+21:46:30 Saved storage file successfully
+21:46:30 saveConfig: Updated Items
+21:46:30 Saving storage file
+21:46:30 Saved storage file successfully
+21:46:31 saveConfig: Updated Items
+21:46:31 Saving storage file
+21:46:31 Saved storage file successfully
+21:46:31 saveConfig: Updated Items
+21:46:31 Saving storage file
+21:46:31 Saved storage file successfully
+21:46:31 saveConfig: saving-data
+21:46:31 Saving pets file
+21:46:31 Saved pets file successfully
+21:46:31 saveConfig: saving-data
+21:46:31 Saving pets file
+21:46:31 Saved pets file successfully
+21:46:32 saveConfig: Updated Items
+21:46:32 Saving storage file
+21:46:32 Saved storage file successfully
+21:46:32 saveConfig: Updated Items
+21:46:32 Saving storage file
+21:46:32 Saved storage file successfully
+21:46:33 saveConfig: Updated Items
+21:46:33 Saving storage file
+21:46:33 Saved storage file successfully
+21:46:33 saveConfig: Updated Items
+21:46:33 Saving storage file
+21:46:33 Saved storage file successfully
+21:46:34 saveConfig: Updated Items
+21:46:34 Saving storage file
+21:46:34 Saved storage file successfully
+21:46:34 saveConfig: Updated Items
+21:46:34 Saving storage file
+21:46:34 Saved storage file successfully
+21:46:35 saveConfig: Updated Items
+21:46:35 Saving storage file
+21:46:35 Saved storage file successfully
+21:46:35 saveConfig: Updated Items
+21:46:35 Saving storage file
+21:46:35 Saved storage file successfully
+21:46:36 saveConfig: auto-save-60s
+21:46:36 Saving config file
+21:46:36 Saved config file successfully
+21:46:36 saveConfig: auto-save-60s
+21:46:36 Saving config file
+21:46:36 Saved config file successfully
+21:46:36 saveConfig: Updated Items
+21:46:36 Saving storage file
+21:46:36 Saved storage file successfully
+21:46:36 saveConfig: Updated Items
+21:46:36 Saving storage file
+21:46:36 Saved storage file successfully
+21:46:37 saveConfig: Updated Items
+21:46:37 Saving storage file
+21:46:37 Saved storage file successfully
+21:46:37 saveConfig: Updated Items
+21:46:37 Saving storage file
+21:46:37 Saved storage file successfully
+21:46:38 saveConfig: Updated Items
+21:46:38 Saving storage file
+21:46:38 Saved storage file successfully
+21:46:38 saveConfig: Updated Items
+21:46:38 Saving storage file
+21:46:38 Saved storage file successfully
+21:46:39 saveConfig: Updated Items
+21:46:39 Saving storage file
+21:46:39 Saved storage file successfully
+21:46:39 saveConfig: Updated Items
+21:46:39 Saving storage file
+21:46:39 Saved storage file successfully
+21:46:40 saveConfig: Updated Items
+21:46:40 Saving storage file
+21:46:40 Saved storage file successfully
+21:46:40 saveConfig: Updated Items
+21:46:40 Saving storage file
+21:46:40 Saved storage file successfully
+21:46:41 saveConfig: Updated Items
+21:46:41 Saving storage file
+21:46:41 Saved storage file successfully
+21:46:41 saveConfig: Updated Items
+21:46:41 Saving storage file
+21:46:41 Saved storage file successfully
+21:46:42 saveConfig: Updated Items
+21:46:42 Saving storage file
+21:46:42 Saved storage file successfully
+21:46:42 saveConfig: Updated Items
+21:46:42 Saving storage file
+21:46:42 Saved storage file successfully
+21:46:48 saveConfig: Updated Items
+21:46:48 Saving storage file
+21:46:48 Saved storage file successfully
+21:46:48 saveConfig: Updated Items
+21:46:48 Saving storage file
+21:46:48 Saved storage file successfully
+21:46:49 saveConfig: Updated Items
+21:46:49 Saving storage file
+21:46:49 Saved storage file successfully
+21:46:49 saveConfig: Updated Items
+21:46:49 Saving storage file
+21:46:49 Saved storage file successfully
+21:46:50 saveConfig: Updated Items
+21:46:50 Saving storage file
+21:46:50 Saved storage file successfully
+21:46:50 saveConfig: Updated Items
+21:46:50 Saving storage file
+21:46:50 Saved storage file successfully
+21:46:53 saveConfig: Updated Items
+21:46:53 Saving storage file
+21:46:53 Saved storage file successfully
+21:46:53 saveConfig: Updated Items
+21:46:53 Saving storage file
+21:46:53 Saved storage file successfully
+21:46:56 saveConfig: Updated Items
+21:46:56 Saving storage file
+21:46:56 Saved storage file successfully
+21:46:56 saveConfig: Updated Items
+21:46:56 Saving storage file
+21:46:56 Saved storage file successfully
+21:47:02 saveConfig: Updated Items
+21:47:02 Saving storage file
+21:47:02 Saved storage file successfully
+21:47:02 saveConfig: Updated Items
+21:47:02 Saving storage file
+21:47:02 Saved storage file successfully
+21:47:03 saveConfig: Updated Items
+21:47:03 Saving storage file
+21:47:03 Saved storage file successfully
+21:47:03 saveConfig: Updated Items
+21:47:03 Saving storage file
+21:47:03 Saved storage file successfully
+21:47:06 saveConfig: Updated Items
+21:47:06 Saving storage file
+21:47:06 Saved storage file successfully
+21:47:06 saveConfig: Updated Items
+21:47:06 Saving storage file
+21:47:06 Saved storage file successfully
+21:47:07 saveConfig: Updated Items
+21:47:07 Saving storage file
+21:47:07 Saved storage file successfully
+21:47:07 saveConfig: Updated Items
+21:47:07 Saving storage file
+21:47:07 Saved storage file successfully
+21:47:15 saveConfig: Updated Items
+21:47:15 Saving storage file
+21:47:15 Saved storage file successfully
+21:47:15 saveConfig: Updated Items
+21:47:15 Saving storage file
+21:47:15 Saved storage file successfully
+21:47:16 saveConfig: Updated Items
+21:47:16 Saving storage file
+21:47:16 Saved storage file successfully
+21:47:16 saveConfig: Updated Items
+21:47:16 Saving storage file
+21:47:16 Saved storage file successfully
+21:47:17 saveConfig: Updated Items
+21:47:17 Saving storage file
+21:47:17 Saved storage file successfully
+21:47:17 saveConfig: Updated Items
+21:47:17 Saving storage file
+21:47:17 Saved storage file successfully
+21:47:19 saveConfig: Updated Items
+21:47:19 Saving storage file
+21:47:19 Saved storage file successfully
+21:47:19 saveConfig: Updated Items
+21:47:19 Saving storage file
+21:47:19 Saved storage file successfully
+21:47:22 saveConfig: Updated Items
+21:47:22 Saving storage file
+21:47:22 Saved storage file successfully
+21:47:22 saveConfig: Updated Items
+21:47:22 Saving storage file
+21:47:22 Saved storage file successfully
+21:47:26 saveConfig: Updated Items
+21:47:26 Saving storage file
+21:47:26 Saved storage file successfully
+21:47:26 saveConfig: Updated Items
+21:47:26 Saving storage file
+21:47:26 Saved storage file successfully
+21:47:32 saveConfig: Updated Items
+21:47:32 Saving storage file
+21:47:32 Saved storage file successfully
+21:47:32 saveConfig: Updated Items
+21:47:32 Saving storage file
+21:47:32 Saved storage file successfully
+21:47:36 saveConfig: auto-save-60s
+21:47:36 Saving config file
+21:47:36 Saved config file successfully
+21:47:36 saveConfig: auto-save-60s
+21:47:36 Saving config file
+21:47:36 Saved config file successfully
+21:47:48 saveConfig: Updated Items
+21:47:48 Saving storage file
+21:47:48 Saved storage file successfully
+21:47:48 saveConfig: Updated Items
+21:47:48 Saving storage file
+21:47:48 Saved storage file successfully
+21:47:49 saveConfig: Updated Items
+21:47:49 Saving storage file
+21:47:49 Saved storage file successfully
+21:47:49 saveConfig: Updated Items
+21:47:49 Saving storage file
+21:47:49 Saved storage file successfully
+21:47:49 saveConfig: saving-data
+21:47:49 Saving pets file
+21:47:49 Saved pets file successfully
+21:47:49 saveConfig: saving-data
+21:47:49 Saving pets file
+21:47:49 Saved pets file successfully
+21:48:02 saveConfig: Updated Items
+21:48:02 Saving storage file
+21:48:02 Saved storage file successfully
+21:48:02 saveConfig: Updated Items
+21:48:02 Saving storage file
+21:48:02 Saved storage file successfully
+21:48:06 saveConfig: Updated Items
+21:48:06 Saving storage file
+21:48:06 Saved storage file successfully
+21:48:06 saveConfig: Updated Items
+21:48:06 Saving storage file
+21:48:06 Saved storage file successfully
+21:48:07 saveConfig: Updated Items
+21:48:07 Saving storage file
+21:48:07 Saved storage file successfully
+21:48:07 saveConfig: Updated Items
+21:48:07 Saving storage file
+21:48:07 Saved storage file successfully
+21:48:09 saveConfig: Updated Items
+21:48:09 Saving storage file
+21:48:09 Saved storage file successfully
+21:48:09 saveConfig: Updated Items
+21:48:09 Saving storage file
+21:48:09 Saved storage file successfully
+21:48:10 saveConfig: Updated Items
+21:48:10 Saving storage file
+21:48:10 Saved storage file successfully
+21:48:10 saveConfig: Updated Items
+21:48:10 Saving storage file
+21:48:10 Saved storage file successfully
+21:48:11 saveConfig: Updated Items
+21:48:11 Saving storage file
+21:48:11 Saved storage file successfully
+21:48:11 saveConfig: Updated Items
+21:48:11 Saving storage file
+21:48:11 Saved storage file successfully
+21:48:12 saveConfig: Updated Items
+21:48:12 Saving storage file
+21:48:12 Saved storage file successfully
+21:48:12 saveConfig: Updated Items
+21:48:12 Saving storage file
+21:48:12 Saved storage file successfully
+21:48:13 saveConfig: Updated Items
+21:48:13 Saving storage file
+21:48:13 Saved storage file successfully
+21:48:13 saveConfig: Updated Items
+21:48:13 Saving storage file
+21:48:13 Saved storage file successfully
+21:48:20 saveConfig: saving-data
+21:48:20 Saving pets file
+21:48:20 Saved pets file successfully
+21:48:20 saveConfig: saving-data
+21:48:20 Saving pets file
+21:48:20 Saved pets file successfully
+21:48:28 saveConfig: Updated Items
+21:48:28 Saving storage file
+21:48:28 Saved storage file successfully
+21:48:28 saveConfig: Updated Items
+21:48:28 Saving storage file
+21:48:28 Saved storage file successfully
+21:48:31 saveConfig: Updated Items
+21:48:31 Saving storage file
+21:48:31 Saved storage file successfully
+21:48:31 saveConfig: Updated Items
+21:48:31 Saving storage file
+21:48:31 Saved storage file successfully
+21:48:32 saveConfig: Updated Items
+21:48:32 Saving storage file
+21:48:32 Saved storage file successfully
+21:48:32 saveConfig: Updated Items
+21:48:32 Saving storage file
+21:48:32 Saved storage file successfully
+21:48:33 saveConfig: Updated Items
+21:48:33 Saving storage file
+21:48:33 Saved storage file successfully
+21:48:33 saveConfig: Updated Items
+21:48:33 Saving storage file
+21:48:33 Saved storage file successfully
+21:48:36 saveConfig: auto-save-60s
+21:48:36 Saving config file
+21:48:36 Saved config file successfully
+21:48:36 saveConfig: auto-save-60s
+21:48:36 Saving config file
+21:48:36 Saved config file successfully
+21:49:01 saveConfig: saving-data
+21:49:01 Saving pets file
+21:49:01 Saved pets file successfully
+21:49:01 saveConfig: saving-data
+21:49:01 Saving pets file
+21:49:01 Saved pets file successfully
+21:49:12 saveConfig: shutdown-hook
+21:49:12 Saving config file
+21:49:12 Saved config file successfully
+21:49:12 saveConfig: shutdown-hook
+21:49:12 Saving config file

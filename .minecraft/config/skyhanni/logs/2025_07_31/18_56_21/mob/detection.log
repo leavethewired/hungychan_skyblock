@@ -1,0 +1,24 @@
+18:57:37 `Stray`112 missed {
+ is already Found: false).
+ Position: LorenzVec(x=-559.75, y=100.0, z=-25.4375)
+ DistanceC: 12.25
+Relative Position: LorenzVec(x=-12.25, y=-9.0, z=-2.9375)
+ }
+18:57:37 `Stray`118 missed {
+ is already Found: false).
+ Position: LorenzVec(x=-566.78125, y=90.0, z=-27.5)
+ DistanceC: 19.28125
+Relative Position: LorenzVec(x=-19.28125, y=-19.0, z=-5.0)
+ }
+18:57:37 `Stray`122 missed {
+ is already Found: false).
+ Position: LorenzVec(x=-563.59375, y=99.0, z=-12.90625)
+ DistanceC: 16.09375
+Relative Position: LorenzVec(x=-16.09375, y=-10.0, z=9.59375)
+ }
+18:57:45 `Stray`110 missed {
+ is already Found: false).
+ Position: LorenzVec(x=-561.9375, y=95.0, z=-1.46875)
+ DistanceC: 21.03125
+Relative Position: LorenzVec(x=-14.4375, y=-14.0, z=21.03125)
+ }
