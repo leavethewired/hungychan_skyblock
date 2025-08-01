@@ -101,16 +101,16 @@
                     "minecraft:custom_data": {
                       "potion_level": 8,
                       "potion": "healing",
-                      "id": "POTION",
                       "splash": 1,
-                      "potion_type": "POTION",
+                      "id": "POTION",
                       "effects": [
                         {
                           "effect": "healing",
-                          "level": 8,
-                          "duration_ticks": 3600
+                          "duration_ticks": 3600,
+                          "level": 8
                         }
-                      ]
+                      ],
+                      "potion_type": "POTION"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -507,9 +507,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1750432585021,
-                      "id": "SNOW_CANNON",
                       "donated_museum": 1,
+                      "id": "SNOW_CANNON",
+                      "timestamp": 1750432585021,
                       "uuid": "cc4dd83f-a87c-49af-8624-1c6b70f5976e",
                       "ammo": 1000
                     },
@@ -914,7 +914,8 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "baseStatBoostPercentage": 21,
+                      "item_tier": 3,
+                      "timestamp": 1752634355800,
                       "enchantments": {
                         "experience": 3,
                         "life_steal": 3,
@@ -925,12 +926,11 @@
                         "scavenger": 5,
                         "sharpness": 5
                       },
-                      "timestamp": 1752634355800,
-                      "item_tier": 3,
-                      "modifier": "epic",
+                      "baseStatBoostPercentage": 21,
                       "uuid": "00674138-904a-4348-8ec7-f7705a9bf6c8",
-                      "id": "CRYPT_DREADLORD_SWORD",
-                      "dungeon_skill_req": "CATACOMBS:5"
+                      "modifier": "epic",
+                      "dungeon_skill_req": "CATACOMBS:5",
+                      "id": "CRYPT_DREADLORD_SWORD"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -1998,47 +1998,47 @@
                       "effects": [
                         {
                           "effect": "regeneration",
-                          "level": 3,
                           "modifiers": {},
+                          "level": 3,
                           "duration_ticks": 48000
                         },
                         {
                           "effect": "strength",
-                          "level": 4,
                           "modifiers": {},
+                          "level": 4,
                           "duration_ticks": 48000
                         },
                         {
                           "effect": "critical",
-                          "level": 3,
                           "modifiers": {},
+                          "level": 3,
                           "duration_ticks": 48000
                         },
                         {
                           "effect": "speed",
-                          "level": 3,
                           "modifiers": {},
+                          "level": 3,
                           "duration_ticks": 48000
                         },
                         {
                           "effect": "resistance",
-                          "level": 4,
                           "modifiers": {},
+                          "level": 4,
                           "duration_ticks": 48000
                         },
                         {
                           "effect": "archery",
-                          "level": 2,
                           "modifiers": {},
+                          "level": 2,
                           "duration_ticks": 48000
                         }
                       ],
                       "dungeon_potion": 1,
                       "potion_level": 5,
-                      "id": "POTION",
                       "splash": 0,
-                      "potion_type": "POTION",
-                      "potion_name": "Dungeon"
+                      "id": "POTION",
+                      "potion_name": "Dungeon",
+                      "potion_type": "POTION"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -3338,15 +3338,15 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "donated_museum": 1,
+                      "id": "COW_HEAD",
+                      "timestamp": 1752521413865,
+                      "uuid": "b780fbe4-286f-4774-8c21-350bb7cb1fd1",
+                      "modifier": "pure",
                       "enchantments": {
                         "protection": 5,
                         "growth": 5
-                      },
-                      "timestamp": 1752521413865,
-                      "id": "COW_HEAD",
-                      "modifier": "pure",
-                      "uuid": "b780fbe4-286f-4774-8c21-350bb7cb1fd1",
-                      "donated_museum": 1
+                      }
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -4709,16 +4709,16 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "enchantments": {
-                        "luck_of_the_sea": 5,
-                        "lure": 5,
-                        "caster": 5,
-                        "looting": 3,
-                        "piscary": 5,
-                        "blessing": 5
-                      },
-                      "id": "FISHING_ROD",
                       "timestamp": 1750435895982,
+                      "id": "FISHING_ROD",
+                      "enchantments": {
+                        "caster": 5,
+                        "lure": 5,
+                        "luck_of_the_sea": 5,
+                        "looting": 3,
+                        "blessing": 5,
+                        "piscary": 5
+                      },
                       "uuid": "4cc7beb6-2e92-4027-bcd7-45451744ee90"
                     },
                     "!minecraft:enchantments": {}
@@ -5583,9 +5583,9 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1749302089794,
-                      "id": "ROGUE_SWORD",
                       "donated_museum": 1,
+                      "id": "ROGUE_SWORD",
+                      "timestamp": 1749302089794,
                       "uuid": "e3e3c549-da8f-440a-beb0-038c957d51ad"
                     },
                     "!minecraft:enchantments": {}
@@ -8314,11 +8314,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1750637894996,
-                      "id": "ENDER_NECKLACE",
                       "donated_museum": 1,
-                      "modifier": "blended",
-                      "uuid": "36b7b5d8-dceb-4687-b2b2-4308d0c5963b"
+                      "id": "ENDER_NECKLACE",
+                      "timestamp": 1750637894996,
+                      "uuid": "36b7b5d8-dceb-4687-b2b2-4308d0c5963b",
+                      "modifier": "blended"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -9034,24 +9034,24 @@
                     ],
                     "minecraft:custom_data": {
                       "upgrade_level": 3,
-                      "baseStatBoostPercentage": 34,
+                      "item_tier": 5,
+                      "timestamp": 1753093012713,
                       "enchantments": {
-                        "snipe": 3,
                         "chance": 3,
+                        "snipe": 3,
                         "power": 5,
                         "infinite_quiver": 5,
                         "piercing": 1,
                         "punch": 1
                       },
-                      "timestamp": 1753093012713,
-                      "item_tier": 5,
-                      "modifier": "rapid",
+                      "baseStatBoostPercentage": 34,
+                      "uuid": "26bd9e2c-b36f-45bb-b7bb-f48148418496",
                       "runes": {
                         "FIRE_SPIRAL": 1
                       },
-                      "uuid": "26bd9e2c-b36f-45bb-b7bb-f48148418496",
-                      "id": "MACHINE_GUN_BOW",
-                      "dungeon_skill_req": "CATACOMBS:14"
+                      "modifier": "rapid",
+                      "dungeon_skill_req": "CATACOMBS:14",
+                      "id": "MACHINE_GUN_BOW"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -9353,9 +9353,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1752612676763,
-                      "id": "CLOWNFISH_CLOAK",
                       "donated_museum": 1,
+                      "id": "CLOWNFISH_CLOAK",
+                      "timestamp": 1752612676763,
                       "uuid": "91da0d6b-e3b1-4905-a3df-a2d3a33cd0b3"
                     },
                     "!minecraft:enchantments": {}
@@ -9631,11 +9631,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1750634708091,
-                      "id": "ENDER_GAUNTLET",
                       "donated_museum": 1,
-                      "modifier": "blended",
-                      "uuid": "f18bf610-5645-4ffe-b4d7-c1dd59182272"
+                      "id": "ENDER_GAUNTLET",
+                      "timestamp": 1750634708091,
+                      "uuid": "f18bf610-5645-4ffe-b4d7-c1dd59182272",
+                      "modifier": "blended"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -10653,9 +10653,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1752612676182,
-                      "id": "CLAY_BRACELET",
                       "donated_museum": 1,
+                      "id": "CLAY_BRACELET",
+                      "timestamp": 1752612676182,
                       "uuid": "6de835d9-3eea-4f21-8a44-1e6026a2dfb4"
                     },
                     "!minecraft:enchantments": {}
@@ -10931,11 +10931,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1750428143969,
-                      "id": "ENDER_CLOAK",
                       "donated_museum": 1,
-                      "modifier": "blended",
-                      "uuid": "65f11ad9-724f-4816-ab68-fa78bb7c6980"
+                      "id": "ENDER_CLOAK",
+                      "timestamp": 1750428143969,
+                      "uuid": "65f11ad9-724f-4816-ab68-fa78bb7c6980",
+                      "modifier": "blended"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -11241,9 +11241,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1750741310057,
-                      "id": "DAVIDS_CLOAK",
                       "attributeMenuValue": 17,
+                      "id": "DAVIDS_CLOAK",
+                      "timestamp": 1750741310057,
                       "uuid": "2fb24195-629f-464b-9519-ff9de5437092",
                       "boosters": [
                         "sweep",
@@ -11847,9 +11847,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1752612677885,
-                      "id": "PRISMARINE_NECKLACE",
                       "donated_museum": 1,
+                      "id": "PRISMARINE_NECKLACE",
+                      "timestamp": 1752612677885,
                       "uuid": "d90faa2e-1c76-48d7-9fec-653005a1b198"
                     },
                     "!minecraft:enchantments": {}
@@ -12254,13 +12254,13 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1752873708127,
+                      "id": "DIAMOND_PICKAXE",
                       "enchantments": {
                         "fortune": 3,
                         "smelting_touch": 1,
                         "efficiency": 5
                       },
-                      "id": "DIAMOND_PICKAXE",
-                      "timestamp": 1752873708127,
                       "uuid": "a97cb473-3d44-4388-90cd-7600a942f4ca"
                     },
                     "!minecraft:enchantments": {}
@@ -12459,9 +12459,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1752612675401,
-                      "id": "SPONGE_BELT",
                       "donated_museum": 1,
+                      "id": "SPONGE_BELT",
+                      "timestamp": 1752612675401,
                       "uuid": "31a1534c-19d5-4cdf-8a38-bb04e6841e91"
                     },
                     "!minecraft:enchantments": {}
@@ -12737,11 +12737,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1750648031030,
-                      "id": "ENDER_BELT",
                       "donated_museum": 1,
-                      "modifier": "blended",
-                      "uuid": "790b64d1-c94d-4920-b32c-0788fab5cdcf"
+                      "id": "ENDER_BELT",
+                      "timestamp": 1750648031030,
+                      "uuid": "790b64d1-c94d-4920-b32c-0788fab5cdcf",
+                      "modifier": "blended"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -13532,9 +13532,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1752964263338,
-                      "id": "RADIANT_POWER_ORB",
                       "donated_museum": 1,
+                      "id": "RADIANT_POWER_ORB",
+                      "timestamp": 1752964263338,
                       "uuid": "ed4eea88-06e7-42ca-b5aa-37f2baff6032"
                     },
                     "!minecraft:enchantments": {}
@@ -13751,9 +13751,9 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1752639450731,
-                      "id": "BANDAGED_MITHRIL_PICKAXE",
                       "donated_museum": 1,
+                      "id": "BANDAGED_MITHRIL_PICKAXE",
+                      "timestamp": 1752639450731,
                       "uuid": "37f77a4b-93a8-4100-afcd-0d0a9979dea4"
                     },
                     "!minecraft:enchantments": {}
@@ -13764,7 +13764,324 @@
             {
               "index": 2,
               "items": [
-                {},
+                {
+                  "id": "minecraft:diamond_pickaxe",
+                  "count": 1,
+                  "components": {
+                    "minecraft:tooltip_display": {
+                      "hidden_components": [
+                        "minecraft:jukebox_playable",
+                        "minecraft:painting/variant",
+                        "minecraft:map_id",
+                        "minecraft:fireworks",
+                        "minecraft:attribute_modifiers",
+                        "minecraft:unbreakable",
+                        "minecraft:written_book_content",
+                        "minecraft:banner_patterns",
+                        "minecraft:trim",
+                        "minecraft:potion_contents",
+                        "minecraft:block_entity_data",
+                        "minecraft:dyed_color"
+                      ]
+                    },
+                    "minecraft:enchantment_glint_override": true,
+                    "minecraft:unbreakable": {},
+                    "minecraft:custom_name": {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Pickonimbus 2000",
+                          "color": "dark_purple"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Breaking Power 8",
+                            "color": "dark_gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Damage: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+30",
+                            "color": "red"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Mining Speed: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+860",
+                            "color": "green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Mining Fortune: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+30",
+                            "color": "green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Efficiency V",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+110 ",
+                            "color": "green"
+                          },
+                          {
+                            "text": "⸕ Mining Speed",
+                            "color": "gold"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Fortune III",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+30☘ Mining Fortune",
+                            "color": "gold"
+                          },
+                          {
+                            "text": ", which",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "increases your chance for multiple",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "drops.",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "A powerful tool that breaks after",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "2,000",
+                            "color": "green"
+                          },
+                          {
+                            "text": " uses.",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Ability: Pickobulus  ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "RIGHT CLICK",
+                            "bold": true,
+                            "color": "yellow"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Throw your pickaxe to create an",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "explosion mining all ores in a ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "3 ",
+                            "color": "green"
+                          },
+                          {
+                            "text": "block",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "radius.",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Cooldown: ",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "60s",
+                            "color": "green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "This item can be reforged!",
+                            "color": "dark_gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "EPIC PICKAXE",
+                            "bold": true,
+                            "color": "dark_purple"
+                          }
+                        ],
+                        "italic": false
+                      }
+                    ],
+                    "minecraft:custom_data": {
+                      "enchantments": {
+                        "fortune": 3,
+                        "efficiency": 5
+                      },
+                      "id": "PICKONIMBUS",
+                      "timestamp": 1754057862998,
+                      "uuid": "66abeda9-b979-43c9-99bf-ef651f4aab4a"
+                    },
+                    "!minecraft:enchantments": {}
+                  }
+                },
                 {
                   "id": "minecraft:player_head",
                   "count": 23,
@@ -14206,7 +14523,7 @@
                 },
                 {
                   "id": "minecraft:elder_guardian_spawn_egg",
-                  "count": 2,
+                  "count": 1,
                   "components": {
                     "minecraft:tooltip_display": {
                       "hidden_components": [
@@ -14286,84 +14603,7 @@
                     "!minecraft:enchantments": {}
                   }
                 },
-                {
-                  "id": "minecraft:tripwire_hook",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:enchantment_glint_override": true,
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Jungle Key",
-                          "color": "dark_purple"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Used to open the entrance to the",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Jungle Temple.",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "EPIC",
-                            "bold": true,
-                            "color": "dark_purple"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:custom_data": {
-                      "id": "JUNGLE_KEY"
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                },
+                {},
                 {
                   "id": "minecraft:diamond_pickaxe",
                   "count": 1,
@@ -14992,7 +15232,7 @@
                   }
                 },
                 {
-                  "id": "minecraft:diamond_pickaxe",
+                  "id": "minecraft:player_head",
                   "count": 1,
                   "components": {
                     "minecraft:tooltip_display": {
@@ -15011,13 +15251,11 @@
                         "minecraft:dyed_color"
                       ]
                     },
-                    "minecraft:enchantment_glint_override": true,
-                    "minecraft:unbreakable": {},
                     "minecraft:custom_name": {
                       "text": "",
                       "extra": [
                         {
-                          "text": "Pickonimbus 2000",
+                          "text": "Recall Potion",
                           "color": "dark_purple"
                         }
                       ],
@@ -15028,71 +15266,31 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Breaking Power 8",
-                            "color": "dark_gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Damage: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+30",
-                            "color": "red"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Mining Speed: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+750",
-                            "color": "green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "A powerful tool that breaks after",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
                             "text": "",
                             "color": "gray"
                           },
                           {
-                            "text": "2,000",
-                            "color": "green"
-                          },
+                            "text": "A mystical and glowing elixir imbued",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
                           {
-                            "text": " uses.",
+                            "text": "with special abilities from another",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "dimension.",
                             "color": "gray"
                           }
                         ],
@@ -15106,7 +15304,7 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Ability: Pickobulus  ",
+                            "text": "Ability: Ancient Recall  ",
                             "color": "gold"
                           },
                           {
@@ -15121,68 +15319,20 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Throw your pickaxe to create an",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "explosion mining all ores in a ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "3 ",
-                            "color": "green"
-                          },
-                          {
-                            "text": "block",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "radius.",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Cooldown: ",
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "60s",
-                            "color": "green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
                             "text": "",
                             "color": "gray"
                           },
                           {
-                            "text": "This item can be reforged!",
-                            "color": "dark_gray"
+                            "text": "When in the ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Crystal Hollows ",
+                            "color": "dark_purple"
+                          },
+                          {
+                            "text": "allows you to save",
+                            "color": "gray"
                           }
                         ],
                         "italic": false
@@ -15191,7 +15341,37 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "EPIC PICKAXE",
+                            "text": "and ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "warp ",
+                            "color": "light_purple"
+                          },
+                          {
+                            "text": "back to a ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "saved location",
+                            "color": "aqua"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "EPIC",
                             "bold": true,
                             "color": "dark_purple"
                           }
@@ -15199,10 +15379,25 @@
                         "italic": false
                       }
                     ],
+                    "minecraft:profile": {
+                      "id": [
+                        -376046147,
+                        2014918332,
+                        -1511774434,
+                        1062133196
+                      ],
+                      "properties": [
+                        {
+                          "name": "textures",
+                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDA1MDI4OTA2MSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MTQxNDE0MWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFmODE1MWRlYjM5NTUzMjkyYjlhNjk2NzQ4MzJkZGE4MDAxNzgwY2E5ODE4MGEwNmVhZjliMzY4OTMwYjViYiIKICAgIH0KICB9Cn0\u003d",
+                          "signature": "vk+6stUM8ra4biJ9W37kHmnIhufYk1iuki1R9CElFUKH7Or4p9pm4iU5ppLdgGm7hV2+M5V8wheEJbYdlCg7Wvk2Dm+51VGTmtMeoic8b8TNbPgmI28EMgrO663SGDbqdpxVVNQ0M6AG0vfei02OssQpJy2WPghNBVhgIFZp62UwDp1eWuhS8EwLIdDwJsU3zZNjE0mPENoX2xB7HXf2vac/cZ79dnFyHDs/LBVo2TCg8Ywo/BPpDNQTPehDeDZFawh4MZnmobLHSyPgZGZlo5oXOQKl/6dj2M+PG/HwwUdGuTV3gPoqNNExoWYNhL8Ja+t1M6WFi7KERb0YIlXZJWMtCa+O/GrfNamA9IToxe6a1HGvEjh/itsPuRyy9v2Gc3PkoqL+brrwjGCuF2zFHKS8fYtaR42xFaF00BvBQVb33CvN61xE1sR9e0EsrXKzjuLoSKApoAf1BqVppSl82agIaH7yIWmXOPOVw2qJkEn1jAi8NAJXX+q3dvgZE451Fh33F8DlSrraKWj2fKbhQ7BG9udef1GL7rhqUWhwWeKBDwghjffIJ/BN12hLFnrLOHyfcOt+dkYOoh6SHKx1giU7oVCimj5Tu4d0hcR7/CZJCO/c3mV9o4dKZeTGTYBcXgt9G961nOrNdyrHci/tSd5yLBiWJRY+SVfKcWjvx2M\u003d"
+                        }
+                      ]
+                    },
                     "minecraft:custom_data": {
-                      "uuid": "66abeda9-b979-43c9-99bf-ef651f4aab4a",
-                      "timestamp": 1754057862998,
-                      "id": "PICKONIMBUS"
+                      "uuid": "2baf2e45-864f-4d7d-bd56-8727d5eaf114",
+                      "timestamp": 1754057862838,
+                      "id": "RECALL_POTION"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -15490,295 +15685,14 @@
                   }
                 },
                 {},
-                {
-                  "id": "minecraft:player_head",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Recall Potion",
-                          "color": "dark_purple"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "A mystical and glowing elixir imbued",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "with special abilities from another",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "dimension.",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Ability: Ancient Recall  ",
-                            "color": "gold"
-                          },
-                          {
-                            "text": "RIGHT CLICK",
-                            "bold": true,
-                            "color": "yellow"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "When in the ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Crystal Hollows ",
-                            "color": "dark_purple"
-                          },
-                          {
-                            "text": "allows you to save",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "and ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "warp ",
-                            "color": "light_purple"
-                          },
-                          {
-                            "text": "back to a ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "saved location",
-                            "color": "aqua"
-                          },
-                          {
-                            "text": ".",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "EPIC",
-                            "bold": true,
-                            "color": "dark_purple"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:profile": {
-                      "id": [
-                        -376046147,
-                        2014918332,
-                        -1511774434,
-                        1062133196
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDA1MDI4OTA2MSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MTQxNDE0MWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFmODE1MWRlYjM5NTUzMjkyYjlhNjk2NzQ4MzJkZGE4MDAxNzgwY2E5ODE4MGEwNmVhZjliMzY4OTMwYjViYiIKICAgIH0KICB9Cn0\u003d",
-                          "signature": "vk+6stUM8ra4biJ9W37kHmnIhufYk1iuki1R9CElFUKH7Or4p9pm4iU5ppLdgGm7hV2+M5V8wheEJbYdlCg7Wvk2Dm+51VGTmtMeoic8b8TNbPgmI28EMgrO663SGDbqdpxVVNQ0M6AG0vfei02OssQpJy2WPghNBVhgIFZp62UwDp1eWuhS8EwLIdDwJsU3zZNjE0mPENoX2xB7HXf2vac/cZ79dnFyHDs/LBVo2TCg8Ywo/BPpDNQTPehDeDZFawh4MZnmobLHSyPgZGZlo5oXOQKl/6dj2M+PG/HwwUdGuTV3gPoqNNExoWYNhL8Ja+t1M6WFi7KERb0YIlXZJWMtCa+O/GrfNamA9IToxe6a1HGvEjh/itsPuRyy9v2Gc3PkoqL+brrwjGCuF2zFHKS8fYtaR42xFaF00BvBQVb33CvN61xE1sR9e0EsrXKzjuLoSKApoAf1BqVppSl82agIaH7yIWmXOPOVw2qJkEn1jAi8NAJXX+q3dvgZE451Fh33F8DlSrraKWj2fKbhQ7BG9udef1GL7rhqUWhwWeKBDwghjffIJ/BN12hLFnrLOHyfcOt+dkYOoh6SHKx1giU7oVCimj5Tu4d0hcR7/CZJCO/c3mV9o4dKZeTGTYBcXgt9G961nOrNdyrHci/tSd5yLBiWJRY+SVfKcWjvx2M\u003d"
-                        }
-                      ]
-                    },
-                    "minecraft:custom_data": {
-                      "uuid": "2baf2e45-864f-4d7d-bd56-8727d5eaf114",
-                      "timestamp": 1754057862838,
-                      "id": "RECALL_POTION"
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                },
                 {},
                 {},
                 {},
                 {},
                 {},
                 {},
-                {
-                  "id": "minecraft:iron_hoe",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:unbreakable": {},
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Metal Detector",
-                          "color": "red"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Used to find lost Dwarven treasures",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "in the ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Mines of Divan",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": ". The Metal",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Detector beeps louder and faster",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "the closer you are to a buried",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "treasure.",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "SPECIAL",
-                            "bold": true,
-                            "color": "red"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:custom_data": {
-                      "id": "DWARVEN_METAL_DETECTOR"
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                },
+                {},
+                {},
                 {},
                 {},
                 {},
@@ -15789,7 +15703,7 @@
                 {},
                 {
                   "id": "minecraft:player_head",
-                  "count": 2,
+                  "count": 1,
                   "components": {
                     "minecraft:tooltip_display": {
                       "hidden_components": [
@@ -15917,7 +15831,7 @@
                 },
                 {
                   "id": "minecraft:player_head",
-                  "count": 2,
+                  "count": 1,
                   "components": {
                     "minecraft:tooltip_display": {
                       "hidden_components": [
@@ -16045,7 +15959,7 @@
                 },
                 {
                   "id": "minecraft:player_head",
-                  "count": 2,
+                  "count": 1,
                   "components": {
                     "minecraft:tooltip_display": {
                       "hidden_components": [
@@ -16173,7 +16087,7 @@
                 },
                 {
                   "id": "minecraft:player_head",
-                  "count": 4,
+                  "count": 3,
                   "components": {
                     "minecraft:tooltip_display": {
                       "hidden_components": [
@@ -16532,14 +16446,14 @@
                       "potion_level": 1,
                       "potion": "combat_xp_boost",
                       "id": "POTION",
-                      "potion_type": "POTION",
                       "effects": [
                         {
                           "effect": "combat_xp_boost",
-                          "level": 1,
-                          "duration_ticks": 14400
+                          "duration_ticks": 14400,
+                          "level": 1
                         }
-                      ]
+                      ],
+                      "potion_type": "POTION"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -16641,14 +16555,14 @@
                       "potion_level": 3,
                       "potion": "farming_xp_boost",
                       "id": "POTION",
-                      "potion_type": "POTION",
                       "effects": [
                         {
                           "effect": "farming_xp_boost",
-                          "level": 3,
-                          "duration_ticks": 43200
+                          "duration_ticks": 43200,
+                          "level": 3
                         }
-                      ]
+                      ],
+                      "potion_type": "POTION"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -16750,14 +16664,14 @@
                       "potion_level": 3,
                       "potion": "farming_xp_boost",
                       "id": "POTION",
-                      "potion_type": "POTION",
                       "effects": [
                         {
                           "effect": "farming_xp_boost",
-                          "level": 3,
-                          "duration_ticks": 43200
+                          "duration_ticks": 43200,
+                          "level": 3
                         }
-                      ]
+                      ],
+                      "potion_type": "POTION"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -16859,14 +16773,14 @@
                       "potion_level": 2,
                       "potion": "mining_xp_boost",
                       "id": "POTION",
-                      "potion_type": "POTION",
                       "effects": [
                         {
                           "effect": "mining_xp_boost",
-                          "level": 2,
-                          "duration_ticks": 28800
+                          "duration_ticks": 28800,
+                          "level": 2
                         }
-                      ]
+                      ],
+                      "potion_type": "POTION"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -17612,9 +17526,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1753986909161,
-                      "id": "DOJO_BLUE_BELT",
                       "donated_museum": 1,
+                      "id": "DOJO_BLUE_BELT",
+                      "timestamp": 1753986909161,
                       "uuid": "2f354af5-19bb-4efb-af25-cf5b73e4bdb9"
                     },
                     "!minecraft:enchantments": {}
@@ -18876,6 +18790,7 @@
                     ],
                     "minecraft:custom_data": {
                       "upgrade_level": 2,
+                      "timestamp": 1751564522760,
                       "enchantments": {
                         "power": 5,
                         "infinite_quiver": 3,
@@ -18883,7 +18798,6 @@
                         "aiming": 5,
                         "snipe": 3
                       },
-                      "timestamp": 1751564522760,
                       "uuid": "590c09c4-6d69-44ca-82fa-700364c66066",
                       "modifier": "deadly",
                       "id": "DRAGON_SHORTBOW",
@@ -19384,6 +19298,8 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1751546734653,
+                      "id": "VOID_SWORD",
                       "enchantments": {
                         "ender_slayer": 5,
                         "cleave": 5,
@@ -19400,8 +19316,6 @@
                         "scavenger": 3,
                         "sharpness": 5
                       },
-                      "id": "VOID_SWORD",
-                      "timestamp": 1751546734653,
                       "uuid": "d3fea980-3c7c-4565-b5af-2ed9cac38cd2",
                       "modifier": "legendary"
                     },
@@ -19738,6 +19652,7 @@
                     ],
                     "minecraft:custom_data": {
                       "item_tier": 2,
+                      "timestamp": 1752098275475,
                       "enchantments": {
                         "vampirism": 5,
                         "experience": 3,
@@ -19749,7 +19664,6 @@
                         "scavenger": 5,
                         "sharpness": 5
                       },
-                      "timestamp": 1752098275475,
                       "baseStatBoostPercentage": 46,
                       "uuid": "41707d28-df1c-4f55-ab33-5912142261f9",
                       "modifier": "fair",
@@ -20087,6 +20001,8 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1751811294304,
+                      "id": "BINGBOW",
                       "enchantments": {
                         "snipe": 3,
                         "infinite_quiver": 5,
@@ -20096,8 +20012,6 @@
                         "piercing": 1,
                         "punch": 1
                       },
-                      "id": "BINGBOW",
-                      "timestamp": 1751811294304,
                       "uuid": "cd861141-1f35-4f51-a790-215e6c107cc9",
                       "modifier": "headstrong"
                     },
@@ -21670,6 +21584,7 @@
                     ],
                     "minecraft:custom_data": {
                       "item_tier": 2,
+                      "timestamp": 1752103632231,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
@@ -21677,7 +21592,6 @@
                         "depth_strider": 3,
                         "growth": 5
                       },
-                      "timestamp": 1752103632231,
                       "baseStatBoostPercentage": 2,
                       "uuid": "7f92c72a-b23b-4730-adaa-fded3a2cccdd",
                       "modifier": "light",
@@ -22151,11 +22065,11 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1751521237955,
+                      "id": "ROGUE_SWORD",
                       "enchantments": {
                         "sharpness": 3
                       },
-                      "id": "ROGUE_SWORD",
-                      "timestamp": 1751521237955,
                       "uuid": "a0b9e7ce-00e0-4e87-bfb3-f46af0a53724"
                     },
                     "!minecraft:enchantments": {}
@@ -24092,11 +24006,11 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1752412374289,
+                      "id": "ENCHANTED_BOOK",
                       "enchantments": {
                         "sunder": 5
                       },
-                      "id": "ENCHANTED_BOOK",
-                      "timestamp": 1752412374289,
                       "uuid": "323ee26b-4c5f-49cd-a738-2300681e0cdc"
                     },
                     "!minecraft:enchantments": {}
@@ -24532,23 +24446,23 @@
                         "part": "junk_sinker",
                         "uuid": "3cf0a086-19b3-498b-8b34-39c2574e1948"
                       },
+                      "timestamp": 1751735783639,
+                      "line": {
+                        "part": "speedy_line",
+                        "uuid": "9863b41c-98d2-4cf9-a241-e7b9a268b860"
+                      },
                       "enchantments": {
                         "luck_of_the_sea": 5,
-                        "caster": 5,
                         "piscary": 5,
-                        "spiked_hook": 6,
+                        "caster": 5,
                         "frail": 6,
+                        "spiked_hook": 6,
                         "magnet": 5,
                         "impaling": 3,
                         "looting": 3,
                         "blessing": 5,
                         "lure": 6
                       },
-                      "line": {
-                        "part": "speedy_line",
-                        "uuid": "9863b41c-98d2-4cf9-a241-e7b9a268b860"
-                      },
-                      "timestamp": 1751735783639,
                       "uuid": "b9a7fcfd-4b2f-4b5c-970d-5e75773df052",
                       "modifier": "trashy",
                       "id": "BINGO_ROD"
@@ -25143,11 +25057,11 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1752284130095,
+                      "id": "ENCHANTED_BOOK",
                       "enchantments": {
                         "turbo_melon": 1
                       },
-                      "id": "ENCHANTED_BOOK",
-                      "timestamp": 1752284130095,
                       "uuid": "a54cf1dc-639a-48ee-9cd6-f714f1611420"
                     },
                     "!minecraft:enchantments": {}
@@ -25289,11 +25203,11 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1752284130093,
+                      "id": "ENCHANTED_BOOK",
                       "enchantments": {
                         "turbo_wheat": 1
                       },
-                      "id": "ENCHANTED_BOOK",
-                      "timestamp": 1752284130093,
                       "uuid": "bae9bb84-bd0f-4f79-b9a5-6665aecd6cc8"
                     },
                     "!minecraft:enchantments": {}
@@ -25435,11 +25349,11 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1752284130094,
+                      "id": "ENCHANTED_BOOK",
                       "enchantments": {
                         "turbo_pumpkin": 1
                       },
-                      "id": "ENCHANTED_BOOK",
-                      "timestamp": 1752284130094,
                       "uuid": "8fc7689a-99e6-4e92-9754-e3321662b9bf"
                     },
                     "!minecraft:enchantments": {}
@@ -29647,11 +29561,11 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1752352891967,
+                      "id": "SILVA_DOMINUS",
                       "enchantments": {
                         "arcane": 3
                       },
-                      "id": "SILVA_DOMINUS",
-                      "timestamp": 1752352891967,
                       "uuid": "6c4f30fe-97b8-4ae7-b764-3aab12f0973e",
                       "modifier": "rugged"
                     },
@@ -30048,11 +29962,11 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1752419963904,
+                      "id": "FIG_AXE",
                       "enchantments": {
                         "efficiency": 5
                       },
-                      "id": "FIG_AXE",
-                      "timestamp": 1752419963904,
                       "uuid": "c98ffa35-046e-45be-bb0f-d9a4c1d348f5",
                       "modifier": "moonglade",
                       "logs_cut": 6120
@@ -31916,6 +31830,8 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1752207320722,
+                      "id": "BINGHOE",
                       "enchantments": {
                         "replenish": 1,
                         "harvesting": 5,
@@ -31923,8 +31839,6 @@
                         "delicate": 5,
                         "efficiency": 5
                       },
-                      "id": "BINGHOE",
-                      "timestamp": 1752207320722,
                       "uuid": "00e6b422-af1e-4c6c-a073-fd1aa5e0501f"
                     }
                   }
@@ -32466,12 +32380,12 @@
                     "minecraft:custom_data": {
                       "upgrade_level": 5,
                       "item_tier": 1,
+                      "timestamp": 1751763057212,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "timestamp": 1751763057212,
                       "baseStatBoostPercentage": 33,
                       "uuid": "101af354-306a-4db4-94fa-60efbf446b23",
                       "modifier": "pure",
@@ -33988,11 +33902,11 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1698143340000,
+                      "id": "SHEARS",
                       "enchantments": {
                         "telekinesis": 1
                       },
-                      "id": "SHEARS",
-                      "timestamp": 1698143340000,
                       "uuid": "17a782ac-2d69-486f-bbf8-118174662dea"
                     },
                     "!minecraft:enchantments": {}
@@ -34823,16 +34737,16 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "enchantments": {
-                        "telekinesis": 1,
-                        "silk_touch": 1,
-                        "efficiency": 5
-                      },
+                      "timestamp": 1584732840000,
                       "id": "DIAMOND_SPADE",
                       "anvil_uses": 1,
                       "originTag": "CRAFTING_GRID_COLLECT",
                       "uuid": "b81d5543-aa41-4950-9320-7e5810865fb1",
-                      "timestamp": 1584732840000
+                      "enchantments": {
+                        "telekinesis": 1,
+                        "silk_touch": 1,
+                        "efficiency": 5
+                      }
                     }
                   }
                 },
@@ -35024,12 +34938,12 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1578137100000,
+                      "id": "STONK_PICKAXE",
                       "enchantments": {
                         "telekinesis": 1,
                         "efficiency": 6
                       },
-                      "id": "STONK_PICKAXE",
-                      "timestamp": 1578137100000,
                       "originTag": "SHOP_PURCHASE",
                       "uuid": "ba64f90b-b1cf-4b64-9137-e6ea13e78e5b"
                     }
@@ -35689,17 +35603,17 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1562143020000,
+                      "id": "FISHING_ROD",
+                      "anvil_uses": 2,
+                      "originTag": "CRAFTING_GRID_COLLECT",
+                      "uuid": "dc37d5ef-4ffb-48fc-9de8-844e2096b3a9",
                       "enchantments": {
                         "lure": 5,
                         "magnet": 6,
                         "looting": 3,
                         "blessing": 5
-                      },
-                      "id": "FISHING_ROD",
-                      "anvil_uses": 2,
-                      "originTag": "CRAFTING_GRID_COLLECT",
-                      "uuid": "dc37d5ef-4ffb-48fc-9de8-844e2096b3a9",
-                      "timestamp": 1562143020000
+                      }
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -36080,14 +35994,16 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1562664660000,
+                      "anvil_uses": 6,
                       "enchantments": {
                         "cubism": 5,
                         "ender_slayer": 5,
                         "first_strike": 4,
                         "execute": 5,
                         "critical": 5,
-                        "looting": 3,
                         "knockback": 2,
+                        "looting": 3,
                         "venomous": 5,
                         "vampirism": 5,
                         "luck": 5,
@@ -36097,8 +36013,6 @@
                         "scavenger": 3,
                         "sharpness": 5
                       },
-                      "anvil_uses": 6,
-                      "timestamp": 1562664660000,
                       "uuid": "e52fe5b8-b0ba-44ab-bc1f-94e3cb189367",
                       "runes": {
                         "HEARTS": 1
@@ -36377,7 +36291,7 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "yellow": 11,
+                      "magenta": 12,
                       "spray": "HYPIXEL_LOGO",
                       "silver": 36,
                       "white": 91,
@@ -36386,7 +36300,7 @@
                       "pink": 9,
                       "id": "SPRAY_CAN",
                       "light_blue": 11,
-                      "magenta": 12
+                      "yellow": 11
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -36706,15 +36620,15 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "enchantments": {
-                        "telekinesis": 1,
-                        "efficiency": 5
-                      },
+                      "timestamp": 1605366240000,
                       "id": "TREECAPITATOR_AXE",
                       "anvil_uses": 1,
                       "originTag": "TREECAPITATOR_AXE",
                       "uuid": "52709a89-694a-4202-a7f3-f224702dbdf4",
-                      "timestamp": 1605366240000
+                      "enchantments": {
+                        "telekinesis": 1,
+                        "efficiency": 5
+                      }
                     }
                   }
                 },
@@ -36817,11 +36731,11 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1605959160000,
+                      "id": "DIAMOND_SPADE",
                       "enchantments": {
                         "efficiency": 3
                       },
-                      "id": "DIAMOND_SPADE",
-                      "timestamp": 1605959160000,
                       "originTag": "QUICK_CRAFTING",
                       "uuid": "ad4d65c3-425a-4b16-949c-0d7bdd49408d"
                     }
@@ -37029,13 +36943,13 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1611482220000,
+                      "id": "BANDAGED_MITHRIL_PICKAXE",
                       "enchantments": {
-                        "fortune": 3,
                         "telekinesis": 1,
+                        "fortune": 3,
                         "efficiency": 5
                       },
-                      "id": "BANDAGED_MITHRIL_PICKAXE",
-                      "timestamp": 1611482220000,
                       "originTag": "SHOP_PURCHASE",
                       "uuid": "b99ed585-a5c9-45be-9987-b10485324dcc"
                     }
@@ -38119,11 +38033,11 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1574104560000,
+                      "id": "DIAMOND_BOOTS",
                       "enchantments": {
                         "frost_walker": 2
                       },
-                      "id": "DIAMOND_BOOTS",
-                      "timestamp": 1574104560000,
                       "originTag": "CRAFTING_GRID_SHIFT",
                       "uuid": "60fab830-b841-4f01-a669-0b4fc23eff08"
                     },
@@ -38562,12 +38476,12 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1605771180000,
+                      "id": "DIAMOND_PICKAXE",
                       "enchantments": {
                         "smelting_touch": 1,
                         "efficiency": 5
                       },
-                      "id": "DIAMOND_PICKAXE",
-                      "timestamp": 1605771180000,
                       "originTag": "QUICK_CRAFTING",
                       "uuid": "ab9ff42c-182d-4139-8289-fd43c83028ca"
                     }
@@ -40439,11 +40353,11 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1617207720000,
+                      "id": "ENCHANTED_BOOK",
                       "enchantments": {
                         "rejuvenate": 1
                       },
-                      "id": "ENCHANTED_BOOK",
-                      "timestamp": 1617207720000,
                       "originTag": "UNKNOWN",
                       "uuid": "7a93c476-a72d-489a-a4a7-986a6878fe51"
                     },
@@ -40744,12 +40658,12 @@
                     ],
                     "minecraft:custom_data": {
                       "item_tier": 2,
+                      "timestamp": 1617207360000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "timestamp": 1617207360000,
                       "baseStatBoostPercentage": 28,
                       "uuid": "b6640f3c-2e0a-4369-96db-945490f93a50",
                       "modifier": "heavy",
@@ -41631,6 +41545,7 @@
                     ],
                     "minecraft:custom_data": {
                       "item_tier": 2,
+                      "timestamp": 1617207060000,
                       "enchantments": {
                         "vampirism": 5,
                         "experience": 3,
@@ -41640,7 +41555,6 @@
                         "scavenger": 5,
                         "sharpness": 5
                       },
-                      "timestamp": 1617207060000,
                       "baseStatBoostPercentage": 29,
                       "uuid": "3fe0c990-4f2c-4345-be95-5dd9371130b6",
                       "modifier": "legendary",
@@ -41983,12 +41897,12 @@
                     ],
                     "minecraft:custom_data": {
                       "item_tier": 2,
+                      "timestamp": 1617207180000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "timestamp": 1617207180000,
                       "baseStatBoostPercentage": 41,
                       "uuid": "10a3d875-0e0d-4e7e-8093-3892ff9f6b51",
                       "modifier": "mythic",
@@ -42405,6 +42319,7 @@
                     ],
                     "minecraft:custom_data": {
                       "item_tier": 2,
+                      "timestamp": 1611333960000,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
@@ -42412,7 +42327,6 @@
                         "depth_strider": 3,
                         "growth": 5
                       },
-                      "timestamp": 1611333960000,
                       "baseStatBoostPercentage": 32,
                       "uuid": "87692084-d04a-485d-839d-aad12d0713b8",
                       "modifier": "clean",
@@ -43082,13 +42996,13 @@
                     ],
                     "minecraft:custom_data": {
                       "item_tier": 2,
+                      "timestamp": 1611331440000,
                       "enchantments": {
                         "power": 5,
                         "infinite_quiver": 5,
                         "piercing": 1,
                         "snipe": 3
                       },
-                      "timestamp": 1611331440000,
                       "baseStatBoostPercentage": 2,
                       "uuid": "185d3096-29c6-4816-909e-9661d3826eef",
                       "modifier": "rapid",

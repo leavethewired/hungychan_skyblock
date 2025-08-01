@@ -3,7 +3,7 @@
   "@skyblockapi:data": {
     "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
       "Lemon": {
-        "currentSlot": 7,
+        "currentSlot": 5,
         "slots": [
           {
             "id": 1,
@@ -1311,6 +1311,14 @@
                           "color": "aqua"
                         },
                         {
+                          "text": "ꕮ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "/",
+                          "color": "dark_gray"
+                        },
+                        {
                           "text": "⸙",
                           "color": "aqua"
                         },
@@ -1320,14 +1328,6 @@
                         },
                         {
                           "text": "⎋",
-                          "color": "aqua"
-                        },
-                        {
-                          "text": "/",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "ꕮ",
                           "color": "aqua"
                         }
                       ],
@@ -1628,6 +1628,14 @@
                           "color": "aqua"
                         },
                         {
+                          "text": "ꕮ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "/",
+                          "color": "dark_gray"
+                        },
+                        {
                           "text": "⸙",
                           "color": "aqua"
                         },
@@ -1637,14 +1645,6 @@
                         },
                         {
                           "text": "⎋",
-                          "color": "aqua"
-                        },
-                        {
-                          "text": "/",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "ꕮ",
                           "color": "aqua"
                         }
                       ],
@@ -1865,6 +1865,14 @@
                           "color": "aqua"
                         },
                         {
+                          "text": "ꕮ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "/",
+                          "color": "dark_gray"
+                        },
+                        {
                           "text": "⸙",
                           "color": "aqua"
                         },
@@ -1874,14 +1882,6 @@
                         },
                         {
                           "text": "⎋",
-                          "color": "aqua"
-                        },
-                        {
-                          "text": "/",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "ꕮ",
                           "color": "aqua"
                         }
                       ],
@@ -2104,6 +2104,14 @@
                           "color": "aqua"
                         },
                         {
+                          "text": "ꕮ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "/",
+                          "color": "dark_gray"
+                        },
+                        {
                           "text": "⸙",
                           "color": "aqua"
                         },
@@ -2113,14 +2121,6 @@
                         },
                         {
                           "text": "⎋",
-                          "color": "aqua"
-                        },
-                        {
-                          "text": "/",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "ꕮ",
                           "color": "aqua"
                         }
                       ],
@@ -4940,8 +4940,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Full Set Bonus: Skeletor (4/4)",
+                          "text": "Full Set Bonus: Skeletor ",
                           "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -5329,8 +5333,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Full Set Bonus: Skeletor (4/4)",
+                          "text": "Full Set Bonus: Skeletor ",
                           "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -5701,8 +5709,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Full Set Bonus: Skeletor (4/4)",
+                          "text": "Full Set Bonus: Skeletor ",
                           "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -6045,8 +6057,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Full Set Bonus: Skeletor (4/4)",
+                          "text": "Full Set Bonus: Skeletor ",
                           "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -7456,8 +7472,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Full Set Bonus: Absorb (4/4)",
+                          "text": "Full Set Bonus: Absorb ",
                           "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -7779,8 +7799,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Full Set Bonus: Absorb (4/4)",
+                          "text": "Full Set Bonus: Absorb ",
                           "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -8099,8 +8123,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Full Set Bonus: Absorb (4/4)",
+                          "text": "Full Set Bonus: Absorb ",
                           "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -8419,8 +8447,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Full Set Bonus: Absorb (4/4)",
+                          "text": "Full Set Bonus: Absorb ",
                           "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -10792,11 +10824,11 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "HEAT_HELMET",
+                    "timestamp": 1753010043835,
+                    "uuid": "12fb109b-7b55-41c9-ac6e-9be92f280dac",
                     "enchantments": {
                       "protection": 5
-                    },
-                    "uuid": "12fb109b-7b55-41c9-ac6e-9be92f280dac",
-                    "timestamp": 1753010043835
+                    }
                   },
                   "minecraft:dyed_color": 11776947
                 }
@@ -11120,11 +11152,11 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "HEAT_CHESTPLATE",
+                    "timestamp": 1753009106592,
+                    "uuid": "5cfc50f9-437a-486f-bd6b-7084d9895878",
                     "enchantments": {
                       "protection": 5
-                    },
-                    "uuid": "5cfc50f9-437a-486f-bd6b-7084d9895878",
-                    "timestamp": 1753009106592
+                    }
                   },
                   "minecraft:dyed_color": 11776947
                 }
@@ -11448,11 +11480,11 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "HEAT_LEGGINGS",
+                    "timestamp": 1753009392221,
+                    "uuid": "18e7e213-84a6-4106-a483-74ea130bb17f",
                     "enchantments": {
                       "protection": 5
-                    },
-                    "uuid": "18e7e213-84a6-4106-a483-74ea130bb17f",
-                    "timestamp": 1753009392221
+                    }
                   },
                   "minecraft:dyed_color": 11776947
                 }
@@ -11776,11 +11808,11 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "HEAT_BOOTS",
+                    "timestamp": 1753009369932,
+                    "uuid": "f78f110a-00de-48c3-b66c-74dcfb22b124",
                     "enchantments": {
                       "protection": 5
-                    },
-                    "uuid": "f78f110a-00de-48c3-b66c-74dcfb22b124",
-                    "timestamp": 1753009369932
+                    }
                   },
                   "minecraft:dyed_color": 11776947
                 }
@@ -13989,11 +14021,11 @@
                     ]
                   },
                   "minecraft:custom_data": {
+                    "timestamp": 1752733545896,
+                    "id": "SNORKELING_HELMET",
                     "enchantments": {
                       "respiration": 3
                     },
-                    "id": "SNORKELING_HELMET",
-                    "timestamp": 1752733545896,
                     "uuid": "dae8f2a3-b11f-4b1c-8093-e2400323bd8e"
                   }
                 }
@@ -14468,11 +14500,11 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1752729473341,
+                    "id": "SNORKELING_BOOTS",
                     "enchantments": {
                       "depth_strider": 3
                     },
-                    "id": "SNORKELING_BOOTS",
-                    "timestamp": 1752729473341,
                     "uuid": "a563fd8a-8fbb-42c4-bf0b-163fd5169513"
                   },
                   "minecraft:dyed_color": 0
@@ -14859,11 +14891,11 @@
                     ]
                   },
                   "minecraft:custom_data": {
+                    "timestamp": 1752351817656,
+                    "id": "DIVER_HELMET",
                     "enchantments": {
                       "respiration": 3
                     },
-                    "id": "DIVER_HELMET",
-                    "timestamp": 1752351817656,
                     "uuid": "8f498f58-ec9f-4370-8885-9e067dba4f5f",
                     "modifier": "wise"
                   }
@@ -15458,12 +15490,12 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 2,
+                    "timestamp": 1752452370252,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1752452370252,
                     "baseStatBoostPercentage": 45,
                     "uuid": "727bf051-d590-4fcc-8e6d-d83a10f6e666",
                     "modifier": "titanic",
@@ -15789,12 +15821,12 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 2,
+                    "timestamp": 1752613608842,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1752613608842,
                     "baseStatBoostPercentage": 30,
                     "uuid": "3264683f-6c28-452b-a207-8ad691ca04fc",
                     "modifier": "wise",
@@ -16088,12 +16120,12 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 4,
+                    "timestamp": 1752776910502,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1752776910502,
                     "baseStatBoostPercentage": 6,
                     "uuid": "d1ba3116-dfd9-4223-a5c2-d72dfe0995f4",
                     "modifier": "heavy",
@@ -16370,13 +16402,13 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "MENDER_FEDORA",
+                    "timestamp": 1752440790354,
+                    "uuid": "4c48bffb-c7f7-4200-9b16-a71472840142",
+                    "modifier": "titanic",
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
-                    },
-                    "uuid": "4c48bffb-c7f7-4200-9b16-a71472840142",
-                    "modifier": "titanic",
-                    "timestamp": 1752440790354
+                    }
                   }
                 }
               },
@@ -16663,12 +16695,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1752715593137,
+                    "id": "HOLY_DRAGON_CHESTPLATE",
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
                     },
-                    "id": "HOLY_DRAGON_CHESTPLATE",
-                    "timestamp": 1752715593137,
                     "uuid": "a7effd6d-bea8-4795-9e76-955cf8f6b490",
                     "modifier": "heavy"
                   },
@@ -16995,12 +17027,12 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 5,
+                    "timestamp": 1753000532880,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1753000532880,
                     "baseStatBoostPercentage": 30,
                     "uuid": "689dc771-9831-4aee-a955-03ff1e69d56e",
                     "modifier": "mythic",
@@ -17293,12 +17325,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1752997498525,
+                    "id": "HOLY_DRAGON_BOOTS",
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
                     },
-                    "id": "HOLY_DRAGON_BOOTS",
-                    "timestamp": 1752997498525,
                     "uuid": "f75ffad9-36ea-4c96-814c-045e4a5ba3cb",
                     "modifier": "heavy"
                   },
@@ -17592,12 +17624,12 @@
                     ]
                   },
                   "minecraft:custom_data": {
+                    "timestamp": 1751523053246,
+                    "id": "BACKWATER_HELMET",
                     "enchantments": {
                       "respiration": 3,
                       "growth": 5
                     },
-                    "id": "BACKWATER_HELMET",
-                    "timestamp": 1751523053246,
                     "uuid": "97d86a61-032f-4797-b4aa-02bee34a7f18",
                     "modifier": "titanic"
                   }
@@ -17803,11 +17835,11 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1751523053867,
+                    "id": "BACKWATER_CHESTPLATE",
                     "enchantments": {
                       "growth": 5
                     },
-                    "id": "BACKWATER_CHESTPLATE",
-                    "timestamp": 1751523053867,
                     "uuid": "a3eed81b-abc8-4a6f-84f7-fc3f0f63c6c9",
                     "modifier": "titanic"
                   },
@@ -18110,12 +18142,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1751523054367,
+                    "id": "BACKWATER_LEGGINGS",
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
                     },
-                    "id": "BACKWATER_LEGGINGS",
-                    "timestamp": 1751523054367,
                     "uuid": "90f37192-ad6d-4605-989e-8e6ac3b8fe70",
                     "modifier": "calcified"
                   },
@@ -18458,13 +18490,13 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1751523054817,
+                    "id": "BACKWATER_BOOTS",
                     "enchantments": {
                       "protection": 5,
                       "depth_strider": 3,
                       "growth": 5
                     },
-                    "id": "BACKWATER_BOOTS",
-                    "timestamp": 1751523054817,
                     "uuid": "f0de7d0c-3a6f-478f-ace7-c6233298707d",
                     "modifier": "calcified"
                   },
@@ -18873,13 +18905,13 @@
                     ]
                   },
                   "minecraft:custom_data": {
+                    "timestamp": 1752417727514,
+                    "id": "MENDER_FEDORA",
                     "enchantments": {
                       "protection": 5,
                       "rejuvenate": 2,
                       "growth": 5
                     },
-                    "id": "MENDER_FEDORA",
-                    "timestamp": 1752417727514,
                     "uuid": "6c81f07e-f3b3-4897-a3aa-e0dc9a9ccb8f",
                     "modifier": "pure"
                   }
@@ -19266,12 +19298,12 @@
                   "minecraft:custom_data": {
                     "upgrade_level": 5,
                     "item_tier": 1,
+                    "timestamp": 1751760951527,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1751760951527,
                     "baseStatBoostPercentage": 47,
                     "uuid": "61f1e9a6-2105-41d7-9180-ed387af840ee",
                     "modifier": "pure",
@@ -19662,12 +19694,12 @@
                   "minecraft:custom_data": {
                     "upgrade_level": 5,
                     "item_tier": 2,
+                    "timestamp": 1752058208784,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1752058208784,
                     "baseStatBoostPercentage": 26,
                     "uuid": "7b2854f9-f068-45da-9859-a5f0bfc7753a",
                     "modifier": "pure",
@@ -20079,6 +20111,7 @@
                   "minecraft:custom_data": {
                     "upgrade_level": 1,
                     "item_tier": 2,
+                    "timestamp": 1752058314515,
                     "enchantments": {
                       "thorns": 3,
                       "feather_falling": 5,
@@ -20086,7 +20119,6 @@
                       "depth_strider": 3,
                       "growth": 5
                     },
-                    "timestamp": 1752058314515,
                     "baseStatBoostPercentage": 35,
                     "uuid": "c644ad8f-c39d-4823-98dd-d6fd7a94a603",
                     "modifier": "pure",
@@ -21737,12 +21769,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1751575173698,
+                    "id": "GLACITE_HELMET",
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
                     },
-                    "id": "GLACITE_HELMET",
-                    "timestamp": 1751575173698,
                     "uuid": "2a10e463-635a-4932-8521-1035571c5fb7",
                     "modifier": "heavy"
                   }
@@ -22007,11 +22039,11 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1751573189192,
+                    "id": "GLACITE_CHESTPLATE",
                     "enchantments": {
                       "growth": 5
                     },
-                    "id": "GLACITE_CHESTPLATE",
-                    "timestamp": 1751573189192,
                     "uuid": "f1653fc8-84a3-4b6e-9f0d-934156875136",
                     "modifier": "heavy"
                   },
@@ -22781,12 +22813,12 @@
                     ]
                   },
                   "minecraft:custom_data": {
+                    "timestamp": 1751562077263,
+                    "id": "END_HELMET",
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
                     },
-                    "id": "END_HELMET",
-                    "timestamp": 1751562077263,
                     "uuid": "b528bfd5-05bf-465c-8742-1d7c61881ad3",
                     "modifier": "pure"
                   }
@@ -23378,12 +23410,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1751561134949,
+                    "id": "END_LEGGINGS",
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
                     },
-                    "id": "END_LEGGINGS",
-                    "timestamp": 1751561134949,
                     "uuid": "513bc509-f599-4383-8c3c-59a086c5dbb8",
                     "modifier": "pure"
                   }
@@ -23707,13 +23739,13 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1751552277141,
+                    "id": "END_BOOTS",
                     "enchantments": {
                       "protection": 5,
                       "feather_falling": 5,
                       "growth": 5
                     },
-                    "id": "END_BOOTS",
-                    "timestamp": 1751552277141,
                     "uuid": "a2ae8005-3975-4a01-871b-3b7793e327ea",
                     "modifier": "fierce"
                   }
@@ -24451,12 +24483,12 @@
                     ]
                   },
                   "minecraft:custom_data": {
+                    "timestamp": 1751921196259,
+                    "id": "GOBLIN_HELMET",
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
                     },
-                    "id": "GOBLIN_HELMET",
-                    "timestamp": 1751921196259,
                     "uuid": "139d966e-81e7-4b74-a93b-290bd2f51063",
                     "gems": {
                       "SAPPHIRE_0": "FLAWED"
@@ -24790,12 +24822,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1751922332154,
+                    "id": "GOBLIN_CHESTPLATE",
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
                     },
-                    "id": "GOBLIN_CHESTPLATE",
-                    "timestamp": 1751922332154,
                     "uuid": "10ba77f0-24bf-476e-83fc-aaeb5d5db56b",
                     "gems": {
                       "SAPPHIRE_0": "FLAWED"
@@ -25130,12 +25162,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1751635079452,
+                    "id": "GOBLIN_LEGGINGS",
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
                     },
-                    "id": "GOBLIN_LEGGINGS",
-                    "timestamp": 1751635079452,
                     "uuid": "2b74492c-6c6e-401d-a0c3-94a94831d370",
                     "gems": {
                       "SAPPHIRE_0": "FLAWED"
@@ -25470,12 +25502,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1751635201171,
+                    "id": "GOBLIN_BOOTS",
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
                     },
-                    "id": "GOBLIN_BOOTS",
-                    "timestamp": 1751635201171,
                     "uuid": "86abf73e-4eba-4bb3-a710-461cf0edc876",
                     "gems": {
                       "SAPPHIRE_0": "FLAWED"
@@ -25783,12 +25815,12 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 2,
+                    "timestamp": 1752060019574,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1752060019574,
                     "baseStatBoostPercentage": 33,
                     "uuid": "614367b7-6bdd-4cbb-941a-580e26deee07",
                     "modifier": "fierce",
@@ -26090,12 +26122,12 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 2,
+                    "timestamp": 1752059870576,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1752059870576,
                     "baseStatBoostPercentage": 21,
                     "uuid": "3cff154b-9124-4566-aff9-1a6d62a0f2b2",
                     "modifier": "fierce",
@@ -26397,12 +26429,12 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 2,
+                    "timestamp": 1752059931369,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1752059931369,
                     "baseStatBoostPercentage": 29,
                     "uuid": "de53ff96-5446-46a7-a25c-58c3fe4ad4c0",
                     "modifier": "fierce",
@@ -26725,6 +26757,7 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 2,
+                    "timestamp": 1752103459769,
                     "enchantments": {
                       "thorns": 3,
                       "feather_falling": 5,
@@ -26732,7 +26765,6 @@
                       "depth_strider": 3,
                       "growth": 5
                     },
-                    "timestamp": 1752103459769,
                     "baseStatBoostPercentage": 31,
                     "uuid": "b951bcff-e13f-46d1-a3a4-c6a2cb944227",
                     "modifier": "fierce",
@@ -27675,15 +27707,15 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "timestamp": 1577971500000,
-                    "anvil_uses": 2,
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
                     },
+                    "anvil_uses": 2,
+                    "timestamp": 1577971500000,
                     "uuid": "0e63406c-eeaf-4c52-ad88-2bdd2c64b8a8",
-                    "modifier": "fierce",
                     "hot_potato_count": 10,
+                    "modifier": "fierce",
                     "id": "YOUNG_DRAGON_HELMET",
                     "originTag": "CRAFTING_GRID_SHIFT"
                   }
@@ -28009,17 +28041,17 @@
                   ],
                   "minecraft:custom_data": {
                     "bossId": "ddafdc60-fbc4-4baf-9ccf-ed63c1d1087a",
-                    "timestamp": 1584155340000,
-                    "anvil_uses": 1,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
+                    "anvil_uses": 1,
+                    "timestamp": 1584155340000,
                     "uuid": "d01d0465-9c47-44f2-a91d-deff0c83162a",
-                    "modifier": "clean",
-                    "color": "221:228:240",
                     "hot_potato_count": 10,
+                    "color": "221:228:240",
+                    "modifier": "clean",
                     "id": "YOUNG_DRAGON_CHESTPLATE",
                     "originTag": "BOSS_DROP",
                     "spawnedFor": "cabc36ef-d770-4360-87b9-83cadd0d8a7e"
@@ -28377,16 +28409,16 @@
                   ],
                   "minecraft:custom_data": {
                     "bossId": "0304a2d6-55dc-4542-b789-49f4c3ad8ad2",
-                    "timestamp": 1585937340000,
-                    "anvil_uses": 2,
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
                     },
+                    "anvil_uses": 2,
+                    "timestamp": 1585937340000,
                     "uuid": "a7ef932b-e3ed-4c45-bc3f-d4bf1f350789",
-                    "modifier": "pure",
-                    "color": "221:228:240",
                     "hot_potato_count": 10,
+                    "color": "221:228:240",
+                    "modifier": "pure",
                     "id": "YOUNG_DRAGON_LEGGINGS",
                     "originTag": "BOSS_DROP",
                     "spawnedFor": "3ded3786-e8f9-4e99-888c-3181c3c94f8d"
@@ -28813,20 +28845,20 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1580866140000,
-                    "anvil_uses": 4,
                     "enchantments": {
                       "protection": 5,
                       "feather_falling": 5,
                       "growth": 5
                     },
+                    "anvil_uses": 4,
+                    "timestamp": 1580866140000,
                     "uuid": "d17d9e7d-d422-42ff-9df0-0809a7bc6f88",
-                    "modifier": "pure",
+                    "hot_potato_count": 10,
                     "color": "221:228:240",
                     "runes": {
                       "CLOUDS": 1
                     },
-                    "hot_potato_count": 10,
+                    "modifier": "pure",
                     "id": "YOUNG_DRAGON_BOOTS",
                     "originTag": "QUICK_CRAFTING"
                   },
