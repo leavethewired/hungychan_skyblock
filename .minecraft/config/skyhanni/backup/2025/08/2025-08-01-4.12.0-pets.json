@@ -14,7 +14,7 @@
             {
               "petInternalName": "GRANDMA_WOLF;4",
               "skinVariantIndex": -1,
-              "exp": 630470.9644849099,
+              "exp": 683074.0960225692,
               "uuid": "adb24eab-5701-421e-b64d-e43e513d06eb"
             },
             {
@@ -93,13 +93,13 @@
             {
               "petInternalName": "ENDERMITE;5",
               "skinVariantIndex": -1,
-              "exp": 1945695.1466918816,
+              "exp": 1998812.4060437074,
               "uuid": "f43df660-38df-4fbb-9ffe-ceece24e81b1"
             },
             {
               "petInternalName": "MITHRIL_GOLEM;4",
               "skinVariantIndex": -1,
-              "exp": 1353109.3116736484,
+              "exp": 1406226.5710254742,
               "uuid": "d0fc4da7-75c2-47f7-91f2-7ca3e7c5c955"
             },
             {
@@ -127,16 +127,10 @@
               "uuid": "2ecf7f29-14cd-471d-a4e0-ffa59a8d2e32"
             },
             {
-              "petInternalName": "GUARDIAN;2",
-              "skinVariantIndex": -1,
-              "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
-              "exp": 1.1868087233641336E7,
-              "uuid": "6dfe9851-dc0b-4057-b69d-fd03182795c7"
-            },
-            {
               "petInternalName": "ENDERMAN;3",
               "skinVariantIndex": -1,
-              "exp": 1198606.1945332182,
+              "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
+              "exp": 1402830.7067055386,
               "uuid": "2ac6ff8c-eb03-4c77-a960-16f7ffc01b68"
             },
             {
@@ -144,6 +138,13 @@
               "skinVariantIndex": -1,
               "exp": 0.0,
               "uuid": "b5dd7cf4-f6af-42ce-b914-193a5e87cfcf"
+            },
+            {
+              "petInternalName": "GUARDIAN;2",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
+              "exp": 1.3728806526766336E7,
+              "uuid": "6dfe9851-dc0b-4057-b69d-fd03182795c7"
             }
           ],
           "expSharePets": [

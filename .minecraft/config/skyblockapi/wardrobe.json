@@ -3,7 +3,7 @@
   "@skyblockapi:data": {
     "4e67b1a0-54c0-4694-bc76-dbe4e7fd9e63": {
       "Lemon": {
-        "currentSlot": -1,
+        "currentSlot": 5,
         "slots": [
           {
             "id": 1,
@@ -48,7 +48,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+8 ",
+                          "text": "+16 ",
                           "color": "red"
                         },
                         {
@@ -66,7 +66,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+5% ",
+                          "text": "+10% ",
                           "color": "red"
                         },
                         {
@@ -84,7 +84,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+14% ",
+                          "text": "+28% ",
                           "color": "red"
                         },
                         {
@@ -102,7 +102,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+95",
+                          "text": "+190",
                           "color": "green"
                         }
                       ],
@@ -116,7 +116,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+55",
+                          "text": "+110",
                           "color": "green"
                         }
                       ],
@@ -337,7 +337,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+8 ",
+                          "text": "+16 ",
                           "color": "red"
                         },
                         {
@@ -355,7 +355,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+5% ",
+                          "text": "+10% ",
                           "color": "red"
                         },
                         {
@@ -373,7 +373,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+14% ",
+                          "text": "+28% ",
                           "color": "red"
                         },
                         {
@@ -391,7 +391,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+105",
+                          "text": "+210",
                           "color": "green"
                         }
                       ],
@@ -405,7 +405,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+80",
+                          "text": "+160",
                           "color": "green"
                         }
                       ],
@@ -611,7 +611,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+8 ",
+                          "text": "+16 ",
                           "color": "red"
                         },
                         {
@@ -629,7 +629,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+5% ",
+                          "text": "+10% ",
                           "color": "red"
                         },
                         {
@@ -647,7 +647,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+14% ",
+                          "text": "+28% ",
                           "color": "red"
                         },
                         {
@@ -665,7 +665,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+100",
+                          "text": "+200",
                           "color": "green"
                         }
                       ],
@@ -679,7 +679,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+70",
+                          "text": "+140",
                           "color": "green"
                         }
                       ],
@@ -885,7 +885,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+8 ",
+                          "text": "+16 ",
                           "color": "red"
                         },
                         {
@@ -903,7 +903,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+5% ",
+                          "text": "+10% ",
                           "color": "red"
                         },
                         {
@@ -921,7 +921,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+14% ",
+                          "text": "+28% ",
                           "color": "red"
                         },
                         {
@@ -939,7 +939,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+90",
+                          "text": "+180",
                           "color": "green"
                         }
                       ],
@@ -953,7 +953,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+45",
+                          "text": "+90",
                           "color": "green"
                         }
                       ],
@@ -4940,8 +4940,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Full Set Bonus: Skeletor (4/4)",
+                          "text": "Full Set Bonus: Skeletor ",
                           "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -5329,8 +5333,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Full Set Bonus: Skeletor (4/4)",
+                          "text": "Full Set Bonus: Skeletor ",
                           "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -5701,8 +5709,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Full Set Bonus: Skeletor (4/4)",
+                          "text": "Full Set Bonus: Skeletor ",
                           "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -6045,8 +6057,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Full Set Bonus: Skeletor (4/4)",
+                          "text": "Full Set Bonus: Skeletor ",
                           "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
                         }
                       ],
                       "italic": false

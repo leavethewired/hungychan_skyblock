@@ -1,9 +1,3 @@
-/trade himej0shi
-/p nr1pir
-/pt nr1pir
-/pl
-/p leave
-/p h
 /p himej0shi
 /pw
 /guild info goodz6
@@ -48,3 +42,9 @@
 /trade himej0shi
 /f list
 /cc
+/p leave
+/p himej0shi
+/pw
+/sh gui
+/pow
+/pw

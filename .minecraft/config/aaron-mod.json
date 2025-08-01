@@ -132,10 +132,12 @@
 	"particles": {
 		"states": {
 			"minecraft:block": true,
-			"minecraft:angry_villager": true,
-			"minecraft:crit": true,
+			"minecraft:end_rod": true,
 			"minecraft:composter": true,
-			"minecraft:ash": true
+			"minecraft:crit": true,
+			"minecraft:angry_villager": true,
+			"minecraft:ash": true,
+			"minecraft:portal": true
 		},
 		"scaling": {
 			"minecraft:heart": 0.8,
@@ -145,24 +147,26 @@
 			"minecraft:crit": 0.4,
 			"minecraft:bubble_pop": 0.8,
 			"minecraft:bubble_column_up": 0.8,
-			"minecraft:enchant": 0.9,
-			"minecraft:happy_villager": 0.9
+			"minecraft:portal": 0.6,
+			"minecraft:happy_villager": 0.9,
+			"minecraft:enchant": 0.9
 		},
 		"alphas": {
 			"minecraft:heart": 0.7,
 			"minecraft:bubble": 0.45000002,
 			"minecraft:end_rod": 0.7,
 			"minecraft:explosion": 0.5,
-			"minecraft:fishing": 0.6,
 			"minecraft:crit": 0.3,
+			"minecraft:fishing": 0.6,
 			"minecraft:angry_villager": 0.7,
 			"minecraft:falling_water": 0.7,
 			"minecraft:bubble_pop": 0.5,
-			"minecraft:ash": 0.7,
 			"minecraft:bubble_column_up": 0.5,
+			"minecraft:ash": 0.7,
 			"minecraft:rain": 0.3,
-			"minecraft:enchant": 0.65000004,
-			"minecraft:happy_villager": 0.5
+			"minecraft:portal": 0.6,
+			"minecraft:happy_villager": 0.5,
+			"minecraft:enchant": 0.65000004
 		}
 	},
 	"textReplacer": {

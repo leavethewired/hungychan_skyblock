@@ -558,7 +558,7 @@
     "highlightBosses": "GLOW",
     "displayBossbar": true,
     "bossSpawnAlert": true,
-    "miniBossSpawnAlert": true,
+    "miniBossSpawnAlert": false,
     "slainTime": true,
     "enableHud": false,
     "endermanSlayer": {
@@ -828,7 +828,7 @@
       "customMessage": "Playing Skyblock"
     },
     "configBackend": "MOUL_CONFIG",
-    "cat": true
+    "cat": false
   },
   "debug": {
     "dumpRange": 5,

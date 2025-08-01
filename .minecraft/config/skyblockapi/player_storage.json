@@ -8044,7 +8044,6 @@
                     "!minecraft:enchantments": {}
                   }
                 },
-                {},
                 {
                   "id": "minecraft:player_head",
                   "count": 1,
@@ -8069,8 +8068,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Blended Ender Necklace",
-                          "color": "dark_purple"
+                          "text": "Royal Mithril Belt",
+                          "color": "green"
                         }
                       ],
                       "italic": false
@@ -8080,87 +8079,15 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Strength: ",
+                            "text": "Mining Speed: ",
                             "color": "gray"
                           },
                           {
-                            "text": "+1 ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+1)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Crit Chance: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2% ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+2%)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Crit Damage: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2% ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+2%)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Bonus Attack Speed: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+1% ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+1%)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Health: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+17 ",
+                            "text": "+26 ",
                             "color": "green"
                           },
                           {
-                            "text": "(+2)",
+                            "text": "(+6)",
                             "color": "blue"
                           }
                         ],
@@ -8170,29 +8097,11 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Defense: ",
+                            "text": "Mining Fortune: ",
                             "color": "gray"
                           },
                           {
-                            "text": "+12 ",
-                            "color": "green"
-                          },
-                          {
-                            "text": "(+2)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Speed: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+1 ",
+                            "text": "+6 ",
                             "color": "green"
                           },
                           {
@@ -8204,17 +8113,127 @@
                       },
                       {
                         "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
                         "extra": [
                           {
-                            "text": "Intelligence: ",
+                            "text": "Grants ",
                             "color": "gray"
                           },
                           {
-                            "text": "+2 ",
-                            "color": "green"
+                            "text": "+5☘ Mining Fortune ",
+                            "color": "gold"
                           },
                           {
-                            "text": "(+2)",
+                            "text": "while",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "mining ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Mithril",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Full Set Bonus: Dwarf Wannabe (4/4)",
+                            "color": "gold"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+30⸕ Mining Speed ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "and ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+5☘",
+                            "color": "gold"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Mining Fortune ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "while in the ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Dwarven",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Mines",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Royal Bonus",
                             "color": "blue"
                           }
                         ],
@@ -8222,13 +8241,17 @@
                       },
                       {
                         "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
                         "extra": [
                           {
-                            "text": "All stats on this piece of equipment",
+                            "text": "Earn ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+5% ᠅ Mithril Powder ",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": "from",
                             "color": "gray"
                           }
                         ],
@@ -8238,25 +8261,23 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "are multiplied by ",
+                            "text": "",
                             "color": "gray"
                           },
                           {
-                            "text": "2x ",
-                            "color": "dark_purple"
+                            "text": "Mining Events ",
+                            "color": "aqua"
                           },
                           {
-                            "text": "while on the End",
+                            "text": "in the ",
                             "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
+                          },
                           {
-                            "text": "Island!",
+                            "text": "Dwarven Mines",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
                             "color": "gray"
                           }
                         ],
@@ -8290,9 +8311,9 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "EPIC NECKLACE",
+                            "text": "UNCOMMON BELT",
                             "bold": true,
-                            "color": "dark_purple"
+                            "color": "green"
                           }
                         ],
                         "italic": false
@@ -8300,29 +8321,30 @@
                     ],
                     "minecraft:profile": {
                       "id": [
-                        1837183141,
-                        -1072220979,
-                        -1831288480,
-                        -206753598
+                        524533361,
+                        1047474420,
+                        -1839968713,
+                        1931663710
                       ],
                       "properties": [
                         {
                           "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzc4NTE1MCwKICAicHJvZmlsZUlkIiA6ICIwODFiZTAxZmZlMmU0ODMyODI3MDIwMjBlNmI1M2ExNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMeXJpY1BsYXRlMjUyNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzZkYTdiOTU3YjgyMTAzYjE3MTQwZTcxMTc5MTE0NjQ4YTAwMjkxYjA1NjU3YzI3ZDNmOTNkNzI2ZTg3ZTY0MCIKICAgIH0KICB9Cn0\u003d",
-                          "signature": "DoEVE+WZ88Ovzk8nZU68D0pAkWXIc7ilEaazoxRac2UQjXI0ErXJ0QQ603gu/1O1lsVUEokNoRHphh0tH/seOd2gLkW6czLMSUO3m1on5MhcQFl3fjjZIxDrW5ojdbzKWc5sAud/OR++mh7Pko2bctPiqbEET08Sgo7rzBwZObKYmEmmHCYqy/44l/HdYafaiPU41LRpawC8CTS/HgY6BqBsRJLHKg/kRdvGQXPj9J03tuNF3Lchr/pJ2sckIJsG2KRpjVJV06Xiel3XEE+DOtKJE7t/pbUGxD0gxNYTAB4cIg1KtN8r74O1ydJzNYrlyp90Up8HvV6OZcr2k4PZt/rYZHlQspLtB7KTUu8Kb4Au0nymW/HpPofSvFcRNC1qMbN78nPgPrQ/GwfyonqXFegZbzWcbZRfvM54L0ZLObS8u28lLS2qdrUCUz5z/pm5QrQ5Fl7r6KGxNIoOjUw02D2b7A+4ZtA1qX3bOHkrfP7YhCjZ5jVACIOH/atnd5hMLKYvDD0Z+RQgVUF7bEDDRkWYyviFja/36sNMZ9duTn9SyjfHFJURRtSsDO0jKvp8ExQ9bQ3adRC2yYx9+zOwG8Dz2SD+0eYwbSrJixXboXd6qpaz6qea/Xxlxcvelbgsfht2Wu1NODXZbKNvTPyqJaq+wg7ltkcbGlW+ncAhf2k\u003d"
+                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU5OTQ5NywKICAicHJvZmlsZUlkIiA6ICJmY2ZhYTg0MzA0YjE0NDUxOThkNWYxNzQ3ZjI0Y2Q5MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMYXJzVGhlV29sZiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNzViZGU0Y2E4NTZhOTk3ZjBiYmMwZDY1ZWUyYTJkZGUyMTViNDAyMGY1ZmZkNWY3ZmU5OWY2ZjEwMjRiZDhhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+                          "signature": "sGopMeC9rdnea8dPNb5PGz0TSRAeHz3uaKFdZDeJx7YJEQUxloRWYrQeqHiO9/rgtcG6tL4LlhaLL0KqND0S8+7jVXnlyiFaXf4oz3HQyOhBpoCU0fG9yG9bG24qQOyuiZyeTaWgHWwHxiW1MsGhP0isK8iUWQA5odMJQPP00bEnF/J611YS6vJaoFU5ZTR4RNuDtbmST32aTuXOhLFTmY05rcTs/E8NrCE3ixVM35fUIOHOQ78fwH9oPmcLF8h/VfdClZsDJb/LpmlWH6bVvY0pHNxXhwl6rFnsnKuAiCy3/U1EP46ooQFDO3haAG581vRSq/LHwGp1ZEp8On9pgkvXyF2iDZA3HOONwqPoEJVch1aLdK8FHDw/sL3vCpt1fgAGHFivRszqr2pIJfxTaHJ7mHeNYSUFKkpMWjzhT6aT9sBbqQ21TGC4g5lGjHenRI+kd7V3PDc0ak+ZoWV+sSSduX867XIjS/1M6mPh1ukQ/KZEy9kzqFQS7g+saIwdkeua+3nnxI6M/2Ouj6si8xY6imskS31zzZXMMDmwwE2SJxsh/v/h6eACwvzGiRfu30mnSWoRmbx7gtspKFlsAgoCDsnQ75Jp5ZE8zms75Qe+GOMxEFD/nxrXbDazY3SZXAL1i6IOMSMAR6pb5aM4qig3/4BhQMNbhsoeTxbwfg8\u003d"
                         }
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1752872016422,
+                      "id": "MITHRIL_BELT",
                       "donated_museum": 1,
-                      "id": "ENDER_NECKLACE",
-                      "timestamp": 1750637894996,
-                      "uuid": "36b7b5d8-dceb-4687-b2b2-4308d0c5963b",
-                      "modifier": "blended"
+                      "modifier": "royal",
+                      "uuid": "9cad9ad2-0a36-49ed-8eb8-34e8f90e6221"
                     },
                     "!minecraft:enchantments": {}
                   }
                 },
+                {},
                 {
                   "id": "minecraft:player_head",
                   "count": 1,
@@ -8839,7 +8861,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "0.5s",
+                            "text": "0.45s",
                             "color": "green"
                           }
                         ],
@@ -9034,24 +9056,24 @@
                     ],
                     "minecraft:custom_data": {
                       "upgrade_level": 3,
-                      "item_tier": 5,
-                      "timestamp": 1753093012713,
+                      "baseStatBoostPercentage": 34,
                       "enchantments": {
-                        "chance": 3,
                         "snipe": 3,
+                        "chance": 3,
                         "power": 5,
                         "infinite_quiver": 5,
                         "piercing": 1,
                         "punch": 1
                       },
-                      "baseStatBoostPercentage": 34,
-                      "uuid": "26bd9e2c-b36f-45bb-b7bb-f48148418496",
+                      "timestamp": 1753093012713,
+                      "item_tier": 5,
+                      "modifier": "rapid",
                       "runes": {
                         "FIRE_SPIRAL": 1
                       },
-                      "modifier": "rapid",
-                      "dungeon_skill_req": "CATACOMBS:14",
-                      "id": "MACHINE_GUN_BOW"
+                      "uuid": "26bd9e2c-b36f-45bb-b7bb-f48148418496",
+                      "id": "MACHINE_GUN_BOW",
+                      "dungeon_skill_req": "CATACOMBS:14"
                     },
                     "!minecraft:enchantments": {}
                   }
@@ -9353,15 +9375,14 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "donated_museum": 1,
-                      "id": "CLOWNFISH_CLOAK",
                       "timestamp": 1752612676763,
+                      "id": "CLOWNFISH_CLOAK",
+                      "donated_museum": 1,
                       "uuid": "91da0d6b-e3b1-4905-a3df-a2d3a33cd0b3"
                     },
                     "!minecraft:enchantments": {}
                   }
                 },
-                {},
                 {
                   "id": "minecraft:player_head",
                   "count": 1,
@@ -9386,8 +9407,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Blended Ender Gauntlet",
-                          "color": "dark_purple"
+                          "text": "Royal Mithril Gauntlet",
+                          "color": "green"
                         }
                       ],
                       "italic": false
@@ -9397,87 +9418,15 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Strength: ",
+                            "text": "Mining Speed: ",
                             "color": "gray"
                           },
                           {
-                            "text": "+1 ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+1)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Crit Chance: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2% ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+2%)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Crit Damage: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2% ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+2%)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Bonus Attack Speed: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+1% ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+1%)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Health: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+17 ",
+                            "text": "+26 ",
                             "color": "green"
                           },
                           {
-                            "text": "(+2)",
+                            "text": "(+6)",
                             "color": "blue"
                           }
                         ],
@@ -9487,29 +9436,11 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Defense: ",
+                            "text": "Mining Fortune: ",
                             "color": "gray"
                           },
                           {
-                            "text": "+12 ",
-                            "color": "green"
-                          },
-                          {
-                            "text": "(+2)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Speed: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+1 ",
+                            "text": "+6 ",
                             "color": "green"
                           },
                           {
@@ -9521,17 +9452,127 @@
                       },
                       {
                         "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
                         "extra": [
                           {
-                            "text": "Intelligence: ",
+                            "text": "Grants ",
                             "color": "gray"
                           },
                           {
-                            "text": "+2 ",
-                            "color": "green"
+                            "text": "+5☘ Mining Fortune ",
+                            "color": "gold"
                           },
                           {
-                            "text": "(+2)",
+                            "text": "while",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "mining ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Mithril",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Full Set Bonus: Dwarf Wannabe (4/4)",
+                            "color": "gold"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+30⸕ Mining Speed ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "and ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+5☘",
+                            "color": "gold"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Mining Fortune ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "while in the ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Dwarven",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Mines",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Royal Bonus",
                             "color": "blue"
                           }
                         ],
@@ -9539,13 +9580,17 @@
                       },
                       {
                         "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
                         "extra": [
                           {
-                            "text": "All stats on this piece of equipment",
+                            "text": "Earn ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+5% ᠅ Mithril Powder ",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": "from",
                             "color": "gray"
                           }
                         ],
@@ -9555,25 +9600,23 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "are multiplied by ",
+                            "text": "",
                             "color": "gray"
                           },
                           {
-                            "text": "2x ",
-                            "color": "dark_purple"
+                            "text": "Mining Events ",
+                            "color": "aqua"
                           },
                           {
-                            "text": "while on the End",
+                            "text": "in the ",
                             "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
+                          },
                           {
-                            "text": "Island!",
+                            "text": "Dwarven Mines",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
                             "color": "gray"
                           }
                         ],
@@ -9607,9 +9650,9 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "EPIC GLOVES",
+                            "text": "UNCOMMON GLOVES",
                             "bold": true,
-                            "color": "dark_purple"
+                            "color": "green"
                           }
                         ],
                         "italic": false
@@ -9617,29 +9660,30 @@
                     ],
                     "minecraft:profile": {
                       "id": [
-                        1449854110,
-                        1018379242,
-                        -1575198194,
-                        -1235697318
+                        -886025607,
+                        254098834,
+                        -2104530720,
+                        -664411339
                       ],
                       "properties": [
                         {
                           "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzgyMzQ3NCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMmI4ODEzZmJkOGEwNDlkMGU0MmE3Nzk5ZjhkYjY5ZGZlZDljZGQ0NGU3MzUwY2FlZWM1ZjAyM2M3MTUxYzJmIgogICAgfQogIH0KfQ\u003d\u003d",
-                          "signature": "RWFqag3M/zjtaU+d4uoGPVbEFx0duGQdKukUZncUiSsB7ey3gJfYYGlQPbRCJqTAtQvYnAiQDa3lqe/qQ6DG6urM7KhtWdbE2Zqg9iwfCS4prBHnIQ0Bdc1TYja9XXhnGXtAzXi6QsrzYYWPEpT0oJgVReBLu7THoIm5fQr+qtxNFfpK5/26QjngRXlh7d8qMd7snBx/xsYAIAVCqTAsxz87UMdULKfug5umEGvKrNJDdnO3kdUMNoExyHWbSUaVxMcWsZ5/beXzgxeX+7FgYgiDayk24YTlA+f98+DGINlOuSk+pFd1icdE70bNO+nfgV/GTjoS4TkHSuPQUFTBAttmo+bUtyp3Ns4OzEq1kR9KNSUgoxjPsHpuhCetFk9sjjawBFis9fmfY4alPIGQdJ9zVZ3OCtRKzRvsGoL23fHfu1nP5cWxpas2I1dywa/EU3V8x93OotmxkEt5HxHWn/Q6OXgyb9Ize9NEhAwSCuxy76bmtlnYLkAjv2KPTlM5tXyMOHz8UXcmLUKdnJbmJ04XtLCmS9J8rYGmbf6WwXqtU9ugIOgCmQZ4UEy1F2pskKUDElPdCn1fpJEF3Ra2Hk2sASNIA6jZZeWDZZBS1/oJj2bFayPZq6j8Ge1/q8ZByOEpzYMP3Xmak1OOVYQN7gUDjr5X/+Av2VtexrUTTns\u003d"
+                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjYwODA0OCwKICAicHJvZmlsZUlkIiA6ICJmYjNhZTU0OTU3ODQ0MGVlODIzODJlMDY2MzlhYTkzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJXZWx0ZXJ3ZWlnaHQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFmYTJiOTcxZGNhMTU3Yjc0MmEwZTM3ZGY1ZTIyZDYxMTkyMTQ1NmZkZWM0MjU4ZGQxYWQwZmUwODBlZGM0NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                          "signature": "CVuvavYIsplXgGNd/vDDTkNDHJPYzTw+HPD5Yh3AfFoCZK5coxpb7UPixlKkpPQ6ZV2RNsWwIrKHV/eqHcHSn4grjzetlC8MeRQ8GWlbuCc9AeZx1pDY5ldhKiK5WI4Hl1pDOjkGLqshg785045en7T9h1CH/QFTHQt05H03djFKDPaq5RZlcE8oodcuGz7XrayzDvM+AtzlhiyRD/ad40xJLl4x0OxxilXDqjotgRKJVFUshw9nBiqQBHWECld7P5WE9l+iy82KuqDle2WXLQTqmH5NRRsuCr0b7qULmPK5tOJIp52dL+YjSn+rvWLBlz8Af/Vp4VG3+Sba2K0Ryllsn4+u58wqhGrbzt/2cimyGjJjI79kTkRysjWbbqq90sNADHvDva5fNoRieIkI8+ss/QTbzdHnsTGc3WnRRGbGoahozbdtINvOvJa4qUUCmrHNYZGulcGUne6p33laqrIXyxcEaD/wPngWJYwwX4lbnJhkq7EXeXmlHYFFyHL4baGSF0D82fJGk+nGe3Mdxlx7MjnBMZsvCbXaD4XASLyAVPgMpXUv7tCoMj23ei4uMtmyHLfmW1Rj2GQ7gr/qPkUJH9uvXgfhNFsjLNiZ/CH0KTEhp87fn4WcLcWbeszlq16Z+vX2xDgpJb1/J5fBj0J/dJX8QAqDGQ+HX4TSnwQ\u003d"
                         }
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1752872015973,
+                      "id": "MITHRIL_GAUNTLET",
                       "donated_museum": 1,
-                      "id": "ENDER_GAUNTLET",
-                      "timestamp": 1750634708091,
-                      "uuid": "f18bf610-5645-4ffe-b4d7-c1dd59182272",
-                      "modifier": "blended"
+                      "modifier": "royal",
+                      "uuid": "386b2547-f0cf-4bb8-bb3f-38a335c1a479"
                     },
                     "!minecraft:enchantments": {}
                   }
                 },
+                {},
                 {
                   "id": "minecraft:player_head",
                   "count": 1,
@@ -10316,150 +10360,7 @@
                     "!minecraft:enchantments": {}
                   }
                 },
-                {
-                  "id": "minecraft:player_head",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Maddox Batphone",
-                          "color": "green"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Ability: Whassup?  ",
-                            "color": "gold"
-                          },
-                          {
-                            "text": "RIGHT CLICK",
-                            "bold": true,
-                            "color": "yellow"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Lets you call ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Maddox",
-                            "color": "dark_purple"
-                          },
-                          {
-                            "text": ", when he\u0027s not busy.",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "* ",
-                            "bold": true,
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "Co-op Soulbound ",
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "*",
-                            "bold": true,
-                            "color": "dark_gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "X",
-                            "obfuscated": true,
-                            "color": "dark_purple"
-                          },
-                          {
-                            "text": " Rift-Transferable ",
-                            "extra": [
-                              {
-                                "text": "X",
-                                "obfuscated": true
-                              }
-                            ],
-                            "color": "dark_purple"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "UNCOMMON",
-                            "bold": true,
-                            "color": "green"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:profile": {
-                      "id": [
-                        472494456,
-                        -1534971444,
-                        -1715621369,
-                        1177895360
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NjQ5MTIwODg4NCwKICAicHJvZmlsZUlkIiA6ICJkNjBmMzQ3MzZhMTI0N2EyOWI4MmNjNzE1YjAwNDhkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCSl9EYW5pZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTMzNmQ3Y2M5NWNiZjY2ODlmNWU4Yzk1NDI5NGVjOGQxZWZjNDk0YTQwMzEzMjViYjQyN2JjODFkNTZhNDg0ZCIKICAgIH0KICB9Cn0\u003d",
-                          "signature": "NeIGEVhTQsg+GfcmtVhCCXdWX6tQpI/iUjPixUKaxea5q8xTpCKFSGqnIhSgG0CjPpxw9UKwC1yr4gIDsM5zPGjnIsD3PDP4F6Jaicx0YsiJGr861zxQDSlxpkcbGXrHRuNq92TT4/zojNMk6qPGtGeFApro7dXxU5Fq7HpyikHR2S4iaTZAF2L65rXqdogmQIBcTI5UVO2cZ3xNSr3j9y/nKGUx0SwVaIryt1sMHj2cO5Lknb9eiiG+vfw/LTlgwOmc9PXHhQB045SoBgGondcBZYBWVGCP9dTCNrvDBp963rzEkJMOfLfL+M2P+BT318BCBQzQ6JGJuILqhdY/Ph7qZJW2P9g8At9chbfnBdwMnHvjTshGN3XMzVg8BdxFAKydJMSocfF4j9KvPCtP1Hilk0pylqRAPe1cn0JpTZ1e/xzorzgqHdo0kXmf8gzLXHXDz8fYanZpQQCemwL3aOHy6nvAFFk/+j6kGLEaetTZgw8WAMJiyAxcpN/elfG9fxoX+pXMFtM9ItRA2Sf6EHdRKJTc4gB+yclkuCd3MgCiRDZU5NwpH8AhTmFZsjd0nHzHLXvpNPmSLAZiYi7EqG9SySEu7pJ4PXHZ0F80jKknNqh0CnnnqH4iKdMIUau33ENPKTLiuxwqxj9bv6ZtsCUZXn/mHWeCOiB6IBPjaR0\u003d"
-                        }
-                      ]
-                    },
-                    "minecraft:custom_data": {
-                      "uuid": "77857c36-bf1e-453b-8dfb-b4e3d9d7c62a",
-                      "timestamp": 1752919197866,
-                      "id": "AATROX_BATPHONE"
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                },
+                {},
                 {
                   "id": "minecraft:player_head",
                   "count": 1,
@@ -10653,15 +10554,14 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "donated_museum": 1,
-                      "id": "CLAY_BRACELET",
                       "timestamp": 1752612676182,
+                      "id": "CLAY_BRACELET",
+                      "donated_museum": 1,
                       "uuid": "6de835d9-3eea-4f21-8a44-1e6026a2dfb4"
                     },
                     "!minecraft:enchantments": {}
                   }
                 },
-                {},
                 {
                   "id": "minecraft:player_head",
                   "count": 1,
@@ -10686,8 +10586,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Blended Ender Cloak",
-                          "color": "dark_purple"
+                          "text": "Royal Mithril Cloak",
+                          "color": "green"
                         }
                       ],
                       "italic": false
@@ -10697,87 +10597,15 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Strength: ",
+                            "text": "Mining Speed: ",
                             "color": "gray"
                           },
                           {
-                            "text": "+1 ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+1)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Crit Chance: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2% ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+2%)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Crit Damage: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2% ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+2%)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Bonus Attack Speed: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+1% ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+1%)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Health: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+17 ",
+                            "text": "+26 ",
                             "color": "green"
                           },
                           {
-                            "text": "(+2)",
+                            "text": "(+6)",
                             "color": "blue"
                           }
                         ],
@@ -10787,29 +10615,11 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Defense: ",
+                            "text": "Mining Fortune: ",
                             "color": "gray"
                           },
                           {
-                            "text": "+12 ",
-                            "color": "green"
-                          },
-                          {
-                            "text": "(+2)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Speed: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+1 ",
+                            "text": "+6 ",
                             "color": "green"
                           },
                           {
@@ -10821,17 +10631,127 @@
                       },
                       {
                         "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
                         "extra": [
                           {
-                            "text": "Intelligence: ",
+                            "text": "Grants ",
                             "color": "gray"
                           },
                           {
-                            "text": "+2 ",
-                            "color": "green"
+                            "text": "+5☘ Mining Fortune ",
+                            "color": "gold"
                           },
                           {
-                            "text": "(+2)",
+                            "text": "while",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "mining ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Mithril",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Full Set Bonus: Dwarf Wannabe (4/4)",
+                            "color": "gold"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+30⸕ Mining Speed ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "and ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+5☘",
+                            "color": "gold"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Mining Fortune ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "while in the ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Dwarven",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Mines",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Royal Bonus",
                             "color": "blue"
                           }
                         ],
@@ -10839,13 +10759,17 @@
                       },
                       {
                         "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
                         "extra": [
                           {
-                            "text": "All stats on this piece of equipment",
+                            "text": "Earn ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+5% ᠅ Mithril Powder ",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": "from",
                             "color": "gray"
                           }
                         ],
@@ -10855,25 +10779,23 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "are multiplied by ",
+                            "text": "",
                             "color": "gray"
                           },
                           {
-                            "text": "2x ",
-                            "color": "dark_purple"
+                            "text": "Mining Events ",
+                            "color": "aqua"
                           },
                           {
-                            "text": "while on the End",
+                            "text": "in the ",
                             "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
+                          },
                           {
-                            "text": "Island!",
+                            "text": "Dwarven Mines",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
                             "color": "gray"
                           }
                         ],
@@ -10907,9 +10829,9 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "EPIC CLOAK",
+                            "text": "UNCOMMON CLOAK",
                             "bold": true,
-                            "color": "dark_purple"
+                            "color": "green"
                           }
                         ],
                         "italic": false
@@ -10917,29 +10839,30 @@
                     ],
                     "minecraft:profile": {
                       "id": [
-                        -792831568,
-                        -1477689528,
-                        -1436251025,
-                        -2058556952
+                        -538492036,
+                        -1531104996,
+                        -1820367770,
+                        1913011924
                       ],
                       "properties": [
                         {
                           "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzc2NzM4NywKICAicHJvZmlsZUlkIiA6ICIzYWJkYjI5ZDI2MTU0YTAxOWEzZWQ3OGRlMzI4OWUxNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFcmljSHViZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzc3OGZiNmYyZTY0OWMwYWRhYmY1MWVmNDVjN2NlMzIzZmUxNzU4ZjZkYWM0ZjhjZDEzYWRkMWUyYWYyOWZmNiIKICAgIH0KICB9Cn0\u003d",
-                          "signature": "ZUhgbfBwEjQrOa7Z/PHhCYjU+7fjDWjFnyR6Da4CWoVWTIYuc/8POqIbElUMUbIYmmxqKqzx4yoLFOLuqJvxlB3hMx6vsnkEz5PbORzd0prZsuQWL9buzqXU6cald/2akHYq2NNsIbdgIjlB8Wc/8zc5RU/Eunf+9WU5HsDJeK2bwEESj6263tR29JBKOzYvNwsXat55WI5Am4h1f9Sm4wrJYjYBZUmc+ybCiP2Lu8UuF1t/wSeoRcb6TVrh2Y3v1u8muBzExJKPAMIxlrDEpz6ZsLp9sFsfXMXttu8s3TtlhZlISBjpsiVk3772hfJe9FH+psx3alH/Ko2n+6P8bzbH6ziUvYwccPdB0qq4tM30dCUS0gmoDGC5vAaldqcn4WpFRGDKspn5CZBRvLgo3Z02nobR5hqzfd+jr9cgCJD/WQHwbry7m4I+nh6kAlwIEtzFIa+12csFna+3eYx5aANTJ4NmOpxkeaos6Egl1+nXMk364zHDo0LCGvk/f/EwNLEiGLH88NYzc0ZPrR3w0oHaG4WxvR0Eu4DI7jKPd/fr4haPYKhORysPvRXbSQXwzV4MSV/hDNZhjcBJTFbXtSp+wWjZoAetys+tAewGBhN6/gRjep2jwjT1XMsPAKKOdkBx8p8uEFcPA9c0/z9/2kcE9RY1SBKLDhjFW+bF618\u003d"
+                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjUyNDIwMywKICAicHJvZmlsZUlkIiA6ICJmNTBjOGRkN2FiN2Y0ZmUyYWI4ZGI1M2NjYzRiYWQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWNoYWRvVF9UIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3YWRhMTk4YjY1ZjMwMTJiMTFkNThiMzM2MWNlYmUzZmQ4NTYwMWRmNzI5YmRjYjllYmFlMmJiYjk1NDQ3ODgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+                          "signature": "uP0WWLfe3IsXJKxhBq1m4ZLb8HY854zpmZC99hVRnRFEg9BUBNnp64ILCXyndbgLB9hxsSQpXdDBcCM2OrinqRrQd8fQCjKpSKFka5kgbyX/OaBE9rv/a72CuTaqWLvNOACumaxtpd//3GXFpzR9/nEEXecl/p5nuiXUVtT6LOE4d8ppr0CfCnH/4DAtFCA+l9+S4NSW9GlKTSqSnYGbMWCk4EC9BcpfFPra2gkQ8MOcz2dyeC89LbQPa8ez5EZYDsqsm8ReBWw/+BXQ4uzsMQcfHbnuk2tEKem1UuMEFBDsxkQfN/5VBaB6R7X7Eq/qxjePDWrzxK1FoOy/OysInkBg8SNGFPSzRhcaLVqZA1ys69lVJyK8k2l1FGWE6oS+b9gpBY6jLEKRiJgoFVTcNebDXDwP6xe3+f5LRR6CBfs33KEdYxhtqyqfBa46EFMTnisLIymAtrMrEORwdtd5li9Kd+Nr4xykxMihJbGChy/DvmDbyy5MAPM4kIQ3rxnMhO3yJWLzZAl4Rhrmm9fnLnkqf25Cx5yccP/tSqq5FmIjd4ph0YhbFeCZqdo2ZYZKPVk+FwuqGByNaqMTlcJvSFtB96MDGKkhU0veMOXWHD3bBoDHxOZYfQshoyeCPlHjTlHRKZJOWj+u80BqgAEyg7432V9TAiLxIYLTsNvDK4o\u003d"
                         }
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1752737801229,
+                      "id": "MITHRIL_CLOAK",
                       "donated_museum": 1,
-                      "id": "ENDER_CLOAK",
-                      "timestamp": 1750428143969,
-                      "uuid": "65f11ad9-724f-4816-ab68-fa78bb7c6980",
-                      "modifier": "blended"
+                      "modifier": "royal",
+                      "uuid": "49c94923-9a67-4046-92fd-86499a00491d"
                     },
                     "!minecraft:enchantments": {}
                   }
                 },
+                {},
                 {
                   "id": "minecraft:player_head",
                   "count": 1,
@@ -11241,9 +11164,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "attributeMenuValue": 17,
-                      "id": "DAVIDS_CLOAK",
                       "timestamp": 1750741310057,
+                      "id": "DAVIDS_CLOAK",
+                      "attributeMenuValue": 17,
                       "uuid": "2fb24195-629f-464b-9519-ff9de5437092",
                       "boosters": [
                         "sweep",
@@ -11847,9 +11770,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "donated_museum": 1,
-                      "id": "PRISMARINE_NECKLACE",
                       "timestamp": 1752612677885,
+                      "id": "PRISMARINE_NECKLACE",
+                      "donated_museum": 1,
                       "uuid": "d90faa2e-1c76-48d7-9fec-653005a1b198"
                     },
                     "!minecraft:enchantments": {}
@@ -12254,13 +12177,13 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1752873708127,
-                      "id": "DIAMOND_PICKAXE",
                       "enchantments": {
                         "fortune": 3,
                         "smelting_touch": 1,
                         "efficiency": 5
                       },
+                      "id": "DIAMOND_PICKAXE",
+                      "timestamp": 1752873708127,
                       "uuid": "a97cb473-3d44-4388-90cd-7600a942f4ca"
                     },
                     "!minecraft:enchantments": {}
@@ -12459,15 +12382,14 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "donated_museum": 1,
-                      "id": "SPONGE_BELT",
                       "timestamp": 1752612675401,
+                      "id": "SPONGE_BELT",
+                      "donated_museum": 1,
                       "uuid": "31a1534c-19d5-4cdf-8a38-bb04e6841e91"
                     },
                     "!minecraft:enchantments": {}
                   }
                 },
-                {},
                 {
                   "id": "minecraft:player_head",
                   "count": 1,
@@ -12492,8 +12414,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Blended Ender Belt",
-                          "color": "dark_purple"
+                          "text": "Royal Mithril Necklace",
+                          "color": "green"
                         }
                       ],
                       "italic": false
@@ -12503,87 +12425,15 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Strength: ",
+                            "text": "Mining Speed: ",
                             "color": "gray"
                           },
                           {
-                            "text": "+1 ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+1)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Crit Chance: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2% ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+2%)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Crit Damage: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2% ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+2%)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Bonus Attack Speed: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+1% ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+1%)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Health: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+17 ",
+                            "text": "+26 ",
                             "color": "green"
                           },
                           {
-                            "text": "(+2)",
+                            "text": "(+6)",
                             "color": "blue"
                           }
                         ],
@@ -12593,29 +12443,11 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Defense: ",
+                            "text": "Mining Fortune: ",
                             "color": "gray"
                           },
                           {
-                            "text": "+12 ",
-                            "color": "green"
-                          },
-                          {
-                            "text": "(+2)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Speed: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+1 ",
+                            "text": "+6 ",
                             "color": "green"
                           },
                           {
@@ -12627,17 +12459,127 @@
                       },
                       {
                         "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
                         "extra": [
                           {
-                            "text": "Intelligence: ",
+                            "text": "Grants ",
                             "color": "gray"
                           },
                           {
-                            "text": "+2 ",
-                            "color": "green"
+                            "text": "+5☘ Mining Fortune ",
+                            "color": "gold"
                           },
                           {
-                            "text": "(+2)",
+                            "text": "while",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "mining ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Mithril",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Full Set Bonus: Dwarf Wannabe (4/4)",
+                            "color": "gold"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+30⸕ Mining Speed ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "and ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+5☘",
+                            "color": "gold"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Mining Fortune ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "while in the ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Dwarven",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Mines",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Royal Bonus",
                             "color": "blue"
                           }
                         ],
@@ -12645,13 +12587,17 @@
                       },
                       {
                         "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
                         "extra": [
                           {
-                            "text": "All stats on this piece of equipment",
+                            "text": "Earn ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+5% ᠅ Mithril Powder ",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": "from",
                             "color": "gray"
                           }
                         ],
@@ -12661,25 +12607,23 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "are multiplied by ",
+                            "text": "",
                             "color": "gray"
                           },
                           {
-                            "text": "2x ",
-                            "color": "dark_purple"
+                            "text": "Mining Events ",
+                            "color": "aqua"
                           },
                           {
-                            "text": "while on the End",
+                            "text": "in the ",
                             "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
+                          },
                           {
-                            "text": "Island!",
+                            "text": "Dwarven Mines",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
                             "color": "gray"
                           }
                         ],
@@ -12713,9 +12657,9 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "EPIC BELT",
+                            "text": "UNCOMMON NECKLACE",
                             "bold": true,
-                            "color": "dark_purple"
+                            "color": "green"
                           }
                         ],
                         "italic": false
@@ -12723,29 +12667,30 @@
                     ],
                     "minecraft:profile": {
                       "id": [
-                        -1427379161,
-                        1305100075,
-                        -1645909289,
-                        926938488
+                        -170203158,
+                        -377604041,
+                        -1230073303,
+                        -2069773903
                       ],
                       "properties": [
                         {
                           "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzgwNDIwNywKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MTQxNDE0MWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjAzMmEwMTY2MjFlMTI2ODcwZmEwMGMyOWM1MWQ5NDJhZmRiYTVhOTRhMjMyN2YyNjRmZTFhOTQwOWU0NTVhZSIKICAgIH0KICB9Cn0\u003d",
-                          "signature": "Bq00jnR6GvTizVYuXrpRl/XFNMQp1b7tSexOOadcsPpSHvj6GtVV4DkF0qI8IbMyfE4yxu4cLUI9XhoSLoNGFF3xwjyxs0+147mZgEL5BMfPT4AKukToggE6xDuxMJt2hHBTbKBydhIGRwB0WJbe8O3WirxXvXayGFvMACAI0afALpzSKurehCFHnwMtV5p/hD+z74/eNxXHmIlshnxJPPToU2XNqkXPwBTp4t74dTpWMUhIsc3BBtE8JfzefVaGiAKu/TXb3pWnk+7bZYCDRBoPi6ZFro+sbKpf2yCafNh0xcSyhm8cVNv1SGonUZF/rekiHqUm+dFuVuBHWVXIcmI/w9tp+iUkq75Uwl3pHM4EdNrB38g2vCKoWzQXupGTi5YxKDoDxV2yoC9YRXQK5W3NdTY4Qn9byC/2ijAi2PLnSNo7Ff9rR+Q+6hdmEIth5yHChiLDrBBo48DE3qjRWvYapEQtuWChHR5iIDEufpKzkCvUWMiClclZMS90Nox0boZj0M5DE+iTwep91JzbbmKydcZ4lj4ElwbjTQMZ2ZmxI/S+PRDrAVDA2q7tB2CfaHHeCLNawVTAR91PN4n0L0ZeiDnWEXnYWgREhgILF8Epm7JW0ZqYcFyOHkYbQzJUgQl6hKoRQUk4OSEmT+yn9FBXH1+kgNbPYcRxwxaLtZ4\u003d"
+                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU2NTYyNiwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNkZDNhMzUzYWQ1ZmE3OGUyNDJlM2EyYjIwMjVlOTk0NDczMjVmMWYzZjQ3ZDU4YzE5MWZkMzA3MGExZTc3OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                          "signature": "R36NOd187fu+sDTvPuM/b33Lic5AUrpePNuEsP4GaxbP5Vr3vsEWB6hWXif8Ls8JfD2RnqkSjip3VK0U0EGxXm9pBHgXwriPxOReO368Wbs5uvaE15xhHXbRzHnSRqqYsCPHx1ROVZRO/rICsZUlXMr7rpG/W+O3wyIR+nLeEZNxPtOL+VSXhm5Zt2RINT2FA6HUrq+dyzkhSKHQ8GNX1mli8eZsdqzAsJxTZ2gegde/4yY+uc4sorFXxRebvWWBE4QTChxPbaXPUqUL535tW8oNNQjs4XAuR7be5ZofuVYyb/fKhdEb0MXINiYyg0fQdOYOJ69xpy7iEC0Wz+NfQj2RR8pJK9zLxDStiLTYYTFcHteNMZoiZnZp/7WZa2Yc0OR64kYG2JDx8hAj+6Bj7kNJN9Tx46IqL42yq9otCOAwvkk4x4/xW2sUrn8BpjlTuhqEDBV+gpSg9uSmRw33JVgnbZWejSNPYT5mGKewQ0zuWRh8Kg8MEmnqTXfRNfs0t8KSaPwz1xkf44usitQo7hfLHkdTDCNnad7yzrjX15BmnqBfI2n6xofD+qMdUqiMOnnHanMh11ODASP7WflObjD34arvNwuocvwnqTWNnVOSdPPD9VRGSY91HLcATAY1ueBB7qhuL8Hc9G4CPiQtj6DH7FjmqVDz9qzzuLsMgbQ\u003d"
                         }
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1752737800660,
+                      "id": "MITHRIL_NECKLACE",
                       "donated_museum": 1,
-                      "id": "ENDER_BELT",
-                      "timestamp": 1750648031030,
-                      "uuid": "790b64d1-c94d-4920-b32c-0788fab5cdcf",
-                      "modifier": "blended"
+                      "modifier": "royal",
+                      "uuid": "f27d9482-36bf-419d-b810-194bc94bb79f"
                     },
                     "!minecraft:enchantments": {}
                   }
                 },
+                {},
                 {
                   "id": "minecraft:player_head",
                   "count": 1,
@@ -13532,9 +13477,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "donated_museum": 1,
-                      "id": "RADIANT_POWER_ORB",
                       "timestamp": 1752964263338,
+                      "id": "RADIANT_POWER_ORB",
+                      "donated_museum": 1,
                       "uuid": "ed4eea88-06e7-42ca-b5aa-37f2baff6032"
                     },
                     "!minecraft:enchantments": {}
@@ -13751,9 +13696,9 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "donated_museum": 1,
-                      "id": "BANDAGED_MITHRIL_PICKAXE",
                       "timestamp": 1752639450731,
+                      "id": "BANDAGED_MITHRIL_PICKAXE",
+                      "donated_museum": 1,
                       "uuid": "37f77a4b-93a8-4100-afcd-0d0a9979dea4"
                     },
                     "!minecraft:enchantments": {}
@@ -13768,7 +13713,6 @@
                   "id": "minecraft:diamond_pickaxe",
                   "count": 1,
                   "components": {
-                    "!minecraft:enchantments": {},
                     "minecraft:tooltip_display": {
                       "hidden_components": [
                         "minecraft:jukebox_playable",
@@ -13785,6 +13729,7 @@
                         "minecraft:dyed_color"
                       ]
                     },
+                    "minecraft:enchantment_glint_override": true,
                     "minecraft:unbreakable": {},
                     "minecraft:custom_name": {
                       "text": "",
@@ -13833,7 +13778,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "+750",
+                            "text": "+860",
                             "color": "green"
                           }
                         ],
@@ -13871,17 +13816,19 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Increases how quickly your tool",
+                            "text": "Grants ",
                             "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
+                          },
                           {
-                            "text": "breaks blocks.",
+                            "text": "+110 ",
+                            "color": "green"
+                          },
+                          {
+                            "text": "⸕ Mining Speed",
+                            "color": "gold"
+                          },
+                          {
+                            "text": ".",
                             "color": "gray"
                           }
                         ],
@@ -14076,7 +14023,8 @@
                       "id": "PICKONIMBUS",
                       "timestamp": 1754057862998,
                       "uuid": "66abeda9-b979-43c9-99bf-ef651f4aab4a"
-                    }
+                    },
+                    "!minecraft:enchantments": {}
                   }
                 },
                 {
@@ -15401,7 +15349,7 @@
                 },
                 {
                   "id": "minecraft:player_head",
-                  "count": 26,
+                  "count": 29,
                   "components": {
                     "minecraft:tooltip_display": {
                       "hidden_components": [
@@ -15684,8 +15632,438 @@
                 {},
                 {},
                 {},
-                {},
-                {},
+                {
+                  "id": "minecraft:iron_hoe",
+                  "count": 1,
+                  "components": {
+                    "minecraft:tooltip_display": {
+                      "hidden_components": [
+                        "minecraft:jukebox_playable",
+                        "minecraft:painting/variant",
+                        "minecraft:map_id",
+                        "minecraft:fireworks",
+                        "minecraft:attribute_modifiers",
+                        "minecraft:unbreakable",
+                        "minecraft:written_book_content",
+                        "minecraft:banner_patterns",
+                        "minecraft:trim",
+                        "minecraft:potion_contents",
+                        "minecraft:block_entity_data",
+                        "minecraft:dyed_color"
+                      ]
+                    },
+                    "minecraft:unbreakable": {},
+                    "minecraft:custom_name": {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Metal Detector",
+                          "color": "red"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Used to find lost Dwarven treasures",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "in the ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Mines of Divan",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ". The Metal",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Detector beeps louder and faster",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "the closer you are to a buried",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "treasure.",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "SPECIAL",
+                            "bold": true,
+                            "color": "red"
+                          }
+                        ],
+                        "italic": false
+                      }
+                    ],
+                    "minecraft:custom_data": {
+                      "id": "DWARVEN_METAL_DETECTOR"
+                    },
+                    "!minecraft:enchantments": {}
+                  }
+                },
+                {
+                  "id": "minecraft:diamond_pickaxe",
+                  "count": 1,
+                  "components": {
+                    "minecraft:tooltip_display": {
+                      "hidden_components": [
+                        "minecraft:jukebox_playable",
+                        "minecraft:painting/variant",
+                        "minecraft:map_id",
+                        "minecraft:fireworks",
+                        "minecraft:attribute_modifiers",
+                        "minecraft:unbreakable",
+                        "minecraft:written_book_content",
+                        "minecraft:banner_patterns",
+                        "minecraft:trim",
+                        "minecraft:potion_contents",
+                        "minecraft:block_entity_data",
+                        "minecraft:dyed_color"
+                      ]
+                    },
+                    "minecraft:enchantment_glint_override": true,
+                    "minecraft:unbreakable": {},
+                    "minecraft:custom_name": {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Pickonimbus 2000",
+                          "color": "dark_purple"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Breaking Power 8",
+                            "color": "dark_gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Damage: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+30",
+                            "color": "red"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Mining Speed: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+860",
+                            "color": "green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Mining Fortune: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+30",
+                            "color": "green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Efficiency V",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+110 ",
+                            "color": "green"
+                          },
+                          {
+                            "text": "⸕ Mining Speed",
+                            "color": "gold"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Fortune III",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+30☘ Mining Fortune",
+                            "color": "gold"
+                          },
+                          {
+                            "text": ", which",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "increases your chance for multiple",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "drops.",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "A powerful tool that breaks after",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "316",
+                            "color": "green"
+                          },
+                          {
+                            "text": " uses.",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Ability: Pickobulus  ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "RIGHT CLICK",
+                            "bold": true,
+                            "color": "yellow"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Throw your pickaxe to create an",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "explosion mining all ores in a ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "3 ",
+                            "color": "green"
+                          },
+                          {
+                            "text": "block",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "radius.",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Cooldown: ",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "60s",
+                            "color": "green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "This item can be reforged!",
+                            "color": "dark_gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "EPIC PICKAXE",
+                            "bold": true,
+                            "color": "dark_purple"
+                          }
+                        ],
+                        "italic": false
+                      }
+                    ],
+                    "minecraft:custom_data": {
+                      "enchantments": {
+                        "fortune": 3,
+                        "efficiency": 5
+                      },
+                      "id": "PICKONIMBUS",
+                      "pickonimbus_durability": 316,
+                      "uuid": "1d241902-c750-4a7b-b0ed-75216ec29aa2",
+                      "timestamp": 1753167835790
+                    },
+                    "minecraft:damage": 1684,
+                    "!minecraft:enchantments": {}
+                  }
+                },
                 {},
                 {},
                 {},
@@ -16629,7 +17007,100 @@
                   }
                 },
                 {},
-                {}
+                {
+                  "id": "minecraft:player_head",
+                  "count": 1,
+                  "components": {
+                    "minecraft:tooltip_display": {
+                      "hidden_components": [
+                        "minecraft:jukebox_playable",
+                        "minecraft:painting/variant",
+                        "minecraft:map_id",
+                        "minecraft:fireworks",
+                        "minecraft:attribute_modifiers",
+                        "minecraft:unbreakable",
+                        "minecraft:written_book_content",
+                        "minecraft:banner_patterns",
+                        "minecraft:trim",
+                        "minecraft:potion_contents",
+                        "minecraft:block_entity_data",
+                        "minecraft:dyed_color"
+                      ]
+                    },
+                    "minecraft:custom_name": {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Jungle Heart",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Found in the deepest layers of the",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Jungle Temple.",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "LEGENDARY",
+                            "bold": true,
+                            "color": "gold"
+                          }
+                        ],
+                        "italic": false
+                      }
+                    ],
+                    "minecraft:profile": {
+                      "id": [
+                        -566985359,
+                        -1911999508,
+                        -1894634779,
+                        66088092
+                      ],
+                      "properties": [
+                        {
+                          "name": "textures",
+                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5MTA2NzYyOTI3OSwKICAicHJvZmlsZUlkIiA6ICI0NmY3N2NjNmQ2MjU0NjEzYjc2NmYyZDRmMDM2MzZhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaXNzV29sZiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNGFkZWEwZDgyMjYzZDIzMzM4NDdlYzM0ODgyMTRjYTI1MjM2NDIzYjg2NTdiYjgyZTA4ZWJjMzRiZDcwODgyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+                          "signature": "Y8pTqnbwkZQM6TpUV9FpOlXLNbbbBBpE4EnIKdMr0YdvrZt9X6DVcNlmH59j2zrnTMNTBDT2Hl+47r3QMYhOlJbE35UNzg3+IubxcbiywcEo9KoYAjqB4hYSLjXLa9tetWHjVwY0HeiBUxpTALyJEDINUjH0Yxnf5DoUUbGYAnvVt9ZZ1vSAvGwss5fNNPS30cvzfqRiv7FDiAXMQpcQobkK5WQS3kliErgZR4BadJx2F+AAcY0Cr1WgneQKyith/BZV7qPfEJ/voZuVRb0yYmvvCPWHpg9ELXk0umrceekGj/PVWDNeA1H8Xe4I3OIZzufWifeoheKbf/rLK4RxZI0ujcrCf4R8ScYAK9DUxG4RXpQH2OMSqRDbWZ8eXlDcKE7F+DmC7HG9K+OEB59wQTra/PMcmOko7XqKpa7hOC4rWzTuE3YbCr1ZWp74JfKEqFJQR7qSVqesaDZA1tB+c/a4iiZkkefTDDzqGexuhQyr9G03Uec0mNs29iqkanHyrPt3O+ejGnvcYoUM6l7qt8mT56SnoH9lXTMW0dmebHsNxVKCj0xP8n71hoXRtqoMVgWs6mRwFwMMpHz4+wl73u/yyuLFBO+n+IiCjpBwtQpxMyJtVaDeSWu+Bvld3tjqleigcw2m3Jqn8XFKejTbU+9MTA+L2n1UxTdRaqZCAow\u003d"
+                        }
+                      ]
+                    },
+                    "minecraft:custom_data": {
+                      "uuid": "a5cd9110-2b1a-4d8d-85dd-8627a845db6d",
+                      "timestamp": 1754075221542,
+                      "id": "JUNGLE_HEART"
+                    },
+                    "!minecraft:enchantments": {}
+                  }
+                }
               ]
             },
             {

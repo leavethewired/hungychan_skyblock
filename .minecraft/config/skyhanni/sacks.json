@@ -5,22 +5,22 @@
         "lemon": {
           "sackContents": {
             "FLAWED_JADE_GEM": {
-              "amount": 119,
-              "lastChange": 2,
+              "amount": 143,
+              "lastChange": 24,
               "status": "CORRECT"
             },
             "FINE_JADE_GEM": {
-              "amount": 1,
+              "amount": 2,
               "lastChange": 1,
               "status": "CORRECT"
             },
             "FLAWED_AMBER_GEM": {
-              "amount": 170,
-              "lastChange": 94,
+              "amount": 188,
+              "lastChange": 18,
               "status": "CORRECT"
             },
             "FINE_AMBER_GEM": {
-              "amount": 1,
+              "amount": 2,
               "lastChange": 1,
               "status": "CORRECT"
             },
@@ -30,47 +30,47 @@
               "status": "CORRECT"
             },
             "FINE_TOPAZ_GEM": {
-              "amount": 8,
+              "amount": 9,
               "lastChange": 1,
               "status": "CORRECT"
             },
             "FLAWED_SAPPHIRE_GEM": {
-              "amount": 91,
-              "lastChange": 12,
+              "amount": 97,
+              "lastChange": 6,
               "status": "CORRECT"
             },
             "FINE_SAPPHIRE_GEM": {
-              "amount": 1,
+              "amount": 2,
               "lastChange": 1,
               "status": "CORRECT"
             },
             "FLAWED_AMETHYST_GEM": {
-              "amount": 64,
-              "lastChange": 2,
+              "amount": 94,
+              "lastChange": 30,
               "status": "CORRECT"
             },
             "FINE_AMETHYST_GEM": {
-              "amount": 1,
+              "amount": 2,
               "lastChange": 1,
               "status": "CORRECT"
             },
             "FLAWED_JASPER_GEM": {
-              "amount": 43,
-              "lastChange": 6,
+              "amount": 61,
+              "lastChange": 18,
               "status": "CORRECT"
             },
             "FINE_JASPER_GEM": {
-              "amount": 5,
+              "amount": 6,
               "lastChange": 1,
               "status": "CORRECT"
             },
             "FLAWED_RUBY_GEM": {
-              "amount": 31,
-              "lastChange": 1,
+              "amount": 49,
+              "lastChange": 18,
               "status": "CORRECT"
             },
             "FINE_RUBY_GEM": {
-              "amount": 1,
+              "amount": 2,
               "lastChange": 1,
               "status": "CORRECT"
             },
@@ -125,8 +125,8 @@
               "status": "CORRECT"
             },
             "ROUGH_SAPPHIRE_GEM": {
-              "amount": 12434,
-              "lastChange": 42,
+              "amount": 12530,
+              "lastChange": 96,
               "status": "OUTDATED"
             },
             "ROUGH_JASPER_GEM": {
@@ -135,8 +135,8 @@
               "status": "OUTDATED"
             },
             "ROUGH_AMBER_GEM": {
-              "amount": 27,
-              "lastChange": 27,
+              "amount": 83,
+              "lastChange": 56,
               "status": "OUTDATED"
             },
             "ROUGH_JADE_GEM": {
@@ -180,13 +180,13 @@
               "status": "CORRECT"
             },
             "ENCHANTED_ENDER_PEARL": {
-              "amount": 1958,
-              "lastChange": 0,
+              "amount": 2065,
+              "lastChange": 1,
               "status": "CORRECT"
             },
             "ENCHANTED_EYE_OF_ENDER": {
-              "amount": 12,
-              "lastChange": 0,
+              "amount": 15,
+              "lastChange": 1,
               "status": "CORRECT"
             },
             "ENCHANTED_GHAST_TEAR": {
@@ -245,8 +245,8 @@
               "status": "CORRECT"
             },
             "HARD_STONE": {
-              "amount": 10010,
-              "lastChange": 1633,
+              "amount": 11881,
+              "lastChange": 216,
               "status": "OUTDATED"
             },
             "STRING": {
@@ -285,13 +285,33 @@
               "status": "OUTDATED"
             },
             "COAL": {
-              "amount": 293,
-              "lastChange": 91,
+              "amount": 337,
+              "lastChange": 44,
               "status": "OUTDATED"
             },
             "IRON_INGOT": {
               "amount": 73,
               "lastChange": 9,
+              "status": "OUTDATED"
+            },
+            "OIL_BARREL": {
+              "amount": 1,
+              "lastChange": 1,
+              "status": "OUTDATED"
+            },
+            "BONE": {
+              "amount": 38,
+              "lastChange": 38,
+              "status": "OUTDATED"
+            },
+            "ENCHANTED_OBSIDIAN": {
+              "amount": 1,
+              "lastChange": 1,
+              "status": "OUTDATED"
+            },
+            "ENCHANTED_ENDSTONE": {
+              "amount": 1,
+              "lastChange": 1,
               "status": "OUTDATED"
             }
           }
