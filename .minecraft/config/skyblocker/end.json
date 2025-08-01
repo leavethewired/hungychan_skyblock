@@ -5,14 +5,14 @@
       "zealotsSinceLastEye": 103,
       "eyes": 22
     },
-    "05bfe89b-6320-466e-88f1-df5de2dd5e42": {
-      "totalZealotKills": 42,
-      "zealotsSinceLastEye": 42,
-      "eyes": 0
-    },
     "": {
       "totalZealotKills": 0,
       "zealotsSinceLastEye": 0,
+      "eyes": 0
+    },
+    "05bfe89b-6320-466e-88f1-df5de2dd5e42": {
+      "totalZealotKills": 42,
+      "zealotsSinceLastEye": 42,
       "eyes": 0
     }
   }

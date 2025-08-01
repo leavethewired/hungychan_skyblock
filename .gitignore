@@ -32,3 +32,14 @@
 /.minecraft/logs
 /.minecraft/logs
 /.minecraft/logs
+.minecraft/config/roughlyenoughitems/pinyin.properties
+.minecraft/config/skyblocker/collected_accessories.json
+.minecraft/config/skyblocker/end.json
+.minecraft/config/skyblocker/found_fairy_souls.json
+.minecraft/config/skyblocker/hud_widgets.json
+/.minecraft/config/skyhanni/backup
+/.minecraft/config/skyhanni/backup/2025
+/.minecraft/config/skyhanni/logs/2025_07_18
+*.log
+/.minecraft/logs
+*.gz
