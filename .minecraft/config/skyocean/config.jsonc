@@ -9,7 +9,12 @@
             "Glossy Gemstone"
         ]
     },
-    "slayer": {},
+    "slayer": {
+        "enableBlazeHighlight": true,
+        "highlightOwnBoss": true,
+        "highlightMini": true,
+        "highlightBigBoys": true
+    },
     "fishing": {
         "enableTrophyNumbers": false,
         // Range: 0.25 - 5

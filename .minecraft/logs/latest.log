@@ -1,19 +1,19 @@
-[21:29:09] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[21:29:09] [ForkJoinPool-1-worker-16/WARN]: Mod cpm uses the version 0.6.22a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '22a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:29:09] [ForkJoinPool-1-worker-21/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:29:09] [ForkJoinPool-1-worker-26/WARN]: The mod "skyhanni" contains invalid entries in its mod json:
+[23:10:28] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[23:10:28] [ForkJoinPool-1-worker-16/WARN]: Mod cpm uses the version 0.6.22a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '22a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:10:28] [ForkJoinPool-1-worker-21/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:10:28] [ForkJoinPool-1-worker-12/WARN]: The mod "skyhanni" contains invalid entries in its mod json:
 - Unsupported root entry "_note" at line 2 column 10
-[21:29:09] [ForkJoinPool-1-worker-5/WARN]: The mod "modernwarpmenu" contains invalid entries in its mod json:
+[23:10:28] [ForkJoinPool-1-worker-8/WARN]: The mod "modernwarpmenu" contains invalid entries in its mod json:
 - Unsupported root entry "plugin" at line 36 column 11
-[21:29:10] [ForkJoinPool-1-worker-27/WARN]: Mod org_eclipse_jgit_org_eclipse_jgit uses the version 7.1.0.202411261347-r which isn't compatible with Loader's extended semantic version format (Could not parse version number component '202411261347'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:29:10] [main/WARN]: Warnings were found!
+[23:10:29] [ForkJoinPool-1-worker-3/WARN]: Mod org_eclipse_jgit_org_eclipse_jgit uses the version 7.1.0.202411261347-r which isn't compatible with Loader's extended semantic version format (Could not parse version number component '202411261347'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:10:29] [main/WARN]: Warnings were found!
  - Mod 'Caxton' (caxton) 0.6.0-beta.3+1.21.5-FABRIC conflicts with any version of mod 'Iris' (iris), which is present with the following versions: 1.8.11+mc1.21.5!
 	 - While this won't prevent you from starting the game, the developer(s) of mod 'Caxton' (caxton) have found that this combination may cause issues. You should remove one of the mods or check for updates that resolve the issue.
  - Mod 'NobaAddons' (nobaaddons) 1.0.0-Beta.7 conflicts with any version of mod 'Iris' (iris), which is present with the following versions: 1.8.11+mc1.21.5!
 	 - While this won't prevent you from starting the game, the developer(s) of mod 'NobaAddons' (nobaaddons) have found that this combination may cause issues. You should remove one of the mods or check for updates that resolve the issue.
  - Mod 'Skyblocker' (skyblocker) 5.6.0+1.21.5 conflicts with any version of mod 'Iris' (iris), which is present with the following versions: 1.8.11+mc1.21.5!
 	 - While this won't prevent you from starting the game, the developer(s) of mod 'Skyblocker' (skyblocker) have found that this combination may cause issues. You should remove one of the mods or check for updates that resolve the issue.
-[21:29:10] [main/INFO]: Loading 242 mods:
+[23:10:29] [main/INFO]: Loading 242 mods:
 	- aaron-mod 2.2.0+1.21.5
 	   |-- hm-api 1.0.1+1.21.2
 	   |-- net_azureaaron_legacy-item-dfu 1.0.3+1.21.5
@@ -141,7 +141,7 @@
 	   |-- com_github_rtyley_animated-gif-lib-for-java animated-gif-lib-1.7
 	   \-- mixinextras 0.4.1
 	- ferritecore 8.0.0
-	- firmament 3.1.0+mc1.21.5
+	- firmament 3.4.0+mc1.21.5
 	   |-- cloth-basic-math 0.6.1
 	   |-- hypixel-mod-api 1.0.1+build.1+mc1.21
 	   |    \-- net_hypixel_mod-api 1.0.1
@@ -163,7 +163,6 @@
 	   |-- io_ktor_ktor-websocket-serialization-jvm 3.1.2
 	   |-- io_ktor_ktor-websockets-jvm 3.1.2
 	   |-- jarviscci 1.1.4
-	   |-- libninepatch 1.2.0
 	   |-- mixinextras 0.4.1
 	   |-- mm_shedaniel 2.4.1
 	   \-- org_slf4j_slf4j-api 2.0.16
@@ -256,11 +255,13 @@
 	   \-- hypixel-mod-api 1.0.1+build.1+mc1.21
 	        \-- net_hypixel_mod-api 1.0.1
 	- skyfall 0.2.3
+	   |-- libninepatch 1.2.0
 	   |-- org_javassist_javassist 3.28.0-GA
 	   \-- org_reflections_reflections 0.10.2
 	- skyhanni 4.12.0
-	   \-- hypixel-mod-api 1.0.1+build.1+mc1.21
-	        \-- net_hypixel_mod-api 1.0.1
+	   |-- hypixel-mod-api 1.0.1+build.1+mc1.21
+	   |    \-- net_hypixel_mod-api 1.0.1
+	   \-- libninepatch 1.2.0
 	- skyocean 1.5.0
 	   |-- olympus 1.3.6
 	   |-- placeholder-api 2.6.1+1.21.5
@@ -291,577 +292,596 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[21:29:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/User/Documents/MultiMC/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
-[21:29:10] [main/INFO]: Compatibility level set to JAVA_21
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[21:29:11] [main/INFO]: Global Executor Parallelism: 19 configured, 19 evaluated, 19 default evaluated
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.client.uncapvd.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[21:29:11] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@16.1.4 (*) (defined in c2me)
-[21:29:11] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[21:29:11] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[21:29:11] [main/WARN]: Reference map 'Firmament-refmap.json' for firmament.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:29:11] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:29:11] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
-[21:29:11] [main/WARN]: Reference map 'iris-fabric.refmap.json' for mixins.iris.fabric.json could not be read. If this is a development environment you can ignore this message
-[21:29:11] [main/WARN]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:29:11] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
-[21:29:11] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
-[21:29:11] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.bettermipmaps.json could not be read. If this is a development environment you can ignore this message
-[21:29:11] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
-[21:29:11] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.fixes.maxfpscrash.json could not be read. If this is a development environment you can ignore this message
-[21:29:11] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[21:29:11] [main/INFO]: Loaded configuration file for Lithium: 157 options available, 0 override(s) found.
-[21:29:11] [main/INFO]: Started MM (shedaniel's fork) at me/shedaniel/gen/mixin/
-[21:29:11] [main/WARN]: Reference map 'Manningham Mills-refmap.json' for mixins.mm_shedaniel.json could not be read. If this is a development environment you can ignore this message
-[21:29:11] [main/WARN]: Registration of InjectionPoint SKYHANNI_FORLOOP_LOCAL_VAR with at.hannibal2.skyhanni.mixins.init.BeforeForLoopInjectionPoint without specifying namespace is deprecated.
-[21:29:11] [main/INFO]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
-[21:29:11] [main/INFO]: Loaded configuration file for Sodium Extra: 34 options available, 0 override(s) found
-[21:29:11] [main/INFO]: Successfully started async appender with [SysOut, ServerGuiConsole, Tracy, File]
-[21:29:11] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:29:11] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:29:12] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages)
-[21:29:12] [main/WARN]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net/caffeinemc/sodium/config/user/UserConfigCategories)
-[21:29:12] [main/WARN]: Error loading class: net/vulkanmod/config/option/Options (java.lang.ClassNotFoundException: net/vulkanmod/config/option/Options)
-[21:29:12] [main/WARN]: Error loading class: com/teamresourceful/resourcefulconfig/common/loader/buttons/ParsedButton (java.lang.ClassNotFoundException: com/teamresourceful/resourcefulconfig/common/loader/buttons/ParsedButton)
-[21:29:12] [main/WARN]: @Mixin target com.teamresourceful.resourcefulconfig.common.loader.buttons.ParsedButton was not found cookies-mod.mixins.json:config.ParsedButtonMixin from mod cookies-mod
-[21:29:12] [main/WARN]: Error loading class: me/jfenn/scoreboardoverhaul/common/config/ScoreboardConfig (java.lang.ClassNotFoundException: me/jfenn/scoreboardoverhaul/common/config/ScoreboardConfig)
-[21:29:12] [main/WARN]: Error loading class: me/jfenn/scoreboardoverhaul/impl/ScoreboardAccessor (java.lang.ClassNotFoundException: me/jfenn/scoreboardoverhaul/impl/ScoreboardAccessor)
-[21:29:12] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[21:29:13] [main/WARN]: Force-disabling mixin 'features.render.world.sky.FogRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
-[21:29:13] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientLevelMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
-[21:29:13] [main/WARN]: Force-disabling mixin 'features.render.world.sky.LevelRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
-[21:29:13] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache)
-[21:29:13] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline)
-[21:29:13] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess)
-[21:29:13] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages)
-[21:29:13] [main/WARN]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net/caffeinemc/sodium/config/user/UserConfigCategories)
-[21:29:13] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages)
-[21:29:13] [main/WARN]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net/caffeinemc/sodium/config/user/UserConfigCategories)
-[21:29:14] [main/WARN]: Error loading class: codes/biscuit/skyblockaddons/asm/hooks/RendererLivingEntityHook (java.lang.ClassNotFoundException: codes/biscuit/skyblockaddons/asm/hooks/RendererLivingEntityHook)
-[21:29:14] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache)
-[21:29:14] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache)
-[21:29:14] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline)
-[21:29:14] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline)
-[21:29:14] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess)
-[21:29:14] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess)
-[21:29:14] [main/INFO]: Searching for graphics cards...
-[21:29:15] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=AMD, description='AMD Radeon RX 7600 XT', adapterType=0x0000230B, openglIcdFilePath='C:\WINDOWS\System32\DriverStore\FileRepository\u0416003.inf_amd64_706cc64a85ddf686\B415817\atig6pxx.dll', openglIcdVersion=32.0.21013.1000}
-[21:29:15] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21:29:15] [main/INFO]: Setting java.awt.headless to false
-[21:29:18] [Datafixer Bootstrap/INFO]: 263 Datafixer optimizations took 1513 milliseconds
-[21:29:26] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:29:26] [Render thread/INFO]: Setting user: catholicschool
-[21:29:26] [Render thread/INFO]: Initializing Audition - Audio optimization mod
-[21:29:26] [Render thread/INFO]: Loaded Audition configuration
-[21:29:26] [Render thread/INFO]: Initializing Sound Optimizer...
-[21:29:26] [Render thread/INFO]: Audition initialized successfully!
-[21:29:26] [Render thread/INFO]: Initializing ChatPlus
-[21:29:26] [Render thread/INFO]: Loading languages...
-[21:29:26] [Render thread/INFO]: Loaded 110 languages
-[21:29:27] [Render thread/INFO]: Config Directory: C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config/chatplus
-[21:29:27] [Render thread/INFO]: ChatRenderer init
-[21:29:27] [Render thread/INFO]: x: 0, y: 452, width: 325, height: 225
-[21:29:27] [Render thread/INFO]: Create ChatWindow(All)
-[21:29:27] [Render thread/INFO]: SpeechToText initialized
-[21:29:27] [ChatPlusMicrophoneThread/INFO]: SpeechToText Thread started
-[21:29:27] [Render thread/INFO]: Config Loaded
-[21:29:27] [Render thread/INFO]: Done Initializing ChatPlus
-[21:29:27] [Render thread/INFO]: Customizable Player Models Initialized
-[21:29:27] [Render thread/INFO]: Customizable Player Models API initialized: Loaded plugins: (0)
+[23:10:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/User/Documents/MultiMC/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[23:10:29] [main/INFO]: Compatibility level set to JAVA_21
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[23:10:30] [main/INFO]: Global Executor Parallelism: 19 configured, 19 evaluated, 19 default evaluated
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.client.uncapvd.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[23:10:30] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@16.1.4 (*) (defined in c2me)
+[23:10:30] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[23:10:30] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[23:10:30] [main/WARN]: Reference map 'Firmament-refmap.json' for firmament.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:10:30] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:10:30] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
+[23:10:30] [main/WARN]: Reference map 'iris-fabric.refmap.json' for mixins.iris.fabric.json could not be read. If this is a development environment you can ignore this message
+[23:10:30] [main/WARN]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:10:30] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
+[23:10:30] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
+[23:10:30] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.bettermipmaps.json could not be read. If this is a development environment you can ignore this message
+[23:10:30] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
+[23:10:30] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.fixes.maxfpscrash.json could not be read. If this is a development environment you can ignore this message
+[23:10:30] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[23:10:30] [main/INFO]: Loaded configuration file for Lithium: 157 options available, 0 override(s) found.
+[23:10:30] [main/INFO]: Started MM (shedaniel's fork) at me/shedaniel/gen/mixin/
+[23:10:30] [main/WARN]: Reference map 'Manningham Mills-refmap.json' for mixins.mm_shedaniel.json could not be read. If this is a development environment you can ignore this message
+[23:10:30] [main/WARN]: Registration of InjectionPoint SKYHANNI_FORLOOP_LOCAL_VAR with at.hannibal2.skyhanni.mixins.init.BeforeForLoopInjectionPoint without specifying namespace is deprecated.
+[23:10:30] [main/INFO]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
+[23:10:30] [main/INFO]: Loaded configuration file for Sodium Extra: 34 options available, 0 override(s) found
+[23:10:30] [main/INFO]: Successfully started async appender with [SysOut, ServerGuiConsole, Tracy, File]
+[23:10:30] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:10:30] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:10:31] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages)
+[23:10:31] [main/WARN]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net/caffeinemc/sodium/config/user/UserConfigCategories)
+[23:10:31] [main/WARN]: Error loading class: net/vulkanmod/config/option/Options (java.lang.ClassNotFoundException: net/vulkanmod/config/option/Options)
+[23:10:31] [main/WARN]: Error loading class: com/teamresourceful/resourcefulconfig/common/loader/buttons/ParsedButton (java.lang.ClassNotFoundException: com/teamresourceful/resourcefulconfig/common/loader/buttons/ParsedButton)
+[23:10:31] [main/WARN]: @Mixin target com.teamresourceful.resourcefulconfig.common.loader.buttons.ParsedButton was not found cookies-mod.mixins.json:config.ParsedButtonMixin from mod cookies-mod
+[23:10:31] [main/WARN]: Error loading class: me/jfenn/scoreboardoverhaul/common/config/ScoreboardConfig (java.lang.ClassNotFoundException: me/jfenn/scoreboardoverhaul/common/config/ScoreboardConfig)
+[23:10:31] [main/WARN]: Error loading class: me/jfenn/scoreboardoverhaul/impl/ScoreboardAccessor (java.lang.ClassNotFoundException: me/jfenn/scoreboardoverhaul/impl/ScoreboardAccessor)
+[23:10:31] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[23:10:32] [main/WARN]: Force-disabling mixin 'features.render.world.sky.FogRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[23:10:32] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientLevelMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[23:10:32] [main/WARN]: Force-disabling mixin 'features.render.world.sky.LevelRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[23:10:32] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache)
+[23:10:32] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline)
+[23:10:32] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess)
+[23:10:32] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages)
+[23:10:32] [main/WARN]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net/caffeinemc/sodium/config/user/UserConfigCategories)
+[23:10:32] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages)
+[23:10:32] [main/WARN]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net/caffeinemc/sodium/config/user/UserConfigCategories)
+[23:10:33] [main/WARN]: Error loading class: codes/biscuit/skyblockaddons/asm/hooks/RendererLivingEntityHook (java.lang.ClassNotFoundException: codes/biscuit/skyblockaddons/asm/hooks/RendererLivingEntityHook)
+[23:10:33] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache)
+[23:10:33] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache)
+[23:10:33] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline)
+[23:10:33] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline)
+[23:10:33] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess)
+[23:10:33] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess)
+[23:10:33] [main/INFO]: Searching for graphics cards...
+[23:10:33] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=AMD, description='AMD Radeon RX 7600 XT', adapterType=0x0000230B, openglIcdFilePath='C:\WINDOWS\System32\DriverStore\FileRepository\u0416003.inf_amd64_706cc64a85ddf686\B415817\atig6pxx.dll', openglIcdVersion=32.0.21013.1000}
+[23:10:33] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23:10:33] [main/INFO]: Setting java.awt.headless to false
+[23:10:36] [Datafixer Bootstrap/INFO]: 263 Datafixer optimizations took 1272 milliseconds
+[23:10:43] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:10:43] [Render thread/INFO]: Setting user: catholicschool
+[23:10:43] [Render thread/INFO]: Initializing Audition - Audio optimization mod
+[23:10:43] [Render thread/INFO]: Loaded Audition configuration
+[23:10:43] [Render thread/INFO]: Initializing Sound Optimizer...
+[23:10:43] [Render thread/INFO]: Audition initialized successfully!
+[23:10:43] [Render thread/INFO]: Initializing ChatPlus
+[23:10:43] [Render thread/INFO]: Loading languages...
+[23:10:43] [Render thread/INFO]: Loaded 110 languages
+[23:10:43] [Render thread/INFO]: Config Directory: C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config/chatplus
+[23:10:44] [Render thread/INFO]: ChatRenderer init
+[23:10:44] [Render thread/INFO]: x: 0, y: 452, width: 325, height: 225
+[23:10:44] [Render thread/INFO]: Create ChatWindow(All)
+[23:10:44] [Render thread/INFO]: SpeechToText initialized
+[23:10:44] [ChatPlusMicrophoneThread/INFO]: SpeechToText Thread started
+[23:10:44] [Render thread/INFO]: Config Loaded
+[23:10:44] [Render thread/INFO]: Done Initializing ChatPlus
+[23:10:44] [Render thread/INFO]: Customizable Player Models Initialized
+[23:10:44] [Render thread/INFO]: Customizable Player Models API initialized: Loaded plugins: (0)
 
-[21:29:27] [Render thread/INFO]: [FANCYMENU] Loading v3.5.0 in client-side mode on FABRIC!
-[21:29:27] [Render thread/INFO]: [KONKRETE] Loading v1.9.11 in client-side mode on FABRIC!
-[21:29:27] [Render thread/INFO]: ---------------------------
-[21:29:27] [Render thread/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
-[21:29:27] [Render thread/INFO]:  
-[21:29:27] [Render thread/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
-[21:29:27] [Render thread/INFO]: Open Imaging is licensed under Apache-2.0.
-[21:29:27] [Render thread/INFO]:  
-[21:29:27] [Render thread/INFO]: JsonPath Copyright © 2017 Jayway.
-[21:29:27] [Render thread/INFO]: JsonPath is licensed under Apache-2.0.
-[21:29:27] [Render thread/INFO]:  
-[21:29:27] [Render thread/INFO]: Json-smart Copyright © netplex.
-[21:29:27] [Render thread/INFO]: Json-smart is licensed under Apache-2.0.
-[21:29:27] [Render thread/INFO]:  
-[21:29:27] [Render thread/INFO]: Exp4j Copyright © Frank Asseg.
-[21:29:27] [Render thread/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
-[21:29:27] [Render thread/INFO]: ---------------------------
-[21:29:27] [Render thread/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
-[21:29:27] [Render thread/INFO]: Compression will use Java, encryption will use Java
-[21:29:27] [Render thread/INFO]: fixing mojang's mistakes
-[21:29:27] [Render thread/INFO]: [MELODY] Loading v1.0.11 on FABRIC...
-[21:29:27] [Render thread/INFO]: Hello Itäkeskus and ᓚ₍^. .^₎ wörld!
-[21:29:27] [Render thread/INFO]: Definitely not up to no good
-[21:29:27] [Render thread/INFO]: Definitely not up to no good
-[21:29:27] [Render thread/INFO]: It's time to get real, NoFrills mod initialized in 88ms.
-[21:29:27] [Render thread/INFO]: assume less - mald more
-[21:29:27] [Render thread/INFO]: Constructing common components for puzzleslib:main
-[21:29:28] [Render thread/INFO]: [REI] Config loaded
-[21:29:28] [Render thread/INFO]: [REI] Registered plugin provider FirmamentReiCommonPlugin [firmament] for REICommonPlugin
-[21:29:28] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:request_tags_s2c
-[21:29:28] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[21:29:28] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
-[21:29:28] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
-[21:29:28] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
-[21:29:28] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[21:29:28] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[21:29:28] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[21:29:28] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[21:29:28] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[21:29:30] [Render thread/INFO]: Deserializing ConfigImpl from 'C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\skyblocktweaks-config.json'
-[21:29:30] [Render thread/INFO]: Deserializing PersistentData from 'C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\skyblocktweaks-persistent.json'
-[21:29:30] [Render thread/INFO]: Checking for updates
-[21:29:30] [Render thread/INFO]: Trying to load config from config\skyfall\config.json
-[21:29:30] [Render thread/INFO]: load-config-now
-[21:29:30] [Render thread/INFO]: Loaded config File
-[21:29:30] [Render thread/INFO]: Initializing MoulConfig with the loaded configuration.
-[21:29:30] [Render thread/INFO]: Starting feature scan...
-[21:29:30] [Render thread/INFO]: Reflections took 49 ms to scan 1 urls, producing 9 keys and 118 values
-[21:29:30] [Render thread/INFO]:  Found 23 potential features.
-[21:29:30] [Render thread/INFO]:  Discovered features: [LevelNumber, PowderHud, SoundDetector, HideWatchdogMessage, MiscKeybinds, AttributeMenuInfoRepoBuilder, warpToSpawn, AttributeMenu, RealisticSpacemanHelmet, HideSkyMallChanges, WhisperHud, HideDescription, FavoritePet, GuiKeybinds, AttributeDataFromBazaar, GardenMap, MouseSensitivity, ItemStackJsonCopier, FavoritePowerStone, RequeueKey, FavoriteAbiContact, AttributeMenuRepoBuilder, HideFireSaleMessage]
-[21:29:30] [Render thread/INFO]:  Feature 'Attribute Level Number' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Powder Hud' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Sound Detector' type: [HUD Events]
-[21:29:30] [Render thread/INFO]:  Feature 'Hide Watchdog Messages' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Misc Keybinds' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Attribute Menu Info Repo Builder' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Warp to Garden Spawn' type: [Unknown]
-[21:29:30] [Render thread/INFO]: Successfully loaded attribute data. Found 174 attribute entries and level data.
-[21:29:30] [Render thread/INFO]:  Feature 'Attribute Menu' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Realistic Spaceman Helmet' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Hide SkyMall Changes' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Whisper Hud' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Hide Hunting Box Description' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Favorite Pets' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'GUI Keybinds' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Attribute Data From Bazaar' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Garden Map' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Mouse Sensitivity Lock' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Item Stack JSON Copier' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Favorite Power Stones' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Requeue Key' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Favorite Abiphone Contacts' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Attribute Menu Repo Builder' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Feature 'Hide Fire Sale Messages' type: [Unknown]
-[21:29:30] [Render thread/INFO]:  Updating feature states...
-[21:29:30] [Render thread/INFO]:  -> Starting feature: 'Attribute Level Number'
-[21:29:30] [Render thread/INFO]:  -> Starting feature: 'Powder Hud'
-[21:29:30] [Render thread/INFO]: Registered HUD element: skyfall:powder_hud
-[21:29:30] [Render thread/INFO]:  -> Starting feature: 'Sound Detector'
-[21:29:30] [Render thread/INFO]:  Initializing HudFeature: SoundDetector
-[21:29:30] [Render thread/INFO]: Feature event system initialized with 0 features
-[21:29:30] [Render thread/INFO]: Fabric event bridge initialized
-[21:29:30] [Render thread/INFO]:  Force initializing HUD event system...
-[21:29:30] [Render thread/INFO]:  Initializing HUD event system...
-[21:29:30] [Render thread/INFO]:  HUD event system successfully initialized
-[21:29:30] [Render thread/INFO]:  Attempting to register HUD feature: SoundDetector
-[21:29:30] [Render thread/INFO]:  Successfully registered HUD feature: SoundDetector
-[21:29:30] [Render thread/INFO]:  Total HUD features registered: 1
-[21:29:30] [Render thread/INFO]:  HudFeature SoundDetector initialization complete
-[21:29:30] [Render thread/INFO]:  -> Starting feature: 'Hide Watchdog Messages'
-[21:29:30] [Render thread/INFO]:  -> Starting feature: 'Attribute Menu'
-[21:29:30] [Render thread/INFO]:  -> Starting feature: 'Whisper Hud'
-[21:29:30] [Render thread/INFO]: Registered HUD element: skyfall:whisper_hud
-[21:29:30] [Render thread/INFO]:  -> Starting feature: 'Favorite Pets'
-[21:29:30] [Render thread/INFO]:  -> Starting feature: 'Hide Fire Sale Messages'
-[21:29:30] [Render thread/INFO]:  Active Other features: [Attribute Level Number, Powder Hud, Hide Watchdog Messages, Attribute Menu, Whisper Hud, Favorite Pets, Hide Fire Sale Messages]
-[21:29:30] [Render thread/INFO]:  Active HUD Event System features: [Sound Detector]
-[21:29:30] [Render thread/INFO]:  Finished updating feature states.
-[21:29:30] [Render thread/INFO]: Feature initialization completed in 149ms.
-[21:29:32] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
-[21:29:32] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
-[21:29:32] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
-[21:29:32] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
-[21:29:32] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
-[21:29:32] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
-[21:29:32] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
-[21:29:32] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
-[21:29:32] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
-[21:29:32] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
-[21:29:33] [Render thread/INFO]: Deserializing AaronModConfig from 'C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\aaron-mod.json'
-[21:29:33] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
-[21:29:33] [Render thread/INFO]: Audio Priority Loaded!
-[21:29:34] [Render thread/INFO]: [BetterF3] Loading...
-[21:29:34] [Render thread/INFO]: [BetterF3] All done!
-[21:29:34] [Render thread/INFO]: Trying to read config file...
-[21:29:34] [Render thread/INFO]: A config file was found, loading it..
-[21:29:34] [Render thread/INFO]: Successfully loaded config file.
-[21:29:34] [Render thread/INFO]: ImmediatelyFast ≥1.2.0 detected; enabling integration
-[21:29:34] [Render thread/INFO]: Initializing mod...
-[21:29:34] [Render thread/INFO]: Extracting and loading library for Windows 11 / amd64
-[21:29:34] [DefaultDispatcher-worker-13/INFO]: [SkyHanni] Reloaded 7,560 items in the NEU repo
-[21:29:34] [Render thread/INFO]: Skipping copying native library because size and hash matched
-[21:29:34] [Render thread/INFO]: Registering built-in resource packs
-[21:29:34] [Render thread/INFO]: Registering core shaders
-[21:29:35] [Render thread/INFO]: Expecting next mayor at 12h 45m 24s 314ms, scheduling refresh in 45978s
-[21:29:35] [pool-4-thread-1/INFO]: Current mayor is Diana
-[21:29:35] [Render thread/INFO]: Customizable Player Models Client Init started
-[21:29:35] [CPM Background Loading Pool-1/INFO]: [VersionChecker] Starting CPM version checker...
-[21:29:35] [Render thread/INFO]: Iris detected, enabling iris compatibility
-[21:29:35] [Render thread/INFO]: Customizable Player Models Client Initialized
-[21:29:36] [CPM Background Loading Pool-1/INFO]: [VersionChecker] Current: 0.6.22a Target: 0.6.23a Outdated
-[21:29:36] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
-[21:29:36] [Render thread/ERROR]: Could not create sodium chunk reloader
-[21:29:36] [DefaultDispatcher-worker-13/INFO]: Updating collection data
-[21:29:36] [DefaultDispatcher-worker-4/INFO]: Updating NEU prices
-[21:29:37] [Render thread/INFO]: Loaded config fzzy_config:keybinds in 53ms
-[21:29:37] [Render thread/INFO]: Registered clientbound packet with identifier 'hypixel:hello'
-[21:29:37] [Render thread/INFO]: Registered clientbound packet with identifier 'hypixel:player_info'
-[21:29:37] [Render thread/INFO]: Registered clientbound packet with identifier 'hyevent:location'
-[21:29:37] [Render thread/INFO]: Registered clientbound packet with identifier 'hypixel:party_info'
-[21:29:37] [Render thread/INFO]: Registered clientbound packet with identifier 'hypixel:ping'
-[21:29:37] [Render thread/INFO]: Registered serverbound packet with identifier 'hypixel:player_info'
-[21:29:37] [Render thread/INFO]: Registered serverbound packet with identifier 'hypixel:party_info'
-[21:29:37] [Render thread/INFO]: Registered serverbound packet with identifier 'hypixel:ping'
-[21:29:37] [Render thread/INFO]: Registered serverbound packet with identifier 'hypixel:register'
-[21:29:37] [Render thread/INFO]: Krypton is now accelerating your Minecraft client's networking stack 🚀
-[21:29:37] [Render thread/INFO]: Note that Krypton is most effective on servers, not the client.
-[21:29:37] [Render thread/INFO]: Deserializing Settings from 'C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\modernwarpmenu.json'
-[21:29:37] [Render thread/INFO]: Checking mod updates...
-[21:29:37] [ModMenu/Update Checker/Customizable Player Models/INFO]: Update available for 'cpm@0.6.22a'
-[21:29:37] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Main.initialize()
-[21:29:37] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Initialized.
-[21:29:37] [DefaultDispatcher-worker-17/INFO]: Downloaded 83 collections
-[21:29:38] [Worker-Main-1/INFO]: Update available for 'roughlyenoughitems@19.0.806', (-> 19.0.809+fabric)
-[21:29:38] [Worker-Main-1/INFO]: Update available for 'fabric-api@0.128.0+1.21.5', (-> 0.128.1+1.21.5)
-[21:29:38] [Worker-Main-1/INFO]: Update available for 'entityculling@1.8.0', (-> 1.8.2)
-[21:29:38] [Render thread/INFO]: Config successfully loaded!
-[21:29:39] [Render thread/INFO]: Loaded config :particle_core_config in 7ms
-[21:29:39] [Render thread/INFO]: [STDOUT]: Enabled autogenerated_custom_music in options.txt
-[21:29:39] [Render thread/INFO]: Constructing client components for puzzleslib:main
-[21:29:39] [Render thread/INFO]: [REI] Registered plugin provider FirmamentReiPlugin [firmament] for REIClientPlugin
-[21:29:39] [Render thread/INFO]: [REI] Registered plugin provider REICompatability [meowdding-lib] for REIClientPlugin
-[21:29:39] [Render thread/INFO]: [REI] Registered plugin provider OwoReiPlugin [owo] for REIClientPlugin
-[21:29:39] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIClientPlugin
-[21:29:39] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
-[21:29:39] [Render thread/INFO]: [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIClientPlugin
-[21:29:39] [Render thread/INFO]: [REI] Registered plugin provider SkyblockerREIClientPlugin [skyblocker] for REIClientPlugin
-[21:29:39] [Render thread/INFO]: [REI] Registered plugin provider ReiPlugin [skyblocktweaks-fabric] for REIClientPlugin
-[21:29:39] [Render thread/INFO]: [REI] Registered plugin provider SkyHanniReiPlugin [skyhanni] for REIClientPlugin
-[21:29:39] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:ci_msg
-[21:29:39] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:og_not_enough
-[21:29:39] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:sync_displays
-[21:29:39] [Render thread/INFO]: Loaded 3 player presets
-[21:29:39] [Render thread/INFO]: [Dandelion] Successfully loaded class de.hysky.skyblocker.config.SkyblockerConfig from C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\skyblocker.json.
-[21:29:39] [Render thread/INFO]: [Dandelion] Successfully saved class de.hysky.skyblocker.config.SkyblockerConfig to C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\skyblocker.json.
-[21:29:39] [ForkJoinPool.commonPool-worker-4/WARN]: [Skyblocker Chat Rules] chat rules file not found, using default rules. This is normal when using for the first time.
-[21:29:40] [ForkJoinPool.commonPool-worker-2/INFO]: [Skyblocker] Loaded 11 command shortcuts and 4 command argument shortcuts
-[21:29:40] [ForkJoinPool.commonPool-worker-3/INFO]: [Skyblocker Player Head Hash Cache] Successfully cached the hashes of all player head items!
-[21:29:40] [ForkJoinPool.commonPool-worker-1/INFO]: [Skyblocker NEU Repo] NEU Repository Updated
-[21:29:42] [Render thread/INFO]: [LambDynLights] Initializing SodiumDynamicLights...
-[21:29:43] [ForkJoinPool.commonPool-worker-17/INFO]: [Skyblocker] Loaded 249 fairy souls across 13 locations
-[21:29:43] [Render thread/INFO]: [SSPB] Broken dirt path lighting is best dirt path lighting lol
-[21:29:43] [Render thread/INFO]: [STDOUT]: [LibGui] Initializing Client...
-[21:29:43] [Render thread/INFO]: Deserializing YACLConfig from 'C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\yacl.json5'
-[21:29:43] [Render thread/INFO]: Registering mod resource pack
-[21:29:43] [Render thread/INFO]: Registering mod resource pack
-[21:29:43] [Render thread/INFO]: Registering mod resource pack
-[21:29:43] [ForkJoinPool.commonPool-worker-17/WARN]: [Iris Update Check] This version doesn't have an update index, skipping.
-[21:29:44] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
-[21:29:45] [Render thread/INFO]: Initializing ImmediatelyFast 1.9.6+1.21.5 on AMD Radeon RX 7600 XT (ATI Technologies Inc.) with OpenGL 3.2.0 Core Profile Context 25.6.1.250522
-[21:29:45] [Render thread/INFO]: Found Iris/Oculus 1.8.11+mc1.21.5. Enabling compatibility.
-[21:29:45] [Render thread/INFO]: Debug functionality is disabled.
-[21:29:45] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
-[21:29:45] [Render thread/INFO]: Shaders are disabled because enableShaders is set to false in iris.properties
-[21:29:45] [Render thread/INFO]: OpenGL Vendor: ATI Technologies Inc.
-[21:29:45] [Render thread/INFO]: OpenGL Renderer: AMD Radeon RX 7600 XT
-[21:29:45] [Render thread/INFO]: OpenGL Version: 3.2.0 Core Profile Context 25.6.1.250522
-[21:29:45] [Render thread/INFO]: Using optional rendering extensions: GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access
-[21:29:45] [Render thread/INFO]: Registering mod resource pack
-[21:29:45] [Render thread/INFO]: Registering mod resource pack
-[21:29:45] [Render thread/INFO]: Registering mod resource pack
-[21:29:45] [Render thread/WARN]: Removed resource pack hold-my-items:hmi_3d_buckets from options because it doesn't seem to exist anymore
-[21:29:45] [Render thread/WARN]: Removed resource pack file/autogenerated_custom_music from options because it is no longer compatible
-[21:29:46] [Render thread/INFO]: Hardware information:
-[21:29:46] [Render thread/INFO]: CPU: 32x AMD Ryzen 9 5950X 16-Core Processor 
-[21:29:46] [Render thread/INFO]: GPU: AMD Radeon RX 7600 XT (Supports OpenGL 3.2.0 Core Profile Context 25.6.1.250522)
-[21:29:46] [Render thread/INFO]: OS: Windows 11 (10.0)
-[21:29:47] [Render thread/INFO]: [FANCYMENU] Registering resource reload listener..
-[21:29:47] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, aaron-mod, audition, betterf3, c2me, capes, caxton, chatplus, cloth-config, conditional-mixin, controlling, cookies-mod, cpm, cubes-without-borders, cullleaves, customscoreboard, dandelion, duck-tape, entityculling, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fancymenu, firmament, forgeconfigapiport, fzzy_config, hm-api, hypixel-mod-api, immediatelyfast, iris, jarviscci, krypton, libninepatch, lithium, meowdding-lib, midnightlib, miumaupiupau, mm, mm_shedaniel, modernwarpmenu, modmenu, moreculling, nobaaddons, nofrills, noxesium, olympus, optiboxes, org_apache_commons_commons-math3, owo, particle_core, placeholder-api, puzzleslib, reeses-sodium-options, resourcefulconfig, roughlyenoughitems, scalablelux, scaleme, searchables, skyblock-api, skyblocker, skyblockpv, skyblocktweaks-fabric, skyfall, skyhanni, skyocean, smoothscroll, sodium, sodium-extra, sodium-fullbright, sodiumdynamiclights, spark, sspb, trender, viewmodel, vmp, yet_another_config_lib_v3, file/hungychan skyblock, file/Hypixel+ 0.22.1.1, file/FurfSky Reborn OVERLAY, file/Dramatic Skys Demo 1.5.3.35, skyblocker:recolored_dungeon_items, file/!red carpets overlay, caxton:inter
-[21:29:47] [Render thread/INFO]: Clearing 0 loaded font(s)
-[21:29:47] [Worker-Main-4/WARN]: File minecraft:sounds/itstimetopunchwheat.ogg does not exist, cannot add it to event skyhanni:centurytimer.active
-[21:29:48] [Worker-Main-23/INFO]: Loading font caxton:inter_regular.otf
-[21:29:48] [Worker-Main-20/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
-[21:29:48] [Worker-Main-8/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
-[21:29:48] [Worker-Main-23/INFO]: Loading font caxton:inter_bold.otf
-[21:29:48] [Worker-Main-23/INFO]: Loading font caxton:inter_italic.otf
-[21:29:48] [Worker-Main-2/INFO]: Loaded 420 global item overrides
-[21:29:48] [Worker-Main-6/ERROR]: Malformed GLSL import  minecraft: fog.glsl : Non [a-z0-9_.-] character in namespace of location:  minecraft: fog.glsl 
-[21:29:48] [Worker-Main-23/INFO]: Loading font caxton:inter_bold_italic.otf
-[21:29:48] [ForkJoinPool.commonPool-worker-15/INFO]: Looking for OptiFine/MCPatcher Skies...
-[21:29:48] [Render thread/ERROR]: Invalid path in pack: minecraft:textures/entity/cow 1.21.4/brown_mooshroom.png, ignoring
-[21:29:48] [Render thread/ERROR]: Invalid path in pack: minecraft:textures/entity/cow 1.21.4/cow.png, ignoring
-[21:29:48] [Render thread/ERROR]: Invalid path in pack: minecraft:textures/entity/cow 1.21.4/red_mooshroom.png, ignoring
-[21:29:48] [Render thread/ERROR]: Invalid path in pack: minecraft:textures/entity/pig 1.21.4/pig.png, ignoring
-[21:29:48] [Render thread/INFO]: [FANCYMENU] Initializing screen customization engine! Addons should NOT REGISTER TO REGISTRIES anymore now!
-[21:29:49] [Render thread/INFO]: fancymenu.mixins.json:client.IMixinRealmsNotificationsScreen from mod fancymenu->@Accessor[FIELD_GETTER]::get_trialAvailable_FancyMenu()Z should be static as its target is
-[21:29:49] [Render thread/INFO]: fancymenu.mixins.json:client.IMixinRealmsNotificationsScreen from mod fancymenu->@Accessor[FIELD_GETTER]::get_hasUnreadNews_FancyMenu()Z should be static as its target is
-[21:29:49] [Render thread/INFO]: fancymenu.mixins.json:client.IMixinRealmsNotificationsScreen from mod fancymenu->@Accessor[FIELD_GETTER]::get_hasUnseenNotifications()Z should be static as its target is
-[21:29:50] [Worker-Main-7/ERROR]: Invalid path cittofirmgenerated:items/ui/skyblock_menu/your_bags/Time_Pocket.json: Invalid segment 'Time_Pocket.json' in path 'items/ui/skyblock_menu/your_bags/Time_Pocket.json'
-[21:29:50] [Render thread/INFO]: Creating new TamagotchiEasterEgg with screen size: 0x0
-[21:29:50] [Render thread/INFO]: Initialized 2 GUI buttons
-[21:29:50] [Render thread/INFO]: Delaying buddy state loading until screen size is properly set
-[21:29:50] [Render thread/INFO]: [FANCYMENU] Starting late client initialization phase..
-[21:29:50] [Worker-Main-7/WARN]: Missing block model: hplus:skyblock/items/reforge_stones/beating_heart
-[21:29:50] [Render thread/INFO]: [FANCYMENU] Custom window icon successfully updated!
-[21:29:50] [Render thread/INFO]: Cached all modded block culling states
-[21:29:50] [ForkJoinPool.commonPool-worker-1/INFO]: [Skyblocker] Loaded relics locations
-[21:29:51] [Worker-Main-26/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/side:
+[23:10:44] [Render thread/INFO]: [FANCYMENU] Loading v3.5.0 in client-side mode on FABRIC!
+[23:10:44] [Render thread/INFO]: [KONKRETE] Loading v1.9.11 in client-side mode on FABRIC!
+[23:10:44] [Render thread/INFO]: ---------------------------
+[23:10:44] [Render thread/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[23:10:44] [Render thread/INFO]:  
+[23:10:44] [Render thread/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
+[23:10:44] [Render thread/INFO]: Open Imaging is licensed under Apache-2.0.
+[23:10:44] [Render thread/INFO]:  
+[23:10:44] [Render thread/INFO]: JsonPath Copyright © 2017 Jayway.
+[23:10:44] [Render thread/INFO]: JsonPath is licensed under Apache-2.0.
+[23:10:44] [Render thread/INFO]:  
+[23:10:44] [Render thread/INFO]: Json-smart Copyright © netplex.
+[23:10:44] [Render thread/INFO]: Json-smart is licensed under Apache-2.0.
+[23:10:44] [Render thread/INFO]:  
+[23:10:44] [Render thread/INFO]: Exp4j Copyright © Frank Asseg.
+[23:10:44] [Render thread/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[23:10:44] [Render thread/INFO]: ---------------------------
+[23:10:44] [Render thread/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[23:10:44] [Render thread/INFO]: Compression will use Java, encryption will use Java
+[23:10:44] [Render thread/INFO]: fixing mojang's mistakes
+[23:10:44] [Render thread/INFO]: [MELODY] Loading v1.0.11 on FABRIC...
+[23:10:44] [Render thread/INFO]: Hello Itäkeskus and ᓚ₍^. .^₎ wörld!
+[23:10:44] [Render thread/INFO]: Definitely not up to no good
+[23:10:44] [Render thread/INFO]: Definitely not up to no good
+[23:10:44] [Render thread/INFO]: It's time to get real, NoFrills mod initialized in 79ms.
+[23:10:44] [Render thread/INFO]: fuck i need to update tags again
+[23:10:44] [Render thread/INFO]: Constructing common components for puzzleslib:main
+[23:10:44] [Render thread/INFO]: [REI] Config loaded
+[23:10:45] [Render thread/INFO]: [REI] Registered plugin provider FirmamentReiCommonPlugin [firmament] for REICommonPlugin
+[23:10:45] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:request_tags_s2c
+[23:10:45] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[23:10:45] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[23:10:45] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[23:10:45] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[23:10:45] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[23:10:45] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[23:10:45] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[23:10:45] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[23:10:45] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[23:10:46] [Render thread/INFO]: Deserializing ConfigImpl from 'C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\skyblocktweaks-config.json'
+[23:10:46] [Render thread/INFO]: Deserializing PersistentData from 'C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\skyblocktweaks-persistent.json'
+[23:10:47] [Render thread/INFO]: Checking for updates
+[23:10:47] [Render thread/INFO]: Trying to load config from config\skyfall\config.json
+[23:10:47] [Render thread/INFO]: load-config-now
+[23:10:47] [Render thread/INFO]: Loaded config File
+[23:10:47] [Render thread/INFO]: Initializing MoulConfig with the loaded configuration.
+[23:10:47] [Render thread/INFO]: Starting feature scan...
+[23:10:47] [Render thread/INFO]: Reflections took 48 ms to scan 1 urls, producing 9 keys and 118 values
+[23:10:47] [Render thread/INFO]:  Found 23 potential features.
+[23:10:47] [Render thread/INFO]:  Discovered features: [LevelNumber, PowderHud, SoundDetector, HideWatchdogMessage, MiscKeybinds, AttributeMenuInfoRepoBuilder, warpToSpawn, AttributeMenu, RealisticSpacemanHelmet, HideSkyMallChanges, WhisperHud, HideDescription, FavoritePet, GuiKeybinds, AttributeDataFromBazaar, GardenMap, MouseSensitivity, ItemStackJsonCopier, FavoritePowerStone, RequeueKey, FavoriteAbiContact, AttributeMenuRepoBuilder, HideFireSaleMessage]
+[23:10:47] [Render thread/INFO]:  Feature 'Attribute Level Number' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Powder Hud' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Sound Detector' type: [HUD Events]
+[23:10:47] [Render thread/INFO]:  Feature 'Hide Watchdog Messages' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Misc Keybinds' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Attribute Menu Info Repo Builder' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Warp to Garden Spawn' type: [Unknown]
+[23:10:47] [Render thread/INFO]: Successfully loaded attribute data. Found 174 attribute entries and level data.
+[23:10:47] [Render thread/INFO]:  Feature 'Attribute Menu' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Realistic Spaceman Helmet' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Hide SkyMall Changes' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Whisper Hud' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Hide Hunting Box Description' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Favorite Pets' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'GUI Keybinds' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Attribute Data From Bazaar' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Garden Map' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Mouse Sensitivity Lock' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Item Stack JSON Copier' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Favorite Power Stones' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Requeue Key' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Favorite Abiphone Contacts' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Attribute Menu Repo Builder' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Feature 'Hide Fire Sale Messages' type: [Unknown]
+[23:10:47] [Render thread/INFO]:  Updating feature states...
+[23:10:47] [Render thread/INFO]:  -> Starting feature: 'Attribute Level Number'
+[23:10:47] [Render thread/INFO]:  -> Starting feature: 'Powder Hud'
+[23:10:47] [Render thread/INFO]: Registered HUD element: skyfall:powder_hud
+[23:10:47] [Render thread/INFO]:  -> Starting feature: 'Sound Detector'
+[23:10:47] [Render thread/INFO]:  Initializing HudFeature: SoundDetector
+[23:10:47] [Render thread/INFO]: Feature event system initialized with 0 features
+[23:10:47] [Render thread/INFO]: Fabric event bridge initialized
+[23:10:47] [Render thread/INFO]:  Force initializing HUD event system...
+[23:10:47] [Render thread/INFO]:  Initializing HUD event system...
+[23:10:47] [Render thread/INFO]:  HUD event system successfully initialized
+[23:10:47] [Render thread/INFO]:  Attempting to register HUD feature: SoundDetector
+[23:10:47] [Render thread/INFO]:  Successfully registered HUD feature: SoundDetector
+[23:10:47] [Render thread/INFO]:  Total HUD features registered: 1
+[23:10:47] [Render thread/INFO]:  HudFeature SoundDetector initialization complete
+[23:10:47] [Render thread/INFO]:  -> Starting feature: 'Hide Watchdog Messages'
+[23:10:47] [Render thread/INFO]:  -> Starting feature: 'Attribute Menu'
+[23:10:47] [Render thread/INFO]:  -> Starting feature: 'Whisper Hud'
+[23:10:47] [Render thread/INFO]: Registered HUD element: skyfall:whisper_hud
+[23:10:47] [Render thread/INFO]:  -> Starting feature: 'Favorite Pets'
+[23:10:47] [Render thread/INFO]:  -> Starting feature: 'Hide Fire Sale Messages'
+[23:10:47] [Render thread/INFO]:  Active Other features: [Attribute Level Number, Powder Hud, Hide Watchdog Messages, Attribute Menu, Whisper Hud, Favorite Pets, Hide Fire Sale Messages]
+[23:10:47] [Render thread/INFO]:  Active HUD Event System features: [Sound Detector]
+[23:10:47] [Render thread/INFO]:  Finished updating feature states.
+[23:10:47] [Render thread/INFO]: Feature initialization completed in 143ms.
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:49] [Render thread/INFO]: [STDOUT]: minecraft:air 0 is invalid item
+[23:10:50] [Render thread/INFO]: Deserializing AaronModConfig from 'C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\aaron-mod.json'
+[23:10:50] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
+[23:10:50] [Render thread/INFO]: Audio Priority Loaded!
+[23:10:50] [Render thread/INFO]: [BetterF3] Loading...
+[23:10:50] [Render thread/INFO]: [BetterF3] All done!
+[23:10:50] [Render thread/INFO]: Trying to read config file...
+[23:10:50] [Render thread/INFO]: A config file was found, loading it..
+[23:10:50] [Render thread/INFO]: Successfully loaded config file.
+[23:10:51] [Render thread/INFO]: ImmediatelyFast ≥1.2.0 detected; enabling integration
+[23:10:51] [Render thread/INFO]: Initializing mod...
+[23:10:51] [Render thread/INFO]: Extracting and loading library for Windows 11 / amd64
+[23:10:51] [Render thread/INFO]: Skipping copying native library because size and hash matched
+[23:10:51] [Render thread/INFO]: Registering built-in resource packs
+[23:10:51] [Render thread/INFO]: Registering core shaders
+[23:10:51] [DefaultDispatcher-worker-79/INFO]: [SkyHanni] Reloaded 7,560 items in the NEU repo
+[23:10:52] [Render thread/INFO]: Expecting next mayor at 11h 4m 7s 681ms, scheduling refresh in 39884s
+[23:10:52] [pool-4-thread-1/INFO]: Current mayor is Diana
+[23:10:52] [Render thread/INFO]: Customizable Player Models Client Init started
+[23:10:52] [CPM Background Loading Pool-1/INFO]: [VersionChecker] Starting CPM version checker...
+[23:10:52] [Render thread/INFO]: Iris detected, enabling iris compatibility
+[23:10:52] [Render thread/INFO]: Customizable Player Models Client Initialized
+[23:10:52] [CPM Background Loading Pool-1/INFO]: [VersionChecker] Current: 0.6.22a Target: 0.6.23a Outdated
+[23:10:52] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[23:10:52] [Render thread/ERROR]: Could not create sodium chunk reloader
+[23:10:53] [Render thread/INFO]: Could not read config copy-chat. Loading empty config.
+[23:10:53] [Render thread/INFO]: Could not read config wardrobe-keybinds. Loading empty config.
+[23:10:53] [Render thread/INFO]: Could not read config bonemerang-overlay. Loading empty config.
+[23:10:53] [Render thread/INFO]: Could not read config etherwarp-overlay. Loading empty config.
+[23:10:53] [Render thread/INFO]: Could not read config hud. Loading empty config.
+[23:10:53] [Render thread/INFO]: Could not read config developer-capes. Loading empty config.
+[23:10:53] [DefaultDispatcher-worker-79/INFO]: Updating collection data
+[23:10:53] [DefaultDispatcher-worker-6/INFO]: Updating NEU prices
+[23:10:53] [Render thread/INFO]: Loaded config fzzy_config:keybinds in 41ms
+[23:10:53] [Render thread/INFO]: Registered clientbound packet with identifier 'hypixel:hello'
+[23:10:53] [Render thread/INFO]: Registered clientbound packet with identifier 'hypixel:player_info'
+[23:10:53] [Render thread/INFO]: Registered clientbound packet with identifier 'hyevent:location'
+[23:10:53] [Render thread/INFO]: Registered clientbound packet with identifier 'hypixel:party_info'
+[23:10:53] [Render thread/INFO]: Registered clientbound packet with identifier 'hypixel:ping'
+[23:10:53] [Render thread/INFO]: Registered serverbound packet with identifier 'hypixel:player_info'
+[23:10:53] [Render thread/INFO]: Registered serverbound packet with identifier 'hypixel:party_info'
+[23:10:53] [Render thread/INFO]: Registered serverbound packet with identifier 'hypixel:ping'
+[23:10:53] [Render thread/INFO]: Registered serverbound packet with identifier 'hypixel:register'
+[23:10:53] [Render thread/INFO]: Krypton is now accelerating your Minecraft client's networking stack 🚀
+[23:10:53] [Render thread/INFO]: Note that Krypton is most effective on servers, not the client.
+[23:10:53] [Render thread/INFO]: Deserializing Settings from 'C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\modernwarpmenu.json'
+[23:10:54] [Render thread/INFO]: Checking mod updates...
+[23:10:54] [ModMenu/Update Checker/Customizable Player Models/INFO]: Update available for 'cpm@0.6.22a'
+[23:10:54] [DefaultDispatcher-worker-47/INFO]: Repo reload started.
+[23:10:54] [DefaultDispatcher-worker-66/INFO]: Downloaded 83 collections
+[23:10:54] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Main.initialize()
+[23:10:54] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Initialized.
+[23:10:54] [Worker-Main-1/INFO]: Update available for 'roughlyenoughitems@19.0.806', (-> 19.0.809+fabric)
+[23:10:54] [Worker-Main-1/INFO]: Update available for 'fabric-api@0.128.0+1.21.5', (-> 0.128.1+1.21.5)
+[23:10:54] [Worker-Main-1/INFO]: Update available for 'entityculling@1.8.0', (-> 1.8.2)
+[23:10:56] [DefaultDispatcher-worker-47/INFO]: Repo reload completed.
+[23:10:56] [Render thread/INFO]: Config successfully loaded!
+[23:10:56] [Render thread/INFO]: Loaded config :particle_core_config in 11ms
+[23:10:57] [Render thread/INFO]: [STDOUT]: Enabled autogenerated_custom_music in options.txt
+[23:10:57] [Render thread/INFO]: Constructing client components for puzzleslib:main
+[23:10:57] [Render thread/INFO]: [REI] Registered plugin provider FirmamentReiPlugin [firmament] for REIClientPlugin
+[23:10:57] [Render thread/INFO]: [REI] Registered plugin provider REICompatability [meowdding-lib] for REIClientPlugin
+[23:10:57] [Render thread/INFO]: [REI] Registered plugin provider OwoReiPlugin [owo] for REIClientPlugin
+[23:10:57] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIClientPlugin
+[23:10:57] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[23:10:57] [Render thread/INFO]: [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIClientPlugin
+[23:10:57] [Render thread/INFO]: [REI] Registered plugin provider SkyblockerREIClientPlugin [skyblocker] for REIClientPlugin
+[23:10:57] [Render thread/INFO]: [REI] Registered plugin provider ReiPlugin [skyblocktweaks-fabric] for REIClientPlugin
+[23:10:57] [Render thread/INFO]: [REI] Registered plugin provider SkyHanniReiPlugin [skyhanni] for REIClientPlugin
+[23:10:57] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:ci_msg
+[23:10:57] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:og_not_enough
+[23:10:57] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:sync_displays
+[23:10:57] [Render thread/INFO]: Loaded 3 player presets
+[23:10:57] [Render thread/INFO]: [Dandelion] Successfully loaded class de.hysky.skyblocker.config.SkyblockerConfig from C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\skyblocker.json.
+[23:10:57] [Render thread/INFO]: [Dandelion] Successfully saved class de.hysky.skyblocker.config.SkyblockerConfig to C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\skyblocker.json.
+[23:10:58] [ForkJoinPool.commonPool-worker-5/WARN]: [Skyblocker Chat Rules] chat rules file not found, using default rules. This is normal when using for the first time.
+[23:10:58] [DefaultDispatcher-worker-61/ERROR]: Tried to load invalid item: 'No key author in MapLike[{title:{raw:""}}] missed input: {"minecraft:written_book_content":{title:{raw:""}}}'
+[23:10:59] [ForkJoinPool.commonPool-worker-1/INFO]: [Skyblocker] Loaded 11 command shortcuts and 4 command argument shortcuts
+[23:10:59] [ForkJoinPool.commonPool-worker-4/INFO]: [Skyblocker Player Head Hash Cache] Successfully cached the hashes of all player head items!
+[23:10:59] [ForkJoinPool.commonPool-worker-3/INFO]: [Skyblocker NEU Repo] NEU Repository Updated
+[23:11:03] [Render thread/INFO]: [LambDynLights] Initializing SodiumDynamicLights...
+[23:11:03] [ForkJoinPool.commonPool-worker-13/INFO]: [Skyblocker] Loaded 249 fairy souls across 13 locations
+[23:11:03] [Render thread/INFO]: [SSPB] Broken dirt path lighting is best dirt path lighting lol
+[23:11:03] [Render thread/INFO]: [STDOUT]: [LibGui] Initializing Client...
+[23:11:03] [Render thread/INFO]: Deserializing YACLConfig from 'C:\Users\User\Documents\MultiMC\instances\hungychan_skyblock\.minecraft\config\yacl.json5'
+[23:11:04] [Render thread/INFO]: Registering mod resource pack
+[23:11:04] [ForkJoinPool.commonPool-worker-18/WARN]: [Iris Update Check] This version doesn't have an update index, skipping.
+[23:11:04] [Render thread/INFO]: Registering mod resource pack
+[23:11:04] [Render thread/INFO]: Registering mod resource pack
+[23:11:04] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
+[23:11:06] [Render thread/INFO]: Initializing ImmediatelyFast 1.9.6+1.21.5 on AMD Radeon RX 7600 XT (ATI Technologies Inc.) with OpenGL 3.2.0 Core Profile Context 25.6.1.250522
+[23:11:06] [Render thread/INFO]: Found Iris/Oculus 1.8.11+mc1.21.5. Enabling compatibility.
+[23:11:06] [Render thread/INFO]: Debug functionality is disabled.
+[23:11:06] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[23:11:06] [Render thread/INFO]: Shaders are disabled because enableShaders is set to false in iris.properties
+[23:11:06] [Render thread/INFO]: OpenGL Vendor: ATI Technologies Inc.
+[23:11:06] [Render thread/INFO]: OpenGL Renderer: AMD Radeon RX 7600 XT
+[23:11:06] [Render thread/INFO]: OpenGL Version: 3.2.0 Core Profile Context 25.6.1.250522
+[23:11:06] [Render thread/INFO]: Using optional rendering extensions: GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access
+[23:11:06] [Render thread/INFO]: Registering mod resource pack
+[23:11:06] [Render thread/INFO]: Registering mod resource pack
+[23:11:06] [Render thread/INFO]: Registering mod resource pack
+[23:11:06] [Render thread/WARN]: Removed resource pack file/autogenerated_custom_music from options because it is no longer compatible
+[23:11:07] [Render thread/INFO]: Hardware information:
+[23:11:07] [Render thread/INFO]: CPU: 32x AMD Ryzen 9 5950X 16-Core Processor 
+[23:11:07] [Render thread/INFO]: GPU: AMD Radeon RX 7600 XT (Supports OpenGL 3.2.0 Core Profile Context 25.6.1.250522)
+[23:11:07] [Render thread/INFO]: OS: Windows 11 (10.0)
+[23:11:07] [Render thread/INFO]: [FANCYMENU] Registering resource reload listener..
+[23:11:07] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, aaron-mod, audition, betterf3, c2me, capes, caxton, chatplus, cloth-config, conditional-mixin, controlling, cookies-mod, cpm, cubes-without-borders, cullleaves, customscoreboard, dandelion, duck-tape, entityculling, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fancymenu, firmament, forgeconfigapiport, fzzy_config, hm-api, hypixel-mod-api, immediatelyfast, iris, jarviscci, krypton, libninepatch, lithium, meowdding-lib, midnightlib, miumaupiupau, mm, mm_shedaniel, modernwarpmenu, modmenu, moreculling, nobaaddons, nofrills, noxesium, olympus, optiboxes, org_apache_commons_commons-math3, owo, particle_core, placeholder-api, puzzleslib, reeses-sodium-options, resourcefulconfig, roughlyenoughitems, scalablelux, scaleme, searchables, skyblock-api, skyblocker, skyblockpv, skyblocktweaks-fabric, skyfall, skyhanni, skyocean, smoothscroll, sodium, sodium-extra, sodium-fullbright, sodiumdynamiclights, spark, sspb, trender, viewmodel, vmp, yet_another_config_lib_v3, file/hungychan skyblock, file/Hypixel+ 0.22.1.1, file/FurfSky Reborn OVERLAY, file/Dramatic Skys Demo 1.5.3.35, skyblocker:recolored_dungeon_items, file/!red carpets overlay, caxton:inter
+[23:11:07] [Render thread/INFO]: Clearing 0 loaded font(s)
+[23:11:08] [Worker-Main-6/WARN]: File minecraft:sounds/itstimetopunchwheat.ogg does not exist, cannot add it to event skyhanni:centurytimer.active
+[23:11:08] [Worker-Main-20/INFO]: Loading font caxton:inter_regular.otf
+[23:11:08] [Worker-Main-12/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[23:11:08] [Worker-Main-10/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[23:11:08] [Worker-Main-20/INFO]: Loading font caxton:inter_bold.otf
+[23:11:08] [Worker-Main-2/INFO]: Loaded 420 global item overrides
+[23:11:08] [Worker-Main-20/INFO]: Loading font caxton:inter_italic.otf
+[23:11:08] [Worker-Main-13/ERROR]: Malformed GLSL import  minecraft: fog.glsl : Non [a-z0-9_.-] character in namespace of location:  minecraft: fog.glsl 
+[23:11:08] [Worker-Main-20/INFO]: Loading font caxton:inter_bold_italic.otf
+[23:11:08] [ForkJoinPool.commonPool-worker-15/INFO]: Looking for OptiFine/MCPatcher Skies...
+[23:11:08] [Render thread/ERROR]: Invalid path in pack: minecraft:textures/entity/cow 1.21.4/brown_mooshroom.png, ignoring
+[23:11:08] [Render thread/ERROR]: Invalid path in pack: minecraft:textures/entity/cow 1.21.4/cow.png, ignoring
+[23:11:08] [Render thread/ERROR]: Invalid path in pack: minecraft:textures/entity/cow 1.21.4/red_mooshroom.png, ignoring
+[23:11:08] [Render thread/ERROR]: Invalid path in pack: minecraft:textures/entity/pig 1.21.4/pig.png, ignoring
+[23:11:09] [Render thread/INFO]: [FANCYMENU] Initializing screen customization engine! Addons should NOT REGISTER TO REGISTRIES anymore now!
+[23:11:09] [Worker-Main-5/ERROR]: Invalid path cittofirmgenerated:items/ui/skyblock_menu/your_bags/Time_Pocket.json: Invalid segment 'Time_Pocket.json' in path 'items/ui/skyblock_menu/your_bags/Time_Pocket.json'
+[23:11:09] [Worker-Main-5/WARN]: Missing block model: hplus:skyblock/items/reforge_stones/beating_heart
+[23:11:09] [Render thread/INFO]: fancymenu.mixins.json:client.IMixinRealmsNotificationsScreen from mod fancymenu->@Accessor[FIELD_GETTER]::get_trialAvailable_FancyMenu()Z should be static as its target is
+[23:11:09] [Render thread/INFO]: fancymenu.mixins.json:client.IMixinRealmsNotificationsScreen from mod fancymenu->@Accessor[FIELD_GETTER]::get_hasUnreadNews_FancyMenu()Z should be static as its target is
+[23:11:09] [Render thread/INFO]: fancymenu.mixins.json:client.IMixinRealmsNotificationsScreen from mod fancymenu->@Accessor[FIELD_GETTER]::get_hasUnseenNotifications()Z should be static as its target is
+[23:11:10] [Render thread/INFO]: Creating new TamagotchiEasterEgg with screen size: 0x0
+[23:11:10] [Render thread/INFO]: Initialized 2 GUI buttons
+[23:11:10] [Render thread/INFO]: Delaying buddy state loading until screen size is properly set
+[23:11:10] [Render thread/INFO]: [FANCYMENU] Starting late client initialization phase..
+[23:11:10] [Render thread/INFO]: [FANCYMENU] Custom window icon successfully updated!
+[23:11:10] [Render thread/INFO]: Cached all modded block culling states
+[23:11:10] [Worker-Main-17/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/side:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-1/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/staff:
+[23:11:10] [Worker-Main-11/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/staff:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-3/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/gun:
+[23:11:10] [Worker-Main-10/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/gun:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-15/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/tuba:
+[23:11:10] [Worker-Main-2/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/item:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-13/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/upright_staff:
+[23:11:10] [Worker-Main-25/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/upright_staff:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-7/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/item:
+[23:11:10] [Worker-Main-21/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/vacuum:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-23/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/grappling_hook:
+[23:11:10] [Worker-Main-4/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/tuba:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-4/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/vacuum:
+[23:11:10] [Worker-Main-10/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/grappling_hook:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-31/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/drill:
+[23:11:10] [ForkJoinPool.commonPool-worker-18/INFO]: [Skyblocker] Loaded relics locations
+[23:11:10] [Worker-Main-29/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/drill:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-23/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/phone:
+[23:11:10] [Worker-Main-31/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/phone:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-2/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/key:
+[23:11:10] [Worker-Main-4/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/key:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-14/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/auction_bazaar_scale:
+[23:11:10] [Worker-Main-28/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/auction_bazaar_scale:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-14/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/shield:
+[23:11:10] [Worker-Main-8/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/shield:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-2/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/menu_background:
+[23:11:10] [Worker-Main-27/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/silver_fang:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-16/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/silver_fang:
+[23:11:10] [Worker-Main-31/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/menu_background:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-22/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/dagger:
+[23:11:10] [Worker-Main-5/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/dagger:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-26/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/karambit:
+[23:11:10] [Worker-Main-29/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/karambit:
 	#particle-> #layer0
 
-[21:29:51] [ForkJoinPool.commonPool-worker-1/WARN]: [Skyblocker Scheduler] Called the scheduler from the de.hysky.skyblocker.utils.ApiAuthentication class on the ForkJoinPool.commonPool-worker-1 thread. This will be unsupported in the future.
-[21:29:51] [Worker-Main-10/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/big_sword:
+[23:11:10] [Worker-Main-18/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/big_sword:
 	#particle-> #layer0
 
-[21:29:51] [Worker-Main-21/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/metal_detector:
+[23:11:10] [Worker-Main-16/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/metal_detector:
 	#particle-> #layer0
 
-[21:29:51] [Render thread/INFO]: Repo reload started.
-[21:29:51] [Worker-Main-25/WARN]: Missing textures in model cittofirmgenerated:item/ui/always/background:
+[23:11:11] [Worker-Main-23/WARN]: Missing textures in model cittofirmgenerated:item/ui/always/background:
     minecraft:textures/atlas/blocks.png:cittofirmgenerated:item/background
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/melon_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/melon_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model firmskyblock:item/crown_of_avarice:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model firmskyblock:item/crown_of_avarice:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model firmskyblock:item/gemstone_gauntlet_hand:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model firmskyblock:item/gemstone_gauntlet_hand:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/gun:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/gun:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/phone:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/phone:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/fiery_crimson_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/fiery_crimson_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/sniper_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/sniper_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/infernal_crimson_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/infernal_crimson_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/leaf_skin:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/leaf_skin:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/final_destination_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/final_destination_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/item:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/item:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/maxor_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/maxor_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/fiery_fervor_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/fiery_fervor_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/infernal_fervor_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/infernal_fervor_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/upright_staff:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/upright_staff:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/pet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/pet:
     #0
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/goldor_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/goldor_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/menu_background:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/menu_background:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/fiery_terror_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/fiery_terror_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model firmskyblock:item/nutcracker_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model firmskyblock:item/nutcracker_helmet:
     #missing
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model firmskyblock:item/angler:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model firmskyblock:item/angler:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/biohazard_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/biohazard_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model firmskyblock:item/gemstone_gauntlet_full_hand:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model firmskyblock:item/gemstone_gauntlet_full_hand:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/karambit:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/karambit:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/burning_crimson_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/burning_crimson_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/dagger:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/dagger:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/big_sword:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/big_sword:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/hot_terror_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/hot_terror_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model firmskyblock:item/melon_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model firmskyblock:item/melon_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/side:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/side:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/storm_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/storm_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/staff:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/staff:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/grappling_hook:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/grappling_hook:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/auction_bazaar_scale:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/auction_bazaar_scale:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/silver_fang:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/silver_fang:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/necron_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/necron_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/vacuum:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/vacuum:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/ui/always/skin_decouple/diver_mask_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/ui/always/skin_decouple/diver_mask_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/snorkeling_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/snorkeling_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/burning_terror_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/burning_terror_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/hot_fervor_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/hot_fervor_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/shield:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/shield:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/abyssal_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/abyssal_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/tuba:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/tuba:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/magma_lord_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/magma_lord_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/terror_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/terror_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/divan_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/divan_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/diver_mask_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/diver_mask_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/key:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/key:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/crown_of_avarice:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/crown_of_avarice:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/fermento_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/fermento_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model firmskyblock:item/gemstone_gauntlet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model firmskyblock:item/gemstone_gauntlet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/metal_detector:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/metal_detector:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/burning_fervor_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/infernal_terror_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/infernal_terror_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/burning_fervor_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/drill:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/drill:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/hot_crimson_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/hot_crimson_helmet:
     particle
-[21:29:51] [Worker-Main-25/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/nutcracker_helmet:
+[23:11:11] [Worker-Main-23/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/nutcracker_helmet:
     #missing
     particle
-[21:29:53] [Render thread/INFO]: Repo reload completed.
-[21:29:53] [Render thread/INFO]: [Skyblocker Dungeon Secrets] Started loading dungeon secrets in (blocked main thread for) 20 ms
-[21:29:54] [Render thread/WARN]: Failed to issue a ClientboundUpdateRecipesPacket (to reload REI). This may lead to an outdated item list.
-[21:29:54] [ForkJoinPool.commonPool-worker-16/INFO]: [Skyblocker Dungeon Secrets] Loaded dungeon secrets for 1 dungeon(s), 8 room shapes, 132 rooms, and 0 custom secret waypoints total in 735 ms
-[21:29:54] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_translucent
-[21:29:54] [Render thread/WARN]: Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/energy_swirl
-[21:29:54] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/energy_swirl
-[21:29:54] [Render thread/WARN]: Found unknown and unsupported uniform Sampler2 in cpm:pipeline/eyes
-[21:29:54] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in cpm:pipeline/eyes
-[21:29:54] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_cutout_no_cull
-[21:29:54] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_decal_cutout_no_cull
-[21:29:54] [Render thread/WARN]: Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/eyes
-[21:29:54] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/eyes
-[21:29:54] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/entity_no_outline
-[21:29:54] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/breeze_wind
-[21:29:54] [Render thread/WARN]: Resource pack caxton is not compatible with font atlas resizing. Temporarily disabling font atlas resizing.
-[21:29:54] [Render thread/WARN]: Resource pack caxton is not compatible with HUD batching. Temporarily disabling HUD batching.
-[21:29:55] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Focusrite USB Audio)
-[21:29:55] [Render thread/INFO]: Sound engine started
-[21:29:55] [Render thread/INFO]: [FANCYMENU] Reloading AudioResourceHandler after Minecraft SoundEngine reload..
-[21:29:55] [Render thread/INFO]: Cleared layout caches
-[21:29:55] [Render thread/INFO]: Cleared rendering caches
-[21:29:55] [Render thread/INFO]: Cleared layout caches
-[21:29:55] [Render thread/INFO]: Cleared rendering caches
-[21:29:55] [ForkJoinPool.commonPool-worker-16/INFO]: [Skyblocker] Loaded and sorted 3864 helmet textures from repo
-[21:29:55] [Render thread/INFO]: Created: 2048x2048x0 minecraft:textures/atlas/blocks.png-atlas
-[21:29:55] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/signs.png-atlas
-[21:29:55] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
-[21:29:55] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
-[21:29:55] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
-[21:29:55] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/decorated_pot.png-atlas
-[21:29:55] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/chest.png-atlas
-[21:29:55] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/beds.png-atlas
-[21:29:55] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/shulker_boxes.png-atlas
-[21:29:55] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[21:29:56] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[21:29:56] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[21:29:56] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[21:29:56] [Render thread/INFO]: Created: 4096x4096x0 minecraft:textures/atlas/gui.png-atlas
-[21:29:57] [Render thread/INFO]: [FANCYMENU] Reloading resources..
-[21:29:57] [Render thread/INFO]: [FANCYMENU] Pre-loading resources..
-[21:29:57] [Render thread/INFO]: Loaded 0 built-in, 0 custom block tags
-[21:29:57] [Render thread/INFO]: Loaded 6 built-in, 0 custom item tags
-[21:29:57] [Render thread/INFO]: Loaded 0 built-in, 0 custom entity tags
-[21:29:57] [Render thread/INFO]: Loaded 0 built-in, 0 custom biome tags
-[21:29:57] [Render thread/INFO]: Layout loaded modernwarpmenu:layouts/layout.json
-[21:29:57] [Render thread/INFO]: Layout loaded modernwarpmenu:layouts/rift_layout.json
-[21:29:57] [DefaultDispatcher-worker-15/ERROR]: Tried to load invalid item: 'No key author in MapLike[{title:{raw:""}}] missed input: {"minecraft:written_book_content":{title:{raw:""}}}'
-[21:29:57] [Render thread/INFO]: ResourcePackOptions[renameAuctionBrowser=Optional.empty, renameInventoryScreen=Optional.empty, renameCraftingTable=Optional.empty]
-[21:29:57] [Render thread/INFO]: [FANCYMENU] Minecraft resource reload: FINISHED
-[21:29:57] [Render thread/ERROR]: Could not load class me/shedaniel/rei/impl/client/gui/hints/ImportantWarningsWidget that has been mixind by moe.nea.firmament.mixins.compat.HideREIRecipeWarning
+[23:11:11] [Render thread/WARN]: Failed to issue a ClientboundUpdateRecipesPacket (to reload REI). This may lead to an outdated item list.
+[23:11:11] [Render thread/INFO]: [Skyblocker Dungeon Secrets] Started loading dungeon secrets in (blocked main thread for) 16 ms
+[23:11:11] [ForkJoinPool.commonPool-worker-18/WARN]: [Skyblocker Scheduler] Called the scheduler from the de.hysky.skyblocker.utils.ApiAuthentication class on the ForkJoinPool.commonPool-worker-18 thread. This will be unsupported in the future.
+[23:11:11] [ForkJoinPool.commonPool-worker-3/INFO]: [Skyblocker Dungeon Secrets] Loaded dungeon secrets for 1 dungeon(s), 8 room shapes, 132 rooms, and 0 custom secret waypoints total in 527 ms
+[23:11:12] [Render thread/WARN]: Found unknown and unsupported uniform Sampler2 in cpm:pipeline/eyes
+[23:11:12] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in cpm:pipeline/eyes
+[23:11:12] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_cutout_no_cull
+[23:11:12] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/breeze_wind
+[23:11:12] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/entity_no_outline
+[23:11:12] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_decal_cutout_no_cull
+[23:11:12] [Render thread/WARN]: Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/eyes
+[23:11:12] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/eyes
+[23:11:12] [Render thread/WARN]: Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/energy_swirl
+[23:11:12] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/energy_swirl
+[23:11:12] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_translucent
+[23:11:12] [Render thread/WARN]: Resource pack caxton is not compatible with font atlas resizing. Temporarily disabling font atlas resizing.
+[23:11:12] [Render thread/WARN]: Resource pack caxton is not compatible with HUD batching. Temporarily disabling HUD batching.
+[23:11:12] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Focusrite USB Audio)
+[23:11:12] [Render thread/INFO]: Sound engine started
+[23:11:12] [Render thread/INFO]: [FANCYMENU] Reloading AudioResourceHandler after Minecraft SoundEngine reload..
+[23:11:12] [Render thread/INFO]: Cleared layout caches
+[23:11:12] [Render thread/INFO]: Cleared rendering caches
+[23:11:12] [Render thread/INFO]: Cleared layout caches
+[23:11:12] [Render thread/INFO]: Cleared rendering caches
+[23:11:12] [Render thread/INFO]: Created: 2048x2048x0 minecraft:textures/atlas/blocks.png-atlas
+[23:11:12] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/signs.png-atlas
+[23:11:12] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[23:11:12] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[23:11:12] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[23:11:12] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/chest.png-atlas
+[23:11:12] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[23:11:12] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/beds.png-atlas
+[23:11:12] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[23:11:12] [ItemExporter Meta Load Thread/ERROR]: Tried to load invalid item: 'No key author in MapLike[{title:{raw:""}}] missed input: {"minecraft:written_book_content":{title:{raw:""}}}'
+[23:11:12] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[23:11:13] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[23:11:13] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[23:11:13] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[23:11:13] [Render thread/INFO]: Created: 4096x4096x0 minecraft:textures/atlas/gui.png-atlas
+[23:11:13] [Render thread/INFO]: [FANCYMENU] Reloading resources..
+[23:11:13] [Render thread/INFO]: [FANCYMENU] Pre-loading resources..
+[23:11:13] [Render thread/INFO]: Loaded 0 built-in, 0 custom block tags
+[23:11:13] [Render thread/INFO]: Loaded 6 built-in, 0 custom item tags
+[23:11:13] [Render thread/INFO]: Loaded 0 built-in, 0 custom entity tags
+[23:11:13] [Render thread/INFO]: Loaded 0 built-in, 0 custom biome tags
+[23:11:13] [Render thread/INFO]: Layout loaded modernwarpmenu:layouts/layout.json
+[23:11:13] [Render thread/INFO]: Layout loaded modernwarpmenu:layouts/rift_layout.json
+[23:11:13] [Render thread/INFO]: ResourcePackOptions[renameAuctionBrowser=Optional.empty, renameInventoryScreen=Optional.empty, renameCraftingTable=Optional.empty]
+[23:11:13] [Render thread/INFO]: [FANCYMENU] Minecraft resource reload: FINISHED
+[23:11:13] [Render thread/ERROR]: Could not load class me/shedaniel/rei/impl/client/gui/hints/ImportantWarningsWidget that has been mixind by moe.nea.firmament.mixins.compat.HideREIRecipeWarning
 java.lang.ClassNotFoundException: me/shedaniel/rei/impl/client/gui/hints/ImportantWarningsWidget
 	at java.base/java.lang.Class.forName0(Native Method) ~[?:?]
 	at java.base/java.lang.Class.forName(Class.java:534) ~[?:?]
 	at java.base/java.lang.Class.forName(Class.java:513) ~[?:?]
-	at knot/moe.nea.firmament.features.debug.DeveloperFeatures.loadAllMixinClasses(DeveloperFeatures.kt:75) ~[Firmament-3.1.0+mc1.21.5.jar:?]
-	at knot/moe.nea.firmament.annotations.generated.main.AllSubscriptionsMain$provideSubscriptions$14.invoke(AllSubscriptionsMain.kt:77) ~[Firmament-3.1.0+mc1.21.5.jar:?]
-	at knot/moe.nea.firmament.annotations.generated.main.AllSubscriptionsMain$provideSubscriptions$14.invoke(AllSubscriptionsMain.kt:77) ~[Firmament-3.1.0+mc1.21.5.jar:?]
-	at knot/moe.nea.firmament.events.FirmamentEventBus.publish(FirmamentEventBus.kt:47) ~[Firmament-3.1.0+mc1.21.5.jar:?]
-	at knot/net.minecraft.class_442.handler$chf000$firmament$onCreate(class_442.java:2522) ~[client-intermediary.jar:?]
+	at knot/moe.nea.firmament.features.debug.DeveloperFeatures.loadAllMixinClasses(DeveloperFeatures.kt:76) ~[Firmament-3.4.0+mc1.21.5.jar:?]
+	at knot/moe.nea.firmament.annotations.generated.main.AllSubscriptionsMain$provideSubscriptions$15.invoke(AllSubscriptionsMain.kt:82) ~[Firmament-3.4.0+mc1.21.5.jar:?]
+	at knot/moe.nea.firmament.annotations.generated.main.AllSubscriptionsMain$provideSubscriptions$15.invoke(AllSubscriptionsMain.kt:82) ~[Firmament-3.4.0+mc1.21.5.jar:?]
+	at knot/moe.nea.firmament.events.FirmamentEventBus.publish(FirmamentEventBus.kt:47) ~[Firmament-3.4.0+mc1.21.5.jar:?]
+	at knot/net.minecraft.class_442.handler$chj000$firmament$onCreate(class_442.java:2522) ~[client-intermediary.jar:?]
 	at knot/net.minecraft.class_442.<init>(class_442.java:77) ~[client-intermediary.jar:?]
 	at knot/net.minecraft.class_442.<init>(class_442.java:70) ~[client-intermediary.jar:?]
 	at knot/net.minecraft.class_310.method_53528(class_310.java:771) ~[client-intermediary.jar:?]
@@ -884,306 +904,303 @@ java.lang.ClassNotFoundException: me/shedaniel/rei/impl/client/gui/hints/Importa
 	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:278) [NewLaunch.jar:?]
 	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
 	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
-[21:29:57] [Render thread/INFO]: [STDOUT]: AVAST! method_3349
-[21:29:57] [Render thread/INFO]: [STDERR]: Could not inject indigo rendering hook. Is a custom renderer installed (e.g. sodium)?
-[21:29:57] [Render thread/INFO]: Forceloaded all Firmament mixins:
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.DFUEntityIdFixPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.TolerateFirmamentTolerateRegistryOwners
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.customgui.OriginalSlotCoords
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.feature.DisableSlotHighlights
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.ReplaceOverlayTexture
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.HudRenderEventsPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.EntityDespawnPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.ToggleSprintPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.MinecraftInitLevelListener
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.ResourceReloaderRegistrationPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.ScreenChangeEventPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.WorldReadyEventPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.PlayerDropEventPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.accessor.AccessorAbstractClientPlayerEntity
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.MainWindowFirstLoadPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ReplacePlayerBackgrounds
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.HideStatusEffectsPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.MixinRecipeBookScreen
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ExpandScreenBoundaries
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.MixinHandledScreen
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.accessor.AccessorHandledScreen
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.customgui.PatchHandledScreen
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ReplaceTextColorInHandledScreen
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.YggdrasilSignatureIgnorePatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.PropertySignatureIgnorePatchForSession
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.TextureUnpackBase64PadPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.CustomDurabilityBarPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.RedirectWithoutSubCommands
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.InsertExtraBlockModelDependencies
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.EntityUpdateEventListener
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.IncomingPacketListenerPatches
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.SaveOriginalCommandTreePacket
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.SlotUpdateListener
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.SoundReceiveEventPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.OutgoingPacketEventPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.CaseInsensitiveCommandMapPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.accessor.AccessorChatHud
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.ChatPeekingPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.accessor.AccessorWorldRenderer
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ReplaceBlockBreakSoundPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.WorldRenderLastEventPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.DisableHurtCam
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.DispatchMouseInputEventsPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.SaveCursorPositionPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.KeyPressInWorldEventPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ReplaceBlockHitSoundPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.EntityInteractEventPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.SlotClickEventPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ReplaceGenericBackgrounds
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.AppendRepoAsResourcePack
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.EntityRenderStateTint
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.InjectIntoRenderState
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ApplyHeadModelInItemRenderer
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ReplaceHeadModel
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.ChangeColorOfLivingEntities
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.BandAidResourcePackPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.EarlyResourceReloadPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ReplaceFallbackBlockModel
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.PatchLegacyArmorLayerSupport
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.PatchLegacyTexturePathsIntoArmorLayers
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ReplaceItemModelPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ItemRenderStateExtraInfo
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.UseOverlayableItemRenderer
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.BuildExtraBlockStateModels
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.compat.HideREIRecipeWarning
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.SupplyFakeModelPatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.CustomSkullTexturePatch
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.UseOverlayableSkullBlockEntityRenderer
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ReplaceAnvilScreen
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ReplaceForgingScreen
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ReplaceFurnaceBackgrounds
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.UseOverlayableEquipmentRenderer
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.PatchArmorTexture
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.UseOverlayableHeadFeatureRenderer
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.AlwaysDisplayFirmamentClientCommandErrors
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ReplaceBlockRenderManagerBlockModel
-[21:29:57] [Render thread/INFO]:  - moe.nea.firmament.mixins.FirmKeybindsInVanillaControlsPatch
-[21:29:57] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: title_screen
-[21:29:57] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
-[21:29:58] [ItemExporter Meta Load Thread/ERROR]: Tried to load invalid item: 'No key author in MapLike[{title:{raw:""}}] missed input: {"minecraft:written_book_content":{title:{raw:""}}}'
-[21:29:59] [Render thread/INFO]: Adding entry for font CaxtonFont[caxton:inter_regular.otf@21f82599200]
-[21:29:59] [Render thread/INFO]: I am xyz.flirora.caxton.render.CaxtonAtlas@6dd0a693
-[21:29:59] [Render thread/INFO]: Adding a new page #0 with range 4 and 1 mipmap levels
-[21:30:01] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: options_screen
-[21:30:02] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: pack_selection_screen
-[21:30:02] [Render thread/INFO]: Registering mod resource pack
-[21:30:02] [Render thread/INFO]: Registering mod resource pack
-[21:30:02] [Render thread/INFO]: Registering mod resource pack
-[21:30:02] [Render thread/INFO]: Adding entry for font CaxtonFont[caxton:inter_bold.otf@21f864e91d0]
-[21:30:06] [Render thread/INFO]: Registering mod resource pack
-[21:30:06] [Render thread/INFO]: Registering mod resource pack
-[21:30:06] [Render thread/INFO]: Registering mod resource pack
-[21:30:06] [Render thread/INFO]: [FANCYMENU] Minecraft resource reload: STARTING
-[21:30:06] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, aaron-mod, audition, betterf3, c2me, capes, caxton, chatplus, cloth-config, conditional-mixin, controlling, cookies-mod, cpm, cubes-without-borders, cullleaves, customscoreboard, dandelion, duck-tape, entityculling, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fancymenu, firmament, forgeconfigapiport, fzzy_config, hm-api, hypixel-mod-api, immediatelyfast, iris, jarviscci, krypton, libninepatch, lithium, meowdding-lib, midnightlib, miumaupiupau, mm, mm_shedaniel, modernwarpmenu, modmenu, moreculling, nobaaddons, nofrills, noxesium, olympus, optiboxes, org_apache_commons_commons-math3, owo, particle_core, placeholder-api, puzzleslib, reeses-sodium-options, resourcefulconfig, roughlyenoughitems, scalablelux, scaleme, searchables, skyblock-api, skyblocker, skyblockpv, skyblocktweaks-fabric, skyfall, skyhanni, skyocean, smoothscroll, sodium, sodium-extra, sodium-fullbright, sodiumdynamiclights, spark, sspb, trender, viewmodel, vmp, yet_another_config_lib_v3, file/hungychan skyblock, file/Hypixel+ 0.22.1.1, file/FurfSky Reborn OVERLAY, file/Dramatic Skys Demo 1.5.3.35, skyblocker:recolored_dungeon_items, file/!red carpets overlay, caxton:inter
-[21:30:06] [Render thread/INFO]: Clearing 4 loaded font(s)
-[21:30:06] [Worker-Main-30/INFO]: Loading font caxton:inter_regular.otf
-[21:30:06] [Worker-Main-27/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
-[21:30:06] [Worker-Main-19/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
-[21:30:06] [ForkJoinPool.commonPool-worker-23/INFO]: Looking for OptiFine/MCPatcher Skies...
-[21:30:06] [Worker-Main-8/WARN]: File minecraft:sounds/itstimetopunchwheat.ogg does not exist, cannot add it to event skyhanni:centurytimer.active
-[21:30:06] [Worker-Main-4/ERROR]: Malformed GLSL import  minecraft: fog.glsl : Non [a-z0-9_.-] character in namespace of location:  minecraft: fog.glsl 
-[21:30:06] [Render thread/ERROR]: Invalid path in pack: minecraft:textures/entity/cow 1.21.4/brown_mooshroom.png, ignoring
-[21:30:06] [Render thread/ERROR]: Invalid path in pack: minecraft:textures/entity/cow 1.21.4/cow.png, ignoring
-[21:30:06] [Render thread/ERROR]: Invalid path in pack: minecraft:textures/entity/cow 1.21.4/red_mooshroom.png, ignoring
-[21:30:06] [Render thread/ERROR]: Invalid path in pack: minecraft:textures/entity/pig 1.21.4/pig.png, ignoring
-[21:30:06] [Worker-Main-30/INFO]: Loading font caxton:inter_bold.otf
-[21:30:06] [Worker-Main-30/INFO]: Loading font caxton:inter_italic.otf
-[21:30:06] [Worker-Main-2/INFO]: Loaded 420 global item overrides
-[21:30:06] [Worker-Main-30/INFO]: Loading font caxton:inter_bold_italic.otf
-[21:30:07] [Worker-Main-20/ERROR]: Invalid path cittofirmgenerated:items/ui/skyblock_menu/your_bags/Time_Pocket.json: Invalid segment 'Time_Pocket.json' in path 'items/ui/skyblock_menu/your_bags/Time_Pocket.json'
-[21:30:08] [Worker-Main-20/WARN]: Missing block model: hplus:skyblock/items/reforge_stones/beating_heart
-[21:30:08] [Worker-Main-4/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/side:
-	#particle-> #layer0
+[23:11:13] [Render thread/INFO]: [STDOUT]: AVAST! method_3349
+[23:11:13] [Render thread/INFO]: [STDERR]: Could not inject indigo rendering hook. Is a custom renderer installed (e.g. sodium)?
+[23:11:14] [Render thread/INFO]: Forceloaded all Firmament mixins:
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.DFUEntityIdFixPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.TolerateFirmamentTolerateRegistryOwners
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.customgui.OriginalSlotCoords
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.feature.DisableSlotHighlights
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.ReplaceOverlayTexture
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.HudRenderEventsPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.EntityDespawnPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.ToggleSprintPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.MinecraftInitLevelListener
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.ResourceReloaderRegistrationPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.ScreenChangeEventPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.WorldReadyEventPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.MainWindowFirstLoadPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.CopyChatPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.PlayerDropEventPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.accessor.AccessorAbstractClientPlayerEntity
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ReplacePlayerBackgrounds
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.HideStatusEffectsPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.MixinRecipeBookScreen
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ExpandScreenBoundaries
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.MixinHandledScreen
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.accessor.AccessorHandledScreen
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.customgui.PatchHandledScreen
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ReplaceTextColorInHandledScreen
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.YggdrasilSignatureIgnorePatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.PropertySignatureIgnorePatchForSession
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.TextureUnpackBase64PadPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.CustomDurabilityBarPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.RedirectWithoutSubCommands
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.InsertExtraBlockModelDependencies
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.EntityUpdateEventListener
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.IncomingPacketListenerPatches
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.SaveOriginalCommandTreePacket
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.SlotUpdateListener
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.SoundReceiveEventPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.OutgoingPacketEventPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.CaseInsensitiveCommandMapPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.accessor.AccessorPlayerListHud
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.accessor.AccessorChatHud
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.ChatPeekingPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.accessor.AccessorWorldRenderer
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ReplaceBlockBreakSoundPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.WorldRenderLastEventPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.DisableHurtCam
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.DispatchMouseInputEventsPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.SaveCursorPositionPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.KeyPressInWorldEventPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ReplaceBlockHitSoundPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.EntityInteractEventPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.SlotClickEventPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ReplaceGenericBackgrounds
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.AppendRepoAsResourcePack
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.EntityRenderStateTint
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.InjectIntoRenderState
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ApplyHeadModelInItemRenderer
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ReplaceHeadModel
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.ChangeColorOfLivingEntities
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.BandAidResourcePackPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.EarlyResourceReloadPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ReplaceFallbackBlockModel
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.PatchLegacyArmorLayerSupport
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.PatchLegacyTexturePathsIntoArmorLayers
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ReplaceItemModelPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ItemRenderStateExtraInfo
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.UseOverlayableItemRenderer
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.BuildExtraBlockStateModels
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.compat.HideREIRecipeWarning
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.LoadExtraBlockStates
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.SupplyFakeModelPatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.feature.devcosmetics.CustomCapeStorage
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.CustomSkullTexturePatch
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.UseOverlayableSkullBlockEntityRenderer
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ReplaceAnvilScreen
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ReplaceForgingScreen
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.screenlayouts.ReplaceFurnaceBackgrounds
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.UseOverlayableEquipmentRenderer
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.feature.devcosmetics.SaveCapeToPlayerEntityRenderState
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.PatchArmorTexture
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.render.entitytints.UseOverlayableHeadFeatureRenderer
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.feature.devcosmetics.CustomCapeFeatureRenderer
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.AlwaysDisplayFirmamentClientCommandErrors
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.custommodels.ReplaceBlockRenderManagerBlockModel
+[23:11:14] [Render thread/INFO]:  - moe.nea.firmament.mixins.FirmKeybindsInVanillaControlsPatch
+[23:11:14] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: title_screen
+[23:11:14] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[23:11:14] [ForkJoinPool.commonPool-worker-22/INFO]: [Skyblocker] Loaded and sorted 3864 helmet textures from repo
+[23:11:14] [IO-Worker-1/ERROR]: Could not parse RealmsError
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 12 path $
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot/com.google.gson.JsonParser.parseReader(JsonParser.java:116) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.JsonParser.parseString(JsonParser.java:92) ~[gson-2.11.0.jar:?]
+	at knot/net.minecraft.class_4345.method_30162(class_4345.java:150) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_4341.method_20998(class_4341.java:498) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_4341.method_21030(class_4341.java:395) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_4341.method_21029(class_4341.java:390) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_7581$class_7586.method_44642(class_7581.java:94) ~[client-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 12 path $
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot/com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1754) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1550) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:625) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:507) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.JsonParser.parseReader(JsonParser.java:111) ~[gson-2.11.0.jar:?]
+	... 10 more
+[23:11:14] [IO-Worker-4/ERROR]: Could not parse RealmsError
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 12 path $
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot/com.google.gson.JsonParser.parseReader(JsonParser.java:116) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.JsonParser.parseString(JsonParser.java:92) ~[gson-2.11.0.jar:?]
+	at knot/net.minecraft.class_4345.method_30162(class_4345.java:150) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_4341.method_20998(class_4341.java:498) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_4341.method_49572(class_4341.java:215) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_7581$class_7586.method_44642(class_7581.java:94) ~[client-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 12 path $
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot/com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1754) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1550) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:625) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:507) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.JsonParser.parseReader(JsonParser.java:111) ~[gson-2.11.0.jar:?]
+	... 9 more
+[23:11:14] [Render thread/WARN]: Failed to process task pending invite count, will repeat after 2 cycles
+net.minecraft.class_4355: Realms service error (502) with raw payload '<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
 
-[21:30:08] [Worker-Main-23/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/staff:
-	#particle-> #layer0
+<head>
+    <meta content='text/html; charset=utf-8' http-equiv='content-type' />
+    <style type='text/css'>
+        body {
+            font-family: Arial;
+            margin-left: 40px;
+        }
 
-[21:30:08] [Worker-Main-13/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/item:
-	#particle-> #layer0
+        img {
+            border: 0 none;
+        }
 
-[21:30:08] [Worker-Main-14/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/tuba:
-	#particle-> #layer0
+        #content {
+            margin-left: auto;
+            margin-right: auto
+        }
 
-[21:30:08] [Worker-Main-31/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/gun:
-	#particle-> #layer0
+        #message h1 {
+            font-size: 24px;
+            font-weight: normal;
+            color: #000000;
+            margin: 34px 0px 0px 0px
+        }
 
-[21:30:08] [Worker-Main-6/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/vacuum:
-	#particle-> #layer0
+        #message h2 {
+            font-size: 20px;
+            font-weight: normal;
+            color: #000000;
+            margin: 34px 0px 0px 0px
+        }
 
-[21:30:08] [Worker-Main-30/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/upright_staff:
-	#particle-> #layer0
+        #message p {
+            font-size: 16px;
+            color: #000000;
+            margin: 8px 0px 0px 0px
+        }
 
-[21:30:08] [Worker-Main-19/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/drill:
-	#particle-> #layer0
+        #message hr {
+            margin: 15px 0px
+        }
 
-[21:30:08] [Worker-Main-6/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/grappling_hook:
-	#particle-> #layer0
+        #errorref {
+            font-size: 11px;
+            color: #737373;
+            margin-top: 41px
+        }
+    </style>
+    <title>Service unavailable</title>
+</head>
 
-[21:30:08] [Worker-Main-31/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/phone:
-	#particle-> #layer0
+<body>
+    <div id='content'>
+        <div id='message'>
+            <h1>502</h1>
+<h2>java.frontendlegacy.realms.minecraft-services.net<span> isn't responding to Azure Front Door</span>
+</h2>
+<hr />
+<p>Bad Gateway</p>
+<p>Azure Front Door wasn't able to connect to the origin. <br> If the problem persists, use the troubleshooting steps to resolve the issue.</p>
+<br />
+<a href="https://learn.microsoft.com/en-us/azure/frontdoor/troubleshoot-issues" target="blank">Azure Documentation</a>
+<br />
+        </div>
+        <div id='errorref'>
+            <span>Error Info:</span><span>OriginConnectionAborted</span><br />
+<span>x-azure-ref ID:</span><span>20250801T201115Z-15f6cbc774fjm4cghC1STO9haw0000000fp0000000002q7s            </span>
+        </div>
+    </div>
+</body>
+</html>
+'
+	at knot/net.minecraft.class_4341.method_20998(class_4341.java:499) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_4341.method_21030(class_4341.java:395) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_4341.method_21029(class_4341.java:390) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_7581$class_7586.method_44642(class_7581.java:94) ~[client-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[23:11:14] [Render thread/WARN]: Failed to process task notifications, will repeat after 1 cycles
+net.minecraft.class_4355: Realms service error (502) with raw payload '<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
 
-[21:30:08] [Worker-Main-9/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/auction_bazaar_scale:
-	#particle-> #layer0
+<head>
+    <meta content='text/html; charset=utf-8' http-equiv='content-type' />
+    <style type='text/css'>
+        body {
+            font-family: Arial;
+            margin-left: 40px;
+        }
 
-[21:30:08] [Worker-Main-5/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/key:
-	#particle-> #layer0
+        img {
+            border: 0 none;
+        }
 
-[21:30:08] [Worker-Main-5/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/shield:
-	#particle-> #layer0
+        #content {
+            margin-left: auto;
+            margin-right: auto
+        }
 
-[21:30:08] [Worker-Main-18/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/menu_background:
-	#particle-> #layer0
+        #message h1 {
+            font-size: 24px;
+            font-weight: normal;
+            color: #000000;
+            margin: 34px 0px 0px 0px
+        }
 
-[21:30:08] [Worker-Main-12/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/silver_fang:
-	#particle-> #layer0
+        #message h2 {
+            font-size: 20px;
+            font-weight: normal;
+            color: #000000;
+            margin: 34px 0px 0px 0px
+        }
 
-[21:30:08] [Worker-Main-15/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/dagger:
-	#particle-> #layer0
+        #message p {
+            font-size: 16px;
+            color: #000000;
+            margin: 8px 0px 0px 0px
+        }
 
-[21:30:08] [Worker-Main-10/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/karambit:
-	#particle-> #layer0
+        #message hr {
+            margin: 15px 0px
+        }
 
-[21:30:08] [Worker-Main-17/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/big_sword:
-	#particle-> #layer0
+        #errorref {
+            font-size: 11px;
+            color: #737373;
+            margin-top: 41px
+        }
+    </style>
+    <title>Service unavailable</title>
+</head>
 
-[21:30:08] [Worker-Main-17/WARN]: Unresolved texture references in cittofirmgenerated:item/skyblock/metal_detector:
-	#particle-> #layer0
-
-[21:30:08] [Worker-Main-28/WARN]: Missing textures in model cittofirmgenerated:item/ui/always/background:
-    minecraft:textures/atlas/blocks.png:cittofirmgenerated:item/background
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/melon_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model firmskyblock:item/crown_of_avarice:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model firmskyblock:item/gemstone_gauntlet_hand:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/gun:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/phone:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/fiery_crimson_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/sniper_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/infernal_crimson_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/leaf_skin:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/final_destination_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/item:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/maxor_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/fiery_fervor_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/infernal_fervor_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/upright_staff:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/pet:
-    #0
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/goldor_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/menu_background:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/fiery_terror_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model firmskyblock:item/nutcracker_helmet:
-    #missing
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model firmskyblock:item/angler:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/biohazard_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model firmskyblock:item/gemstone_gauntlet_full_hand:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/karambit:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/burning_crimson_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/dagger:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/big_sword:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/hot_terror_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model firmskyblock:item/melon_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/side:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/storm_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/staff:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/grappling_hook:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/auction_bazaar_scale:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/silver_fang:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/necron_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/vacuum:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/ui/always/skin_decouple/diver_mask_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/snorkeling_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/burning_terror_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/hot_fervor_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/shield:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/abyssal_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/tuba:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/magma_lord_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/terror_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/divan_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/diver_mask_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/key:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/crown_of_avarice:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/fermento_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model firmskyblock:item/gemstone_gauntlet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/metal_detector:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/infernal_terror_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/burning_fervor_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/skyblock/drill:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/hot_crimson_helmet:
-    particle
-[21:30:08] [Worker-Main-28/WARN]: Missing texture references in model cittofirmgenerated:item/helmet_icon/nutcracker_helmet:
-    #missing
-    particle
-[21:30:08] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_translucent
-[21:30:08] [Render thread/WARN]: Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/energy_swirl
-[21:30:08] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/energy_swirl
-[21:30:08] [Render thread/WARN]: Found unknown and unsupported uniform Sampler2 in cpm:pipeline/eyes
-[21:30:08] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in cpm:pipeline/eyes
-[21:30:08] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_cutout_no_cull
-[21:30:08] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_decal_cutout_no_cull
-[21:30:08] [Render thread/WARN]: Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/eyes
-[21:30:08] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/eyes
-[21:30:08] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/entity_no_outline
-[21:30:08] [Render thread/WARN]: Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/breeze_wind
+<body>
+    <div id='content'>
+        <div id='message'>
+            <h1>502</h1>
+<h2>java.frontendlegacy.realms.minecraft-services.net<span> isn't responding to Azure Front Door</span>
+</h2>
+<hr />
+<p>Bad Gateway</p>
+<p>Azure Front Door wasn't able to connect to the origin. <br> If the problem persists, use the troubleshooting steps to resolve the issue.</p>
+<br />
+<a href="https://learn.microsoft.com/en-us/azure/frontdoor/troubleshoot-issues" target="blank">Azure Documentation</a>
+<br />
+        </div>
+        <div id='errorref'>
+            <span>Error Info:</span><span>OriginConnectionAborted</span><br />
+<span>x-azure-ref ID:</span><span>20250801T201115Z-15f6cbc774fjx4sjhC1STO2ams0000000dzg000000006nxf            </span>
+        </div>
+    </div>
+</body>
+</html>
+'
+	at knot/net.minecraft.class_4341.method_20998(class_4341.java:499) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_4341.method_49572(class_4341.java:215) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_7581$class_7586.method_44642(class_7581.java:94) ~[client-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[23:11:15] [Render thread/INFO]: Adding entry for font CaxtonFont[caxton:inter_regular.otf@25f174ca2e0]
+[23:11:15] [Render thread/INFO]: I am xyz.flirora.caxton.render.CaxtonAtlas@78eb8b3e
+[23:11:15] [Render thread/INFO]: Adding a new page #0 with range 4 and 1 mipmap levels
